@@ -7,7 +7,7 @@ dracor_api = "https://dracor.org/api/v1"
 corpus = "rom"
 
 # Ecerinis info
-ecerinis_path = r"C:\Users\dell\Dropbox\Nits\Syracuse\Ecerinis_DH\TEI\Ecerinis.xml"
+ecerinis_path = # file path here
 ecerinis_title = "Ecerinis"
 ecerinis_author = "Albertino Mussato"
 ecerinis_slug = "mussato-ecerinis"
@@ -170,3 +170,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
