@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set "VIRTUAL_ENV=C:\Users\dell\Dropbox\Nits\Syracuse\TEI_Ecerinis\gensim-env"
+set "VIRTUAL_ENV=C:\Users\dell\Dropbox\Nits\Syracuse\Ecerinis_DH\Topic Modeling\gensim-envv"
 
 if not defined PROMPT set PROMPT=$P$G
 
