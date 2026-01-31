@@ -1,3 +1,4 @@
 gensim-env/Scripts/
 gensim-env/Lib/
 __pycache__/
+*.cfg
