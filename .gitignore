@@ -1,4 +1,4 @@
-gensim-env/Scripts/
-gensim-env/Lib/
+*/Scripts/
+*/Lib/
 __pycache__/
 *.cfg
