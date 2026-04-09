@@ -1,0 +1,98 @@
+{
+  "1": {
+    "keywords": ["princeps", "iactatus", "suscito", "misero", "fascis", "penna", "inuideo", "uxor", "demens", "suspicio"],
+    "doc_ids": ["seneca-octavia_act7", "seneca-octavia_act4", "seneca-octavia_act1", "seneca-agamemnon_act3", "seneca-octavia_act6"]
+  },
+  "2": {
+    "keywords": ["parricida", "praecingo", "pario", "cauus", "ratus", "fatum", "fas", "gnatus", "dependeo", "sator"],
+    "doc_ids": ["seneca-oedipus_act5", "seneca-medea_act1", "seneca-oedipus_act2", "seneca-octavia_act4", "seneca-octavia_act6"]
+  },
+  "3": {
+    "keywords": ["currus", "caerulus", "truncus", "exta", "intractabilis", "trames", "curro", "ligo", "iuvenis", "penetralis"],
+    "doc_ids": ["seneca-phaedra_act1", "seneca-phaedra_act4", "seneca-thyestes_act4", "seneca-oedipus_act2", "seneca-phoenissae_act2"]
+  },
+  "4": {
+    "keywords": ["ratis", "grex", "pelagus", "uelum", "classis", "prora", "for", "lacrimo", "memoria", "sors"],
+    "doc_ids": ["seneca-troades_act4", "seneca-oedipus_act4", "mussato-ecerinis_act4", "seneca-agamemnon_act3", "mussato-ecerinis_act1"]
+  },
+  "5": {
+    "keywords": ["bruma", "altrix", "neo", "diligo", "concilio", "pugna", "subrectus", "nurus", "uerno", "gemmifer"],
+    "doc_ids": ["seneca-phoenissae_act3", "seneca-hercules-oetaeus_act2", "seneca-hercules-furens_act3", "seneca-octavia_act4", "seneca-octavia_act6"]
+  },
+  "6": {
+    "keywords": ["tergus", "squamosus", "praetempto", "deuius", "coherceo", "proludo", "refundo", "inspiro", "cacumen", "dumus"],
+    "doc_ids": ["seneca-phaedra_act4", "seneca-octavia_act4", "seneca-octavia_act6", "seneca-phoenissae_act2", "seneca-phoenissae_act3"]
+  },
+  "7": {
+    "keywords": ["exprimo", "senatus", "genero", "orbis", "invisus", "armo", "opprimo", "consensus", "subicio", "diuus"],
+    "doc_ids": ["seneca-octavia_act2", "seneca-octavia_act6", "seneca-medea_act3", "seneca-octavia_act4", "seneca-phoenissae_act2"]
+  },
+  "8": {
+    "keywords": ["astrum", "uoltus", "orbis", "sono", "arcus", "nouerca", "gemo", "uirtus", "horridus", "pestis"],
+    "doc_ids": ["seneca-hercules-oetaeus_act5", "seneca-hercules-furens_act5", "seneca-hercules-oetaeus_act1", "seneca-hercules-oetaeus_act4", "seneca-oedipus_act3"]
+  },
+  "9": {
+    "keywords": ["sentio", "senus", "subsisto", "decido", "linquo", "biga", "incutio", "relabor", "fertilis", "crudus"],
+    "doc_ids": ["seneca-agamemnon_act4", "seneca-octavia_act4", "seneca-octavia_act6", "seneca-phoenissae_act2", "seneca-phoenissae_act3"]
+  },
+  "10": {
+    "keywords": ["fletus", "excipio", "gena", "strido", "cinis", "uastus", "uotum", "pondus", "uapor", "recipio"],
+    "doc_ids": ["seneca-oedipus_act1", "seneca-phaedra_act5", "seneca-phaedra_act3", "seneca-hercules-furens_act4", "seneca-thyestes_act4"]
+  },
+  "11": {
+    "keywords": ["paternus", "squalor", "insero", "aufero", "inimicus", "imperium", "pietas", "opus", "pugno", "alternus"],
+    "doc_ids": ["seneca-phoenissae_act1", "seneca-agamemnon_act1", "mussato-ecerinis_act1", "seneca-thyestes_act2", "seneca-thyestes_act3"]
+  },
+  "12": {
+    "keywords": ["uis", "iussus", "spes", "sceptrum", "soror", "uentus", "colo", "certus", "ratis", "aurum"],
+    "doc_ids": ["seneca-medea_act5", "seneca-agamemnon_act2", "seneca-medea_act3", "seneca-hercules-furens_act3", "seneca-phaedra_act2"]
+  },
+  "13": {
+    "keywords": ["uirgo", "puer", "designo", "effreno", "semustus", "quini", "splendeo", "uirago", "obtestor", "proueho"],
+    "doc_ids": ["seneca-agamemnon_act5", "seneca-troades_act5", "seneca-octavia_act3", "seneca-agamemnon_act3", "seneca-octavia_act1"]
+  },
+  "14": {
+    "keywords": ["effigies", "concors", "afflicto", "silentum", "exclamo", "renovo", "sertum", "renouo", "rigesco", "sapiens"],
+    "doc_ids": ["seneca-octavia_act4", "seneca-octavia_act6", "seneca-phoenissae_act2", "seneca-phoenissae_act3", "seneca-octavia_act3"]
+  },
+  "15": {
+    "keywords": ["princeps", "extinguo", "alumna", "resoluo", "caesum", "forma", "solor", "misero", "pelagus", "sensus"],
+    "doc_ids": ["seneca-octavia_act5", "seneca-octavia_act1", "seneca-octavia_act3", "seneca-octavia_act4", "seneca-octavia_act6"]
+  },
+  "16": {
+    "keywords": ["falx", "saluus", "subrectus", "concilio", "infirmus", "uexillum", "signifer", "insigne", "pugna", "indocilis"],
+    "doc_ids": ["seneca-octavia_act4", "seneca-octavia_act6", "seneca-phoenissae_act2", "seneca-phoenissae_act3", "seneca-octavia_act3"]
+  },
+  "17": {
+    "keywords": ["daps", "praeuius", "festum", "mensa", "coniugalis", "libet", "liberi", "tenebra", "gnatus", "uinum"],
+    "doc_ids": ["seneca-thyestes_act5", "seneca-medea_act1", "mussato-ecerinis_act3", "seneca-octavia_act4", "seneca-octavia_act6"]
+  },
+  "18": {
+    "keywords": ["subruo", "agrestis", "aedon", "effugium", "clementia", "como", "eximo", "imperatum", "iulius", "paupertas"],
+    "doc_ids": ["seneca-octavia_act4", "seneca-octavia_act6", "seneca-phoenissae_act2", "seneca-phoenissae_act3", "seneca-octavia_act3"]
+  },
+  "19": {
+    "keywords": ["lis", "nocuus", "actus", "triplex", "rabies", "stagnum", "illecebra", "exardesco", "stadium", "exprobro"],
+    "doc_ids": ["mussato-ecerinis_act2", "mussato-ecerinis_act5", "seneca-thyestes_act1", "seneca-thyestes_act3", "mussato-ecerinis_act3"]
+  },
+  "20": {
+    "keywords": ["mortifer", "insum", "cantus", "uenenum", "gramen", "euoco", "sucus", "medium", "inuius", "lustro"],
+    "doc_ids": ["seneca-medea_act4", "seneca-octavia_act4", "seneca-octavia_act6", "seneca-phoenissae_act2", "seneca-phoenissae_act3"]
+  },
+  "21": {
+    "keywords": ["pelta", "mulceo", "sonitus", "difficilis", "terminus", "mutus", "aestiuus", "succingo", "rubicundus", "cognosco"],
+    "doc_ids": ["seneca-medea_act2", "seneca-hercules-furens_act2", "seneca-phaedra_act3", "seneca-octavia_act1", "seneca-thyestes_act2"]
+  },
+  "22": {
+    "keywords": ["fragor", "dextera", "planctus", "annus", "damno", "cinis", "ignosco", "spiritus", "reposco", "immemor"],
+    "doc_ids": ["seneca-troades_act2", "seneca-troades_act1", "seneca-hercules-oetaeus_act3", "seneca-hercules-furens_act2", "seneca-octavia_act1"]
+  },
+  "23": {
+    "keywords": ["expono", "duplex", "theatrum", "cacumen", "diffundo", "silex", "uitas", "prehendo", "quini", "semustus"],
+    "doc_ids": ["seneca-octavia_act4", "seneca-octavia_act6", "seneca-phoenissae_act2", "seneca-phoenissae_act3", "seneca-octavia_act3"]
+  },
+  "24": {
+    "keywords": ["prehendo", "genialis", "auersus", "feritas", "praeuius", "auspex", "illecebra", "legitimus", "labes", "sacrifico"],
+    "doc_ids": ["seneca-octavia_act4", "seneca-octavia_act6", "seneca-phoenissae_act2", "seneca-phoenissae_act3", "seneca-octavia_act3"]
+  }
+}
