@@ -2,3 +2,5 @@
 */Lib/
 __pycache__/
 *.cfg
+notes.txt
+context/
