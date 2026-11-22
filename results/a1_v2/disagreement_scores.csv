@@ -1,0 +1,1903 @@
+﻿old,latincy398,class,n,plays
+coniunx,coniux,both valid,136,"Phoenissae 1, Troades 11, Phaedra 9, Agamemnon 13, Hercules Furens 17, Medea 16, Octavia 32, Oedipus 5, Thyestes 3, Hercules Oetaeus 28, Ecerinis 1"
+alo,altus,both valid,71,"Phoenissae 7, Troades 7, Phaedra 9, Agamemnon 5, Hercules Furens 9, Medea 4, Octavia 5, Oedipus 8, Thyestes 7, Hercules Oetaeus 3, Ecerinis 7"
+nascor,natus,both valid,62,"Phoenissae 7, Troades 8, Phaedra 4, Agamemnon 2, Hercules Furens 7, Medea 4, Octavia 3, Thyestes 8, Hercules Oetaeus 17, Ecerinis 2"
+superus,superi,only old build valid,52,"Phoenissae 1, Troades 2, Phaedra 4, Agamemnon 5, Hercules Furens 11, Octavia 5, Oedipus 2, Thyestes 6, Hercules Oetaeus 16"
+malum,malus,both valid,45,"Phoenissae 4, Troades 2, Phaedra 4, Agamemnon 6, Hercules Furens 3, Medea 8, Octavia 5, Oedipus 4, Thyestes 3, Hercules Oetaeus 5, Ecerinis 1"
+adsum,assum,only old build valid,37,"Troades 2, Phaedra 6, Agamemnon 6, Hercules Furens 8, Medea 5, Octavia 1, Oedipus 2, Thyestes 4, Hercules Oetaeus 2, Ecerinis 1"
+dexter,dextera,both valid,29,"Phoenissae 1, Troades 2, Phaedra 1, Agamemnon 2, Hercules Furens 6, Medea 2, Octavia 2, Oedipus 4, Thyestes 2, Hercules Oetaeus 7"
+animus,anima,only old build valid,28,"Phoenissae 1, Troades 2, Phaedra 4, Agamemnon 5, Medea 5, Oedipus 3, Thyestes 5, Hercules Oetaeus 3"
+exul,exsul,both valid,27,"Phoenissae 4, Agamemnon 3, Hercules Furens 3, Medea 7, Octavia 1, Oedipus 3, Thyestes 3, Ecerinis 3"
+tenebra,tenebrae,both valid,25,"Phoenissae 2, Phaedra 4, Agamemnon 2, Hercules Furens 2, Medea 1, Octavia 2, Oedipus 2, Thyestes 5, Hercules Oetaeus 1, Ecerinis 4"
+extremus,exter,only old build valid,24,"Troades 2, Phaedra 1, Agamemnon 4, Hercules Furens 1, Medea 4, Oedipus 4, Thyestes 2, Hercules Oetaeus 5, Ecerinis 1"
+maneo,manes,only old build valid,24,"Troades 3, Phaedra 2, Hercules Furens 3, Medea 2, Octavia 2, Oedipus 2, Thyestes 1, Hercules Oetaeus 8, Ecerinis 1"
+gnatus,natus,neither valid,23,"Phaedra 3, Agamemnon 2, Hercules Furens 2, Medea 1, Oedipus 7, Thyestes 7, Hercules Oetaeus 1"
+danaus,danai,Morpheus has no analysis,23,"Troades 19, Agamemnon 4"
+inferus,inferi,both valid,23,"Agamemnon 2, Hercules Furens 11, Octavia 3, Thyestes 2, Hercules Oetaeus 5"
+fera,ferus,both valid,22,"Phoenissae 1, Phaedra 2, Hercules Furens 3, Octavia 6, Oedipus 1, Thyestes 4, Hercules Oetaeus 5"
+iunctus,iungo,both valid,22,"Phaedra 1, Agamemnon 4, Hercules Furens 2, Medea 1, Octavia 7, Oedipus 1, Thyestes 3, Hercules Oetaeus 3"
+uoltus,uultus,only 3.9.8 valid,21,"Thyestes 1, Hercules Oetaeus 20"
+umerus,humerus,both valid,21,"Troades 4, Phaedra 3, Agamemnon 1, Hercules Furens 5, Thyestes 2, Hercules Oetaeus 6"
+malus,malum,both valid,20,"Phoenissae 1, Troades 2, Phaedra 2, Agamemnon 1, Hercules Furens 3, Medea 1, Octavia 2, Thyestes 2, Hercules Oetaeus 6"
+misero,miserandus,both valid,20,"Troades 2, Hercules Furens 2, Medea 1, Octavia 7, Oedipus 1, Hercules Oetaeus 6, Ecerinis 1"
+uictus,uinco,both valid,19,"Phoenissae 1, Troades 4, Phaedra 2, Agamemnon 2, Hercules Furens 2, Octavia 1, Thyestes 1, Hercules Oetaeus 6"
+minor,paruus,both valid,19,"Troades 2, Phaedra 2, Agamemnon 2, Hercules Furens 1, Medea 2, Oedipus 2, Thyestes 2, Hercules Oetaeus 4, Ecerinis 2"
+melior,bonus,only 3.9.8 valid,18,"Phoenissae 1, Troades 2, Phaedra 2, Agamemnon 1, Hercules Furens 5, Medea 4, Octavia 1, Oedipus 1, Thyestes 1"
+maior,magnus,only 3.9.8 valid,18,"Troades 3, Phaedra 1, Agamemnon 3, Hercules Furens 2, Medea 1, Octavia 1, Oedipus 2, Thyestes 3, Hercules Oetaeus 1, Ecerinis 1"
+imus,inferus,only old build valid,18,"Troades 2, Phaedra 1, Agamemnon 2, Hercules Furens 3, Medea 3, Oedipus 3, Thyestes 1, Hercules Oetaeus 1, Ecerinis 2"
+mixtus,misceo,only 3.9.8 valid,17,"Phoenissae 2, Phaedra 2, Agamemnon 1, Hercules Furens 2, Octavia 2, Oedipus 4, Thyestes 2, Hercules Oetaeus 1, Ecerinis 1"
+ferus,fero,both valid,17,"Phoenissae 2, Troades 3, Phaedra 2, Hercules Furens 3, Medea 2, Octavia 1, Thyestes 1, Hercules Oetaeus 3"
+saeuio,saeuus,both valid,17,"Phoenissae 1, Troades 2, Phaedra 1, Hercules Furens 1, Octavia 5, Oedipus 2, Thyestes 2, Hercules Oetaeus 2, Ecerinis 1"
+paelex,pellex,only old build valid,17,"Phaedra 1, Agamemnon 4, Hercules Furens 3, Medea 1, Octavia 1, Hercules Oetaeus 7"
+tono,tonans,only old build valid,16,"Agamemnon 2, Hercules Furens 3, Octavia 2, Hercules Oetaeus 9"
+stirpes,stirps,only 3.9.8 valid,16,"Phoenissae 1, Troades 4, Phaedra 2, Hercules Furens 2, Medea 1, Octavia 4, Thyestes 1, Ecerinis 1"
+planctus,plango,both valid,16,"Troades 7, Phaedra 1, Octavia 1, Hercules Oetaeus 7"
+natis,natus,both valid,16,"Phoenissae 2, Troades 1, Hercules Furens 4, Medea 3, Octavia 3, Thyestes 2, Hercules Oetaeus 1"
+tempto,tento,only 3.9.8 valid,15,"Troades 1, Phaedra 3, Agamemnon 4, Hercules Furens 4, Oedipus 2, Thyestes 1"
+bracchium,brachium,both valid,15,"Agamemnon 2, Hercules Furens 1, Medea 1, Octavia 1, Oedipus 4, Thyestes 1, Hercules Oetaeus 5"
+exilium,exsilium,both valid,15,"Phoenissae 2, Agamemnon 2, Hercules Furens 2, Medea 3, Octavia 3, Thyestes 2, Ecerinis 1"
+laeto,laetus,both valid,15,"Troades 1, Agamemnon 3, Hercules Furens 4, Octavia 4, Oedipus 2, Thyestes 1"
+inuideo,inuisus,both valid,14,"Phoenissae 3, Medea 1, Octavia 6, Oedipus 2, Hercules Oetaeus 2"
+rex,rego,both valid,13,"Phoenissae 1, Troades 2, Phaedra 4, Hercules Furens 3, Medea 1, Octavia 1, Oedipus 1"
+sacer,sacrum,both valid,13,"Troades 1, Phaedra 1, Hercules Furens 1, Medea 3, Oedipus 6, Thyestes 1"
+caesum,caedo,both valid,13,"Hercules Furens 1, Medea 1, Octavia 7, Oedipus 1, Thyestes 1, Ecerinis 2"
+tego,tectum,both valid,13,"Phoenissae 1, Troades 2, Phaedra 2, Agamemnon 1, Hercules Furens 2, Medea 2, Thyestes 2, Hercules Oetaeus 1"
+tutus,tuor,neither valid,13,"Troades 1, Phaedra 2, Medea 2, Octavia 2, Thyestes 1, Hercules Oetaeus 2, Ecerinis 3"
+patria,patrius,both valid,12,"Phoenissae 3, Troades 4, Phaedra 1, Agamemnon 1, Hercules Furens 1, Medea 1, Hercules Oetaeus 1"
+summus,superus,both valid,12,"Troades 1, Agamemnon 2, Hercules Furens 2, Octavia 1, Oedipus 1, Hercules Oetaeus 4, Ecerinis 1"
+paro,par,both valid,12,"Phoenissae 1, Troades 1, Phaedra 2, Agamemnon 1, Hercules Furens 2, Thyestes 1, Hercules Oetaeus 3, Ecerinis 1"
+extinguo,exstinguo,both valid,12,"Phaedra 1, Agamemnon 1, Hercules Furens 2, Octavia 7, Hercules Oetaeus 1"
+erinys,erinnys,Morpheus has no analysis,12,"Agamemnon 1, Hercules Furens 1, Medea 1, Octavia 5, Oedipus 1, Thyestes 1, Hercules Oetaeus 2"
+uinclum,uinculum,both valid,12,"Troades 3, Phaedra 2, Agamemnon 2, Hercules Furens 4, Thyestes 1"
+noceo,nocens,only old build valid,12,"Phoenissae 3, Phaedra 2, Hercules Furens 3, Octavia 3, Oedipus 1"
+iussus,iubeo,both valid,12,"Troades 2, Hercules Furens 5, Medea 1, Oedipus 3, Thyestes 1"
+nosco,notus,both valid,12,"Phoenissae 2, Troades 1, Phaedra 1, Agamemnon 1, Hercules Furens 1, Medea 2, Oedipus 1, Thyestes 1, Hercules Oetaeus 2"
+pinna,penna,only 3.9.8 valid,12,"Phoenissae 1, Troades 1, Phaedra 1, Hercules Furens 2, Medea 1, Oedipus 2, Thyestes 1, Hercules Oetaeus 3"
+ardens,ardeo,only 3.9.8 valid,12,"Troades 2, Agamemnon 1, Octavia 3, Thyestes 1, Hercules Oetaeus 3, Ecerinis 2"
+iussus,iubeo,only 3.9.8 valid,12,"Phoenissae 1, Troades 1, Phaedra 2, Hercules Furens 1, Medea 1, Octavia 1, Hercules Oetaeus 4, Ecerinis 1"
+maximus,magnus,both valid,11,"Troades 1, Phaedra 1, Agamemnon 1, Hercules Furens 2, Octavia 4, Thyestes 1, Hercules Oetaeus 1"
+raptum,rapio,both valid,11,"Troades 2, Phaedra 1, Hercules Furens 2, Medea 2, Oedipus 1, Hercules Oetaeus 2, Ecerinis 1"
+iratus,irascor,only 3.9.8 valid,11,"Troades 2, Hercules Furens 1, Medea 1, Octavia 1, Hercules Oetaeus 6"
+grauus,grauis,only 3.9.8 valid,11,"Phoenissae 1, Troades 1, Hercules Furens 1, Medea 2, Octavia 3, Oedipus 1, Hercules Oetaeus 2"
+grauior,grauis,only 3.9.8 valid,11,"Phoenissae 1, Troades 1, Phaedra 2, Agamemnon 2, Octavia 2, Oedipus 1, Thyestes 1, Hercules Oetaeus 1"
+nosco,nouus,both valid,10,"Hercules Furens 1, Medea 1, Octavia 1, Oedipus 2, Thyestes 4, Hercules Oetaeus 1"
+minor,paruus,only 3.9.8 valid,10,"Troades 2, Phaedra 2, Medea 1, Oedipus 2, Thyestes 2, Hercules Oetaeus 1"
+noto,nota,both valid,10,"Troades 1, Phaedra 1, Hercules Furens 1, Medea 1, Oedipus 3, Thyestes 2, Hercules Oetaeus 1"
+liberi,liber,both valid,10,"Phoenissae 1, Troades 1, Agamemnon 1, Hercules Furens 1, Medea 2, Thyestes 4"
+ferio,ferus,both valid,10,"Troades 1, Phaedra 3, Hercules Furens 1, Medea 1, Oedipus 1, Hercules Oetaeus 3"
+fauces,faux,only old build valid,10,"Phoenissae 2, Phaedra 1, Agamemnon 1, Hercules Furens 2, Medea 1, Thyestes 2, Hercules Oetaeus 1"
+uerum,uerus,both valid,10,"Phoenissae 1, Troades 3, Hercules Furens 1, Oedipus 2, Thyestes 1, Hercules Oetaeus 1, Ecerinis 1"
+alumnus,alumna,both valid,9,"Phaedra 2, Medea 2, Octavia 2, Hercules Oetaeus 3"
+uicina,uicinus,both valid,9,"Phoenissae 1, Troades 2, Phaedra 4, Agamemnon 1, Thyestes 1"
+lento,lentus,both valid,9,"Troades 2, Hercules Furens 2, Medea 1, Octavia 2, Thyestes 1, Hercules Oetaeus 1"
+cito,citatus,both valid,9,"Phoenissae 1, Troades 1, Phaedra 1, Agamemnon 1, Hercules Furens 2, Medea 1, Oedipus 1, Hercules Oetaeus 1"
+natus,nascor,both valid,9,"Troades 1, Agamemnon 1, Hercules Furens 3, Octavia 1, Oedipus 1, Hercules Oetaeus 1, Ecerinis 1"
+bonus,bonum,both valid,9,"Phaedra 3, Agamemnon 1, Octavia 2, Oedipus 1, Thyestes 2"
+uidua,uiduus,both valid,9,"Troades 1, Phaedra 1, Agamemnon 1, Hercules Furens 3, Medea 1, Oedipus 1, Hercules Oetaeus 1"
+flo,fleo,both valid,9,"Agamemnon 1, Octavia 2, Oedipus 1, Thyestes 1, Hercules Oetaeus 4"
+iugulo,iugulum,both valid,9,"Troades 1, Agamemnon 2, Octavia 2, Oedipus 1, Thyestes 1, Hercules Oetaeus 1, Ecerinis 1"
+uado,uadum,both valid,9,"Troades 1, Phaedra 3, Hercules Furens 2, Medea 1, Thyestes 1, Hercules Oetaeus 1"
+creo,creon,only old build valid,9,"Medea 6, Oedipus 3"
+nocens,noceo,both valid,8,"Phoenissae 1, Phaedra 2, Hercules Furens 1, Oedipus 2, Hercules Oetaeus 2"
+serpens,serpo,both valid,8,"Medea 3, Oedipus 2, Hercules Oetaeus 2, Ecerinis 1"
+solutus,soluo,only 3.9.8 valid,8,"Troades 2, Agamemnon 1, Hercules Furens 1, Medea 2, Octavia 1, Hercules Oetaeus 1"
+tantalum,tantalus,Morpheus has no analysis,8,"Octavia 1, Thyestes 7"
+alterno,alternus,both valid,8,"Phoenissae 1, Phaedra 1, Agamemnon 3, Hercules Furens 1, Thyestes 1, Hercules Oetaeus 1"
+timendus,timeo,only 3.9.8 valid,8,"Troades 1, Agamemnon 2, Medea 3, Hercules Oetaeus 2"
+motus,moueo,only 3.9.8 valid,8,"Phoenissae 2, Troades 1, Agamemnon 1, Medea 1, Oedipus 1, Hercules Oetaeus 1, Ecerinis 1"
+profundum,profundus,both valid,8,"Phaedra 1, Agamemnon 1, Medea 2, Octavia 1, Oedipus 2, Ecerinis 1"
+maena,maenas,only old build valid,8,"Phoenissae 1, Troades 1, Medea 3, Oedipus 1, Hercules Oetaeus 2"
+fugo,fuga,both valid,8,"Phoenissae 1, Agamemnon 1, Hercules Furens 1, Medea 1, Oedipus 1, Thyestes 3"
+denso,densus,both valid,8,"Phoenissae 1, Troades 1, Phaedra 1, Agamemnon 2, Hercules Furens 1, Medea 1, Oedipus 1"
+uolucer,uolucris,only 3.9.8 valid,8,"Hercules Furens 1, Octavia 3, Hercules Oetaeus 4"
+falsum,falsus,both valid,8,"Phaedra 3, Hercules Furens 2, Medea 1, Ecerinis 2"
+trunco,truncus,both valid,8,"Troades 1, Agamemnon 2, Hercules Furens 2, Oedipus 1, Thyestes 1, Hercules Oetaeus 1"
+natis,nascor,both valid,8,"Phoenissae 1, Hercules Furens 1, Medea 1, Octavia 5"
+dextera,dexter,both valid,8,"Troades 1, Phaedra 1, Agamemnon 1, Medea 1, Oedipus 2, Hercules Oetaeus 2"
+pigeo,piget,only old build valid,8,"Phaedra 2, Agamemnon 1, Hercules Furens 1, Oedipus 2, Thyestes 1, Hercules Oetaeus 1"
+inclitus,inclutus,only 3.9.8 valid,8,"Phoenissae 1, Troades 1, Agamemnon 2, Hercules Furens 1, Medea 1, Hercules Oetaeus 2"
+tectum,tego,both valid,8,"Phoenissae 1, Troades 1, Phaedra 1, Hercules Furens 1, Medea 1, Octavia 1, Thyestes 1, Ecerinis 1"
+genitus,gigno,both valid,7,"Hercules Furens 2, Medea 1, Octavia 1, Oedipus 2, Hercules Oetaeus 1"
+solitus,soleo,only 3.9.8 valid,7,"Phaedra 1, Hercules Furens 2, Medea 1, Thyestes 1, Hercules Oetaeus 2"
+gressus,gradior,both valid,7,"Medea 1, Octavia 2, Thyestes 2, Hercules Oetaeus 2"
+furo,furens,only old build valid,7,"Phoenissae 1, Troades 1, Phaedra 1, Hercules Furens 1, Octavia 1, Oedipus 1, Hercules Oetaeus 1"
+inuido,inuisus,only 3.9.8 valid,7,"Phoenissae 1, Troades 1, Phaedra 1, Hercules Furens 3, Thyestes 1"
+superus,summus,both valid,7,"Troades 2, Phaedra 1, Hercules Furens 1, Oedipus 2, Thyestes 1"
+regius,regia,both valid,7,"Phoenissae 1, Hercules Furens 2, Oedipus 1, Thyestes 1, Hercules Oetaeus 2"
+uindico,uindex,both valid,7,"Phaedra 1, Hercules Oetaeus 6"
+martha,mars,neither valid,7,"Troades 2, Phaedra 1, Agamemnon 1, Oedipus 2, Ecerinis 1"
+profugus,profugio,both valid,7,"Agamemnon 1, Hercules Furens 1, Medea 2, Oedipus 2, Hercules Oetaeus 1"
+nauita,nauta,only 3.9.8 valid,7,"Phaedra 1, Agamemnon 1, Hercules Furens 1, Medea 1, Oedipus 1, Hercules Oetaeus 2"
+tartara,tartarus,Morpheus has no analysis,7,"Phaedra 1, Oedipus 1, Thyestes 1, Hercules Oetaeus 4"
+expecto,exspecto,both valid,7,"Troades 1, Agamemnon 2, Hercules Furens 1, Octavia 1, Thyestes 1, Hercules Oetaeus 1"
+amplector,amplexus,both valid,7,"Phaedra 1, Octavia 1, Thyestes 3, Hercules Oetaeus 1, Ecerinis 1"
+iussus,iussum,only 3.9.8 valid,7,"Troades 1, Phaedra 1, Hercules Furens 1, Octavia 4"
+mina,minae,both valid,7,"Phaedra 2, Agamemnon 1, Medea 3, Hercules Oetaeus 1"
+taceo,tacitus,only old build valid,7,"Phaedra 1, Hercules Furens 1, Oedipus 1, Thyestes 1, Hercules Oetaeus 3"
+mereo,meritum,both valid,7,"Troades 2, Phaedra 1, Medea 1, Octavia 1, Hercules Oetaeus 2"
+festum,festus,both valid,7,"Agamemnon 1, Medea 2, Octavia 1, Thyestes 2, Ecerinis 1"
+tartarus,tatarus,Morpheus has no analysis,7,"Phoenissae 1, Phaedra 1, Medea 1, Octavia 3, Hercules Oetaeus 1"
+pons,pontus,both valid,7,"Phaedra 4, Hercules Furens 1, Medea 1, Oedipus 1"
+uerto,uerro,both valid,7,"Phaedra 2, Agamemnon 1, Hercules Furens 1, Oedipus 1, Hercules Oetaeus 1, Ecerinis 1"
+remotus,remoueo,only 3.9.8 valid,7,"Phoenissae 1, Troades 1, Hercules Furens 1, Medea 1, Octavia 1, Hercules Oetaeus 1, Ecerinis 1"
+uerberum,uerber,only 3.9.8 valid,6,"Troades 1, Agamemnon 1, Hercules Furens 3, Hercules Oetaeus 1"
+coepio,coepi,only old build valid,6,"Troades 1, Medea 1, Hercules Oetaeus 3, Ecerinis 1"
+summa,superus,both valid,6,"Phoenissae 1, Troades 1, Agamemnon 1, Oedipus 1, Hercules Oetaeus 2"
+iactans,iacto,only 3.9.8 valid,6,"Agamemnon 1, Hercules Furens 3, Hercules Oetaeus 2"
+doceo,doctus,only old build valid,6,"Troades 1, Phaedra 1, Agamemnon 3, Hercules Oetaeus 1"
+insidia,insidiae,only 3.9.8 valid,6,"Phoenissae 1, Phaedra 1, Octavia 1, Oedipus 1, Thyestes 1, Ecerinis 1"
+for,fatum,both valid,6,"Troades 2, Agamemnon 2, Oedipus 1, Thyestes 1"
+harundo,arundo,both valid,6,"Hercules Furens 4, Hercules Oetaeus 2"
+supremus,superus,only 3.9.8 valid,6,"Phoenissae 1, Phaedra 2, Medea 1, Octavia 1, Hercules Oetaeus 1"
+sacrum,sacer,both valid,6,"Troades 2, Hercules Furens 1, Medea 1, Oedipus 1, Thyestes 1"
+attonitus,attono,only 3.9.8 valid,6,"Phaedra 1, Octavia 4, Thyestes 1"
+queror,questus,both valid,6,"Phoenissae 1, Troades 1, Phaedra 1, Agamemnon 1, Octavia 1, Hercules Oetaeus 1"
+sacro,sacer,both valid,6,"Octavia 3, Thyestes 2, Ecerinis 1"
+regia,regius,both valid,6,"Troades 1, Agamemnon 1, Medea 2, Oedipus 1, Thyestes 1"
+uictus,uinco,only 3.9.8 valid,6,"Phoenissae 1, Agamemnon 1, Octavia 1, Thyestes 2, Hercules Oetaeus 1"
+auro,auratus,only old build valid,6,"Agamemnon 1, Hercules Furens 1, Oedipus 1, Thyestes 1, Hercules Oetaeus 2"
+nascor,nata,only 3.9.8 valid,6,"Troades 1, Octavia 2, Hercules Oetaeus 3"
+ulixe,ulixes,Morpheus has no analysis,6,Troades 6
+cadmea,cadmeius,neither valid,6,"Phoenissae 2, Hercules Furens 1, Oedipus 2, Hercules Oetaeus 1"
+arcanus,arcanum,both valid,6,"Troades 1, Phaedra 1, Hercules Furens 1, Oedipus 2, Hercules Oetaeus 1"
+uincio,uinco,both valid,6,"Phaedra 2, Hercules Furens 1, Octavia 1, Thyestes 1, Hercules Oetaeus 1"
+ferus,fera,both valid,6,"Agamemnon 1, Hercules Furens 1, Medea 1, Hercules Oetaeus 3"
+nupta,nubo,both valid,6,"Phaedra 1, Octavia 1, Hercules Oetaeus 4"
+sepulchrum,sepulcrum,both valid,6,"Troades 2, Medea 1, Hercules Oetaeus 3"
+altum,altus,both valid,6,"Troades 1, Hercules Furens 1, Medea 1, Oedipus 2, Hercules Oetaeus 1"
+rego,rectus,both valid,6,"Phoenissae 1, Phaedra 3, Hercules Furens 1, Thyestes 1"
+moror,morior,both valid,5,"Phaedra 1, Agamemnon 1, Medea 1, Oedipus 2"
+uector,uecto,both valid,5,"Phaedra 1, Hercules Furens 1, Hercules Oetaeus 3"
+periclum,periculum,only 3.9.8 valid,5,"Agamemnon 3, Oedipus 2"
+caelites,caeles,only 3.9.8 valid,5,"Troades 1, Phaedra 2, Agamemnon 1, Hercules Furens 1"
+uolo,uelum,both valid,5,"Troades 2, Agamemnon 2, Thyestes 1"
+po,pasco,only 3.9.8 valid,5,"Agamemnon 1, Hercules Furens 2, Oedipus 1, Hercules Oetaeus 1"
+fraudo,fraus,both valid,5,"Troades 1, Phaedra 1, Hercules Oetaeus 2, Ecerinis 1"
+liber,liberi,both valid,5,"Phoenissae 2, Medea 3"
+extremus,extremum,both valid,5,"Troades 2, Agamemnon 1, Hercules Furens 1, Hercules Oetaeus 1"
+doma,domo,both valid,5,"Phoenissae 1, Phaedra 1, Medea 1, Hercules Oetaeus 2"
+honesto,honestus,both valid,5,"Phoenissae 1, Phaedra 2, Agamemnon 1, Thyestes 1"
+leuior,leuis,only 3.9.8 valid,5,"Troades 1, Phaedra 2, Agamemnon 2"
+alo,altum,both valid,5,"Troades 1, Agamemnon 1, Medea 1, Oedipus 2"
+uterum,uterus,only 3.9.8 valid,5,"Agamemnon 1, Hercules Oetaeus 3, Ecerinis 1"
+abnueo,abnuo,only 3.9.8 valid,5,"Phaedra 2, Hercules Furens 1, Oedipus 1, Thyestes 1"
+cieo,cio,only old build valid,5,"Phoenissae 1, Troades 1, Phaedra 3"
+caerulus,caeruleus,only old build valid,5,"Phaedra 1, Agamemnon 1, Oedipus 2, Hercules Oetaeus 1"
+tenere,teneo,only 3.9.8 valid,5,"Phoenissae 1, Hercules Furens 1, Octavia 1, Thyestes 1, Hercules Oetaeus 1"
+laeuus,laeua,both valid,5,"Phaedra 1, Hercules Furens 1, Oedipus 2, Thyestes 1"
+lasso,lassus,both valid,5,"Agamemnon 1, Oedipus 1, Thyestes 1, Hercules Oetaeus 2"
+aduerto,aduersus,only old build valid,5,"Phaedra 1, Hercules Furens 1, Oedipus 1, Thyestes 1, Ecerinis 1"
+clarus,claro,both valid,5,"Troades 1, Octavia 3, Thyestes 1"
+attono,attonitus,only old build valid,5,"Hercules Furens 1, Medea 1, Octavia 2, Oedipus 1"
+uadum,uas,both valid,5,"Oedipus 1, Thyestes 1, Hercules Oetaeus 1, Ecerinis 2"
+sileo,silens,only old build valid,5,"Phaedra 1, Hercules Furens 3, Oedipus 1"
+uaecors,uecors,Morpheus has no analysis,5,"Phoenissae 1, Phaedra 1, Agamemnon 1, Medea 1, Oedipus 1"
+genitus,gigno,only 3.9.8 valid,5,"Phoenissae 1, Octavia 2, Hercules Oetaeus 2"
+comito,comitor,both valid,5,"Phaedra 2, Hercules Furens 1, Medea 1, Octavia 1"
+egono,egone,neither valid,5,"Hercules Furens 1, Medea 3, Oedipus 1"
+dsum,desum,neither valid,5,"Phoenissae 1, Troades 1, Hercules Furens 1, Oedipus 2"
+maneo,mane,only old build valid,5,"Troades 1, Phaedra 1, Hercules Furens 1, Octavia 1, Oedipus 1"
+corus,caurus,Morpheus has no analysis,5,"Phaedra 3, Thyestes 1, Hercules Oetaeus 1"
+uicus,uinco,both valid,5,Hercules Oetaeus 5
+deiectus,deicio,only 3.9.8 valid,5,"Troades 1, Phaedra 1, Hercules Furens 2, Oedipus 1"
+uaesanus,uesanus,only 3.9.8 valid,5,"Phoenissae 1, Agamemnon 1, Medea 2, Hercules Oetaeus 1"
+flagrans,fragro,neither valid,5,"Phoenissae 1, Medea 1, Hercules Oetaeus 3"
+dedo,do,both valid,4,"Agamemnon 1, Octavia 2, Ecerinis 1"
+breuus,breuis,only 3.9.8 valid,4,"Troades 1, Phaedra 1, Thyestes 1, Hercules Oetaeus 1"
+afflictus,affligo,only 3.9.8 valid,4,"Troades 2, Medea 1, Octavia 1"
+flexus,flecto,only 3.9.8 valid,4,"Troades 1, Agamemnon 1, Hercules Furens 1, Oedipus 1"
+lues,luo,only old build valid,4,"Troades 2, Medea 1, Thyestes 1"
+ruina,ruino,only old build valid,4,"Troades 2, Hercules Oetaeus 2"
+aequor,aequo,only old build valid,4,"Troades 1, Phaedra 1, Octavia 1, Hercules Oetaeus 1"
+exertus,exsero,Morpheus has no analysis,4,"Troades 1, Hercules Oetaeus 2, Ecerinis 1"
+aegisthus,aegisthe,Morpheus has no analysis,4,Agamemnon 4
+euergeo,euerto,only 3.9.8 valid,4,"Troades 2, Hercules Furens 1, Octavia 1"
+arctos,arctus,only old build valid,4,"Hercules Furens 1, Medea 1, Oedipus 1, Thyestes 1"
+solemnis,sollemnis,neither valid,4,"Troades 1, Phaedra 1, Agamemnon 1, Oedipus 1"
+herculeus,herculea,Morpheus has no analysis,4,"Agamemnon 1, Hercules Furens 1, Hercules Oetaeus 2"
+condo,condio,both valid,4,"Troades 3, Ecerinis 1"
+arto,artus,both valid,4,"Agamemnon 2, Medea 1, Oedipus 1"
+ortus,orior,both valid,4,"Hercules Furens 3, Thyestes 1"
+thessalis,thessalus,Morpheus has no analysis,4,"Troades 1, Phaedra 2, Hercules Oetaeus 1"
+secerno,secretum,both valid,4,"Troades 1, Phaedra 1, Oedipus 1, Hercules Oetaeus 1"
+ardeo,ardens,only old build valid,4,"Hercules Furens 1, Hercules Oetaeus 2, Ecerinis 1"
+flagrans,flagro,only 3.9.8 valid,4,"Hercules Furens 1, Medea 1, Ecerinis 2"
+socius,socia,both valid,4,"Troades 1, Phaedra 1, Agamemnon 1, Medea 1"
+cludo,claudo,Morpheus has no analysis,4,"Troades 1, Thyestes 1, Hercules Oetaeus 2"
+summum,superus,both valid,4,"Phaedra 2, Oedipus 1, Thyestes 1"
+nudo,nudus,both valid,4,"Phaedra 1, Medea 1, Hercules Oetaeus 2"
+uiuo,uiuus,both valid,4,"Phoenissae 1, Oedipus 2, Thyestes 1"
+statua,statuo,both valid,4,"Hercules Furens 1, Medea 1, Thyestes 1, Hercules Oetaeus 1"
+diuus,diua,both valid,4,"Phaedra 2, Oedipus 1, Ecerinis 1"
+pluton,pluto,Morpheus has no analysis,4,"Phaedra 1, Hercules Oetaeus 3"
+,uastus,only 3.9.8 valid,4,"Phaedra 3, Medea 1"
+uinculo,uinculum,both valid,4,"Phoenissae 1, Troades 1, Medea 2"
+solus,solum,both valid,4,"Phoenissae 1, Octavia 1, Thyestes 1, Hercules Oetaeus 1"
+aula,ille,only old build valid,4,"Octavia 1, Thyestes 2, Hercules Oetaeus 1"
+aduerto,aduersus,both valid,4,"Phaedra 1, Agamemnon 2, Hercules Furens 1"
+uerbera,uerber,only 3.9.8 valid,4,"Octavia 2, Oedipus 2"
+concessus,concedo,only 3.9.8 valid,4,"Medea 2, Hercules Oetaeus 2"
+inuiso,inuisus,both valid,4,"Phaedra 1, Hercules Furens 2, Thyestes 1"
+fumo,fumus,both valid,4,"Phoenissae 1, Troades 1, Oedipus 1, Ecerinis 1"
+septeni,septenus,only old build valid,4,"Phoenissae 1, Troades 1, Medea 1, Hercules Oetaeus 1"
+ictus,ico,only old build valid,4,"Phoenissae 1, Troades 1, Hercules Oetaeus 1, Ecerinis 1"
+exequor,exsequor,both valid,4,"Phaedra 1, Hercules Furens 1, Octavia 1, Hercules Oetaeus 1"
+remitto,remissus,only old build valid,4,"Phoenissae 1, Hercules Furens 1, Ecerinis 2"
+iuue,iuuenis,only 3.9.8 valid,4,"Phoenissae 1, Phaedra 1, Medea 1, Thyestes 1"
+sciens,scio,only 3.9.8 valid,4,"Phaedra 1, Hercules Furens 1, Thyestes 2"
+exulto,exsulto,Morpheus has no analysis,4,"Phaedra 1, Agamemnon 2, Octavia 1"
+pareo,paro,both valid,4,"Phoenissae 2, Hercules Furens 1, Hercules Oetaeus 1"
+uolnus,uulnus,only 3.9.8 valid,4,Hercules Oetaeus 4
+iacto,iacio,both valid,4,"Phoenissae 1, Troades 1, Oedipus 1, Thyestes 1"
+regio,regius,both valid,4,"Phoenissae 1, Troades 1, Oedipus 2"
+minor,mino,both valid,4,"Octavia 2, Thyestes 1, Hercules Oetaeus 1"
+eminens,emineo,only 3.9.8 valid,4,"Octavia 1, Thyestes 2, Ecerinis 1"
+fleo,fletus,both valid,4,Hercules Oetaeus 4
+aequum,aequus,both valid,4,"Phaedra 1, Agamemnon 1, Medea 2"
+uolo,uis,both valid,4,"Phoenissae 2, Troades 1, Phaedra 1"
+praerumpo,praeruptus,both valid,4,"Phoenissae 2, Agamemnon 1, Hercules Oetaeus 1"
+traho,traha,both valid,4,"Phoenissae 1, Medea 1, Hercules Oetaeus 2"
+saeue,saeuus,only 3.9.8 valid,4,"Phoenissae 1, Phaedra 1, Medea 1, Hercules Oetaeus 1"
+scythae,scytha,Morpheus has no analysis,4,"Troades 1, Medea 2, Thyestes 1"
+lo,larus,only 3.9.8 valid,4,"Phoenissae 1, Hercules Furens 2, Medea 1"
+gigans,gigas,only 3.9.8 valid,4,"Hercules Furens 1, Thyestes 2, Hercules Oetaeus 1"
+assiduo,assiduus,both valid,4,"Phaedra 1, Hercules Furens 1, Oedipus 1, Thyestes 1"
+alcmene,alcmena,Morpheus has no analysis,4,Hercules Oetaeus 4
+subeo,subitus,only old build valid,4,"Hercules Furens 1, Thyestes 3"
+tranquillo,tranquillus,both valid,4,"Troades 1, Agamemnon 2, Hercules Furens 1"
+effero,efferus,both valid,4,"Troades 1, Phaedra 1, Medea 1, Oedipus 1"
+paro,pareo,both valid,4,"Octavia 2, Thyestes 1, Hercules Oetaeus 1"
+harena,arena,both valid,4,"Phaedra 1, Agamemnon 1, Hercules Furens 1, Thyestes 1"
+furius,furia,only 3.9.8 valid,4,"Hercules Furens 1, Medea 1, Thyestes 2"
+terni,ternus,only old build valid,4,"Phaedra 1, Hercules Furens 3"
+bonum,bonus,both valid,4,"Hercules Furens 1, Thyestes 3"
+strido,strideo,both valid,4,"Hercules Furens 1, Oedipus 1, Thyestes 1, Hercules Oetaeus 1"
+era,hera,both valid,3,"Phaedra 2, Medea 1"
+tacitus,taceo,only 3.9.8 valid,3,"Phaedra 2, Hercules Oetaeus 1"
+fluctuo,fluctuor,both valid,3,"Troades 1, Agamemnon 1, Oedipus 1"
+defectus,deficio,only 3.9.8 valid,3,"Phaedra 1, Octavia 1, Hercules Oetaeus 1"
+euerdo,euerto,only 3.9.8 valid,3,"Troades 1, Agamemnon 1, Hercules Furens 1"
+palladium,palladius,Morpheus has no analysis,3,"Phaedra 1, Medea 1, Hercules Oetaeus 1"
+traha,traho,both valid,3,"Troades 1, Oedipus 2"
+phrygia,phrygum,Morpheus has no analysis,3,Agamemnon 3
+pecus,pecu,only old build valid,3,"Troades 1, Medea 1, Hercules Oetaeus 1"
+profo,profor,only 3.9.8 valid,3,"Phaedra 1, Hercules Furens 1, Thyestes 1"
+sata,sero,both valid,3,"Phaedra 1, Agamemnon 2"
+pauo,paueo,only 3.9.8 valid,3,"Phaedra 1, Octavia 1, Thyestes 1"
+abditus,abdo,both valid,3,"Troades 1, Phaedra 1, Oedipus 1"
+anhelo,anhelus,both valid,3,"Agamemnon 1, Octavia 1, Oedipus 1"
+quaerendus,quaero,only 3.9.8 valid,3,"Troades 1, Hercules Oetaeus 2"
+amarus,amo,both valid,3,"Phaedra 1, Hercules Oetaeus 2"
+regendus,rego,only 3.9.8 valid,3,"Phaedra 1, Octavia 1, Ecerinis 1"
+rogo,rogus,both valid,3,"Agamemnon 1, Hercules Furens 1, Hercules Oetaeus 1"
+suboles,suboleo,both valid,3,"Phaedra 1, Octavia 2"
+feto,fetus,both valid,3,"Phaedra 1, Oedipus 1, Hercules Oetaeus 1"
+fundo,fusus,both valid,3,"Phaedra 1, Oedipus 1, Hercules Oetaeus 1"
+danaus,danais,Morpheus has no analysis,3,"Troades 1, Hercules Furens 1, Hercules Oetaeus 1"
+perluceo,pelluceo,only old build valid,3,"Phaedra 1, Agamemnon 1, Hercules Furens 1"
+minimus,paruus,both valid,3,"Troades 1, Hercules Furens 1, Hercules Oetaeus 1"
+lacero,lacer,both valid,3,Agamemnon 3
+mitior,mitis,only 3.9.8 valid,3,"Troades 1, Phaedra 1, Thyestes 1"
+infimus,inferus,only old build valid,3,"Agamemnon 1, Hercules Oetaeus 1, Ecerinis 1"
+aula,aulis,only old build valid,3,"Agamemnon 1, Medea 1, Octavia 1"
+sol,solus,both valid,3,"Phaedra 2, Octavia 1"
+ignotus,ignosco,both valid,3,"Phaedra 1, Medea 2"
+summitto,summisit,only old build valid,3,"Agamemnon 1, Hercules Furens 1, Octavia 1"
+frenum,freno,both valid,3,"Agamemnon 2, Hercules Oetaeus 1"
+immugo,immugio,only 3.9.8 valid,3,"Phaedra 1, Oedipus 1, Hercules Oetaeus 1"
+pronuba,pronubus,both valid,3,"Troades 1, Medea 1, Oedipus 1"
+inpauidus,impauidus,only 3.9.8 valid,3,Hercules Oetaeus 3
+modicum,modicus,both valid,3,"Agamemnon 1, Hercules Oetaeus 2"
+conubium,connubium,both valid,3,"Troades 1, Phaedra 1, Oedipus 1"
+spectator,specto,only old build valid,3,"Troades 1, Medea 1, Ecerinis 1"
+pateo,patens,only old build valid,3,"Troades 1, Oedipus 1, Ecerinis 1"
+seruus,seruo,both valid,3,"Phaedra 1, Hercules Oetaeus 2"
+uenero,uenerandus,neither valid,3,"Phaedra 1, Thyestes 1, Hercules Oetaeus 1"
+placo,placatus,only old build valid,3,"Phaedra 1, Agamemnon 1, Oedipus 1"
+alcmenes,alcmena,Morpheus has no analysis,3,Hercules Oetaeus 3
+circueo,circumeo,only 3.9.8 valid,3,"Agamemnon 1, Medea 1, Ecerinis 1"
+fretum,fretus,both valid,3,"Phaedra 2, Oedipus 1"
+raptor,rapto,both valid,3,"Phaedra 2, Medea 1"
+caros,carus,both valid,3,"Phaedra 1, Agamemnon 1, Medea 1"
+hippolytus,hippolyta,Morpheus has no analysis,3,Phaedra 3
+scythes,scytha,Morpheus has no analysis,3,"Phaedra 2, Hercules Oetaeus 1"
+monstro,monstrum,both valid,3,"Phaedra 2, Thyestes 1"
+deprendo,deprehendo,both valid,3,"Phaedra 1, Hercules Furens 2"
+uotum,uoueo,both valid,3,"Phaedra 1, Thyestes 1, Hercules Oetaeus 1"
+plumo,pluma,both valid,3,"Medea 1, Oedipus 1, Hercules Oetaeus 1"
+tus,thus,both valid,3,"Thyestes 1, Hercules Oetaeus 2"
+exero,exsero,neither valid,3,"Phaedra 1, Hercules Furens 1, Hercules Oetaeus 1"
+formonsus,formosus,Morpheus has no analysis,3,"Phaedra 2, Oedipus 1"
+iuuenes,iuuenis,only 3.9.8 valid,3,"Phaedra 2, Hercules Furens 1"
+titanes,titan,Morpheus has no analysis,3,"Agamemnon 1, Hercules Furens 2"
+uireo,uirens,only old build valid,3,"Agamemnon 2, Hercules Furens 1"
+subitus,subeo,only 3.9.8 valid,3,"Agamemnon 1, Medea 1, Thyestes 1"
+fatum,for,both valid,3,"Troades 1, Hercules Oetaeus 2"
+secerno,secretus,only old build valid,3,"Hercules Furens 2, Medea 1"
+polyxenus,polyxena,Morpheus has no analysis,3,Troades 3
+soleo,solitus,only old build valid,3,"Troades 2, Hercules Oetaeus 1"
+aes,aer,neither valid,3,"Phoenissae 1, Troades 1, Hercules Oetaeus 1"
+nosco,nota,both valid,3,"Hercules Furens 1, Thyestes 1, Hercules Oetaeus 1"
+fultus,fulcio,both valid,3,"Troades 1, Oedipus 1, Ecerinis 1"
+contemptus,contemno,both valid,3,"Hercules Furens 1, Hercules Oetaeus 2"
+inferus,imum,only 3.9.8 valid,3,"Troades 1, Phaedra 1, Medea 1"
+pessimus,malus,only 3.9.8 valid,3,"Medea 2, Thyestes 1"
+usitatus,usitor,only 3.9.8 valid,3,"Phoenissae 1, Medea 1, Hercules Oetaeus 1"
+summa,summus,both valid,3,"Octavia 1, Oedipus 1, Hercules Oetaeus 1"
+herculeus,hercules,Morpheus has no analysis,3,"Hercules Furens 1, Hercules Oetaeus 2"
+effundo,effusus,only old build valid,3,"Hercules Furens 1, Oedipus 2"
+noto,notus,both valid,3,Hercules Furens 3
+fatus,for,both valid,3,"Troades 1, Agamemnon 1, Oedipus 1"
+scruto,scrutor,only 3.9.8 valid,3,"Oedipus 2, Thyestes 1"
+dica,dico,both valid,3,"Phoenissae 1, Thyestes 1, Ecerinis 1"
+tantalum,tantalis,Morpheus has no analysis,3,"Hercules Furens 1, Oedipus 1, Hercules Oetaeus 1"
+obliquo,obliquus,both valid,3,"Hercules Furens 2, Thyestes 1"
+muto,mutus,both valid,3,"Hercules Furens 2, Oedipus 1"
+uincendus,uinco,only 3.9.8 valid,3,"Troades 1, Ecerinis 2"
+sortitus,sortior,both valid,3,"Phoenissae 1, Hercules Furens 1, Hercules Oetaeus 1"
+aperio,apertus,both valid,3,"Troades 1, Oedipus 1, Thyestes 1"
+adua,abdua,Morpheus has no analysis,3,Ecerinis 3
+debitum,debeo,only 3.9.8 valid,3,"Phoenissae 1, Troades 1, Thyestes 1"
+oppositus,oppono,only old build valid,3,"Phoenissae 2, Hercules Furens 1"
+paduus,padua,Morpheus has no analysis,3,Ecerinis 3
+foris,sum,both valid,3,"Phoenissae 1, Thyestes 1, Hercules Oetaeus 1"
+spolio,spolium,both valid,3,"Hercules Furens 1, Hercules Oetaeus 2"
+astraeus,astraea,Morpheus has no analysis,3,"Hercules Furens 1, Octavia 1, Hercules Oetaeus 1"
+umor,humor,both valid,3,"Oedipus 2, Hercules Oetaeus 1"
+senex,senior,only old build valid,3,"Hercules Furens 1, Oedipus 1, Hercules Oetaeus 1"
+uereo,uereor,only 3.9.8 valid,3,"Phoenissae 1, Phaedra 1, Octavia 1"
+incubo,incumbo,only 3.9.8 valid,3,"Troades 1, Hercules Oetaeus 2"
+oetes,oeta,neither valid,3,"Hercules Furens 1, Hercules Oetaeus 2"
+condio,condo,both valid,3,"Troades 2, Oedipus 1"
+primus,primo,both valid,3,"Hercules Furens 1, Oedipus 1, Ecerinis 1"
+grauidus,grauido,both valid,3,"Troades 1, Hercules Oetaeus 1, Ecerinis 1"
+cautus,caueo,only 3.9.8 valid,3,"Troades 1, Phaedra 1, Thyestes 1"
+euersus,euerto,both valid,3,"Troades 1, Hercules Furens 1, Ecerinis 1"
+uenenum,ueneno,both valid,3,"Hercules Furens 1, Medea 1, Octavia 1"
+indus,indi,Morpheus has no analysis,3,"Oedipus 2, Hercules Oetaeus 1"
+iustus,iusta,both valid,3,"Troades 1, Phaedra 1, Medea 1"
+aeterno,aeternus,both valid,3,"Hercules Furens 1, Oedipus 1, Hercules Oetaeus 1"
+concito,concieo,both valid,3,"Phoenissae 1, Agamemnon 1, Hercules Furens 1"
+haustus,haurio,both valid,3,"Phoenissae 2, Thyestes 1"
+adultus,adolesco,only 3.9.8 valid,3,"Phoenissae 1, Oedipus 1, Hercules Oetaeus 1"
+fungor,functus,only old build valid,3,"Medea 1, Oedipus 1, Thyestes 1"
+mitto,miser,both valid,3,"Troades 1, Agamemnon 1, Medea 1"
+horreo,horrens,only old build valid,3,"Phoenissae 1, Hercules Furens 1, Oedipus 1"
+suspicio,suspectus,only old build valid,3,"Medea 1, Octavia 2"
+apertus,aperio,both valid,3,"Hercules Furens 1, Thyestes 1, Ecerinis 1"
+promissum,promitto,both valid,3,"Hercules Furens 1, Hercules Oetaeus 1, Ecerinis 1"
+assuetus,adsuesco,neither valid,3,"Octavia 1, Thyestes 1, Hercules Oetaeus 1"
+natus,nascor,only 3.9.8 valid,3,"Agamemnon 1, Oedipus 2"
+alcmenus,alcmena,Morpheus has no analysis,3,"Hercules Furens 1, Hercules Oetaeus 2"
+spargo,sparsus,only old build valid,3,"Troades 1, Phaedra 1, Agamemnon 1"
+uoluo,uolo,only old build valid,3,"Troades 1, Agamemnon 1, Thyestes 1"
+tepens,tepeo,only 3.9.8 valid,3,"Hercules Furens 1, Oedipus 1, Hercules Oetaeus 1"
+malum,malo,both valid,3,"Phoenissae 1, Oedipus 1, Ecerinis 1"
+oedipoda,oedipus,Morpheus has no analysis,3,"Phoenissae 1, Oedipus 2"
+rigeo,rigens,only old build valid,3,"Troades 1, Hercules Furens 1, Medea 1"
+nota,notus,both valid,3,"Oedipus 1, Thyestes 1, Hercules Oetaeus 1"
+uictima,uictimo,only old build valid,3,"Troades 1, Thyestes 1, Hercules Oetaeus 1"
+tyrannis,tyrannus,only old build valid,3,Ecerinis 3
+ars,artus,both valid,3,"Phoenissae 1, Phaedra 1, Oedipus 1"
+pateo,patior,both valid,3,"Phoenissae 1, Troades 2"
+medium,medius,both valid,3,"Agamemnon 1, Medea 1, Hercules Oetaeus 1"
+fata,fatum,only 3.9.8 valid,3,Oedipus 3
+asperum,asper,both valid,2,"Phaedra 1, Thyestes 1"
+cerbee,cerberus,Morpheus has no analysis,2,"Hercules Furens 1, Hercules Oetaeus 1"
+decerno,decretum,both valid,2,"Hercules Furens 1, Hercules Oetaeus 1"
+urgueo,urgeo,only 3.9.8 valid,2,"Medea 1, Oedipus 1"
+optimus,bonus,only 3.9.8 valid,2,"Phaedra 1, Hercules Furens 1"
+aestiuo,aestiuus,both valid,2,"Medea 1, Oedipus 1"
+pus,purus,only 3.9.8 valid,2,"Medea 1, Oedipus 1"
+diuitia,diuitiae,both valid,2,"Octavia 1, Thyestes 1"
+abeo,habeo,both valid,2,"Medea 1, Thyestes 1"
+superus,superior,only old build valid,2,"Phaedra 1, Oedipus 1"
+cursus,curro,only old build valid,2,Phaedra 2
+inquieto,inquietus,both valid,2,"Hercules Furens 1, Octavia 1"
+arctoo,arctous,only 3.9.8 valid,2,"Medea 1, Octavia 1"
+sidonii,sidonius,Morpheus has no analysis,2,"Medea 1, Oedipus 1"
+transuerto,transuersus,only old build valid,2,"Hercules Furens 1, Medea 1"
+uasto,uastus,both valid,2,"Phaedra 1, Agamemnon 1"
+uetitus,ueto,only 3.9.8 valid,2,"Medea 1, Thyestes 1"
+demens,demo,both valid,2,Octavia 2
+praefectus,praeficio,both valid,2,Octavia 2
+reuuldo,reuello,only 3.9.8 valid,2,"Phaedra 1, Oedipus 1"
+liquo,linquo,both valid,2,"Phaedra 1, Oedipus 1"
+intentus,intendo,both valid,2,"Octavia 1, Oedipus 1"
+luno,lunatus,both valid,2,"Phaedra 1, Oedipus 1"
+silentum,silens,neither valid,2,"Medea 1, Hercules Oetaeus 1"
+secus,secum,neither valid,2,"Phaedra 1, Agamemnon 1"
+gnatus,nascor,Morpheus has no analysis,2,"Hercules Oetaeus 1, Ecerinis 1"
+fidus,fido,both valid,2,"Phaedra 1, Medea 1"
+pandus,pando,both valid,2,"Hercules Furens 1, Ecerinis 1"
+conlapsus,collabor,only 3.9.8 valid,2,Hercules Oetaeus 2
+durus,durum,both valid,2,"Phaedra 1, Oedipus 1"
+armatus,armo,only 3.9.8 valid,2,"Octavia 1, Hercules Oetaeus 1"
+nutus,nuo,only old build valid,2,"Octavia 1, Ecerinis 1"
+rota,roto,only old build valid,2,"Octavia 1, Hercules Oetaeus 1"
+duco,ducto,both valid,2,"Medea 1, Ecerinis 1"
+existo,exsto,only 3.9.8 valid,2,"Octavia 1, Thyestes 1"
+speculo,speculor,only 3.9.8 valid,2,"Phaedra 1, Hercules Oetaeus 1"
+regno,regnator,only 3.9.8 valid,2,Phaedra 2
+tego,texo,both valid,2,Octavia 2
+adlabor,allabor,only 3.9.8 valid,2,"Phaedra 1, Agamemnon 1"
+fulgeo,fulgo,only old build valid,2,"Phaedra 1, Hercules Oetaeus 1"
+iactatus,iacto,only 3.9.8 valid,2,Octavia 2
+mereo,mereor,both valid,2,"Phaedra 1, Agamemnon 1"
+occultum,occultus,only old build valid,2,"Medea 1, Ecerinis 1"
+extinguo,extinctus,both valid,2,Octavia 2
+transeo,transitus,both valid,2,"Phaedra 1, Ecerinis 1"
+alumna,alumnus,both valid,2,Octavia 2
+tutus,tutas,neither valid,2,Medea 2
+siparus,supparum,Morpheus has no analysis,2,"Medea 1, Hercules Oetaeus 1"
+uerbus,uerber,only 3.9.8 valid,2,"Medea 1, Hercules Oetaeus 1"
+pieria,pierius,Morpheus has no analysis,2,"Medea 1, Hercules Oetaeus 1"
+defessus,defetiscor,only 3.9.8 valid,2,"Medea 1, Hercules Oetaeus 1"
+,uerso,only 3.9.8 valid,2,"Phaedra 1, Hercules Oetaeus 1"
+sollicitus,sollicito,both valid,2,"Medea 1, Octavia 1"
+mando,mandatum,both valid,2,"Medea 1, Thyestes 1"
+phoebus,phoebe,Morpheus has no analysis,2,"Phaedra 1, Medea 1"
+ignis,ignio,only old build valid,2,Medea 2
+puter,putris,neither valid,2,"Octavia 1, Oedipus 1"
+lenis,lenio,both valid,2,Hercules Oetaeus 2
+adflictus,afflictus,neither valid,2,"Medea 1, Oedipus 1"
+lens,lentus,both valid,2,"Medea 1, Thyestes 1"
+colchi,colchus,Morpheus has no analysis,2,Medea 2
+contactus,contingo,both valid,2,"Phaedra 1, Hercules Oetaeus 1"
+nutrs,nutr,Morpheus has no analysis,2,Medea 2
+saluo,saluus,both valid,2,"Phaedra 1, Thyestes 1"
+aeeta,aeetes,Morpheus has no analysis,2,Medea 2
+itanus,itane,neither valid,2,"Medea 1, Oedipus 1"
+pelia,pelias,Morpheus has no analysis,2,Medea 2
+imperatum,impero,both valid,2,Octavia 2
+optinens,obtineo,only 3.9.8 valid,2,"Medea 1, Oedipus 1"
+deprendo,deprehendo,neither valid,2,"Oedipus 1, Hercules Oetaeus 1"
+ico,ictus,only 3.9.8 valid,2,"Phaedra 1, Oedipus 1"
+stratus,sterno,both valid,2,"Hercules Oetaeus 1, Ecerinis 1"
+maenalis,maenalus,Morpheus has no analysis,2,"Hercules Furens 1, Hercules Oetaeus 1"
+troas,troes,Morpheus has no analysis,2,Agamemnon 2
+perdendus,perdo,only 3.9.8 valid,2,"Agamemnon 1, Medea 1"
+irritus,hirritus,both valid,2,"Thyestes 1, Hercules Oetaeus 1"
+antemna,antenna,only 3.9.8 valid,2,"Agamemnon 1, Medea 1"
+questus,queror,only old build valid,2,"Thyestes 1, Hercules Oetaeus 1"
+decore,decus,only 3.9.8 valid,2,"Agamemnon 1, Medea 1"
+exanguis,exsanguis,both valid,2,"Oedipus 1, Ecerinis 1"
+uello,uellus,both valid,2,"Oedipus 1, Thyestes 1"
+uenio,uenturis,only old build valid,2,"Agamemnon 1, Hercules Furens 1"
+stymphalides,stymphalis,Morpheus has no analysis,2,"Hercules Furens 1, Hercules Oetaeus 1"
+bellus,bellum,both valid,2,"Agamemnon 1, Ecerinis 1"
+adductus,adduco,only 3.9.8 valid,2,"Agamemnon 1, Oedipus 1"
+afflo,afflatus,both valid,2,"Agamemnon 1, Oedipus 1"
+alienus,alienum,both valid,2,"Hercules Furens 1, Octavia 1"
+neglego,negligo,only old build valid,2,"Agamemnon 1, Octavia 1"
+cateruae,caterua,only 3.9.8 valid,2,Oedipus 2
+passus,patior,only 3.9.8 valid,2,"Hercules Furens 1, Octavia 1"
+caelis,caeles,only 3.9.8 valid,2,"Agamemnon 1, Thyestes 1"
+orgium,orgia,only 3.9.8 valid,2,"Oedipus 1, Hercules Oetaeus 1"
+ferueo,feruo,both valid,2,"Thyestes 1, Ecerinis 1"
+secus,sui,only 3.9.8 valid,2,"Agamemnon 1, Ecerinis 1"
+caphereus,caphareus,Morpheus has no analysis,2,"Agamemnon 1, Hercules Oetaeus 1"
+uacuus,uacuo,only old build valid,2,Hercules Furens 2
+absolo,absoluo,only 3.9.8 valid,2,"Oedipus 1, Ecerinis 1"
+conligo,colligo,only 3.9.8 valid,2,"Oedipus 1, Hercules Oetaeus 1"
+ile,ilia,only 3.9.8 valid,2,"Agamemnon 1, Hercules Furens 1"
+palleo,pallens,only old build valid,2,"Agamemnon 1, Oedipus 1"
+implicitus,implico,only 3.9.8 valid,2,"Agamemnon 1, Thyestes 1"
+iuratus,iuro,only 3.9.8 valid,2,"Agamemnon 1, Ecerinis 1"
+commodus,commodum,both valid,2,"Oedipus 1, Hercules Oetaeus 1"
+grato,grator,only 3.9.8 valid,2,"Agamemnon 1, Oedipus 1"
+libens,libo,only old build valid,2,"Agamemnon 1, Hercules Furens 1"
+decor,decorum,both valid,2,"Agamemnon 1, Hercules Furens 1"
+grado,gradior,only 3.9.8 valid,2,"Agamemnon 1, Thyestes 1"
+colendus,colo,only 3.9.8 valid,2,"Agamemnon 1, Hercules Furens 1"
+iaceo,iaceret,only old build valid,2,"Agamemnon 1, Thyestes 1"
+egens,egeo,only 3.9.8 valid,2,"Agamemnon 1, Octavia 1"
+tinguo,tingo,Morpheus has no analysis,2,"Agamemnon 1, Oedipus 1"
+mille,milli,Morpheus has no analysis,2,"Agamemnon 1, Hercules Oetaeus 1"
+donum,dono,both valid,2,"Agamemnon 1, Medea 1"
+leuus,leuis,only 3.9.8 valid,2,Thyestes 2
+effreno,effrenus,both valid,2,Agamemnon 2
+semiustus,semustus,Morpheus has no analysis,2,"Thyestes 1, Hercules Oetaeus 1"
+,obicio,only 3.9.8 valid,2,"Hercules Furens 1, Medea 1"
+delinquo,delictum,both valid,2,"Agamemnon 1, Ecerinis 1"
+rectum,rego,both valid,2,Phaedra 2
+soli,solus,only 3.9.8 valid,2,"Phaedra 1, Ecerinis 1"
+abscisus,abscido,only 3.9.8 valid,2,"Phaedra 1, Thyestes 1"
+saturnum,saturnus,Morpheus has no analysis,2,"Hercules Furens 1, Octavia 1"
+exuuia,exuuiae,only 3.9.8 valid,2,"Phaedra 1, Agamemnon 1"
+noleo,nolo,only 3.9.8 valid,2,Thyestes 2
+profundo,profundus,both valid,2,"Phaedra 1, Medea 1"
+geryona,geryon,Morpheus has no analysis,2,"Agamemnon 1, Hercules Oetaeus 1"
+horrendus,horrendum,neither valid,2,"Hercules Furens 1, Oedipus 1"
+acuo,acutus,both valid,2,"Phaedra 1, Agamemnon 1"
+mimans,mimas,Morpheus has no analysis,2,"Hercules Furens 1, Hercules Oetaeus 1"
+cado,caedo,both valid,2,"Hercules Furens 1, Thyestes 1"
+iamno,iamna,neither valid,2,"Oedipus 1, Hercules Oetaeus 1"
+traho,tractus,both valid,2,"Hercules Furens 1, Thyestes 1"
+clauae,claua,only 3.9.8 valid,2,"Hercules Furens 1, Hercules Oetaeus 1"
+coepio,capio,only old build valid,2,"Hercules Furens 1, Medea 1"
+expello,expulso,both valid,2,"Phaedra 1, Thyestes 1"
+ultus,ulciscor,only 3.9.8 valid,2,"Hercules Furens 1, Octavia 1"
+iratus,iror,neither valid,2,"Hercules Furens 1, Oedipus 1"
+parcio,parco,only 3.9.8 valid,2,"Octavia 1, Hercules Oetaeus 1"
+quies,quietus,only old build valid,2,"Phaedra 1, Oedipus 1"
+,uox,only 3.9.8 valid,2,"Phaedra 1, Ecerinis 1"
+expectans,exspecto,only 3.9.8 valid,2,Oedipus 2
+lethes,lethe,Morpheus has no analysis,2,"Phaedra 1, Hercules Oetaeus 1"
+atrus,ater,only 3.9.8 valid,2,"Phaedra 1, Ecerinis 1"
+rubeo,rubens,only old build valid,2,"Oedipus 1, Hercules Oetaeus 1"
+ablatus,aufero,only 3.9.8 valid,2,"Agamemnon 1, Octavia 1"
+fretus,fretum,both valid,2,"Hercules Furens 1, Medea 1"
+desero,desertus,both valid,2,"Agamemnon 1, Thyestes 1"
+excelsus,excello,only 3.9.8 valid,2,Thyestes 2
+sarmatus,sarmatae,Morpheus has no analysis,2,"Hercules Furens 1, Thyestes 1"
+sobola,suboles,only 3.9.8 valid,2,"Agamemnon 1, Ecerinis 1"
+lapsus,labor,both valid,2,Thyestes 2
+tremulo,tremulus,only 3.9.8 valid,2,Oedipus 2
+uenius,uenia,only 3.9.8 valid,2,"Oedipus 1, Hercules Oetaeus 1"
+libro,libra,both valid,2,"Thyestes 1, Hercules Oetaeus 1"
+falsus,falsum,both valid,2,"Oedipus 1, Ecerinis 1"
+cumba,cymba,Morpheus has no analysis,2,"Agamemnon 1, Thyestes 1"
+propero,properus,both valid,2,Oedipus 2
+sacro,sacratus,only old build valid,2,"Agamemnon 1, Oedipus 1"
+dubius,dubium,only old build valid,2,"Agamemnon 1, Ecerinis 1"
+uenenus,uenenum,only 3.9.8 valid,2,"Oedipus 1, Hercules Oetaeus 1"
+diuigo,diuido,only 3.9.8 valid,2,"Agamemnon 1, Thyestes 1"
+profusus,profundo,only 3.9.8 valid,2,Oedipus 2
+trigeminus,tergeminus,only old build valid,2,"Agamemnon 1, Oedipus 1"
+inlitas,illino,only 3.9.8 valid,2,"Phaedra 1, Hercules Oetaeus 1"
+thracia,thracius,Morpheus has no analysis,2,"Hercules Furens 1, Hercules Oetaeus 1"
+amicio,amictus,only 3.9.8 valid,2,"Phaedra 1, Hercules Oetaeus 1"
+procus,proco,only old build valid,2,"Phaedra 1, Medea 1"
+largior,largio,only old build valid,2,"Troades 1, Medea 1"
+imitor,imito,both valid,2,"Troades 1, Medea 1"
+thorus,torus,Morpheus has no analysis,2,Ecerinis 2
+nouio,nosco,only 3.9.8 valid,2,"Troades 1, Medea 1"
+uerus,ueru,only old build valid,2,"Troades 1, Oedipus 1"
+danaides,danaidae,Morpheus has no analysis,2,Troades 2
+ulixus,ulixes,Morpheus has no analysis,2,"Troades 1, Agamemnon 1"
+longinquo,longinquus,both valid,2,"Troades 1, Phaedra 1"
+ecerinus,ecerinum,Morpheus has no analysis,2,Ecerinis 2
+fundo,fusus,only old build valid,2,"Troades 1, Octavia 1"
+obliuiscor,oblino,only old build valid,2,"Troades 1, Hercules Oetaeus 1"
+medius,medium,both valid,2,Troades 2
+uerona,uerono,Morpheus has no analysis,2,Ecerinis 2
+marchia,marchius,Morpheus has no analysis,2,Ecerinis 2
+marchio,marchium,Morpheus has no analysis,2,Ecerinis 2
+seni,senus,only old build valid,2,"Troades 1, Oedipus 1"
+ithacus,ithaco,Morpheus has no analysis,2,Troades 2
+misereo,misereor,both valid,2,"Troades 1, Medea 1"
+auius,auus,both valid,2,"Troades 1, Hercules Furens 1"
+troicus,troici,Morpheus has no analysis,2,"Troades 1, Agamemnon 1"
+carina,carino,both valid,2,"Troades 1, Medea 1"
+triumpho,triumphus,both valid,2,"Phaedra 1, Thyestes 1"
+cres,cretes,Morpheus has no analysis,2,Phaedra 2
+iaculo,iaculor,only 3.9.8 valid,2,Hercules Oetaeus 2
+uitas,uito,only 3.9.8 valid,2,"Troades 1, Ecerinis 1"
+aduerto,aduersum,both valid,2,"Troades 1, Agamemnon 1"
+assuetus,assuesco,only 3.9.8 valid,2,"Troades 1, Agamemnon 1"
+quini,quinus,only old build valid,2,"Troades 1, Agamemnon 1"
+uadio,uadum,only 3.9.8 valid,2,Hercules Oetaeus 2
+milito,militaris,both valid,2,"Troades 1, Agamemnon 1"
+inuisus,inuiso,both valid,2,"Troades 1, Medea 1"
+edo,editus,only old build valid,2,Troades 2
+troas,troades,Morpheus has no analysis,2,"Troades 1, Agamemnon 1"
+affligo,afflico,only old build valid,2,"Troades 1, Thyestes 1"
+,euerto,only 3.9.8 valid,2,Troades 2
+ithacus,ithaca,Morpheus has no analysis,2,"Troades 1, Thyestes 1"
+mycena,mycenae,Morpheus has no analysis,2,"Troades 1, Agamemnon 1"
+magnus,magnum,only old build valid,2,"Troades 1, Hercules Oetaeus 1"
+argiuus,argi,Morpheus has no analysis,2,"Troades 1, Medea 1"
+summum,summus,both valid,2,Troades 2
+adortus,adorior,only 3.9.8 valid,2,"Phoenissae 1, Hercules Furens 1"
+summitto,submitto,only old build valid,2,"Phoenissae 1, Oedipus 1"
+agauus,agaue,Morpheus has no analysis,2,"Phoenissae 1, Oedipus 1"
+amo,amans,only old build valid,2,"Phoenissae 1, Phaedra 1"
+deditus,dedo,only 3.9.8 valid,2,"Phoenissae 1, Troades 1"
+uiolentum,uiolentus,only 3.9.8 valid,2,"Phoenissae 1, Thyestes 1"
+inferus,imo,neither valid,2,"Phoenissae 1, Ecerinis 1"
+ales,alo,Morpheus has no analysis,2,"Phoenissae 1, Thyestes 1"
+sentio,sensus,both valid,2,"Phoenissae 1, Hercules Oetaeus 1"
+armatus,armo,both valid,2,"Phoenissae 1, Hercules Furens 1"
+angusto,angustus,both valid,2,"Phoenissae 1, Oedipus 1"
+uenus,uena,only 3.9.8 valid,2,"Phoenissae 1, Oedipus 1"
+parnasos,parnasus,Morpheus has no analysis,2,"Phoenissae 1, Oedipus 1"
+insideo,insido,both valid,2,"Phoenissae 1, Medea 1"
+uiuus,uiuo,both valid,2,"Phoenissae 1, Phaedra 1"
+inmensus,immensus,only 3.9.8 valid,2,"Phoenissae 1, Thyestes 1"
+instinctus,instinguo,both valid,2,"Phoenissae 1, Phaedra 1"
+notus,nosco,both valid,2,"Phoenissae 1, Thyestes 1"
+comitor,comito,both valid,2,"Phoenissae 1, Agamemnon 1"
+uerna,uernus,both valid,2,"Troades 1, Oedipus 1"
+lamento,lamenta,both valid,2,Troades 2
+senectus,senecta,both valid,2,"Troades 1, Hercules Furens 1"
+tranquillo,tranquillum,both valid,2,"Troades 1, Thyestes 1"
+desponso,despondeo,only 3.9.8 valid,2,"Troades 1, Agamemnon 1"
+niteo,nitens,only old build valid,2,"Troades 1, Hercules Oetaeus 1"
+threicius,threicium,Morpheus has no analysis,2,"Troades 1, Hercules Oetaeus 1"
+misero,miseror,both valid,2,"Troades 1, Octavia 1"
+uicentia,uicetia,Morpheus has no analysis,2,Ecerinis 2
+phrygia,phryges,Morpheus has no analysis,2,Troades 2
+suspensus,suspendo,only 3.9.8 valid,2,"Phoenissae 1, Hercules Furens 1"
+populor,populator,only 3.9.8 valid,2,"Troades 1, Agamemnon 1"
+meto,metior,both valid,2,"Troades 1, Oedipus 1"
+melior,bene,neither valid,2,"Phoenissae 1, Medea 1"
+liber,libero,both valid,2,"Phoenissae 1, Troades 1"
+caedes,caedo,only old build valid,2,Ecerinis 2
+puto,puta,only old build valid,2,"Phoenissae 1, Troades 1"
+coniunx,coniugi,only old build valid,2,"Phoenissae 1, Medea 1"
+inuideo,inuiso,both valid,2,"Phaedra 1, Octavia 1"
+,uendico,neither valid,2,Ecerinis 2
+gyro,gyrus,both valid,2,"Phaedra 1, Oedipus 1"
+dis,deus,neither valid,2,"Phaedra 1, Hercules Oetaeus 1"
+insanio,insanus,both valid,2,Phaedra 2
+auratus,auro,only 3.9.8 valid,2,"Phaedra 1, Medea 1"
+male,malus,only 3.9.8 valid,2,"Phaedra 1, Medea 1"
+penso,pensum,both valid,2,"Phaedra 1, Hercules Furens 1"
+uolgus,uulgus,only 3.9.8 valid,2,Hercules Oetaeus 2
+perithoi,pirithous,Morpheus has no analysis,2,Phaedra 2
+hesperia,hesperius,Morpheus has no analysis,2,"Phaedra 1, Thyestes 1"
+gigans,gigas,Morpheus has no analysis,2,Hercules Oetaeus 2
+subicio,subiectum,both valid,2,"Phaedra 1, Hercules Furens 1"
+rhodopes,rhodope,Morpheus has no analysis,2,Hercules Oetaeus 2
+iugum,iugus,both valid,2,"Phaedra 1, Medea 1"
+fatus,fatum,only 3.9.8 valid,2,Hercules Oetaeus 2
+antiope,antiopa,Morpheus has no analysis,2,Phaedra 2
+cuna,cunae,both valid,1,Ecerinis 1
+ambiguus,ambiguum,both valid,1,Oedipus 1
+interempio,interimo,only 3.9.8 valid,1,Oedipus 1
+myrrha,murra,only 3.9.8 valid,1,Hercules Oetaeus 1
+prodo,prodeo,both valid,1,Ecerinis 1
+spicifeer,spicifer,both valid,1,Hercules Oetaeus 1
+intimus,interior,only old build valid,1,Oedipus 1
+mamma,mammo,only old build valid,1,Ecerinis 1
+cadmeus,cadmeum,Morpheus has no analysis,1,Oedipus 1
+italia,italis,Morpheus has no analysis,1,Ecerinis 1
+ao,areo,only 3.9.8 valid,1,Oedipus 1
+summitto,summisi,only old build valid,1,Oedipus 1
+pudeo,pudendus,only old build valid,1,Oedipus 1
+castalium,castalius,Morpheus has no analysis,1,Oedipus 1
+aueneus,oeneus,Morpheus has no analysis,1,Hercules Oetaeus 1
+calydonius,calydoniae,Morpheus has no analysis,1,Hercules Oetaeus 1
+extruo,exstruo,both valid,1,Oedipus 1
+iura,ius,only 3.9.8 valid,1,Ecerinis 1
+addeceo,addecet,only 3.9.8 valid,1,Oedipus 1
+mantus,manto,only 3.9.8 valid,1,Oedipus 1
+herin,herini,Morpheus has no analysis,1,Ecerinis 1
+olenium,olenius,Morpheus has no analysis,1,Oedipus 1
+ismenidus,ismenida,Morpheus has no analysis,1,Oedipus 1
+bimo,bimaris,only 3.9.8 valid,1,Oedipus 1
+frondifera,frondifer,only 3.9.8 valid,1,Oedipus 1
+cirrhaea,cirrhaeus,Morpheus has no analysis,1,Oedipus 1
+,genital,Morpheus has no analysis,1,Ecerinis 1
+feltrus,feltrum,Morpheus has no analysis,1,Ecerinis 1
+fides,fidus,both valid,1,Oedipus 1
+giga,gigas,only 3.9.8 valid,1,Ecerinis 1
+aro,arabas,only old build valid,1,Oedipus 1
+rutilo,rutilans,only old build valid,1,Oedipus 1
+stirpis,stirps,only 3.9.8 valid,1,Oedipus 1
+ecerine,ecerinus,Morpheus has no analysis,1,Ecerinis 1
+medeor,medens,only old build valid,1,Oedipus 1
+exsequia,exsequiae,only 3.9.8 valid,1,Oedipus 1
+uinci,uinco,only 3.9.8 valid,1,Hercules Oetaeus 1
+certo,certus,both valid,1,Ecerinis 1
+acerbo,acerbus,both valid,1,Oedipus 1
+moueo,motus,both valid,1,Ecerinis 1
+nubilum,nubilus,both valid,1,Oedipus 1
+miserams,miser,only 3.9.8 valid,1,Hercules Oetaeus 1
+ecerino,ecerinus,Morpheus has no analysis,1,Ecerinis 1
+aro,areo,both valid,1,Oedipus 1
+macedonus,macedones,Morpheus has no analysis,1,Ecerinis 1
+mollis,mollio,both valid,1,Hercules Oetaeus 1
+peruetuso,peruetustae,neither valid,1,Ecerinis 1
+cadmeus,cadmeae,neither valid,1,Oedipus 1
+propior,proximus,only 3.9.8 valid,1,Hercules Oetaeus 1
+cautum,caueo,only 3.9.8 valid,1,Hercules Oetaeus 1
+intereo,interitus,both valid,1,Ecerinis 1
+uiduo,uidua,both valid,1,Oedipus 1
+subiga,subigo,only 3.9.8 valid,1,Ecerinis 1
+comprendo,comprehendo,both valid,1,Oedipus 1
+cinnamus,cinnamum,only old build valid,1,Oedipus 1
+arcthices,arcthicus,Morpheus has no analysis,1,Ecerinis 1
+colona,colonus,both valid,1,Oedipus 1
+mystus,mysta,only 3.9.8 valid,1,Hercules Oetaeus 1
+peremo,perimo,neither valid,1,Oedipus 1
+deo,dirus,only 3.9.8 valid,1,Ecerinis 1
+alo,ales,only old build valid,1,Oedipus 1
+implexus,implecto,only 3.9.8 valid,1,Oedipus 1
+occido,occidens,both valid,1,Ecerinis 1
+mauortis,mauortus,Morpheus has no analysis,1,Oedipus 1
+so,sero,only 3.9.8 valid,1,Ecerinis 1
+tabifico,tabificus,both valid,1,Oedipus 1
+sceleratus,scelero,only 3.9.8 valid,1,Ecerinis 1
+afflico,affligo,only 3.9.8 valid,1,Oedipus 1
+enectus,eneco,only 3.9.8 valid,1,Hercules Oetaeus 1
+ira,iris,only old build valid,1,Oedipus 1
+erinys,erinyn,Morpheus has no analysis,1,Oedipus 1
+saeuae,saeuus,only 3.9.8 valid,1,Ecerinis 1
+amica,amicus,both valid,1,Ecerinis 1
+uipereum,uipereus,only 3.9.8 valid,1,Oedipus 1
+coeptum,coepi,only old build valid,1,Ecerinis 1
+meritum,meritus,only old build valid,1,Ecerinis 1
+adstringo,astringo,neither valid,1,Oedipus 1
+squaleo,squalens,only old build valid,1,Oedipus 1
+enode,enodis,only 3.9.8 valid,1,Oedipus 1
+labes,labo,both valid,1,Ecerinis 1
+uirenta,uirens,neither valid,1,Oedipus 1
+exero,exsero,Morpheus has no analysis,1,Oedipus 1
+inriguus,irriguus,only 3.9.8 valid,1,Oedipus 1
+taco,taceo,only 3.9.8 valid,1,Oedipus 1
+placeo,placo,both valid,1,Oedipus 1
+nouum,nouus,both valid,1,Ecerinis 1
+lethus,lethe,neither valid,1,Hercules Oetaeus 1
+negligens,neglego,only 3.9.8 valid,1,Ecerinis 1
+uicto,uinco,only 3.9.8 valid,1,Ecerinis 1
+expers,experior,both valid,1,Oedipus 1
+aes,aer,only 3.9.8 valid,1,Oedipus 1
+classicus,classicum,both valid,1,Oedipus 1
+consto,consisto,only old build valid,1,Oedipus 1
+castales,castalius,Morpheus has no analysis,1,Oedipus 1
+labdacis,labdacidos,Morpheus has no analysis,1,Oedipus 1
+gardes,gardas,Morpheus has no analysis,1,Ecerinis 1
+pulsus,pello,both valid,1,Oedipus 1
+inquieto,inquieo,only old build valid,1,Oedipus 1
+certissimus,certus,only 3.9.8 valid,1,Oedipus 1
+spons,sponte,only 3.9.8 valid,1,Oedipus 1
+bocotus,bocota,Morpheus has no analysis,1,Oedipus 1
+monticulus,monticulis,only old build valid,1,Ecerinis 1
+floriferus,florifer,only 3.9.8 valid,1,Oedipus 1
+sagitta,sagitto,only old build valid,1,Hercules Oetaeus 1
+thymus,thymum,only 3.9.8 valid,1,Oedipus 1
+lesbia,lesbius,Morpheus has no analysis,1,Oedipus 1
+concipio,conceptus,both valid,1,Oedipus 1
+uirgineum,uirgineus,only 3.9.8 valid,1,Oedipus 1
+seco,secta,both valid,1,Hercules Oetaeus 1
+redimo,redimio,only old build valid,1,Oedipus 1
+famus,fames,only 3.9.8 valid,1,Ecerinis 1
+temptandus,tento,only 3.9.8 valid,1,Oedipus 1
+cio,cieo,only 3.9.8 valid,1,Oedipus 1
+deuotus,deuoueo,neither valid,1,Ecerinis 1
+eous,eoae,Morpheus has no analysis,1,Oedipus 1
+oblicus,obliquus,only 3.9.8 valid,1,Oedipus 1
+occulo,occultus,only old build valid,1,Oedipus 1
+,tir,Morpheus has no analysis,1,Oedipus 1
+solor,solo,both valid,1,Oedipus 1
+unon,uno,Morpheus has no analysis,1,Oedipus 1
+placido,placidones,only old build valid,1,Oedipus 1
+creuo,cresco,neither valid,1,Oedipus 1
+iacentus,iacentum,Morpheus has no analysis,1,Ecerinis 1
+odorum,odorus,only 3.9.8 valid,1,Oedipus 1
+securigeo,securiger,Morpheus has no analysis,1,Oedipus 1
+conbibo,combibo,neither valid,1,Oedipus 1
+ophionia,ophionius,Morpheus has no analysis,1,Oedipus 1
+moderator,modero,only old build valid,1,Ecerinis 1
+maenades,maenas,Morpheus has no analysis,1,Oedipus 1
+inferi,inferus,both valid,1,Hercules Oetaeus 1
+ioles,iole,Morpheus has no analysis,1,Hercules Oetaeus 1
+bistonis,biston,Morpheus has no analysis,1,Ecerinis 1
+bassaridum,bassaris,Morpheus has no analysis,1,Oedipus 1
+torreo,torrens,both valid,1,Oedipus 1
+inlido,illido,only 3.9.8 valid,1,Oedipus 1
+colus,colon,Morpheus has no analysis,1,Hercules Oetaeus 1
+procustus,procustis,Morpheus has no analysis,1,Ecerinis 1
+pentheus,pentheos,Morpheus has no analysis,1,Oedipus 1
+cadmea,cadmeas,neither valid,1,Oedipus 1
+uigiles,uigil,only 3.9.8 valid,1,Hercules Oetaeus 1
+ferrarienses,ferrariensis,Morpheus has no analysis,1,Ecerinis 1
+utor,utatur,only old build valid,1,Octavia 1
+taruisius,taruisium,Morpheus has no analysis,1,Ecerinis 1
+fingo,figo,only old build valid,1,Octavia 1
+supplic,supplex,only 3.9.8 valid,1,Ecerinis 1
+cupidus,cupido,both valid,1,Octavia 1
+paciscor,paco,only old build valid,1,Octavia 1
+reor,ratis,both valid,1,Octavia 1
+stygia,stygius,Morpheus has no analysis,1,Octavia 1
+infirmo,infirmus,both valid,1,Octavia 1
+tremibundus,tremebundus,only 3.9.8 valid,1,Hercules Oetaeus 1
+iuuao,iuuo,only 3.9.8 valid,1,Octavia 1
+tolerandus,tolero,only 3.9.8 valid,1,Octavia 1
+uincam,uinco,only 3.9.8 valid,1,Octavia 1
+ren,renis,neither valid,1,Ecerinis 1
+zenon,zeno,Morpheus has no analysis,1,Ecerinis 1
+barbara,barbarus,both valid,1,Octavia 1
+consorte,consors,only 3.9.8 valid,1,Ecerinis 1
+successus,succedo,both valid,1,Octavia 1
+principis,princeps,only 3.9.8 valid,1,Octavia 1
+praelatus,praefero,only 3.9.8 valid,1,Octavia 1
+typhon,typhona,only old build valid,1,Octavia 1
+occupatus,occupo,both valid,1,Ecerinis 1
+,peruius,only 3.9.8 valid,1,Octavia 1
+maneo,manis,only old build valid,1,Octavia 1
+nor,no,only 3.9.8 valid,1,Octavia 1
+conflictus,confligo,both valid,1,Ecerinis 1
+ora,os,both valid,1,Hercules Oetaeus 1
+caxanus,caxani,Morpheus has no analysis,1,Ecerinis 1
+subiectus,subicio,only 3.9.8 valid,1,Octavia 1
+cometa,cometes,only 3.9.8 valid,1,Octavia 1
+inchoo,incoho,both valid,1,Ecerinis 1
+leucus,leucas,neither valid,1,Hercules Oetaeus 1
+olor,odor,only old build valid,1,Octavia 1
+dator,do,only old build valid,1,Ecerinis 1
+reuiquo,reuiuo,neither valid,1,Ecerinis 1
+euergo,euerto,only 3.9.8 valid,1,Octavia 1
+britanni,britannus,Morpheus has no analysis,1,Octavia 1
+parco,parcus,both valid,1,Ecerinis 1
+azos,azo,Morpheus has no analysis,1,Ecerinis 1
+sacer,sacrus,only old build valid,1,Medea 1
+stipes,stips,only old build valid,1,Ecerinis 1
+,iuuo,only 3.9.8 valid,1,Medea 1
+nuptia,nuptiae,only 3.9.8 valid,1,Medea 1
+,inicio,neither valid,1,Ecerinis 1
+colchus,colchis,Morpheus has no analysis,1,Medea 1
+grangeticus,grangeticum,Morpheus has no analysis,1,Medea 1
+,uagor,only 3.9.8 valid,1,Medea 1
+,hocne,neither valid,1,Hercules Oetaeus 1
+latratus,latro,both valid,1,Medea 1
+feria,ferio,only 3.9.8 valid,1,Medea 1
+pando,patior,only 3.9.8 valid,1,Medea 1
+,supremus,neither valid,1,Ecerinis 1
+cyclus,cyclas,only 3.9.8 valid,1,Hercules Oetaeus 1
+,fiexa,Morpheus has no analysis,1,Medea 1
+nata,nascor,only old build valid,1,Medea 1
+,odor,only 3.9.8 valid,1,Ecerinis 1
+cruentus,cruentas,only old build valid,1,Medea 1
+accepto,accipio,both valid,1,Medea 1
+marchia,marchiae,Morpheus has no analysis,1,Ecerinis 1
+miro,miror,both valid,1,Hercules Oetaeus 1
+tenellum,tener,neither valid,1,Ecerinis 1
+testo,testor,both valid,1,Medea 1
+ales,alo,only 3.9.8 valid,1,Medea 1
+gnatoas,gnatoa,Morpheus has no analysis,1,Medea 1
+mactus,macto,both valid,1,Medea 1
+flagello,flagellum,both valid,1,Medea 1
+fusus,fundo,both valid,1,Ecerinis 1
+nex,neco,both valid,1,Ecerinis 1
+nascor,natis,both valid,1,Medea 1
+tracueo,trago,neither valid,1,Ecerinis 1
+bellua,belua,both valid,1,Ecerinis 1
+spons,spontus,neither valid,1,Ecerinis 1
+cratis,crates,only old build valid,1,Octavia 1
+seclusus,secludo,only 3.9.8 valid,1,Ecerinis 1
+collecta,colligo,both valid,1,Octavia 1
+progredo,progredior,only 3.9.8 valid,1,Ecerinis 1
+socia,socius,both valid,1,Hercules Oetaeus 1
+danaus,danaos,Morpheus has no analysis,1,Octavia 1
+rebello,rebellis,both valid,1,Ecerinis 1
+phrygia,phrygius,Morpheus has no analysis,1,Octavia 1
+dana,danaus,Morpheus has no analysis,1,Octavia 1
+partus,pario,both valid,1,Octavia 1
+octauius,octauia,Morpheus has no analysis,1,Octavia 1
+inmor,inmori,neither valid,1,Hercules Oetaeus 1
+ausus,ausibus,only old build valid,1,Ecerinis 1
+uenturae,uenio,only 3.9.8 valid,1,Ecerinis 1
+resis,residus,neither valid,1,Octavia 1
+inspectus,inspecto,only 3.9.8 valid,1,Ecerinis 1
+thetins,thetis,Morpheus has no analysis,1,Octavia 1
+phaethonta,phaethontum,Morpheus has no analysis,1,Hercules Oetaeus 1
+incedo,incesso,both valid,1,Octavia 1
+atridem,atris,neither valid,1,Octavia 1
+paduanus,paduani,Morpheus has no analysis,1,Ecerinis 1
+superstes,supersto,neither valid,1,Ecerinis 1
+districtualius,districtualis,Morpheus has no analysis,1,Ecerinis 1
+,leuis,only 3.9.8 valid,1,Octavia 1
+superi,superus,only 3.9.8 valid,1,Oedipus 1
+erebus,erebo,Morpheus has no analysis,1,Octavia 1
+iulius,iulium,Morpheus has no analysis,1,Octavia 1
+liuius,liuia,Morpheus has no analysis,1,Octavia 1
+uolo,uoluo,both valid,1,Octavia 1
+,estne,neither valid,1,Octavia 1
+malum,mala,both valid,1,Octavia 1
+subiectus,subicio,both valid,1,Ecerinis 1
+relatus,refero,both valid,1,Ecerinis 1
+cecido,cado,only 3.9.8 valid,1,Octavia 1
+compressum,comprimo,only 3.9.8 valid,1,Octavia 1
+condignum,condignus,only 3.9.8 valid,1,Ecerinis 1
+,amitto,only 3.9.8 valid,1,Ecerinis 1
+romanus,romani,Morpheus has no analysis,1,Octavia 1
+,uerto,only 3.9.8 valid,1,Ecerinis 1
+saeuue,saeuus,only 3.9.8 valid,1,Octavia 1
+propior,prope,neither valid,1,Hercules Oetaeus 1
+tenerus,tener,only 3.9.8 valid,1,Octavia 1
+exilio,exsilio,both valid,1,Hercules Oetaeus 1
+septus,saepio,Morpheus has no analysis,1,Ecerinis 1
+uagus,uago,both valid,1,Hercules Oetaeus 1
+circumlatrantes,circumlatro,only 3.9.8 valid,1,Ecerinis 1
+lampas,lampo,only old build valid,1,Hercules Oetaeus 1
+accendo,accensus,both valid,1,Octavia 1
+tingo,tinguo,only old build valid,1,Hercules Oetaeus 1
+lichas,lichan,Morpheus has no analysis,1,Hercules Oetaeus 1
+spuma,spumo,only old build valid,1,Ecerinis 1
+pulcrum,pulcher,only 3.9.8 valid,1,Octavia 1
+suspectus,suspicio,only 3.9.8 valid,1,Octavia 1
+sulla,sullus,Morpheus has no analysis,1,Octavia 1
+erectus,erigo,only 3.9.8 valid,1,Hercules Oetaeus 1
+dis,diues,only 3.9.8 valid,1,Octavia 1
+iuuenio,iuuenta,only 3.9.8 valid,1,Octavia 1
+alo,aluus,both valid,1,Octavia 1
+uiduaa,uiduus,both valid,1,Ecerinis 1
+patauos,patauus,Morpheus has no analysis,1,Ecerinis 1
+,certauo,neither valid,1,Ecerinis 1
+cecido,caedo,only 3.9.8 valid,1,Octavia 1
+uir,uis,both valid,1,Ecerinis 1
+abscedo,absceditus,only old build valid,1,Ecerinis 1
+lombarda,lombardum,Morpheus has no analysis,1,Ecerinis 1
+ixion,ixio,Morpheus has no analysis,1,Octavia 1
+ferrarius,ferraria,both valid,1,Ecerinis 1
+sisyphius,sisyphus,Morpheus has no analysis,1,Octavia 1
+paro,paratus,only old build valid,1,Ecerinis 1
+mantuus,mantua,Morpheus has no analysis,1,Ecerinis 1
+merces,merx,only old build valid,1,Octavia 1
+principes,princeps,only 3.9.8 valid,1,Octavia 1
+summus,summum,both valid,1,Octavia 1
+hesperius,hesperios,Morpheus has no analysis,1,Oedipus 1
+sollicitus,sollicio,only old build valid,1,Oedipus 1
+unum,unus,Morpheus has no analysis,1,Oedipus 1
+oetaeas,oetaeus,Morpheus has no analysis,1,Hercules Oetaeus 1
+aegoceri,aegoceros,only 3.9.8 valid,1,Thyestes 1
+hiems,hiemo,both valid,1,Thyestes 1
+iustaeqnis,iustaeqne,Morpheus has no analysis,1,Thyestes 1
+flammifera,flammifer,only 3.9.8 valid,1,Thyestes 1
+geminus,gemini,both valid,1,Thyestes 1
+nitidus,nitido,both valid,1,Thyestes 1
+insuetus,insuesco,only old build valid,1,Thyestes 1
+bucina,bucino,both valid,1,Thyestes 1
+flexura,flecto,both valid,1,Thyestes 1
+poeo,poeas,Morpheus has no analysis,1,Hercules Oetaeus 1
+poeas,poeo,Morpheus has no analysis,1,Hercules Oetaeus 1
+tetrum,taeter,only 3.9.8 valid,1,Thyestes 1
+postis,posteo,only old build valid,1,Hercules Oetaeus 1
+uertio,uerto,only 3.9.8 valid,1,Thyestes 1
+accommodo,accommoda,only old build valid,1,Hercules Oetaeus 1
+autumno,autumnus,neither valid,1,Hercules Oetaeus 1
+impendo,inpendo,neither valid,1,Hercules Oetaeus 1
+piscis,pisces,only old build valid,1,Thyestes 1
+hilaris,hilarus,both valid,1,Thyestes 1
+uernae,uerno,neither valid,1,Thyestes 1
+uinceo,uincio,only 3.9.8 valid,1,Thyestes 1
+decet,decens,only old build valid,1,Thyestes 1
+lenis,lenia,only old build valid,1,Hercules Oetaeus 1
+nubilum,nubila,both valid,1,Thyestes 1
+amorne,amornis,neither valid,1,Hercules Oetaeus 1
+arcadum,arcas,Morpheus has no analysis,1,Hercules Oetaeus 1
+,ursa,Morpheus has no analysis,1,Thyestes 1
+superus,summum,both valid,1,Thyestes 1
+helices,helice,only 3.9.8 valid,1,Hercules Oetaeus 1
+iussio,iubeo,only 3.9.8 valid,1,Hercules Oetaeus 1
+admixtus,admisceo,only 3.9.8 valid,1,Hercules Oetaeus 1
+draco,dracon,only old build valid,1,Thyestes 1
+uadum,uades,only old build valid,1,Hercules Oetaeus 1
+arsura,ardeo,only 3.9.8 valid,1,Hercules Oetaeus 1
+,isnauus,Morpheus has no analysis,1,Hercules Oetaeus 1
+sabaeus,sabaei,Morpheus has no analysis,1,Hercules Oetaeus 1
+,ardeo,only 3.9.8 valid,1,Hercules Oetaeus 1
+paro,pario,both valid,1,Hercules Oetaeus 1
+cleones,cleonas,Morpheus has no analysis,1,Hercules Oetaeus 1
+aurata,auro,both valid,1,Thyestes 1
+pelopia,pelopius,Morpheus has no analysis,1,Thyestes 1
+pelopus,pelops,Morpheus has no analysis,1,Thyestes 1
+arcadum,arcadae,Morpheus has no analysis,1,Hercules Oetaeus 1
+sepelio,sepulto,both valid,1,Hercules Oetaeus 1
+nixus,nitor,only 3.9.8 valid,1,Thyestes 1
+cycladae,cyclada,neither valid,1,Thyestes 1
+modus,modo,both valid,1,Thyestes 1
+uiolator,uiolo,only old build valid,1,Thyestes 1
+bruttium,bruttius,Morpheus has no analysis,1,Thyestes 1
+litus,lituus,both valid,1,Thyestes 1
+atreu,atreus,Morpheus has no analysis,1,Thyestes 1
+pressus,premo,only 3.9.8 valid,1,Thyestes 1
+secessus,secedo,both valid,1,Thyestes 1
+parca,parco,only 3.9.8 valid,1,Hercules Oetaeus 1
+luo,luceo,only 3.9.8 valid,1,Hercules Oetaeus 1
+atrociter,atrox,only 3.9.8 valid,1,Thyestes 1
+athus,athos,Morpheus has no analysis,1,Hercules Oetaeus 1
+uerus,ueru,neither valid,1,Thyestes 1
+ossas,ossa,neither valid,1,Hercules Oetaeus 1
+exurgeo,exurgo,only old build valid,1,Hercules Oetaeus 1
+,ueru,neither valid,1,Thyestes 1
+tento,tentus,only old build valid,1,Hercules Oetaeus 1
+lassus,lasso,both valid,1,Thyestes 1
+responsum,respondeo,both valid,1,Thyestes 1
+inarimen,inarime,Morpheus has no analysis,1,Hercules Oetaeus 1
+puero,puerone,neither valid,1,Thyestes 1
+adsisto,assisto,only 3.9.8 valid,1,Thyestes 1
+her,herius,neither valid,1,Hercules Oetaeus 1
+inmugio,immugio,neither valid,1,Thyestes 1
+nouissimus,nouus,both valid,1,Hercules Oetaeus 1
+augeo,auxere,only old build valid,1,Thyestes 1
+satura,saturo,both valid,1,Thyestes 1
+atrea,atreus,Morpheus has no analysis,1,Thyestes 1
+delius,delia,neither valid,1,Hercules Oetaeus 1
+,toxeus,Morpheus has no analysis,1,Hercules Oetaeus 1
+potuino,potuine,neither valid,1,Hercules Oetaeus 1
+daulius,daulias,Morpheus has no analysis,1,Hercules Oetaeus 1
+phaetontiades,phaetontiadum,Morpheus has no analysis,1,Hercules Oetaeus 1
+gigantus,gigas,Morpheus has no analysis,1,Hercules Oetaeus 1
+,sparsosue,neither valid,1,Hercules Oetaeus 1
+commodum,commodo,both valid,1,Hercules Oetaeus 1
+titanus,titan,Morpheus has no analysis,1,Hercules Oetaeus 1
+pindon,pindus,Morpheus has no analysis,1,Hercules Oetaeus 1
+hebes,hebeo,only 3.9.8 valid,1,Hercules Oetaeus 1
+os,ossa,neither valid,1,Hercules Oetaeus 1
+nrbeo,nrbis,Morpheus has no analysis,1,Hercules Oetaeus 1
+rhodope,rhodopa,Morpheus has no analysis,1,Hercules Oetaeus 1
+uitium,uitis,both valid,1,Hercules Oetaeus 1
+complector,conplector,neither valid,1,Hercules Oetaeus 1
+pario,pareo,both valid,1,Hercules Oetaeus 1
+innubis,innubo,both valid,1,Hercules Oetaeus 1
+consuetus,consuesco,neither valid,1,Hercules Oetaeus 1
+captiuus,captiua,both valid,1,Hercules Oetaeus 1
+timolus,tmolus,Morpheus has no analysis,1,Hercules Oetaeus 1
+thespias,thespiades,Morpheus has no analysis,1,Hercules Oetaeus 1
+augeo,augus,only old build valid,1,Hercules Oetaeus 1
+palladius,palladios,Morpheus has no analysis,1,Hercules Oetaeus 1
+arcadia,arcadius,Morpheus has no analysis,1,Hercules Oetaeus 1
+lar,larus,both valid,1,Hercules Oetaeus 1
+morio,morior,only 3.9.8 valid,1,Hercules Oetaeus 1
+paruus,parue,only old build valid,1,Hercules Oetaeus 1
+conteo,contineo,only 3.9.8 valid,1,Hercules Oetaeus 1
+faraulamne,faraulamnis,Morpheus has no analysis,1,Hercules Oetaeus 1
+hasno,asne,neither valid,1,Hercules Oetaeus 1
+neo,no,both valid,1,Hercules Oetaeus 1
+dis,dites,neither valid,1,Hercules Oetaeus 1
+conceptus,concipio,both valid,1,Hercules Oetaeus 1
+seco,secti,only old build valid,1,Hercules Oetaeus 1
+ismenos,ismenus,Morpheus has no analysis,1,Hercules Oetaeus 1
+imus,imo,only old build valid,1,Hercules Oetaeus 1
+erro,errare,only old build valid,1,Hercules Oetaeus 1
+thermodontia,thermodontius,Morpheus has no analysis,1,Hercules Oetaeus 1
+arcadiae,arcadius,Morpheus has no analysis,1,Hercules Oetaeus 1
+regnum,regna,only old build valid,1,Hercules Oetaeus 1
+excusdo,excutio,only 3.9.8 valid,1,Hercules Oetaeus 1
+poeantes,poeantium,Morpheus has no analysis,1,Hercules Oetaeus 1
+liber,liberus,only old build valid,1,Thyestes 1
+iaculare,iaculor,only 3.9.8 valid,1,Thyestes 1
+traiego,traicio,only 3.9.8 valid,1,Thyestes 1
+exiguum,exiguus,both valid,1,Thyestes 1
+nequus,nequeo,only 3.9.8 valid,1,Hercules Oetaeus 1
+auerndo,auerto,only 3.9.8 valid,1,Thyestes 1
+uro,urio,only old build valid,1,Thyestes 1
+noxius,noxia,both valid,1,Thyestes 1
+inmanis,immanis,only 3.9.8 valid,1,Thyestes 1
+praesto,praestus,both valid,1,Thyestes 1
+tutum,tutus,only old build valid,1,Hercules Oetaeus 1
+rudis,rudo,both valid,1,Hercules Oetaeus 1
+memoro,memorandus,both valid,1,Hercules Oetaeus 1
+licha,lichas,Morpheus has no analysis,1,Hercules Oetaeus 1
+rigeo,rigo,only old build valid,1,Hercules Oetaeus 1
+symplegades,symplegas,only 3.9.8 valid,1,Hercules Oetaeus 1
+mima,mimas,only old build valid,1,Hercules Oetaeus 1
+pompa,pompo,only old build valid,1,Hercules Oetaeus 1
+iaceo,iacerent,only old build valid,1,Hercules Oetaeus 1
+actum,acta,both valid,1,Hercules Oetaeus 1
+oriens,orior,only 3.9.8 valid,1,Hercules Oetaeus 1
+portendo,portentum,both valid,1,Hercules Oetaeus 1
+infesto,infestus,both valid,1,Hercules Oetaeus 1
+cirrhaeus,cirrhaeo,Morpheus has no analysis,1,Hercules Oetaeus 1
+trachina,trachinus,Morpheus has no analysis,1,Hercules Oetaeus 1
+oeto,oeo,neither valid,1,Hercules Oetaeus 1
+tanaus,tanais,Morpheus has no analysis,1,Hercules Oetaeus 1
+,nut,Morpheus has no analysis,1,Hercules Oetaeus 1
+seres,serus,only 3.9.8 valid,1,Thyestes 1
+tono,tonante,only old build valid,1,Hercules Oetaeus 1
+defunctus,defungor,both valid,1,Oedipus 1
+ministra,ministro,only old build valid,1,Ecerinis 1
+carus,careo,both valid,1,Ecerinis 1
+ratus,reor,only 3.9.8 valid,1,Oedipus 1
+filum,filius,both valid,1,Ecerinis 1
+seco,sectis,only old build valid,1,Hercules Oetaeus 1
+ror,reor,only 3.9.8 valid,1,Oedipus 1
+uacuus,uacuum,both valid,1,Oedipus 1
+dion,deus,neither valid,1,Ecerinis 1
+remi,remus,only 3.9.8 valid,1,Ecerinis 1
+commentum,comminiscor,both valid,1,Oedipus 1
+agauens,agaue,Morpheus has no analysis,1,Oedipus 1
+conuiuo,conuinco,only 3.9.8 valid,1,Oedipus 1
+capheris,capherides,Morpheus has no analysis,1,Hercules Oetaeus 1
+praedictum,praedico,both valid,1,Oedipus 1
+depulsus,depello,only 3.9.8 valid,1,Ecerinis 1
+implicitus,implicio,neither valid,1,Oedipus 1
+ueneo,uenus,neither valid,1,Oedipus 1
+iustus,iuxta,only old build valid,1,Oedipus 1
+iocasta,iocastus,Morpheus has no analysis,1,Oedipus 1
+seta,saeta,Morpheus has no analysis,1,Ecerinis 1
+pauitao,pauito,only 3.9.8 valid,1,Oedipus 1
+nocens,noco,only old build valid,1,Oedipus 1
+thessalas,thessalus,Morpheus has no analysis,1,Hercules Oetaeus 1
+sulphureus,sulfureus,Morpheus has no analysis,1,Ecerinis 1
+immoro,immorior,only 3.9.8 valid,1,Oedipus 1
+inprimus,inprimam,Morpheus has no analysis,1,Oedipus 1
+,uotum,only 3.9.8 valid,1,Ecerinis 1
+afflico,afflictum,neither valid,1,Oedipus 1
+angustia,angustiae,both valid,1,Ecerinis 1
+confusus,confundo,only 3.9.8 valid,1,Oedipus 1
+uersum,uersus,only 3.9.8 valid,1,Oedipus 1
+inuitus,inuo,only old build valid,1,Oedipus 1
+portentum,portendo,both valid,1,Ecerinis 1
+gnatumuo,gnatumuus,neither valid,1,Oedipus 1
+indubitatus,indubito,both valid,1,Ecerinis 1
+ales,alitis,neither valid,1,Oedipus 1
+semanima,semianimus,Morpheus has no analysis,1,Oedipus 1
+primo,premo,only 3.9.8 valid,1,Oedipus 1
+caelus,caelum,only old build valid,1,Ecerinis 1
+praesens,praesum,only old build valid,1,Ecerinis 1
+exoletus,exoletam,only old build valid,1,Oedipus 1
+obruo,obrutam,only old build valid,1,Oedipus 1
+sublabo,sublabor,only 3.9.8 valid,1,Oedipus 1
+timo,timeo,only 3.9.8 valid,1,Oedipus 1
+ocior,ociter,only old build valid,1,Hercules Oetaeus 1
+nesseus,nessus,neither valid,1,Hercules Oetaeus 1
+exaro,exardesco,neither valid,1,Ecerinis 1
+admoneo,admonitus,both valid,1,Oedipus 1
+elysium,elysius,Morpheus has no analysis,1,Hercules Oetaeus 1
+brais,braida,Morpheus has no analysis,1,Ecerinis 1
+dirimo,diremit,neither valid,1,Ecerinis 1
+gigus,gigas,only 3.9.8 valid,1,Hercules Oetaeus 1
+redeo,reditus,both valid,1,Oedipus 1
+excelsus,excelse,neither valid,1,Ecerinis 1
+accerso,accersio,neither valid,1,Oedipus 1
+nobilior,nobilis,only 3.9.8 valid,1,Oedipus 1
+uilissimus,uilis,only 3.9.8 valid,1,Ecerinis 1
+executor,executo,only old build valid,1,Ecerinis 1
+auctus,augeo,only 3.9.8 valid,1,Oedipus 1
+,eo,only 3.9.8 valid,1,Oedipus 1
+reuertor,reuersus,neither valid,1,Oedipus 1
+lubrix,lubricus,only 3.9.8 valid,1,Ecerinis 1
+tenebrae,tenebrarum,only old build valid,1,Oedipus 1
+lueo,lue,neither valid,1,Oedipus 1
+paeniteo,paenitendi,only old build valid,1,Oedipus 1
+strus,ster,Morpheus has no analysis,1,Hercules Oetaeus 1
+fatio,fateor,only 3.9.8 valid,1,Oedipus 1
+parco,parce,only old build valid,1,Hercules Oetaeus 1
+taruisius,taruisia,Morpheus has no analysis,1,Ecerinis 1
+noscisnus,noscisne,neither valid,1,Oedipus 1
+refersno,refersne,neither valid,1,Oedipus 1
+ingredor,ingredior,only 3.9.8 valid,1,Oedipus 1
+malus,pee,only old build valid,1,Thyestes 1
+pheneus,pheneum,Morpheus has no analysis,1,Hercules Oetaeus 1
+gnatius,natus,neither valid,1,Ecerinis 1
+baulus,baulis,Morpheus has no analysis,1,Thyestes 1
+styx,styge,Morpheus has no analysis,1,Hercules Oetaeus 1
+maneo,macnes,only old build valid,1,Hercules Oetaeus 1
+pacator,paco,only old build valid,1,Hercules Oetaeus 1
+dama,damma,both valid,1,Hercules Oetaeus 1
+assum,adsum,only 3.9.8 valid,1,Hercules Oetaeus 1
+maius,magnus,both valid,1,Thyestes 1
+arcanum,arcanus,both valid,1,Hercules Oetaeus 1
+duco,dux,both valid,1,Hercules Oetaeus 1
+certum,certus,only 3.9.8 valid,1,Thyestes 1
+aufero,abstulit,only old build valid,1,Thyestes 1
+trisulx,trisulcus,only 3.9.8 valid,1,Hercules Oetaeus 1
+arcthoo,arcthous,Morpheus has no analysis,1,Ecerinis 1
+instabilis,instabilio,only old build valid,1,Thyestes 1
+honesto,honestum,both valid,1,Thyestes 1
+uadum,uado,both valid,1,Hercules Oetaeus 1
+peior,malus,only 3.9.8 valid,1,Thyestes 1
+monendus,moneo,only 3.9.8 valid,1,Thyestes 1
+cleona,cleonae,Morpheus has no analysis,1,Hercules Oetaeus 1
+collocatus,colloco,only 3.9.8 valid,1,Thyestes 1
+eurydices,eurydice,Morpheus has no analysis,1,Hercules Oetaeus 1
+mansuetus,mansuesco,only 3.9.8 valid,1,Thyestes 1
+incertissimus,incertus,only 3.9.8 valid,1,Thyestes 1
+incertus,incertum,both valid,1,Thyestes 1
+siluestris,siluester,only old build valid,1,Thyestes 1
+iuuenus,iuuenis,only 3.9.8 valid,1,Thyestes 1
+occido,occideris,only old build valid,1,Thyestes 1
+bistonia,bistonius,Morpheus has no analysis,1,Hercules Oetaeus 1
+planctus,plango,only old build valid,1,Hercules Oetaeus 1
+tacitus,tacitum,only 3.9.8 valid,1,Thyestes 1
+atlans,atlas,Morpheus has no analysis,1,Hercules Oetaeus 1
+danuuii,danuuius,Morpheus has no analysis,1,Thyestes 1
+iamneo,iamnus,neither valid,1,Hercules Oetaeus 1
+struco,struo,only 3.9.8 valid,1,Thyestes 1
+thressa,thressus,Morpheus has no analysis,1,Hercules Oetaeus 1
+gestao,gesto,only 3.9.8 valid,1,Thyestes 1
+enerua,eneruis,only 3.9.8 valid,1,Thyestes 1
+incensus,incendo,both valid,1,Thyestes 1
+abigo,abiga,both valid,1,Thyestes 1
+uult,uultus,only 3.9.8 valid,1,Ecerinis 1
+frigus,frigorus,only old build valid,1,Ecerinis 1
+soluio,soluo,only 3.9.8 valid,1,Thyestes 1
+limphus,limpha,Morpheus has no analysis,1,Ecerinis 1
+inuiso,inuido,only old build valid,1,Thyestes 1
+detritus,detero,both valid,1,Hercules Oetaeus 1
+uiolentaa,uiolentus,only 3.9.8 valid,1,Thyestes 1
+furia,furio,only old build valid,1,Thyestes 1
+inausa,inausus,both valid,1,Thyestes 1
+megaera,megaero,Morpheus has no analysis,1,Hercules Oetaeus 1
+abstrago,abstraho,only 3.9.8 valid,1,Ecerinis 1
+resoneo,resonio,neither valid,1,Ecerinis 1
+aer,aes,only old build valid,1,Ecerinis 1
+pomum,pomus,both valid,1,Thyestes 1
+lernus,lerna,Morpheus has no analysis,1,Thyestes 1
+ueteer,uetus,only 3.9.8 valid,1,Thyestes 1
+tantalis,tantalus,Morpheus has no analysis,1,Thyestes 1
+eueni,euenus,Morpheus has no analysis,1,Hercules Oetaeus 1
+excelsus,excelsum,only 3.9.8 valid,1,Ecerinis 1
+grauida,grauido,only old build valid,1,Thyestes 1
+decentus,decens,neither valid,1,Thyestes 1
+aereus,aerius,only old build valid,1,Ecerinis 1
+eburnus,eburneus,only 3.9.8 valid,1,Ecerinis 1
+ioniae,ionius,Morpheus has no analysis,1,Thyestes 1
+auolsus,auello,neither valid,1,Hercules Oetaeus 1
+nitens,nitor,only 3.9.8 valid,1,Hercules Oetaeus 1
+etesia,etesiae,only 3.9.8 valid,1,Thyestes 1
+corinthii,corinthius,Morpheus has no analysis,1,Thyestes 1
+isthmi,isthmus,Morpheus has no analysis,1,Thyestes 1
+stupenda,stupendus,only 3.9.8 valid,1,Ecerinis 1
+argon,argi,Morpheus has no analysis,1,Thyestes 1
+iuridus,iurida,Morpheus has no analysis,1,Medea 1
+nata,gnata,Morpheus has no analysis,1,Phoenissae 1
+uector,uecto,only old build valid,1,Medea 1
+distinctus,distinguo,only 3.9.8 valid,1,Phaedra 1
+,iacio,only 3.9.8 valid,1,Phaedra 1
+expeditus,expedio,both valid,1,Phaedra 1
+tyrii,tyrius,Morpheus has no analysis,1,Phaedra 1
+tinguens,tingo,Morpheus has no analysis,1,Phaedra 1
+luca,lucas,Morpheus has no analysis,1,Phaedra 1
+poeni,poenus,neither valid,1,Phaedra 1
+persa,persis,neither valid,1,Phaedra 1
+claua,clauo,only old build valid,1,Phaedra 1
+zmaragdus,smaragdus,only 3.9.8 valid,1,Phaedra 1
+,laetor,only 3.9.8 valid,1,Troades 1
+tardus,tardo,both valid,1,Phaedra 1
+breuior,breuis,only 3.9.8 valid,1,Phaedra 1
+cygnus,cycnus,only 3.9.8 valid,1,Phaedra 1
+os,ora,both valid,1,Phaedra 1
+decretum,decerno,both valid,1,Phaedra 1
+,modero,only 3.9.8 valid,1,Phaedra 1
+praeuero,praeuerto,only 3.9.8 valid,1,Phaedra 1
+ariadnus,ariadne,Morpheus has no analysis,1,Phaedra 1
+seuer,seuerus,only 3.9.8 valid,1,Phaedra 1
+mandatum,mando,both valid,1,Phaedra 1
+florens,floreo,only 3.9.8 valid,1,Phaedra 1
+iuuen,iuuenis,only 3.9.8 valid,1,Phaedra 1
+thesees,theseus,Morpheus has no analysis,1,Phaedra 1
+raptor,rapto,only old build valid,1,Phaedra 1
+serua,seruo,only old build valid,1,Phaedra 1
+primaeuos,primaeuus,only 3.9.8 valid,1,Phaedra 1
+iuuentus,iuuenta,only 3.9.8 valid,1,Phaedra 1
+secretus,secerno,only 3.9.8 valid,1,Phaedra 1
+commodo,commodes,only old build valid,1,Phaedra 1
+fax,facio,both valid,1,Phaedra 1
+horreus,horreo,only 3.9.8 valid,1,Phaedra 1
+galea,galeo,only old build valid,1,Phaedra 1
+cornus,cornu,both valid,1,Phaedra 1
+ius,io,only old build valid,1,Phaedra 1
+sollicitus,solliceo,only old build valid,1,Phaedra 1
+iusco,iuuo,only 3.9.8 valid,1,Phaedra 1
+strepitus,strepo,only old build valid,1,Phaedra 1
+patior,patum,only old build valid,1,Phaedra 1
+fenus,faenus,only 3.9.8 valid,1,Phaedra 1
+mulco,mulceo,only 3.9.8 valid,1,Phaedra 1
+clauso,claudo,only 3.9.8 valid,1,Phaedra 1
+supera,superum,only old build valid,1,Phaedra 1
+teres,tero,only old build valid,1,Phaedra 1
+paruus,minor,only old build valid,1,Phaedra 1
+feta,fetus,only 3.9.8 valid,1,Phaedra 1
+ilisus,ilissus,Morpheus has no analysis,1,Phaedra 1
+uerna,uerno,both valid,1,Phaedra 1
+roriferus,rorifer,only 3.9.8 valid,1,Phaedra 1
+riphaeus,riphaea,Morpheus has no analysis,1,Phaedra 1
+captiua,captiuus,both valid,1,Troades 1
+expuus,expuo,Morpheus has no analysis,1,Troades 1
+humouio,humouis,neither valid,1,Troades 1
+iamia,iamiam,only 3.9.8 valid,1,Troades 1
+hermio,hermione,Morpheus has no analysis,1,Troades 1
+achiuus,achiui,Morpheus has no analysis,1,Troades 1
+praeruptus,praerumpo,both valid,1,Troades 1
+,prendo,Morpheus has no analysis,1,Troades 1
+coro,cora,only 3.9.8 valid,1,Troades 1
+queror,quaero,only old build valid,1,Troades 1
+mactator,macto,only old build valid,1,Troades 1
+uinus,uen,only old build valid,1,Phaedra 1
+histrus,hister,Morpheus has no analysis,1,Phaedra 1
+fulti,fulcio,only 3.9.8 valid,1,Phaedra 1
+gaetuli,gaetulus,Morpheus has no analysis,1,Phaedra 1
+suetus,suesco,both valid,1,Phaedra 1
+uagum,uagus,only 3.9.8 valid,1,Phaedra 1
+uanum,uanus,both valid,1,Phaedra 1
+occultus,occulo,only 3.9.8 valid,1,Phaedra 1
+superus,supero,both valid,1,Phaedra 1
+rego,rectum,both valid,1,Phaedra 1
+defunctus,defungor,only 3.9.8 valid,1,Phaedra 1
+soli,sol,only 3.9.8 valid,1,Phaedra 1
+efferum,efferus,only 3.9.8 valid,1,Phaedra 1
+miseret,misereo,only 3.9.8 valid,1,Phaedra 1
+atthidus,atthis,Morpheus has no analysis,1,Phaedra 1
+tela,telum,only old build valid,1,Phaedra 1
+inueo,inuius,only 3.9.8 valid,1,Phaedra 1
+argutus,arguo,only 3.9.8 valid,1,Phaedra 1
+sarmatus,sarmata,Morpheus has no analysis,1,Phaedra 1
+pyrenes,pyrene,Morpheus has no analysis,1,Phaedra 1
+uro,urus,only old build valid,1,Phaedra 1
+cretices,creticus,Morpheus has no analysis,1,Phaedra 1
+labes,labo,only old build valid,1,Phaedra 1
+colchidus,colchis,Morpheus has no analysis,1,Phaedra 1
+dolentus,doleo,Morpheus has no analysis,1,Phaedra 1
+semanimis,semanimem,neither valid,1,Phaedra 1
+inrideo,irrideo,only 3.9.8 valid,1,Phaedra 1
+deuius,deuio,both valid,1,Phaedra 1
+phaethonta,phaethon,Morpheus has no analysis,1,Phaedra 1
+adsiduus,assiduus,only 3.9.8 valid,1,Phaedra 1
+constrico,constringo,only 3.9.8 valid,1,Phaedra 1
+superus,summa,both valid,1,Phaedra 1
+praepetor,praeepno,neither valid,1,Phaedra 1
+hortatus,hortor,both valid,1,Phaedra 1
+uenator,uenor,only old build valid,1,Phaedra 1
+fuco,fucus,both valid,1,Phaedra 1
+haustus,haurio,only old build valid,1,Phaedra 1
+unda,undo,only old build valid,1,Phaedra 1
+epidaurus,epidauri,Morpheus has no analysis,1,Phaedra 1
+,cresco,neither valid,1,Phaedra 1
+altus,altum,both valid,1,Phaedra 1
+substrictum,substringo,only 3.9.8 valid,1,Phaedra 1
+distinctus,distinguo,both valid,1,Phaedra 1
+hocen,hocine,neither valid,1,Phaedra 1
+arbustus,arbustum,both valid,1,Phaedra 1
+,gaudeo,only 3.9.8 valid,1,Phaedra 1
+solusue,solusuus,neither valid,1,Phaedra 1
+tityo,tityus,Morpheus has no analysis,1,Phaedra 1
+,mittaruo,neither valid,1,Phaedra 1
+cogo,coacto,both valid,1,Phaedra 1
+taenareus,taetnareus,Morpheus has no analysis,1,Phaedra 1
+incestus,incesto,both valid,1,Phaedra 1
+impiatus,impio,only 3.9.8 valid,1,Phaedra 1
+diuulgo,diuello,neither valid,1,Phaedra 1
+daedalea,daedaleus,Morpheus has no analysis,1,Phaedra 1
+interior,intimo,only 3.9.8 valid,1,Phaedra 1
+percitus,percio,only 3.9.8 valid,1,Phaedra 1
+actaeus,actaea,only 3.9.8 valid,1,Phaedra 1
+ala,alis,only old build valid,1,Phaedra 1
+cybeles,cybele,Morpheus has no analysis,1,Phaedra 1
+,plirygiurn,Morpheus has no analysis,1,Phaedra 1
+humanus,humana,both valid,1,Phaedra 1
+abominaiidus,abominaiida,Morpheus has no analysis,1,Phaedra 1
+famulatus,famulor,both valid,1,Phaedra 1
+perennis,perenno,both valid,1,Phaedra 1
+fugiendus,fugio,only 3.9.8 valid,1,Phaedra 1
+tinnitus,tinnio,both valid,1,Phaedra 1
+arcadae,arcades,Morpheus has no analysis,1,Phaedra 1
+dryades,dryas,Morpheus has no analysis,1,Phaedra 1
+naides,nais,Morpheus has no analysis,1,Phaedra 1
+lico,liceo,only 3.9.8 valid,1,Phaedra 1
+auia,auus,only old build valid,1,Phaedra 1
+desero,desertum,both valid,1,Phaedra 1
+praetereo,praeteritus,only old build valid,1,Phaedra 1
+sapiens,sapio,both valid,1,Phaedra 1
+deceo,decet,only 3.9.8 valid,1,Phaedra 1
+bromium,bromius,Morpheus has no analysis,1,Phaedra 1
+territus,territo,only 3.9.8 valid,1,Phaedra 1
+perpetuus,perpetuum,both valid,1,Phaedra 1
+intonsus,intondeo,both valid,1,Phaedra 1
+adspectus,aspicio,neither valid,1,Phaedra 1
+sano,sanus,both valid,1,Phaedra 1
+arquiteno,arcitenens,only 3.9.8 valid,1,Phaedra 1
+torrens,torreo,both valid,1,Phaedra 1
+ro,rano,neither valid,1,Phaedra 1
+clarior,clare,neither valid,1,Phaedra 1
+paco,paciscor,only 3.9.8 valid,1,Phaedra 1
+supercilis,supercilium,only 3.9.8 valid,1,Phaedra 1
+uotus,uotum,only 3.9.8 valid,1,Phaedra 1
+abominor,abomino,only old build valid,1,Phaedra 1
+obuerndo,obuerto,only 3.9.8 valid,1,Phaedra 1
+numiuis,numiui,Morpheus has no analysis,1,Phaedra 1
+tetrus,taeter,only 3.9.8 valid,1,Phaedra 1
+stuprator,stupro,only old build valid,1,Phaedra 1
+resto,resisto,only old build valid,1,Phaedra 1
+coruscum,coruscus,both valid,1,Phaedra 1
+optego,optegis,neither valid,1,Phaedra 1
+praetento,praetendo,both valid,1,Phaedra 1
+lueo,luendus,neither valid,1,Phaedra 1
+reduco,redux,only old build valid,1,Phaedra 1
+phlegethon,phlegethons,Morpheus has no analysis,1,Phaedra 1
+antiquo,antiquus,both valid,1,Phaedra 1
+senium,senex,only old build valid,1,Phaedra 1
+ammentum,amentum,Morpheus has no analysis,1,Phaedra 1
+comparo,compareo,both valid,1,Phaedra 1
+sortitor,sortior,only old build valid,1,Troades 1
+reuigo,reuiuo,neither valid,1,Troades 1
+hyades,hyas,Morpheus has no analysis,1,Medea 1
+postergus,postergum,Morpheus has no analysis,1,Phoenissae 1
+renatus,renascor,neither valid,1,Troades 1
+cadmus,cadmi,Morpheus has no analysis,1,Phoenissae 1
+pugno,pugna,both valid,1,Phoenissae 1
+frangendus,frango,only 3.9.8 valid,1,Phoenissae 1
+,auerto,only 3.9.8 valid,1,Phoenissae 1
+comitatus,comitor,both valid,1,Phoenissae 1
+maeandros,maeander,Morpheus has no analysis,1,Phoenissae 1
+,potesne,neither valid,1,Phoenissae 1
+uingo,uincio,only 3.9.8 valid,1,Phoenissae 1
+demo,demos,both valid,1,Troades 1
+argolix,argolicus,Morpheus has no analysis,1,Phoenissae 1
+adolesco,adultus,only old build valid,1,Phoenissae 1
+amphion,amphionis,Morpheus has no analysis,1,Phoenissae 1
+petendus,peto,only 3.9.8 valid,1,Phoenissae 1
+exercitus,exerceo,both valid,1,Phoenissae 1
+conspicio,conspectus,both valid,1,Phoenissae 1
+inridens,irrideo,only 3.9.8 valid,1,Phoenissae 1
+laetus,laeto,both valid,1,Phoenissae 1
+atuersus,aduersum,only 3.9.8 valid,1,Troades 1
+lymphatus,lympho,both valid,1,Troades 1
+legens,lego,only 3.9.8 valid,1,Troades 1
+helenium,helenus,only old build valid,1,Troades 1
+scyer,scyrus,Morpheus has no analysis,1,Troades 1
+falso,falsus,both valid,1,Troades 1
+triton,tritonum,Morpheus has no analysis,1,Troades 1
+rigeo,rigo,both valid,1,Troades 1
+neptunium,neptunius,Morpheus has no analysis,1,Troades 1
+caedo,cado,both valid,1,Troades 1
+adsuetus,adsuesco,neither valid,1,Troades 1
+sigeus,sigea,Morpheus has no analysis,1,Troades 1
+postremus,posterus,only 3.9.8 valid,1,Troades 1
+extremus,exterior,only old build valid,1,Troades 1
+imum,inferus,only old build valid,1,Troades 1
+soluimus,soluo,only 3.9.8 valid,1,Troades 1
+uela,uelo,both valid,1,Troades 1
+cybeba,cybebe,Morpheus has no analysis,1,Troades 1
+amycla,amyclae,Morpheus has no analysis,1,Troades 1
+ida,ide,Morpheus has no analysis,1,Troades 1
+,captiuus,only 3.9.8 valid,1,Troades 1
+egeo,ago,both valid,1,Phoenissae 1
+uereor,uereris,only old build valid,1,Phoenissae 1
+mane,maneo,both valid,1,Phoenissae 1
+suffiho,suffigo,only 3.9.8 valid,1,Phoenissae 1
+proculcauo,proculco,only 3.9.8 valid,1,Phoenissae 1
+uolo,uoles,only old build valid,1,Phoenissae 1
+tartae,tatarus,Morpheus has no analysis,1,Phoenissae 1
+,auia,only 3.9.8 valid,1,Phoenissae 1
+,auus,only 3.9.8 valid,1,Phoenissae 1
+boeotii,boeotius,Morpheus has no analysis,1,Phoenissae 1
+sparta,sparo,Morpheus has no analysis,1,Phoenissae 1
+prorutes,proruo,only 3.9.8 valid,1,Phoenissae 1
+esceo,escendo,only 3.9.8 valid,1,Phoenissae 1
+coipio,coepto,only 3.9.8 valid,1,Phoenissae 1
+dux,duco,both valid,1,Phoenissae 1
+lampas,lampo,both valid,1,Phoenissae 1
+fatum,faueo,only old build valid,1,Phoenissae 1
+uis,uias,only old build valid,1,Phoenissae 1
+subiectum,subicio,both valid,1,Phoenissae 1
+crueo,cruentus,only 3.9.8 valid,1,Phoenissae 1
+inrido,irrisus,only 3.9.8 valid,1,Phoenissae 1
+situs,sino,only 3.9.8 valid,1,Phoenissae 1
+eximium,eximius,only 3.9.8 valid,1,Phoenissae 1
+clipeus,clipeo,both valid,1,Phoenissae 1
+praecoquus,praecox,only old build valid,1,Phoenissae 1
+affusus,adfundo,neither valid,1,Phoenissae 1
+tegumen,tegimen,only 3.9.8 valid,1,Phoenissae 1
+paco,panquo,neither valid,1,Phoenissae 1
+sollicitus,solliceor,only old build valid,1,Phoenissae 1
+tt,t,Morpheus has no analysis,1,Phoenissae 1
+eloio,uolo,only 3.9.8 valid,1,Phoenissae 1
+inachium,inachius,Morpheus has no analysis,1,Phoenissae 1
+,cessatuo,neither valid,1,Phoenissae 1
+compositus,compono,both valid,1,Phoenissae 1
+subrectus,surgo,only 3.9.8 valid,1,Phoenissae 1
+adruastus,adrastus,Morpheus has no analysis,1,Phoenissae 1
+cauo,cauum,both valid,1,Phoenissae 1
+caro,carus,both valid,1,Phoenissae 1
+transnao,transno,neither valid,1,Phoenissae 1
+nocentis,noceo,only 3.9.8 valid,1,Phoenissae 1
+pensum,pensus,only old build valid,1,Phoenissae 1
+scelestus,scelestis,only old build valid,1,Phoenissae 1
+uastum,uastus,only 3.9.8 valid,1,Troades 1
+placio,placitum,only 3.9.8 valid,1,Troades 1
+phrygae,phryges,Morpheus has no analysis,1,Troades 1
+prothoi,prothous,Morpheus has no analysis,1,Troades 1
+tricce,tricca,Morpheus has no analysis,1,Troades 1
+gortyni,gortynis,Morpheus has no analysis,1,Troades 1
+domitor,domito,neither valid,1,Troades 1
+uo,uastus,only 3.9.8 valid,1,Troades 1
+andromacha,andromache,Morpheus has no analysis,1,Troades 1
+patiens,patieo,neither valid,1,Troades 1
+tristus,tristiter,neither valid,1,Troades 1
+caedes,caedo,both valid,1,Troades 1
+sto,status,only old build valid,1,Troades 1
+ulixis,ulixes,Morpheus has no analysis,1,Troades 1
+machinator,machinor,only old build valid,1,Troades 1
+famulo,famulor,both valid,1,Troades 1
+carina,carino,only old build valid,1,Troades 1
+,afflictus,neither valid,1,Troades 1
+laertes,laertus,Morpheus has no analysis,1,Troades 1
+sanctus,sanctaus,neither valid,1,Troades 1
+armo,armatus,both valid,1,Troades 1
+motho,mothone,Morpheus has no analysis,1,Troades 1
+carystos,carystus,Morpheus has no analysis,1,Troades 1
+pelasgus,pelasgi,Morpheus has no analysis,1,Troades 1
+calydna,calydnae,Morpheus has no analysis,1,Troades 1
+par,paro,both valid,1,Troades 1
+sigeon,sigeum,Morpheus has no analysis,1,Troades 1
+mittendus,mitto,only 3.9.8 valid,1,Troades 1
+iactandus,iacto,only 3.9.8 valid,1,Troades 1
+iudico,iudex,both valid,1,Troades 1
+iudex,iudicium,both valid,1,Troades 1
+teucris,teucri,Morpheus has no analysis,1,Troades 1
+uersis,uerro,only 3.9.8 valid,1,Troades 1
+prostro,prosterno,only 3.9.8 valid,1,Troades 1
+phrygis,phryges,Morpheus has no analysis,1,Troades 1
+lectus,lego,both valid,1,Troades 1
+inlaetabilis,illaetabilis,only 3.9.8 valid,1,Troades 1
+zacyntho,zacynthus,Morpheus has no analysis,1,Troades 1
+miser,miserus,only old build valid,1,Troades 1
+titaressus,titaressos,Morpheus has no analysis,1,Troades 1
+peparethus,peparethos,Morpheus has no analysis,1,Troades 1
+enispes,enispe,Morpheus has no analysis,1,Troades 1
+admouendus,admoueo,only 3.9.8 valid,1,Troades 1
+iurandum,iuro,both valid,1,Troades 1
+infeco,inficio,only 3.9.8 valid,1,Troades 1
+complector,complexus,both valid,1,Troades 1
+phrygas,phryges,Morpheus has no analysis,1,Troades 1
+uerro,uerto,both valid,1,Troades 1
+flendus,fleo,only 3.9.8 valid,1,Troades 1
+aspero,asper,both valid,1,Troades 1
+noxia,noxius,both valid,1,Troades 1
+dissico,dissicio,Morpheus has no analysis,1,Troades 1
+grauida,grauido,both valid,1,Troades 1
+mycenaea,mycenaeus,Morpheus has no analysis,1,Troades 1
+thessala,thessalus,Morpheus has no analysis,1,Troades 1
+ror,ratis,only 3.9.8 valid,1,Troades 1
+aeaco,aeacus,Morpheus has no analysis,1,Troades 1
+atreius,atreus,Morpheus has no analysis,1,Troades 1
+iamnus,iamno,neither valid,1,Troades 1
+solusne,solusno,neither valid,1,Troades 1
+uenio,uenus,only old build valid,1,Troades 1
+flammatum,flammo,only 3.9.8 valid,1,Troades 1
+impensus,impendo,both valid,1,Troades 1
+porta,porto,both valid,1,Troades 1
+adfligo,affligo,only 3.9.8 valid,1,Troades 1
+debeo,debitum,only old build valid,1,Troades 1
+phryges,phrygis,Morpheus has no analysis,1,Troades 1
+maturo,maturus,both valid,1,Troades 1
+inuitus,inuito,both valid,1,Troades 1
+stultus,stulta,only old build valid,1,Troades 1
+uarius,uario,both valid,1,Troades 1
+andromacha,andromacham,Morpheus has no analysis,1,Troades 1
+magnifico,magnificus,both valid,1,Troades 1
+coactus,coacio,neither valid,1,Troades 1
+graius,graii,Morpheus has no analysis,1,Troades 1
+procerus,procer,only old build valid,1,Troades 1
+depono,depositum,both valid,1,Troades 1
+cephallanus,cephallanum,Morpheus has no analysis,1,Troades 1
+fuga,fugo,both valid,1,Troades 1
+,turpisne,neither valid,1,Troades 1
+uicio,uiuo,only 3.9.8 valid,1,Troades 1
+uerendus,uereor,only 3.9.8 valid,1,Troades 1
+polleo,pollens,only old build valid,1,Troades 1
+quauex,quaue,neither valid,1,Troades 1
+disiectum,disicio,only 3.9.8 valid,1,Phaedra 1
+laceo,lacer,only 3.9.8 valid,1,Phaedra 1
+ponendus,pono,only 3.9.8 valid,1,Phaedra 1
+flammiferus,flammifer,only 3.9.8 valid,1,Hercules Furens 1
+uinmco,uincio,only 3.9.8 valid,1,Hercules Furens 1
+proximus,propior,only old build valid,1,Hercules Furens 1
+pello,pellis,both valid,1,Hercules Furens 1
+decoro,decorus,both valid,1,Hercules Furens 1
+fundo,funda,both valid,1,Hercules Furens 1
+mago,macio,neither valid,1,Hercules Furens 1
+inelo,illino,only 3.9.8 valid,1,Hercules Furens 1
+aduro,adustas,only old build valid,1,Hercules Furens 1
+rutilo,rutilus,both valid,1,Hercules Furens 1
+laeuo,laeuus,only 3.9.8 valid,1,Phaedra 1
+hiberna,hibernus,both valid,1,Hercules Furens 1
+odor,odorus,both valid,1,Hercules Furens 1
+belligero,belligera,only old build valid,1,Hercules Furens 1
+tethyoss,tethys,Morpheus has no analysis,1,Hercules Furens 1
+permixo,permisceo,neither valid,1,Hercules Furens 1
+solus,sol,both valid,1,Hercules Furens 1
+uentus,uenio,both valid,1,Hercules Furens 1
+tegmen,tegimen,only 3.9.8 valid,1,Hercules Furens 1
+corytum,corytus,neither valid,1,Hercules Furens 1
+actaea,actaeum,only old build valid,1,Hercules Furens 1
+dardanius,dardanii,Morpheus has no analysis,1,Hercules Furens 1
+geryonus,geryon,Morpheus has no analysis,1,Hercules Furens 1
+arto,artum,both valid,1,Hercules Furens 1
+tutum,tueor,both valid,1,Hercules Furens 1
+laudandus,laudo,only 3.9.8 valid,1,Hercules Furens 1
+afflicto,affligo,both valid,1,Hercules Furens 1
+desero,desertae,only old build valid,1,Hercules Furens 1
+canus,cani,both valid,1,Hercules Furens 1
+uenero,uenerandos,neither valid,1,Hercules Furens 1
+cerbero,cerberus,Morpheus has no analysis,1,Hercules Furens 1
+ereo,erebus,neither valid,1,Hercules Furens 1
+inferus,infer,only old build valid,1,Hercules Furens 1
+structus,struo,both valid,1,Hercules Furens 1
+actum,ago,both valid,1,Hercules Furens 1
+sympleges,symplego,neither valid,1,Hercules Furens 1
+scythes,scythen,Morpheus has no analysis,1,Hercules Furens 1
+abruptus,abrumpo,only 3.9.8 valid,1,Hercules Furens 1
+obliuiscor,oblite,only old build valid,1,Hercules Furens 1
+libyaeue,libyaeuis,Morpheus has no analysis,1,Hercules Furens 1
+lapithae,lapitha,Morpheus has no analysis,1,Hercules Furens 1
+concauae,concauus,only 3.9.8 valid,1,Hercules Furens 1
+uolo,uolens,both valid,1,Hercules Furens 1
+parca,parricus,neither valid,1,Hercules Furens 1
+inremeabilis,irremeabilis,only 3.9.8 valid,1,Hercules Furens 1
+ago,actus,both valid,1,Hercules Furens 1
+annuo,annuus,both valid,1,Hercules Furens 1
+carbasum,carbasa,neither valid,1,Hercules Furens 1
+peruigilo,peruigil,only old build valid,1,Hercules Furens 1
+bonus,boni,only old build valid,1,Hercules Furens 1
+trabs,trabes,only old build valid,1,Hercules Furens 1
+inrogo,irrogo,neither valid,1,Hercules Furens 1
+fiagro,fiago,Morpheus has no analysis,1,Hercules Furens 1
+remolo,remolior,only 3.9.8 valid,1,Hercules Furens 1
+oedipodes,oedipus,Morpheus has no analysis,1,Hercules Furens 1
+iuuius,iuuiter,Morpheus has no analysis,1,Hercules Furens 1
+decor,decorus,both valid,1,Hercules Furens 1
+nardus,nardum,both valid,1,Hercules Furens 1
+natalis,natales,both valid,1,Hercules Furens 1
+uiolo,uiola,both valid,1,Hercules Furens 1
+pacatus,paco,only 3.9.8 valid,1,Hercules Furens 1
+fauonium,fauonius,Morpheus has no analysis,1,Hercules Furens 1
+colus,color,only old build valid,1,Hercules Furens 1
+danaides,danais,Morpheus has no analysis,1,Hercules Furens 1
+nestorea,nestoream,Morpheus has no analysis,1,Hercules Furens 1
+tityos,tityus,Morpheus has no analysis,1,Hercules Furens 1
+quieto,quietus,neither valid,1,Hercules Furens 1
+bella,bellum,only 3.9.8 valid,1,Hercules Furens 1
+taxum,taxus,only 3.9.8 valid,1,Hercules Furens 1
+urgueo,urguet,neither valid,1,Hercules Furens 1
+inuitas,inuitus,only 3.9.8 valid,1,Hercules Furens 1
+abdo,abdio,only old build valid,1,Hercules Furens 1
+creontus,creon,Morpheus has no analysis,1,Hercules Furens 1
+obso,obsero,only 3.9.8 valid,1,Hercules Furens 1
+lugubris,lugubre,only old build valid,1,Hercules Furens 1
+tuno,tunus,neither valid,1,Hercules Furens 1
+secundus,secundo,both valid,1,Hercules Furens 1
+uenia,uenio,both valid,1,Hercules Furens 1
+exero,exeris,neither valid,1,Hercules Furens 1
+inlustris,illustris,only 3.9.8 valid,1,Hercules Furens 1
+sparta,spartus,Morpheus has no analysis,1,Hercules Furens 1
+pylos,pylus,Morpheus has no analysis,1,Hercules Furens 1
+affligo,afflictus,only old build valid,1,Hercules Furens 1
+scelero,sceleratus,only old build valid,1,Hercules Furens 1
+nisus,nitor,both valid,1,Hercules Furens 1
+profundus,profundum,both valid,1,Medea 1
+aeeta,aeetas,Morpheus has no analysis,1,Medea 1
+aggredor,aggredior,only 3.9.8 valid,1,Medea 1
+amplexus,amplector,both valid,1,Medea 1
+retineuda,retineudus,Morpheus has no analysis,1,Medea 1
+desernus,deserno,Morpheus has no analysis,1,Medea 1
+reuico,reuinco,only 3.9.8 valid,1,Medea 1
+natus,nascor,only old build valid,1,Medea 1
+,ausasqne,Morpheus has no analysis,1,Medea 1
+,phrixeus,Morpheus has no analysis,1,Medea 1
+terrigenus,terrigena,only 3.9.8 valid,1,Medea 1
+thessalus,thessala,Morpheus has no analysis,1,Medea 1
+symplegadae,symplegadas,neither valid,1,Medea 1
+phasin,phasis,Morpheus has no analysis,1,Medea 1
+penas,penates,only 3.9.8 valid,1,Medea 1
+fugieo,fugio,only 3.9.8 valid,1,Medea 1
+incola,incolo,both valid,1,Medea 1
+turbatus,turbo,only 3.9.8 valid,1,Medea 1
+tumidiue,tumidiuus,neither valid,1,Medea 1
+metus,meta,only 3.9.8 valid,1,Medea 1
+adiutus,adiuuo,only 3.9.8 valid,1,Medea 1
+oet,oeta,neither valid,1,Medea 1
+confundo,confusus,only old build valid,1,Medea 1
+inritus,irritus,only 3.9.8 valid,1,Medea 1
+pirenides,pirenidus,Morpheus has no analysis,1,Medea 1
+hesperius,hesperia,Morpheus has no analysis,1,Medea 1
+baeto,baetis,Morpheus has no analysis,1,Medea 1
+sueba,suebae,Morpheus has no analysis,1,Medea 1
+lux,lucus,both valid,1,Medea 1
+arabs,arabes,neither valid,1,Medea 1
+serpens,serpo,only old build valid,1,Medea 1
+colchus,colchi,Morpheus has no analysis,1,Medea 1
+apto,aptus,both valid,1,Medea 1
+,orbεs,Morpheus has no analysis,1,Medea 1
+aggestis,aggero,only 3.9.8 valid,1,Medea 1
+exerto,exserto,Morpheus has no analysis,1,Medea 1
+squamiferus,squamifer,only 3.9.8 valid,1,Medea 1
+nauplius,nauple,only old build valid,1,Medea 1
+idmonis,idmon,Morpheus has no analysis,1,Medea 1
+creons,creon,Morpheus has no analysis,1,Medea 1
+thulus,thule,Morpheus has no analysis,1,Medea 1
+quauex,quaua,neither valid,1,Hercules Furens 1
+adflicto,affligo,only 3.9.8 valid,1,Medea 1
+prŏfessus,profiteor,only 3.9.8 valid,1,Medea 1
+patieo,patiens,neither valid,1,Medea 1
+silus,sileo,both valid,1,Medea 1
+pelasgus,pelasgae,Morpheus has no analysis,1,Medea 1
+,occido,only 3.9.8 valid,1,Medea 1
+aeolia,aeolius,Morpheus has no analysis,1,Medea 1
+prehendo,prendo,both valid,1,Medea 1
+cecropias,cecropius,Morpheus has no analysis,1,Medea 1
+,uinco,only 3.9.8 valid,1,Medea 1
+ebrius,ebrio,both valid,1,Medea 1
+intempto,intentatus,neither valid,1,Medea 1
+latina,latinus,Morpheus has no analysis,1,Medea 1
+tono,tonantibus,only old build valid,1,Medea 1
+tremendus,tremo,both valid,1,Medea 1
+auersus,auerto,only 3.9.8 valid,1,Medea 1
+abdo,abditus,both valid,1,Hercules Furens 1
+orior,ortus,both valid,1,Hercules Furens 1
+colchis,colchi,Morpheus has no analysis,1,Medea 1
+fello,fulgo,neither valid,1,Medea 1
+persae,persa,neither valid,1,Medea 1
+achiuus,achiuae,Morpheus has no analysis,1,Medea 1
+albinus,albis,neither valid,1,Medea 1
+motus,moueo,both valid,1,Medea 1
+compactus,compaciscor,only 3.9.8 valid,1,Medea 1
+peloros,pelorus,Morpheus has no analysis,1,Medea 1
+sepositus,sepono,only 3.9.8 valid,1,Medea 1
+prolo,prolato,only 3.9.8 valid,1,Medea 1
+olenia,olenius,Morpheus has no analysis,1,Medea 1
+pluuia,pluuius,both valid,1,Medea 1
+auris,aura,both valid,1,Medea 1
+lues,luo,both valid,1,Medea 1
+exsilium,exilium,both valid,1,Medea 1
+parandus,paro,only 3.9.8 valid,1,Medea 1
+auspicatus,auspicor,only 3.9.8 valid,1,Medea 1
+pellis,pella,only old build valid,1,Medea 1
+audendus,audeo,only 3.9.8 valid,1,Medea 1
+legendus,lego,only 3.9.8 valid,1,Medea 1
+calx,calco,only 3.9.8 valid,1,Medea 1
+tartarea,tartareus,Morpheus has no analysis,1,Hercules Furens 1
+potior,potis,both valid,1,Hercules Furens 1
+animosnio,animosne,neither valid,1,Hercules Furens 1
+ionia,ionius,Morpheus has no analysis,1,Agamemnon 1
+pallades,pallas,neither valid,1,Agamemnon 1
+conluceo,colluceo,only 3.9.8 valid,1,Agamemnon 1
+exto,exsto,both valid,1,Agamemnon 1
+rudeo,rudens,only 3.9.8 valid,1,Agamemnon 1
+tento,tentum,only old build valid,1,Agamemnon 1
+agamemnus,agamemno,Morpheus has no analysis,1,Agamemnon 1
+aiacus,aiax,neither valid,1,Agamemnon 1
+icarius,icarium,Morpheus has no analysis,1,Agamemnon 1
+tonsus,tonsa,only 3.9.8 valid,1,Agamemnon 1
+populor,populo,both valid,1,Agamemnon 1
+conuulndo,conuello,neither valid,1,Agamemnon 1
+nabataeus,nabathaeus,Morpheus has no analysis,1,Agamemnon 1
+emolio,emolior,only 3.9.8 valid,1,Agamemnon 1
+dius,diu,only old build valid,1,Agamemnon 1
+adnato,annato,only old build valid,1,Agamemnon 1
+rolictus,roligo,Morpheus has no analysis,1,Agamemnon 1
+recurro,recursus,only 3.9.8 valid,1,Agamemnon 1
+isthmos,isthmus,Morpheus has no analysis,1,Agamemnon 1
+lemnos,lemnon,Morpheus has no analysis,1,Agamemnon 1
+laureus,laurea,both valid,1,Agamemnon 1
+palamedes,palames,Morpheus has no analysis,1,Agamemnon 1
+uiduo,uiduus,both valid,1,Agamemnon 1
+uinco,uicere,only old build valid,1,Agamemnon 1
+comitor,comitatus,both valid,1,Agamemnon 1
+pauida,pauidus,only 3.9.8 valid,1,Agamemnon 1
+conquesto,conquesta,neither valid,1,Agamemnon 1
+biston,bistonis,Morpheus has no analysis,1,Agamemnon 1
+itys,ityn,Morpheus has no analysis,1,Agamemnon 1
+uerno,uernus,both valid,1,Agamemnon 1
+aequaeuo,aequaeuus,only 3.9.8 valid,1,Agamemnon 1
+resisto,resto,only 3.9.8 valid,1,Agamemnon 1
+thetidisquus,thetidisquo,Morpheus has no analysis,1,Agamemnon 1
+doricus,dorici,Morpheus has no analysis,1,Agamemnon 1
+bellum,bellus,both valid,1,Agamemnon 1
+puluereamues,puluereamuus,neither valid,1,Agamemnon 1
+sacrifieaiculus,sacrifiea,Morpheus has no analysis,1,Agamemnon 1
+laeto,laetor,both valid,1,Agamemnon 1
+breuius,breuis,only 3.9.8 valid,1,Agamemnon 1
+auctus,augeo,both valid,1,Agamemnon 1
+figo,fixus,only old build valid,1,Agamemnon 1
+solitum,solitus,only old build valid,1,Agamemnon 1
+optutus,obtutus,neither valid,1,Agamemnon 1
+pereundus,pereo,only 3.9.8 valid,1,Agamemnon 1
+uersum,uerto,both valid,1,Agamemnon 1
+uenerus,uenus,Morpheus has no analysis,1,Agamemnon 1
+auspicatus,auspicor,both valid,1,Agamemnon 1
+sacrifico,sacrificus,both valid,1,Agamemnon 1
+coniunx,coniugium,both valid,1,Agamemnon 1
+rapiendus,rapio,only 3.9.8 valid,1,Agamemnon 1
+obsimo,obsideo,only 3.9.8 valid,1,Agamemnon 1
+tumido,tumidus,both valid,1,Agamemnon 1
+coniunctum,coniungo,both valid,1,Agamemnon 1
+mycenaeus,mycenaeas,Morpheus has no analysis,1,Agamemnon 1
+uenena,ueneno,only 3.9.8 valid,1,Agamemnon 1
+impus,impos,Morpheus has no analysis,1,Agamemnon 1
+planum,planus,both valid,1,Agamemnon 1
+uincar,uinco,only 3.9.8 valid,1,Agamemnon 1
+pelasgae,pelasgi,Morpheus has no analysis,1,Agamemnon 1
+abruptus,abruptum,only 3.9.8 valid,1,Phaedra 1
+pacificus,pacifico,both valid,1,Agamemnon 1
+agamemnon,agamemnonis,Morpheus has no analysis,1,Agamemnon 1
+triuius,triuia,only old build valid,1,Agamemnon 1
+prosperus,prosper,both valid,1,Agamemnon 1
+grandaeui,grandaeuus,only 3.9.8 valid,1,Agamemnon 1
+,uenio,only 3.9.8 valid,1,Agamemnon 1
+buxus,buxum,both valid,1,Agamemnon 1
+relatus,refero,only 3.9.8 valid,1,Agamemnon 1
+thespius,thespias,Morpheus has no analysis,1,Agamemnon 1
+inachius,inachia,Morpheus has no analysis,1,Agamemnon 1
+argisue,argisua,Morpheus has no analysis,1,Agamemnon 1
+inlicitus,illicitus,only 3.9.8 valid,1,Agamemnon 1
+inferior,inferus,only 3.9.8 valid,1,Agamemnon 1
+spartamne,spartamnis,Morpheus has no analysis,1,Agamemnon 1
+obstrictus,obstringo,both valid,1,Agamemnon 1
+menelaum,menelaus,Morpheus has no analysis,1,Agamemnon 1
+admitto,admissum,both valid,1,Agamemnon 1
+priuo,priuatus,both valid,1,Agamemnon 1
+resideo,resido,both valid,1,Agamemnon 1
+feresno,feresne,neither valid,1,Agamemnon 1
+ueridicum,ueridicus,only 3.9.8 valid,1,Agamemnon 1
+uersus,uerro,only 3.9.8 valid,1,Agamemnon 1
+,maenaas,Morpheus has no analysis,1,Agamemnon 1
+strigo,stringo,only 3.9.8 valid,1,Hercules Furens 1
+aduro,adustus,only old build valid,1,Hercules Furens 1
+memor,memoro,both valid,1,Hercules Furens 1
+cristas,cristatus,only 3.9.8 valid,1,Hercules Furens 1
+fulcio,fulgeo,both valid,1,Hercules Furens 1
+paruus,paruum,only old build valid,1,Hercules Furens 1
+suspendo,suspensus,only old build valid,1,Hercules Furens 1
+bacchus,baccha,Morpheus has no analysis,1,Hercules Furens 1
+uersus,uerso,only 3.9.8 valid,1,Hercules Furens 1
+arcadus,arcados,Morpheus has no analysis,1,Hercules Furens 1
+mouendus,moueo,only 3.9.8 valid,1,Hercules Furens 1
+perfectus,perficio,only 3.9.8 valid,1,Hercules Furens 1
+perciueo,percio,only 3.9.8 valid,1,Hercules Furens 1
+uitiata,uitio,only 3.9.8 valid,1,Hercules Furens 1
+oppono,oppositus,only 3.9.8 valid,1,Hercules Furens 1
+discordo,discors,only old build valid,1,Hercules Furens 1
+nocens,noceo,Morpheus has no analysis,1,Hercules Furens 1
+eumenis,eumenides,Morpheus has no analysis,1,Hercules Furens 1
+excitus,excio,only 3.9.8 valid,1,Hercules Furens 1
+maenalis,maenalius,Morpheus has no analysis,1,Hercules Furens 1
+augeum,augeas,Morpheus has no analysis,1,Hercules Furens 1
+deuico,deuinco,only 3.9.8 valid,1,Hercules Furens 1
+cadinus,cadini,Morpheus has no analysis,1,Hercules Furens 1
+uictrix,uitricus,only old build valid,1,Hercules Furens 1
+effero,efferatus,only old build valid,1,Hercules Furens 1
+tractum,traho,both valid,1,Hercules Furens 1
+sipylum,sipylus,Morpheus has no analysis,1,Hercules Furens 1
+domino,dominor,only 3.9.8 valid,1,Hercules Furens 1
+euboica,euboicus,Morpheus has no analysis,1,Hercules Furens 1
+patior,patiens,only old build valid,1,Hercules Furens 1
+adsto,asto,only 3.9.8 valid,1,Hercules Furens 1
+phoca,phocis,both valid,1,Hercules Furens 1
+,urbs,Morpheus has no analysis,1,Hercules Furens 1
+pes,pedes,both valid,1,Hercules Furens 1
+fiuctuans,fiuctuantes,Morpheus has no analysis,1,Hercules Furens 1
+excito,excio,both valid,1,Hercules Furens 1
+modero,moderor,both valid,1,Hercules Furens 1
+centenus,centeni,only 3.9.8 valid,1,Hercules Furens 1
+absens,absum,only 3.9.8 valid,1,Hercules Furens 1
+modulor,modulatus,both valid,1,Hercules Furens 1
+congredio,congredior,only 3.9.8 valid,1,Hercules Furens 1
+erebus,erebo,neither valid,1,Hercules Furens 1
+duplico,duplex,both valid,1,Agamemnon 1
+regemne,regemnis,neither valid,1,Agamemnon 1
+amico,amictus,only 3.9.8 valid,1,Agamemnon 1
+instruco,instruo,only 3.9.8 valid,1,Agamemnon 1
+lamna,lamina,only 3.9.8 valid,1,Agamemnon 1
+,hebriue,Morpheus has no analysis,1,Agamemnon 1
+parrhases,parrhasis,Morpheus has no analysis,1,Agamemnon 1
+adligo,adlego,neither valid,1,Agamemnon 1
+iratus,iro,neither valid,1,Agamemnon 1
+arabs,arabis,Morpheus has no analysis,1,Agamemnon 1
+limo,limus,both valid,1,Agamemnon 1
+saluo,salueo,only 3.9.8 valid,1,Agamemnon 1
+peruagao,peruagor,only 3.9.8 valid,1,Agamemnon 1
+semustus,semusta,only old build valid,1,Agamemnon 1
+uictricemqna,uictricemqnes,Morpheus has no analysis,1,Agamemnon 1
+,uictamqne,Morpheus has no analysis,1,Agamemnon 1
+phlegethontes,phlegethontis,Morpheus has no analysis,1,Agamemnon 1
+troiles,troilus,Morpheus has no analysis,1,Agamemnon 1
+patior,passus,both valid,1,Agamemnon 1
+horreum,horreo,both valid,1,Agamemnon 1
+uenerus,uenus,neither valid,1,Agamemnon 1
+uico,uinco,only 3.9.8 valid,1,Hercules Furens 1
+exter,extremus,only 3.9.8 valid,1,Agamemnon 1
+armado,armo,only 3.9.8 valid,1,Hercules Furens 1
+aethiopus,aethiops,Morpheus has no analysis,1,Hercules Furens 1
+tinguo,tinguit,Morpheus has no analysis,1,Hercules Furens 1
+tyndarides,tyndaridae,Morpheus has no analysis,1,Hercules Furens 1
+angulo,angulus,both valid,1,Agamemnon 1
+ultimus,ultimo,only 3.9.8 valid,1,Agamemnon 1
+subcumbo,subcumbet,Morpheus has no analysis,1,Agamemnon 1
+inuideo,inuido,only old build valid,1,Agamemnon 1
+natus,gnatus,neither valid,1,Agamemnon 1
+truculens,truculentus,only 3.9.8 valid,1,Agamemnon 1
+pylas,pyladus,Morpheus has no analysis,1,Agamemnon 1
+laeuas,laeuus,only 3.9.8 valid,1,Agamemnon 1
+insigne,insignis,both valid,1,Agamemnon 1
+ludicrum,ludicer,only 3.9.8 valid,1,Agamemnon 1
+concusdo,concutio,only 3.9.8 valid,1,Agamemnon 1
+emereo,emeritus,both valid,1,Agamemnon 1
+cassus,co,only old build valid,1,Agamemnon 1
+fido,fidite,only old build valid,1,Ecerinis 1

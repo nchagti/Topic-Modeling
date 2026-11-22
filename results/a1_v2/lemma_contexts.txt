@@ -1,0 +1,846 @@
+## 1 | manes -> manes (NOUN) | n=26 ece=1 | Morpheus: maneo (verb); mano (verb) | LiLa: noun, proper_noun
+   Troade: conditum regno tegit , tuos que [[manes]] quo stetit stante Ilium ,
+   Troade: deos , deos que ueros coniugis [[manes]] mei : non aliud ,
+   Troade: perfer querelae uerba : ' si [[manes]] habent curas priores nec perit
+## 2 | imo -> inferus (ADJ) | n=15 ece=1 | Morpheus: imum (noun); imus (adjective) | LiLa: adjective
+   Troade: e uersis metus , hostes ab [[imo]] conditi Dite exeunt — solisne
+   Troade: celas adiget inuitam dolor et pectore [[imo]] condita arcana eruet : necessitas
+   Troade: undas Hectoris sparsi cinis ac tumulus [[imo]] totus aequetur solo . nunc
+## 3 | adest -> assum (VERB) | n=11 ece=1 | Morpheus: adsum (verb) | LiLa: noun, verb
+   Troade: sinu profundo conde depositum meum . [[adest]] Ulixes , et quidem dubio
+   Phaedr: . en ipse Theseus redditus terris [[adest]] . tandem profugi noctis aeternae
+   Agamem: post decima Phoebi lustra deuicto Ilio [[adest]] — daturus coniugi iugulum suae
+## 4 | tutus -> tuor (ADJ) | n=11 ece=3 | Morpheus: tueor (verb) | LiLa: noun, verb
+   Phaedr: primo obstitit pepulit que amorem , [[tutus]] ac uictor fuit ; qui
+   Medea: , uide : nemo potentes aggredi [[tutus]] potest . O dura fata
+   Medea: , ueniam precamur , uiuat ut [[tutus]] mare qui subegit , sed
+## 5 | tuta -> tutus (ADJ) | n=10 ece=1 | Morpheus: tueor (verb); tuto (verb); tutum (noun) | LiLa: -
+   Troade: dices sponte quod fari abnuis . [[tuta]] est , perire quae potest
+   Agamem: turbae sorte quietus aura stringit litora [[tuta]] timidus que mari credere cumbam
+   Agamem: . quid , segnis anime , [[tuta]] consilia expetis ? quid fluctuaris
+## 6 | nata -> nascor (VERB) | n=10 ece=0 | Morpheus: nata (noun); nato (verb); natus (adjective); natus1 (adjective) | LiLa: verb
+   Phoeni: exsequi supplicia , quid me , [[nata]] , pestifero tenes amore uinctum
+   Phoeni: infestis petit fodit que uultus , [[nata]] , genitorem uides ? ego
+   Phoeni: tramite angusto patet eruere possem : [[nata]] , iam sensum tui ,
+## 7 | paelex -> pellex (NOUN) | n=8 ece=0 | Morpheus: paelex (noun) | LiLa: noun
+   Agamem: est nuptae malum palam mariti possidens [[paelex]] domum . nec regna socium
+   Agamem: persoluet suo captiua coniunx , regii [[paelex]] tori . trahite , ut
+   Hercul: soli gestit querulos inter nidos thracia [[paelex]] , turba que circa confusa
+## 8 | extremum -> exter (ADJ) | n=8 ece=1 | Morpheus: extremum (noun); extremus (adjective) | LiLa: adjective
+   Troade: a caede effera mortalis aeui cardinem [[extremum]] premens superi que testes sceleris
+   Agamem: mente horrui adest profecto , rebus [[extremum]] meis . quid terga uertis
+   Agamem: timuere muris , perdidit in malis [[extremum]] decus fortiter uinci : restitit
+## 9 | tutum -> tutus (ADJ) | n=7 ece=0 | Morpheus: tueor (verb); tutum (noun) | LiLa: -
+   Phaedr: maritus supera non cernit loca , [[tutum]] esse facinus credis et uacuum
+   Phaedr: et semet timens ? scelus aliqua [[tutum]] , nulla securum tulit .
+   Phaedr: inpunita fuit . te melior deus [[tutum]] praetereat forma que nobilis deformis
+## 10 | gnati -> natus (NOUN) | n=7 ece=2 | Morpheus: nascor (noun) | LiLa: noun
+   Phoeni: ensem paterna , tradis ? an [[gnati]] tenent cum regno et illum
+   Phaedr: nouos . miscere thalamos patris et [[gnati]] apparas utero que prolem capere
+   Phaedr: : a fratre frater , dextera [[gnati]] parens cecidit , maritus coniugis
+## 11 | maenas -> maenas (NOUN) | n=6 ece=0 | Morpheus: maena (noun) | LiLa: noun, proper_noun
+   Phoeni: gestauit et spolium tulit cruenta nati [[maenas]] in partes dati ; fecit
+   Medea: entheos gressus tulit cum iam recepto [[maenas]] insanit deo Pindi niualis uertice
+   Medea: ab unda , tibi nudato pectore [[maenas]] sacro feriam bracchia cultro .
+## 12 | imis -> inferus (ADJ) | n=5 ece=0 | Morpheus: imi (noun); imum (noun); imus (adjective) | LiLa: adjective
+   Phaedr: immitis , spicula cuius sentit in [[imis]] peruius undis rex Nereidum flammam
+   Agamem: fluctus , non Euxini turget ab [[imis]] commota uadis unda niuali uicina
+   Agamem: tridente rupem subruit pulsam pater neptunus [[imis]] exerens undis caput soluit que
+## 13 | tuto -> tutus (ADJ) | n=5 ece=0 | Morpheus: tueor (verb); tuto (adverb); tutum (noun) | LiLa: -
+   Phoeni: mala exire possunt , in loco [[tuto]] est situs . quis iam
+   Hercul: : me mea tellus lare secreto [[tuto]] que tegat . uenit ad
+   Oedipu: nimis sollicita semper , liceat hoc [[tuto]] tibi exuere pondus nec recedentem
+## 14 | sponte -> spons (NOUN) | n=5 ece=2 | Morpheus: sponte (noun) | LiLa: noun
+   Troade: quaero omnia . ULBL Coacta dices [[sponte]] quod fari abnuis . tuta
+   Troade: saeuos ciet ad sacra superos , [[sponte]] desiluit sua in media Priami
+   Hercul: . haut est nocens quicumque non [[sponte]] est nocens . quicumque fato
+## 15 | iratae -> iratus (ADJ) | n=5 ece=0 | Morpheus: irascor (verb) | LiLa: adjective
+   Agamem: : iustae parenti satis . at [[iratae]] parum . morieris hodie .
+   Medea: m actas moreris que dextra matris [[iratae]] , meruere cuncti morte quod
+   Hercul: . est aliquid hydra peius : [[iratae]] dolor nuptae , quis ignis
+## 16 | extremus -> exter (ADJ) | n=4 ece=0 | Morpheus: extremus (adjective); extro (verb) | LiLa: adjective
+   Troade: fulgent genae magis que solito splendet [[extremus]] decor , ut esse Phoebi
+   Hercul: scelus ? perimes maritum , cuius [[extremus]] dies primus que laudes nouit
+   Hercul: mihi , totiens honestam : titulus [[extremus]] quis est ? uiden ut
+## 17 | carbasa -> carbasa (NOUN) | n=4 ece=0 | Morpheus: carbasus (noun) | LiLa: noun
+   Hercul: sonat murmure mixto testata diem . [[carbasa]] uentis credit dubius nauita uitae
+   Hercul: fluctibus , et qua plena rates [[carbasa]] tenderent , intonsis teritur semita
+   Medea: habebant . ausus Tiphys pandere uasto [[carbasa]] ponto leges que nouas scribere
+## 18 | terna -> ternus (ADJ) | n=4 ece=0 | Morpheus: terni (adjective) | LiLa: adjective
+   Phaedr: genitor aequoreus dedit ut uota prono [[terna]] concipiam deo . et inuocata
+   Hercul: me quoque inuasit tremor , et [[terna]] monstri colla deuicti intuens timui
+   Hercul: umbras territat Stygius canis , qui [[terna]] uasto capita concutiens sono regnum
+## 19 | paelicis -> pellex (NOUN) | n=4 ece=0 | Morpheus: paelex (noun) | LiLa: noun
+   Phaedr: simul . genus omne profugit . [[paelicis]] careo metu . aderit maritus
+   Hercul: fera est . namque ut reluxit [[paelicis]] captae decus et fulsit Iole
+   Hercul: feruet manus . perimes maritum ? [[paelicis]] certe meae . at Ioue
+## 20 | arctos -> arctus (PROPN) | n=4 ece=0 | Morpheus: arceo (verb); arctos (noun); artus1 (adjective) | LiLa: adjective, noun
+   Hercul: : paelices caelum tenent , hinc [[Arctos]] alta parte glacialis poli sublime
+   Medea: astra , dum siccas polus uersabit [[Arctos]] , flumina in pontum cadent
+   Oedipu: alta que caeruleum dum Nerea nesciet [[Arctos]] , candida formonsi uenerabimur ora
+## 21 | manes -> mane (NOUN) | n=4 ece=0 | Morpheus: maneo (verb); mano (verb) | LiLa: noun
+   Troade: uestem : tumulus hanc tetigit meus [[manes]] que cari . si quid
+   Phaedr: ultra lucidum Hippolytum diem adeat que [[manes]] iuuenis iratos patri , fer
+   Hercul: caecos aditus inire , ducit ad [[manes]] uia qua remotos tristis et
+## 22 | docta -> doctus (ADJ) | n=4 ece=0 | Morpheus: doceo (verb) | LiLa: proper_noun
+   Troade: ; deprime horrentis comas crinem que [[docta]] patere distingui manu . hic
+   Phaedr: dextrae locus , hic laeua frenis [[docta]] moderandis manus ponenda : laeui
+   Agamem: flectere carmen simplex , lusus cum [[docta]] tuos musa recenset ; licet
+## 23 | coepit -> coepi (VERB) | n=4 ece=0 | Morpheus: coepio (verb) | LiLa: verb
+   Troade: uirgo , melior afflictos deus respicere [[coepit]] te que felici parat dotare
+   Hercul: negantur : Hercules monstri loco iam [[coepit]] esse ; quanta enim fregi
+   Hercul: semel profecto premere felices deus cum [[coepit]] , urget , hos habent
+## 24 | ruinis -> ruino (NOUN) | n=4 ece=0 | Morpheus: ruina (noun) | LiLa: verb
+   Troade: Oetaeis latebrosa siluis misit infestos Troiae [[ruinis]] non semel arcus ? olenos
+   Troade: comparatus . dulce in immensis posito [[ruinis]] , nemiuem laetos habuisse uultus
+   Hercul: ; in populos furit , nuptas [[ruinis]] quaerit et uitium impotens uirtus
+## 25 | extremo -> exter (ADJ) | n=4 ece=0 | Morpheus: extremo (verb); extremum (noun); extremus (adjective) | LiLa: adjective
+   Phaedr: immensam trahit squamosa partem , talis [[extremo]] mari pistrix citatas sorbet aut
+   Medea: manus : adire certe et coniugem [[extremo]] alioqui sermone potuit — hoc
+   Oedipu: felicem statum : tuto mouetur quicquid [[extremo]] in loco est . nobilius
+## 26 | solito -> solitus (ADJ) | n=4 ece=0 | Morpheus: soleo (verb); solito (verb); solitum (noun) | LiLa: -
+   Troade: pectus tundite uasto , non sum [[solito]] contenta sono : Hectora flemus
+   Agamem: . nunc leuat in auras altior [[solito]] caput graditur que celsa ,
+   Hercul: , surge et aduersa impetu perfringe [[solito]] , nunc tuum nulli imparem
+## 27 | imos -> inferus (ADJ) | n=4 ece=0 | Morpheus: imi (noun); imus (adjective) | LiLa: adjective
+   Troade: cunctae : liber manes uadit ad [[imos]] , nec feret umquam uicta
+   Medea: , ultrices deas manes que ad [[imos]] ire securas iube : mihi
+   Oedipu: corpus et frondem quatit , lugubris [[imos]] palla perfundit pedes , squalente
+## 28 | ima -> inferus (ADJ) | n=4 ece=1 | Morpheus: imum (noun); imus (adjective) | LiLa: adjective
+   Hercul: regna ne summa occupet qui uicit [[ima]] : sceptra praeripiet patri .
+   Medea: mala et uile telum est . [[ima]] quod tellus creat : caelo
+   Oedipu: que tenebrarum potens , m Tartara [[ima]] , rector umbrarum , rape
+## 29 | horrendum -> horrendus (ADJ) | n=3 ece=0 | Morpheus: horreo (verb) | LiLa: adjective
+   Phoeni: . B. felix Agaue : facinus [[horrendum]] manu , qua fecerat ,
+   Hercul: ardentem citae concutite pinum et agmen [[horrendum]] anguibus megaera ducat atque luctifica
+   Thyest: luem sparsum pestis , ducam in [[horrendum]] nefas auus nepotes — magne
+## 30 | extrema -> exter (ADJ) | n=3 ece=0 | Morpheus: extremum (noun); extremus (adjective) | LiLa: adjective
+   Hercul: glacialis ursae ? numquid Hesperii maris [[extrema]] tellus hunc dat Oceano modum
+   Medea: est et illud , uoce iam [[extrema]] peto , ne , si
+   Oedipu: non timida hauriam . [ solent [[extrema]] facere securos mala . ]
+## 31 | diuersa -> diuersus (ADJ) | n=3 ece=0 | Morpheus: diverto (verb); divorto (verb) | LiLa: -
+   Phoeni: externi tegunt . te maria tot [[diuersa]] , tot casus uagum egere
+   Phaedr: latebras premam : longinqua clausa abstrusa [[diuersa]] inuia emetiemur , nullus obstabit
+   Hercul: supplicium iubet nescit tyrannus esse : [[diuersa]] inroga ; miserum ueta perire
+## 32 | imas -> inferus (ADJ) | n=3 ece=1 | Morpheus: imus (adjective) | LiLa: adjective
+   Hercul: secundo maria qui sceptro regis , [[imas]] pete undas , quisquis ex
+   Medea: , quas cum primum sumpserit , [[imas]] urat serpens flamma medullas .
+   Ecerin: uirtus superas , crimen tenebras expetit [[imas]] . dum licet ergo moniti
+## 33 | cadmea -> cadmeius (ADJ) | n=3 ece=0 | Morpheus: cadmia (noun) | LiLa: adjective
+   Phoeni: bella dispositi parant , animo pari [[Cadmea]] progenies subit , cursu citato
+   Phoeni: armis cateruas uidit , equitatu leui [[Cadmea]] frangi prata et excelsos rotis
+   Oedipu: uaecors , qualis attonita et furens [[Cadmea]] mater abstulit gnato caput sensit
+## 34 | septena -> septenus (ADJ) | n=3 ece=0 | Morpheus: septeni (adjective) | LiLa: adjective, noun
+   Phoeni: bella cunctos Graeciae populos agit ; [[septena]] muros castra Thebanos premunt ,
+   Phoeni: que pugnam signifer mota uocat . [[septena]] reges bella dispositi parant ,
+   Troade: cuius arma uenit et qui frigidum [[septena]] Tanain ora pandentem bibit ,
+## 35 | oblita -> oblino (VERB) | n=3 ece=0 | Morpheus: oblitor (verb); obliviscor (verb) | LiLa: verb
+   Troade: huc pauida , nunc illuc ferens [[oblita]] nati misera quaesiui Hectorem :
+   Octavi: nupta demens nupsit incesta face , [[oblita]] nostri , coniugis , legum
+   Hercul: serpens latebras fugit . [ tunc [[oblita]] ueneni . ] quin per
+## 36 | aequoris -> aequo (NOUN) | n=3 ece=0 | Morpheus: aequor (noun) | LiLa: verb
+   Troade: tot pelagi deae placidum que numen [[aequoris]] tumidi Thetis suam uocabunt ,
+   Octavi: manes inhumata tuos , obruta saeuis [[aequoris]] undis ' . feriunt fluctus
+   Hercul: auditum quoque nauita , inferni ratis [[aequoris]] nullo remigio uenit . sic
+## 37 | remisso -> remissus (ADJ) | n=3 ece=1 | Morpheus: remitto (verb) | LiLa: noun
+   Phoeni: temporum haut ipsa mora fractas , [[remisso]] pectore ac placido feras :
+   Hercul: obuius reptabat infans igneos serpentium oculos [[remisso]] lumine ac placido intuens ;
+   Ecerin: Procellis aestuat uastis mare , turbine [[remisso]] quod patitur ultro rates .
+## 38 | ictibus -> ico (NOUN) | n=3 ece=1 | Morpheus: ictus2 (noun) | LiLa: verb
+   Phoeni: uiscerum nuda sinus . fractum incitatis [[ictibus]] guttur sonet lacerae que fixis
+   Hercul: Nabatae uulnera dirigit parthus Gnosiacis certior [[ictibus]] , muros Oechaliae corpore propulit
+   Ecerin: . supplices renes feriant habenis , [[ictibus]] crebris domitent reatus . annuat
+## 39 | spectator -> specto (NOUN) | n=3 ece=1 | Morpheus: spectator (noun) | LiLa: verb
+   Troade: aliquis ( nefas ) tumulo ferus [[spectator]] Hectoreo sedet . per spatia
+   Medea: , derat hoc unum mihi , [[spectator]] iste . nil adhuc facti
+   Ecerin: , corrumpit sanies aethera desuper . [[spectator]] queritur iudicii parum , dum
+## 40 | perlucet -> pelluceo (VERB) | n=3 ece=0 | Morpheus: perluceo (verb) | LiLa: verb
+   Phaedr: loca , ubi Lerna puro gelida [[perlucet]] uado , sedes que mutas
+   Agamem: , si pateris , tua . [[perlucet]] omne regiae uitium domus .
+   Hercul: postes ; culmen impulsum labet . [[perlucet]] omnis regia : hic uideo
+## 41 | summisit -> summisit (VERB) | n=3 ece=0 | Morpheus: summitto (verb) | LiLa: -
+   Agamem: tibi felix diu potentis Asiae Troia [[summisit]] manus , quid ista uates
+   Hercul: infregit minas et cuncta lassus capita [[summisit]] canis antro que toto cessit
+   Octavi: , sui ; tibi numen incruenta [[summisit]] suum et dedit habenas imperi
+## 42 | cadmeis -> cadmeius (ADJ) | n=3 ece=0 | Morpheus: cadmia (noun) | LiLa: adjective
+   Hercul: Titan summa prospicit Oeta ; iam [[Cadmeis]] incluta Bacchis aspersa die dumeta
+   Oedipu: fragore maior humano sonus : mitia [[Cadmeis]] remeabunt sidera Thebis , si
+   Hercul: .et uirgineos celebrare choros . nos [[Cadmeis]] orgia ferre te cum solitae
+## 43 | natam -> nascor (VERB) | n=3 ece=0 | Morpheus: nata (noun); natus (adjective); natus1 (adjective) | LiLa: verb
+   Troade: ferum mactare credis ? at tuam [[natam]] parens Helenae immolasti : solita
+   Troade: hanc anilis expuam leti moram ? [[natam]] an nepotem , coniugem an
+   Agamem: . quis esse credat uirginem ? [[natam]] , tuam ? modestiae cum
+## 44 | aurato -> auratus (ADJ) | n=3 ece=0 | Morpheus: auro (verb) | LiLa: -
+   Hercul: illic quae uiduis gentibus imperat , [[aurato]] religans ilia balteo , detraxit
+   Oedipu: laxi fluidum que syrma . uidit [[aurato]] residere curru , ueste cum
+   Hercul: nec quae Zephyro subdita tellus stupet [[aurato]] flumine clarum radiare Tagum ;
+## 45 | subito -> subitus (ADJ) | n=3 ece=1 | Morpheus: subeo (verb); subito (adverb); subitum (noun) | LiLa: -
+   Hercul: , audi , nate . cur [[subito]] labant agitata motu templa ?
+   Medea: claustra profundi , hinc atque illinc [[subito]] impulsu uelut aetherio gemerent sonitu
+   Ecerin: tolle consilium tuis salubre uotis . [[Subito]] Paduanos cape , uerona uinctos
+## 46 | exarsit -> exardesco (VERB) | n=2 ece=1 | Morpheus: ex-ardeo (verb) | LiLa: verb
+   Thyest: qua cum percaluit sanguis et igneis [[exarsit]] facibus , stat miser obuios
+   Ecerin: nam pulsus inde Marchio iusta furens [[exarsit]] ira , cuius in partem
+## 47 | putres -> putris (ADJ) | n=2 ece=0 | Morpheus: putreo (verb) | LiLa: adjective
+   Octavi: polluto foro , stillante sanie per [[putres]] uultus graui . nec finis
+   Oedipu: , curuos que tendit quercus et [[putres]] situ annosa ramos : huius
+## 48 | supremum -> superior (ADJ) | n=2 ece=0 | Morpheus: superus (adjective); suprema (noun); supremum (noun) | LiLa: noun
+   Phaedr: opem gnato , parens : numquam [[supremum]] numinis munus tui consumeremus .
+   Oedipu: lacrimae : portat hunc aeger parens [[supremum]] ad ignem , mater hunc
+## 49 | secreto -> secretus (ADJ) | n=2 ece=0 | Morpheus: secerno (verb); secretum (noun) | LiLa: -
+   Hercul: eat : me mea tellus lare [[secreto]] tuto que tegat . uenit
+   Medea: sile , obsecro , questus que [[secreto]] abditos manda dolori , grauia
+## 50 | remotos -> remotus (VERB) | n=2 ece=0 | Morpheus: removeo (verb) | LiLa: -
+   Hercul: non leuem populis metum ? inter [[remotos]] gentis Hesperiae greges pastor triformis
+   Thyest: gracili diuidens terra uada , longe [[remotos]] tutus exaudit sonos . iam
+## 51 | sparsa -> sparsus (VERB) | n=2 ece=0 | Morpheus: spargo1 (verb) | LiLa: -
+   Phaedr: que igniferi rector Olympi , qui [[sparsa]] cito sidera mundo cursus que
+   Agamem: sors maris dubii uetat . ut [[sparsa]] tumidum classis excepit mare ,
+## 52 | quieti -> quietus (ADJ) | n=2 ece=0 | Morpheus: quies1 (noun); quiesco (verb); quieti (noun); quietum (noun) | LiLa: adjective, proper_noun
+   Phaedr: , nullus inspirat salo uentus , [[quieti]] nulla pars caeli strepit placidum
+   Oedipu: que saxis uasta dirimentem freta quamuis [[quieti]] uerberat fluctus maris , imperia
+## 53 | horrentes -> horrens (ADJ) | n=2 ece=0 | Morpheus: horreo (verb) | LiLa: -
+   Hercul: Sidonia latus ? fortem uocemus cuius [[horrentes]] comae maduere nardo , laude
+   Oedipu: stetit , incipit Letoa uates spargere [[horrentes]] comas et pati commota Phoebum
+## 54 | suspecta -> suspectus (ADJ) | n=2 ece=0 | Morpheus: suspecto1 (verb); suspicio1 (verb) | LiLa: noun
+   Medea: sceptra , ne cupias uide . [[suspecta]] ne sint , longa colloquia
+   Octavi: cui me ciuium subicit furor , [[suspecta]] coniunx et soror semper mihi
+## 55 | fulges -> fulgo (VERB) | n=2 ece=0 | Morpheus: fulgeo (verb) | LiLa: verb
+   Phaedr: , quacumque siderei poli in parte [[fulges]] , inuoco ad causam parem
+   Hercul: , testor : occurri tibi quacumque [[fulges]] , nec meos lux prosequi
+## 56 | effusos -> effusus (ADJ) | n=2 ece=0 | Morpheus: effundo (verb) | LiLa: noun
+   Hercul: frontem premens ? Non erubescit Bacchus [[effusos]] tener sparsisse crines nec manu
+   Oedipu: mollem bacifera religare frontem . spargere [[effusos]] sine lege crines , rursus
+## 57 | supremus -> supremus (ADJ) | n=2 ece=1 | Morpheus: superus (adjective) | LiLa: adjective
+   Octavi: iterum : tunc adest mundo dies [[supremus]] ille , qui premat genus
+   Ecerin: quis finis eius , fare , [[supremus]] fuit ? tum plura stantem
+## 58 | uere -> uere (NOUN) | n=2 ece=0 | Morpheus: ver (noun); verum (noun); verum2 (noun); verus (adjective) | LiLa: -
+   Medea: Suebae nobiles Hyrcaniis ; quodcumque tellus [[uere]] nidifico creat aut rigida cum
+   Hercul: soluit aut tepidus Notus , quas [[uere]] primo lucidus perdit Mimans ,
+## 59 | silentum -> silens (ADJ) | n=2 ece=0 | Morpheus: silentes (noun); silentus (adjective) | LiLa: -
+   Medea: uocibus primis tremit . compreeor uulgus [[silentum]] uos que ferales deos et
+   Hercul: que traxi spolia Thermodontiae . uidi [[silentum]] fata nec tantum redi ,
+## 60 | septenos -> septenus (ADJ) | n=2 ece=0 | Morpheus: septeni (adjective) | LiLa: adjective, noun
+   Medea: Tantalidos meo exisset utero bis que [[septenos]] parens natos tulissem ! sterilis
+   Hercul: stetit succisa fetu , bis que [[septenos]] gregem deplanxit una : gregibus
+## 61 | silentem -> silens (ADJ) | n=2 ece=0 | Morpheus: sileo (verb) | LiLa: -
+   Phaedr: tetigit supera qui mersus semel adiit [[silentem]] nocte perpetua domum . ne
+   Hercul: domitor orbis et Graium decus tristi [[silentem]] nubilo liquit domum ? estne
+## 62 | supera -> superum (NOUN) | n=2 ece=0 | Morpheus: supera (noun); supero (verb); superus (adjective) | LiLa: noun
+   Phaedr: : non umquam amplius conuexa tetigit [[supera]] qui mersus semel adiit silentem
+   Hercul: ? inferna tetigit , posset ut [[supera]] assequi . telluris illum pondus
+## 63 | placatos -> placatus (ADJ) | n=2 ece=0 | Morpheus: placo (verb) | LiLa: -
+   Phaedr: , confugimus ad te : pande [[placatos]] sinus . audite , Athenae
+   Agamem: , pater altisona quatiens regna , [[placatos]] deos . nunc omne laeta
+## 64 | neglecta -> negligo (VERB) | n=2 ece=0 | Morpheus: neglego (verb) | LiLa: verb
+   Agamem: ense fessum miles exonerat latus , [[neglecta]] summas scuta per puppes iacent
+   Octavi: telis aut petit praedae imminens . [[neglecta]] terras fugit et mores feros
+## 65 | ardentem -> ardens (ADJ) | n=2 ece=0 | Morpheus: ardeo (verb) | LiLa: -
+   Hercul: Iuno feras . ambit peremptus cancer [[ardentem]] plagam libyae que sidus fertur
+   Hercul: idem fuit . tremente pinum dextera [[ardentem]] impulit . refugit ignis et
+## 66 | occultum -> occultus (ADJ) | n=2 ece=1 | Morpheus: occulo (verb); occulta (noun); occultum (noun) | LiLa: -
+   Oedipu: subita praedonum manus aggressa ferro facinus [[occultum]] tulit . in tempore ipso
+   Ecerin: tellus nefas latere patitur ; durat [[occultum]] nichil . audite nullo tempore
+## 67 | senior -> senior (NOUN) | n=2 ece=0 | Morpheus: senex (noun); seni (adjective) | LiLa: noun
+   Hercul: . — quo te ipse , [[senior]] , obuium morti ingeris ?
+   Hercul: iste saxum immane detritis gerit iam [[senior]] umeris ? ecce iam uictus
+## 68 | extremum -> exter (NOUN) | n=2 ece=0 | Morpheus: extremum (noun); extremus (adjective) | LiLa: adjective
+   Agamem: primum , dolor infelix , quidue [[extremum]] deflere paras ? moenia ,
+   Medea: flammis cadat suis perusta . congere [[extremum]] tuis ' natis , Iason
+## 69 | manes -> manes (VERB) | n=2 ece=0 | Morpheus: maneo (verb); mano (verb) | LiLa: noun, proper_noun
+   Phaedr: gnatum sequor — ne metue qui [[manes]] regis : casti uenimus ;
+   Medea: manu quae strinxit ensem — uictima [[manes]] tuos placamus ista . quid
+## 70 | pallentes -> pallens (ADJ) | n=2 ece=0 | Morpheus: palleo (verb) | LiLa: -
+   Agamem: fert laeua semustas faces turgent que [[pallentes]] genae et uestis atri funeris
+   Oedipu: superaui impia . pauitante gressu sequere [[pallentes]] uias ; suspensa plantis efferens
+## 71 | tuta -> tutus (VERB) | n=2 ece=0 | Morpheus: tueor (verb); tuto (verb); tutum (noun) | LiLa: -
+   Agamem: currus effreno impetu cffugit aciem , [[tuta]] iam cpperiar meos hostes et
+   Thyest: datur : sed non timemur , [[tuta]] sine telo est domus rebus
+## 72 | iratus -> iratus (ADJ) | n=2 ece=0 | Morpheus: irascor (verb) | LiLa: adjective
+   Thyest: que omne raptum questibus uanis agis [[iratus]] Atreus ? fremere iam totus
+   Hercul: , crede ; sed magnus dolor [[iratus]] amor est . artibus magicis
+## 73 | libens -> libo (VERB) | n=2 ece=0 | Morpheus: libens (adverb); libet (adjective) | LiLa: proper_noun, verb
+   Agamem: et te , Oresta , furabor [[libens]] , [ fidem secunda poscunt
+   Hercul: scelerata refugit , hanc manum amplector [[libens]] , hac nisus » ibo
+## 74 | iamne -> iamna (NOUN) | n=2 ece=0 | Morpheus: jam (adverb) | LiLa: -
+   Oedipu: focis . quid flamma ? largas [[iamne]] comprendit dapes ? subito refulsit
+   Hercul: poenas poscis Alcidae ? dabo . [[iamne]] inferorum , dira . sedere
+## 75 | coepit -> capio (VERB) | n=2 ece=0 | Morpheus: coepio (verb) | LiLa: noun, verb
+   Hercul: concita motu : error caecus qua [[coepit]] eat ; solus te iam
+   Medea: superbas quisquis admouit manus , qua [[coepit]] ire , regia didici mea
+## 76 | iratus -> iror (VERB) | n=2 ece=0 | Morpheus: irascor (verb) | LiLa: noun, verb
+   Hercul: parte ab omni , genitor , [[iratus]] tona , oblite nostri uindica
+   Oedipu: suis ; uiolentus audax uultus , [[iratus]] ferox , tantum furentis ;
+## 77 | deprendit -> deprehendo (VERB) | n=2 ece=0 | Morpheus: de_-prehendo (verb) | LiLa: verb
+   Oedipu: praedicta postquam fata et infandum genus [[deprendit]] ac se scelere conuictum Oedipus
+   Hercul: suas sanguis tenebit . ' uerba [[deprendit]] quies mortem que lassis intulit
+## 78 | salsa -> salsus (ADJ) | n=2 ece=0 | Morpheus: salio1 (verb); salsa (noun) | LiLa: -
+   Oedipu: . huc propere admoue et sparge [[salsa]] colla taurorum mola . placidone
+   Thyest: non sacer Bacchi liquor tangens que [[salsa]] uictimam culter mola . seruatur
+## 79 | paelice -> pellex (NOUN) | n=2 ece=0 | Morpheus: paelex (noun) | LiLa: noun
+   Agamem: amores ; neue desertus foret a [[paelice]] umquam barbara caelebs torus ,
+   Medea: , stulta properaui nimis : ex [[paelice]] utinam liberos hostis meus aliquos
+## 80 | sacrata -> sacratus (ADJ) | n=2 ece=0 | Morpheus: sacro (verb) | LiLa: -
+   Agamem: ? iura pudor que et coniugii [[sacrata]] fides fugiunt aulas ; sequitur
+   Oedipu: , frigidus sanguis coit . ut [[sacrata]] templa Phoebi supplici intraui pede
+## 81 | rubentis -> rubens (ADJ) | n=2 ece=0 | Morpheus: rubeo (verb) | LiLa: -
+   Oedipu: metuenda Parthi ; litus intrauit pelagi [[rubentis]] : promit hinc ortus aperit
+   Hercul: disposito clara monili gestat pelagi dona [[rubentis]] , nec gemmiferas detrahit aures
+## 82 | dubio -> dubium (NOUN) | n=2 ece=1 | Morpheus: dubius (adjective) | LiLa: noun
+   Agamem: fallax Fortuna bonis , in praecipiti [[dubio]] que loeas nimis excelsos ;
+   Ecerin: fracto cerebro ; quisquis is , [[dubio]] uacat . abductus inde spernit
+## 83 | flagrantibus -> fragro (VERB) | n=2 ece=0 | Morpheus: flagro (verb) | LiLa: verb
+   Medea: committe habenas , genitor , et [[flagrantibus]] ignifera loris tribue moderari iuga
+   Hercul: sibi ? certe ego te uidi [[flagrantibus]] impositum siluis , cum plurimus
+## 84 | adflictis -> afflictus (ADJ) | n=2 ece=0 | Morpheus: affligo (verb) | LiLa: noun
+   Medea: locus . Spes nulla rebus monstrat [[adflictis]] uiam . qui nil potest
+   Oedipu: iacent . dubiam salutem qui dat [[adflictis]] negat . ambage flexa Delphico
+## 85 | trigemina -> tergeminus (ADJ) | n=2 ece=0 | Morpheus: trigemino (verb); trigeminus (adjective) | LiLa: adjective
+   Agamem: incolere satius , nonne custodem Stygis [[trigemina]] nigris colla iactantem iubis ?
+   Oedipu: calcauit artis obsitum dumis iter , [[trigemina]] qua se spargit in campos
+## 86 | ueneranda -> uenerandus (ADJ) | n=2 ece=0 | Morpheus: veneror (verb) | LiLa: -
+   Phaedr: patriae uidet hospitium . Pallas Actaeae [[ueneranda]] genti , quod tuus caelum
+   Hercul: per annos , flemus dubios , [[ueneranda]] , toros . nos Acheloi
+## 87 | functis -> functus (NOUN) | n=2 ece=0 | Morpheus: fungor (verb) | LiLa: -
+   Medea: : coniunx socer que iusta iam [[functis]] habent , a me sepulti
+   Thyest: transcribor ? o quisquis noua supplicia [[functis]] durus umbrarum arbiter disponis ,
+## 88 | sena -> senus (ADJ) | n=2 ece=0 | Morpheus: seni (adjective) | LiLa: adjective, noun
+   Troade: Pegaseo corripiet gradu . quo bis [[sena]] uolant sidera turbine , quo
+   Oedipu: sereni maximum mundi decus , bis [[sena]] cursu signa qui uario legis
+## 89 | quinis -> quinus (ADJ) | n=2 ece=0 | Morpheus: quini (adjective) | LiLa: adjective
+   Troade: tam ferum , tam triste bis [[quinis]] scelus Mars uidit annis ?
+   Agamem: extremum decus fortiter uinci : restitit [[quinis]] bis annis unius noctis peritura
+## 90 | summittit -> submitto (VERB) | n=2 ece=0 | Morpheus: summitto (verb) | LiLa: verb
+   Phoeni: , equestri fracta quas tellus pede [[summittit]] et , si uera metuentes
+   Oedipu: pabulo semper nouo aestiua nostro prata [[summittit]] gregi . SEN , Noscisne
+## 91 | afflictos -> afflico (VERB) | n=2 ece=0 | Morpheus: affligo (verb) | LiLa: -
+   Troade: Dardaniae domus generosa uirgo , melior [[afflictos]] deus respicere coepit te que
+   Thyest: redeat felix fortuna licet , tamen [[afflictos]] gaudere piget , quid me
+## 92 | adulta -> adultus (ADJ) | n=2 ece=0 | Morpheus: adoleo1 (verb); adolesco (verb) | LiLa: -
+   Phoeni: saeuus catena miles imposita trahet ? [[adulta]] uirgo , mixta captiuo gregi
+   Hercul: prata uiridi laeta facie germinant nec [[adulta]] leni fluctuat Zephyro seges ;
+## 93 | coniugi -> coniugi (NOUN) | n=2 ece=0 | Morpheus: conjugium (noun); conjunx (noun) | LiLa: -
+   Phoeni: liceat exiguo lare pensare regnum ? [[coniugi]] donum datus arbitria thalami dura
+   Medea: , per caelum et undas , [[coniugi]] testes mei , miserere ,
+## 94 | largire -> largio (VERB) | n=2 ece=0 | Morpheus: largior (verb) | LiLa: verb
+   Troade: ancoras classis legit . breuem moram [[largire]] , dum officium parens nato
+   Medea: agitat uice , precor , breuem [[largire]] fugienti moram , dum extrema
+## 95 | tutam -> tutus (ADJ) | n=2 ece=1 | Morpheus: tueor (verb) | LiLa: -
+   Phoeni: quae latus iam propior orienti dedit [[tutam]] que crebris portibus Lyciam uidet
+   Ecerin: fuit - zenonis arcem profugus in [[tutam]] fugit , consorte socia que
+## 96 | renatum -> renascor (VERB) | n=2 ece=0 | Morpheus: reno1 (verb) | LiLa: verb
+   Troade: Ponticam uiduis ferit , et qui [[renatum]] primus excipiens diem tepidum rubenti
+   Hercul: aetheria ferar . haec , haec [[renatum]] prima quae poscit diem ,
+## 97 | maenas -> maenas (PROPN) | n=2 ece=0 | Morpheus: maena (noun) | LiLa: noun, proper_noun
+   Troade: strauit , aut qualis deo percussa [[Maenas]] entheo siluas gradu armata thyrso
+   Hercul: aut iussa thyrsum quatere conceptum ferens [[Maenas]] Lyaeum , dubia quo gressus
+## 98 | caedibus -> caedo (NOUN) | n=2 ece=2 | Morpheus: caedes (noun) | LiLa: verb
+   Ecerin: pertinax cedat furor et ipse retrahas [[caedibus]] tantis manum . unius igitur
+   Ecerin: unde memoriae exortus Nero , polluere [[caedibus]] quot hi mundum suis ?
+## 99 | solitum -> solitus (ADJ) | n=2 ece=0 | Morpheus: soleo (verb); solitum (noun) | LiLa: -
+   Troade: . iterum luctus redeant ueteres , [[solitum]] flendi uincite morem : Hectora
+   Hercul: que puer constitit axe nec per [[solitum]] decurrit iter , sed Phoebeis
+## 100 | tyrannidi -> tyrannus (NOUN) | n=2 ece=2 | Morpheus: tyrannis (noun) | LiLa: noun
+   Ecerin: continuas minas : mors est mixta [[tyrannidi]] , non est morte minor
+   Ecerin: frater ? edissero statim . taruisium [[tyrannidi]] paret meae : feltro subacto
+## 101 | pecori -> pecu (NOUN) | n=2 ece=0 | Morpheus: pecus1 (noun) | LiLa: noun
+   Troade: fronte arduus gregem paternum ducit ac [[pecori]] imperat ; quae tenera caeso
+   Hercul: iugis horrida torridis , uix gratum [[pecori]] montiuago nemus , at si
+## 102 | threicia -> threicium (NOUN) | n=2 ece=0 | Morpheus: - | LiLa: -
+   Troade: emicuit ingens umbra Thessalici ducis , [[threicia]] qualis arma proludens tuis iam
+   Hercul: ; adde me comitem tuis , [[threicia]] coniunx , sceleribus ; natam
+## 103 | nitentem -> nitens (ADJ) | n=2 ece=0 | Morpheus: niteo (verb); nitor1 (verb) | LiLa: -
+   Troade: , fatis strauit aut Neptunium cana [[nitentem]] perculit iuuenem coma , aut
+   Hercul: arcanis fides , perge ' ut [[nitentem]] uirus in uestem datura mentem
+## 104 | solita -> solitus (ADJ) | n=2 ece=0 | Morpheus: soleo (verb); solito (verb); solitum (noun) | LiLa: -
+   Troade: tuam natam parens Helenae immolasti : [[solita]] iam et facta expeto .
+   Medea: spectatur , et curru insidens per [[solita]] puri spatia decurrit poli ?
+## 105 | magna -> magnum (NOUN) | n=2 ece=0 | Morpheus: magnus (adjective); magnus1 (adjective) | LiLa: noun, proper_noun
+   Troade: tremere metuentem deos nimium fauentes . [[magna]] momento obrui uincendo didici .
+   Hercul: ignoto nomina ponto : male pensantur [[magna]] ruinis . felix alius magnus
+## 106 | uerona -> uerono (VERB) | n=2 ece=2 | Morpheus: - | LiLa: -
+   Ecerin: semper huius Marchiae clades uetus , [[uerona]] , limen hostium et bellis
+   Ecerin: uotis . Subito Paduanos cape , [[uerona]] uinctos teneat et carcer tuus
+## 107 | iuratos -> iuratus (ADJ) | n=2 ece=0 | Morpheus: juro (verb); juror (verb) | LiLa: -
+   Troade: omnes petimus fata nec amplius , [[iuratos]] superis qui tetigit lacus ,
+   Hercul: Erebi deos uicit nec timuit Stygis [[iuratos]] superis lacus . haesit non
+## 108 | proci -> proco (NOUN) | n=2 ece=0 | Morpheus: procus (noun); procus2 (noun) | LiLa: verb
+   Phaedr: retro lacus uadit tenebras miles audacis [[proci]] , solio ut reuulsam regis
+   Medea: fulsi : petebant tunc meos thalamos [[proci]] , qui nunc petuntur .
+## 109 | imo -> imo (ADJ) | n=2 ece=1 | Morpheus: imum (noun); imus (adjective) | LiLa: adverb
+   Phoeni: , maculatos lares conflate , ab [[imo]] tota considat domus ; urbs
+   Ecerin: abstractum genus , et ecce ab [[imo]] terra mugitum dedit , crepuisset
+## 110 | opposita -> oppono (VERB) | n=2 ece=0 | Morpheus: opposita (noun); oppositus (adjective) | LiLa: verb
+   Phoeni: Ionii mare fauces que Abydo Sestos [[opposita]] premit , aut quae latus
+   Hercul: post raptum canem portam uacantem clausit [[opposita]] face . sed ecce proles
+## 111 | patenti -> patens (VERB) | n=2 ece=1 | Morpheus: pateo (verb) | LiLa: noun
+   Troade: uulgus , his collis procul aciem [[patenti]] liberam praebet loco , his
+   Ecerin: lictor , et matrem trahens una [[patenti]] subdit et gnatas rogo .
+## 112 | citas -> cio (ADJ) | n=2 ece=0 | Morpheus: cieo (verb); cito2 (verb) | LiLa: verb
+   Phoeni: natura uertit : regeret in fontem [[citas]] reuolutus undas amnis et noctem
+   Phaedr: duxisse somnos , siue fons largus [[citas]] defundit undas siue per flores
+## 113 | senior -> senior (ADJ) | n=1 ece=0 | Morpheus: senex (noun); seni (adjective) | LiLa: noun
+   Oedipu: quam meo tetigi loca . falsusne [[senior]] an deus Thebis grauis ?
+## 114 | oloris -> odor (NOUN) | n=1 ece=0 | Morpheus: olor1 (noun); olor2 (noun) | LiLa: noun
+   Octavi: que pater- et modo pennas sumpsit [[oloris]] modo Sidonii cornua tauri ,
+## 115 | sollicita -> sollicio (VERB) | n=1 ece=0 | Morpheus: sollicito (verb); sollicitus (adjective) | LiLa: noun
+   Oedipu: parentem , quae tuum reditum expetens [[sollicita]] pendet ? ipsa me pietas
+## 116 | frequensne -> frequensne (ADJ) | n=1 ece=0 | Morpheus: frequens (adjective) | LiLa: -
+   Oedipu: que , sed propior seni . [[frequensne]] turba regium cinxit latus ?
+## 117 | iniecit -> inicio (VERB) | n=1 ece=1 | Morpheus: in-jacio (verb) | LiLa: verb
+   Ecerin: egit furentes , subito uiolentas manus [[iniecit]] ardens lictor , et matrem
+## 118 | constitit -> consisto (VERB) | n=1 ece=0 | Morpheus: consto (verb) | LiLa: verb
+   Oedipu: sequi Iouis , sub nostra pauidus [[constitit]] arbore praedonem uenerans suum monitu
+## 119 | ardentes -> ardens (ADJ) | n=1 ece=1 | Morpheus: ardeo (verb) | LiLa: -
+   Ecerin: ! patrem rogitat cremandum natus , [[ardentes]] subicit que flammas . ille
+## 120 | inquieto -> inquieo (ADJ) | n=1 ece=0 | Morpheus: inquieto (verb); inquietus (adjective) | LiLa: -
+   Oedipu: otium ac somnum loqui ; ab [[inquieto]] saepe simulatur quies . parumne
+## 121 | genital -> genital (NOUN) | n=1 ece=1 | Morpheus: - | LiLa: -
+   Ecerin: semen pereat futurae , censet infantum [[genital]] recidi , feminas sectis ululare
+## 122 | implicitum -> implicitus (VERB) | n=1 ece=0 | Morpheus: implico (verb) | LiLa: -
+   Oedipu: , fratres sibi ipse genuit — [[implicitum]] malum magis que monstrum Sphinge
+## 123 | functis -> functus (VERB) | n=1 ece=0 | Morpheus: fungor (verb) | LiLa: -
+   Oedipu: siue ipsa tellus , ut daret [[functis]] uiam , compage rupta sonuit
+## 124 | manes -> mane (VERB) | n=1 ece=0 | Morpheus: maneo (verb); mano (verb) | LiLa: noun
+   Oedipu: uocat inde manes te que qui [[manes]] regis " et obsidentem claustra
+## 125 | manes -> manis (NOUN) | n=1 ece=0 | Morpheus: maneo (verb); mano (verb) | LiLa: adjective, proper_noun
+   Octavi: , ut merui , ferar ad [[manes]] inhumata tuos , obruta saeuis
+## 126 | adstringit -> astringo (VERB) | n=1 ece=0 | Morpheus: ad-stringo (verb) | LiLa: verb
+   Oedipu: ingreditur senex , mortifera canam taxus [[adstringit]] comam . nigro bidentes uellere
+## 127 | mammis -> mammo (NOUN) | n=1 ece=1 | Morpheus: mamma (noun) | LiLa: verb
+   Ecerin: genital recidi , feminas sectis ululare [[mammis]] . stratus in cunis chorus
+## 128 | squalente -> squalens (VERB) | n=1 ece=0 | Morpheus: squaleo (verb) | LiLa: -
+   Oedipu: lugubris imos palla perfundit pedes , [[squalente]] cultu maestus ingreditur senex ,
+## 129 | ziramons -> ziramons (NOUN) | n=1 ece=1 | Morpheus: - | LiLa: -
+   Ecerin: que nostris actibus semper procul . [[ziramons]] ? domine . dic age
+## 130 | uidetne -> uidetne (VERB) | n=1 ece=1 | Morpheus: video (verb) | LiLa: -
+   Ecerin: omnia sancta te faciet Fides . [[uidetne]] celsus ista quae facio Deus
+## 131 | uirente -> uirens (ADJ) | n=1 ece=0 | Morpheus: vireo1 (verb) | LiLa: -
+   Oedipu: . cupressus altis exerens siluis caput [[uirente]] semper alligat trunco nemus ,
+## 132 | stipites -> stips (NOUN) | n=1 ece=1 | Morpheus: stipes (noun) | LiLa: noun
+   Ecerin: piceo subditae exudant faces pinguis que [[stipites]] alit oliuae liquor , atram
+## 133 | afflictum -> afflictum (VERB) | n=1 ece=0 | Morpheus: afflictus2 (noun); affligo (verb) | LiLa: noun
+   Oedipu: caput sensit que raptum , dubitat [[afflictum]] alioqui , cupit pauet que
+## 134 | coepti -> coepi (NOUN) | n=1 ece=1 | Morpheus: coepio (verb); coeptum (noun); coeptus (adjective) | LiLa: verb
+   Ecerin: Ecerinus suo . quid plura ? [[Coepti]] colligo formam noui . euersa
+## 135 | coeptum -> coepi (VERB) | n=1 ece=0 | Morpheus: coepio (verb); coeptum (noun); coeptus (adjective); coeptus2 (noun) | LiLa: verb
+   Medea: ferro extraham . ] iam perage [[coeptum]] facinus , haut ultra precor
+## 136 | ratas -> ratus (ADJ) | n=1 ece=0 | Morpheus: reor (verb) | LiLa: -
+   Oedipu: non es : illa quae leges [[ratas]] Natura in uno uertit Oedipoda
+## 137 | nutibus -> nuo (NOUN) | n=1 ece=1 | Morpheus: nutus (noun) | LiLa: verb
+   Ecerin: , caput , ut paruipendat , [[nutibus]] pandens suis . quis finis
+## 138 | assuetos -> adsuesco (VERB) | n=1 ece=0 | Morpheus: assuesco (verb) | LiLa: verb
+   Octavi: tot tantis onerata malis , repete [[assuetos]] iam tibi questus atque aequoreas
+## 139 | implicitas -> implicio (VERB) | n=1 ece=0 | Morpheus: implicito (verb); implico (verb) | LiLa: -
+   Oedipu: , donec in ponto manus mouit [[implicitas]] puer compede audacis uiae .
+## 140 | meriti -> meritus (VERB) | n=1 ece=1 | Morpheus: mereo (verb); mereor (verb); meritum (noun) | LiLa: proper_noun
+   Ecerin: maleficis digna permittens Deus supplicia , [[meriti]] nobiles primi luunt ; qui
+## 141 | paenitendi -> paenitendi (VERB) | n=1 ece=0 | Morpheus: paeniteo (verb) | LiLa: -
+   Oedipu: parentis pigeat inuenti uide . uel [[paenitendi]] sanguinis quaeram fidem , si
+## 142 | moderator -> modero (NOUN) | n=1 ece=1 | Morpheus: moderator (noun) | LiLa: verb
+   Ecerin: . cur modo non sic , [[moderator]] aequi , cernis errores hominum
+## 143 | nutus -> nuo (NOUN) | n=1 ece=0 | Morpheus: nutus (noun) | LiLa: verb
+   Octavi: atque hosti oscula . no timere [[nutus]] cuius obsequium meus haud ferre
+## 144 | pactus -> paco (VERB) | n=1 ece=0 | Morpheus: paciscor (verb); pactus (adjective) | LiLa: proper_noun, verb
+   Octavi: alieno satum genitam que fratris coniugem [[pactus]] sibi toris nefandis flebili iunxit
+## 145 | iacentum -> iacentum (VERB) | n=1 ece=1 | Morpheus: - | LiLa: -
+   Ecerin: edunt tenebris opacis morte uiuaci gemitus [[iacentum]] ; mors famis uinctis sitis
+## 146 | residi -> residus (VERB) | n=1 ece=0 | Morpheus: resido (verb) | LiLa: -
+   Octavi: et miror meos , in quis [[residi]] fessa . uenientem intuor comitante
+## 147 | intima -> interior (ADJ) | n=1 ece=0 | Morpheus: intima (noun); intimo (verb); intimus (adjective) | LiLa: adjective
+   Oedipu: cruor et uenas rumpit hiantes ; [[intima]] creber uiscera quassat gemitus stridens
+## 148 | silenti -> silens (ADJ) | n=1 ece=0 | Morpheus: silentium (noun); silentus (adjective); sileo (verb) | LiLa: -
+   Oedipu: bis turbatam sanguine Dircen , nocte [[silenti]] amphionios ululasse canes . O
+## 149 | lombarda -> lombardum (NOUN) | n=1 ece=1 | Morpheus: - | LiLa: -
+   Ecerin: Padua tempore . Abscedite retro . [[lombarda]] signis appetit subdi meis gens
+## 150 | paratas -> paratus (ADJ) | n=1 ece=1 | Morpheus: paro1 (verb); paro2 (verb) | LiLa: noun, proper_noun
+   Ecerin: tyrannus ipse delusus sua in se [[paratas]] hostium sensit manus ; sensit
+## 151 | extremos -> exter (ADJ) | n=1 ece=0 | Morpheus: extremus (adjective) | LiLa: adjective
+   Oedipu: ille , Bacche , miles , [[extremos]] comes usque ad Indos ,
+## 152 | renes -> renis (NOUN) | n=1 ece=1 | Morpheus: reneo (verb); reno1 (verb) | LiLa: -
+   Ecerin: proprios reuerti pace potitus . supplices [[renes]] feriant habenis , ictibus crebris
+## 153 | erebi -> erebo (VERB) | n=1 ece=0 | Morpheus: - | LiLa: -
+   Octavi: es numina diuum . Tartara testor [[erebi]] que deas scelerum ultrices et
+## 154 | spumam -> spumo (NOUN) | n=1 ece=1 | Morpheus: spuma (noun) | LiLa: verb
+   Ecerin: conspicit , multam ferox ex ore [[spumam]] mittit et orbes rotat .
+## 155 | aere -> aes (NOUN) | n=1 ece=0 | Morpheus: aer (noun) | LiLa: noun
+   Octavi: quaecumque claro marmore effigies stetit aut [[aere]] fulgens , ora Poppaeae gerens
+## 156 | suspecta -> suspectus (VERB) | n=1 ece=0 | Morpheus: suspecto1 (verb); suspicio1 (verb) | LiLa: noun
+   Octavi: cruentam principis aulam . en illuxit [[suspecta]] diu , fama totiens iactata
+## 157 | fusae -> fusus (VERB) | n=1 ece=0 | Morpheus: fundo1 (verb) | LiLa: noun, proper_noun
+   Octavi: laeto die pulsata palmis pectora et [[fusae]] comae ? octauiae discidia planxerunt
+## 158 | summisi -> summisi (VERB) | n=1 ece=0 | Morpheus: summitto (verb) | LiLa: -
+   Oedipu: pede et pias numen precatus rite [[summisi]] manus , gemina Parnasi niualis
+## 159 | rata -> ratus (ADJ) | n=1 ece=0 | Morpheus: reor (verb) | LiLa: -
+   Octavi: statuam ipse . quae consensus efficiat [[rata]] . respectus ensis faciet .
+## 160 | tractae -> trago (VERB) | n=1 ece=1 | Morpheus: tracta (noun); traho (verb) | LiLa: noun
+   Ecerin: arcebat manus . abinde quinque uirgines [[tractae]] simul ante ora patrum crinibus
+## 161 | redimite -> redimio (VERB) | n=1 ece=0 | Morpheus: redimo (verb) | LiLa: verb
+   Oedipu: Bacchi laudibus carmen sonet . effusam [[redimite]] comam nutante corymbo , mollia
+## 162 | effusam -> effusus (ADJ) | n=1 ece=0 | Morpheus: effundo (verb) | LiLa: noun
+   Oedipu: populare Bacchi laudibus carmen sonet . [[effusam]] redimite comam nutante corymbo ,
+## 163 | peruetustae -> peruetustae (VERB) | n=1 ece=1 | Morpheus: pervetustus (adjective) | LiLa: -
+   Ecerin: proles Philippi gloriosa Macedonis , hi [[peruetustae]] memoriae , nostrae quoque praelata
+## 164 | occultis -> occultus (ADJ) | n=1 ece=0 | Morpheus: occulo (verb); occulta (noun); occultum (noun) | LiLa: -
+   Oedipu: abscondit caput membrana : latebram rebus [[occultis]] negans hostile ualido robore insurgit
+## 165 | tenellum -> tener (ADJ) | n=1 ece=1 | Morpheus: tenellus (adjective) | LiLa: adjective
+   Ecerin: ubere matris infantis pedes carpit , [[tenellum]] robori allidens caput : fuso
+## 166 | incremat -> incremo (VERB) | n=1 ece=1 | Morpheus: in-cremo (verb) | LiLa: -
+   Ecerin: ad pontem pedes ; subiectus altas [[incremat]] portas focus undante fumo .
+## 167 | sacrate -> sacratus (ADJ) | n=1 ece=0 | Morpheus: sacro (verb) | LiLa: -
+   Oedipu: que Manto luce uiduatum trahens . [[sacrate]] di uis , proximum Phoebo
+## 168 | merces -> merx (NOUN) | n=1 ece=0 | Morpheus: merces1 (noun) | LiLa: noun
+   Octavi: : reddita est meritis meis funesta [[merces]] puppis et pretium imperi nox
+## 169 | superstite -> supersto (ADJ) | n=1 ece=1 | Morpheus: super-sto (verb) | LiLa: verb
+   Ecerin: et urbes solent . at te [[superstite]] , sola quem facies notat
+## 170 | pudendis -> pudendus (ADJ) | n=1 ece=0 | Morpheus: pudenda (noun); pudeo (verb) | LiLa: -
+   Oedipu: hospitalis exulem tellus ferat ; thalamis [[pudendis]] doleat et prole impia ;
+## 171 | ausibus -> ausibus (NOUN) | n=1 ece=1 | Morpheus: ausus2 (noun) | LiLa: -
+   Ecerin: uictor optatum feres . Fortuna uires [[ausibus]] nostris dabit . O fallax
+## 172 | placatus -> placatus (VERB) | n=1 ece=0 | Morpheus: placo (verb) | LiLa: -
+   Oedipu: imperio scelus . quisquis deorum regna [[placatus]] uides : tu , tu
+## 173 | sceleratae -> sceleratus (ADJ) | n=1 ece=0 | Morpheus: scelero (verb) | LiLa: -
+   Oedipu: infans . nec tibi longa manent [[sceleratae]] gaudia caedis : te cum
+## 174 | assuetam -> assuetus (ADJ) | n=1 ece=1 | Morpheus: assuesco (verb) | LiLa: -
+   Ecerin: en atrox Ecerinus citus aduolat . [[assuetam]] Paduam colla iugo dare infestam
+## 175 | certaue -> certauo (VERB) | n=1 ece=1 | Morpheus: certo2 (verb); certus (adjective) | LiLa: -
+   Ecerin: , non mulier uirum agnouere suos [[certaue]] funera : communes lacrimae desuper
+## 176 | tyrannidis -> tyrannus (NOUN) | n=1 ece=1 | Morpheus: tyrannis (noun) | LiLa: noun
+   Ecerin: peregi exordia et causas cito saeuae [[tyrannidis]] . Ita ut ancipites uices
+## 177 | lampade -> lampo (NOUN) | n=1 ece=0 | Morpheus: lampas (noun) | LiLa: proper_noun, verb
+   Hercul: fouet illa toros . sequitur dira [[lampade]] Erinys quarum populi coluere diem
+## 178 | auratum -> auratus (ADJ) | n=1 ece=0 | Morpheus: auro (verb) | LiLa: -
+   Hercul: populis uix una fides , tenet [[auratum]] limen Erinys , et quom
+## 179 | tinxere -> tinguo (VERB) | n=1 ece=0 | Morpheus: tingo (verb) | LiLa: verb
+   Hercul: Eois Ser arboribus . quaelibet herbae [[tinxere]] colus quas indoctae neuere manus
+## 180 | auratis -> auratus (ADJ) | n=1 ece=0 | Morpheus: aurata (noun); auris (verb); auro (verb) | LiLa: -
+   Hercul: uotiuum pecus totum que tauris gemuit [[auratis]] nemus , spolium leonis sordidum
+## 181 | assuetae -> adsuesco (VERB) | n=1 ece=0 | Morpheus: assuesco (verb) | LiLa: verb
+   Hercul: indomitum malum ; repetentur arae cernere [[assuetae]] hostiam similem colenti : sceleribus
+## 182 | planctibus -> plango (NOUN) | n=1 ece=0 | Morpheus: planctus (noun) | LiLa: verb
+   Hercul: Bistoniae uerbera matres gelidus que sonet [[planctibus]] Hebrus : flete Alciden .
+## 183 | patenti -> patens (ADJ) | n=1 ece=0 | Morpheus: pateo (verb) | LiLa: noun
+   Oedipu: utrumne pectori infigam meo telum an [[patenti]] conditum iugulo inprimam ? eligere
+## 184 | pacator -> paco (NOUN) | n=1 ece=0 | Morpheus: pacator (noun) | LiLa: proper_noun, verb
+   Hercul: domitor magne ferarum orbis que simul [[pacator]] , ades ; nunc quoque
+## 185 | pecudis -> pecu (NOUN) | n=1 ece=0 | Morpheus: pecus2 (noun) | LiLa: noun
+   Medea: germanum patrem , spolium que Colchi [[pecudis]] auratae tenent ; rediere regna
+## 186 | imam -> imo (VERB) | n=1 ece=0 | Morpheus: imus (adjective) | LiLa: adverb
+   Hercul: NUT . Si nequis ? per- [[imam]] dolo . quis iste furor
+## 187 | secretum -> secretus (ADJ) | n=1 ece=0 | Morpheus: secerno (verb); secretum (noun) | LiLa: -
+   Hercul: . quid istud est quod esse [[secretum]] petis ? Non tela sunt
+## 188 | manes -> macnes (VERB) | n=1 ece=0 | Morpheus: maneo (verb); mano (verb) | LiLa: -
+   Hercul: parce , mater , questibus : [[manes]] semel umbras que uidi ;
+## 189 | docta -> doctus (VERB) | n=1 ece=0 | Morpheus: doceo (verb) | LiLa: proper_noun
+   Hercul: amorem posse defigi malo ; hoc [[docta]] Mycale Thessalas docuit nurus ,
+## 190 | exurgens -> exurgo (VERB) | n=1 ece=0 | Morpheus: exurgeo (verb) | LiLa: verb
+   Hercul: ferox ; at ille medias inter [[exurgens]] faces , semiustus ac laniatus
+## 191 | uadis -> uades (NOUN) | n=1 ece=0 | Morpheus: vado1 (verb); vadum (noun); vas1 (noun) | LiLa: -
+   Hercul: unde te nullae referent carinae : [[uadis]] ad manes miserandus , unde
+## 192 | autumno -> autumnus (NOUN) | n=1 ece=0 | Morpheus: auctumnus1 (noun); auctumnus2 (adjective); autumnum (noun) | LiLa: adjective, noun
+   Hercul: comam siluis reuocabit aestas poma que [[autumno]] fugiente cedent , uel comam
+## 193 | flagranti -> fragro (ADJ) | n=1 ece=0 | Morpheus: flagro (verb) | LiLa: verb
+   Hercul: , quae plaga igniferi poli uetans [[flagranti]] currere in zona diem ?
+## 194 | ictus -> ico (VERB) | n=1 ece=0 | Morpheus: ictus2 (noun); jacio (verb) | LiLa: verb
+   Hercul: matris : Nessus hos struxit dolos [[ictus]] sagittis qui tuis uitam expuit
+## 195 | occulto -> occultus (VERB) | n=1 ece=0 | Morpheus: occulo (verb); occulto2 (verb); occultum (noun) | LiLa: -
+   Hercul: , procede — quid me uulnere [[occulto]] petis ? quis te sub
+## 196 | postem -> posteo (NOUN) | n=1 ece=0 | Morpheus: postis (noun) | LiLa: verb
+   Hercul: , has numquam irritas mittes in [[postem]] ; siue de media uoles
+## 197 | flagranti -> fragro (VERB) | n=1 ece=0 | Morpheus: flagro (verb) | LiLa: verb
+   Hercul: squalidis pinnas quatit ? quid me [[flagranti]] dira persequeris face , megaera
+## 198 | extremam -> exter (ADJ) | n=1 ece=0 | Morpheus: extremo (verb); extremus (adjective) | LiLa: adjective
+   Hercul: tantum precor accommoda ignes et facem [[extremam]] mihi . hic nodus '
+## 199 | aereae -> aerius (ADJ) | n=1 ece=1 | Morpheus: aereus1 (adjective) | LiLa: adjective, proper_noun
+   Ecerin: domus , uentorum et omnis cladis [[aereae]] capax . hoc accubans ipso
+## 200 | inmugit -> immugio (VERB) | n=1 ece=0 | Morpheus: in-mugio1 (verb) | LiLa: verb
+   Thyest: ingenti sono laxantur adyto fata et [[inmugit]] specus uocem deo soluente .
+## 201 | uenerando -> uenerandus (VERB) | n=1 ece=0 | Morpheus: veneror (verb) | LiLa: -
+   Thyest: cum tibi . imposita capiti uincla [[uenerando]] gere ; ego destinatas uictimas
+## 202 | cycladas -> cyclada (VERB) | n=1 ece=0 | Morpheus: cyclas (noun) | LiLa: -
+   Thyest: hic ubi ingenti modo sub procella [[cycladas]] pontum timuere motae . nulla
+## 203 | ima -> inferus (NOUN) | n=1 ece=0 | Morpheus: imum (noun); imus (adjective) | LiLa: adjective
+   Thyest: inuicem cedunt ; breuior uoluptas , [[ima]] permutat leuis hora summis :
+## 204 | caelos -> caelum (NOUN) | n=1 ece=1 | Morpheus: caelus (noun) | LiLa: noun, proper_noun
+   Ecerin: Deus , altos abhinc tu forsitan [[caelos]] colis nostro remotos aethere ,
+## 205 | excelse -> excelse (ADJ) | n=1 ece=1 | Morpheus: excello (verb); excelsum (noun) | LiLa: -
+   Ecerin: iam fert noua , nuntius . [[excelse]] mundi rector , omnipotens Deus
+## 206 | assueta -> assuetus (ADJ) | n=1 ece=0 | Morpheus: assuesco (verb) | LiLa: -
+   Thyest: nihil ortus erit ? stupet Eoos [[assueta]] deo tradere frenos genetrix primae
+## 207 | insueto -> insuesco (ADJ) | n=1 ece=0 | Morpheus: insuetus2 (adjective) | LiLa: verb
+   Thyest: sudore iubas mergere ponto . ipse [[insueto]] nouus hospitio Sol Auroram uidet
+## 208 | assueti -> assuetus (VERB) | n=1 ece=0 | Morpheus: assuesco (verb) | LiLa: -
+   Thyest: struis ? nil quod doloris capiat [[assueti]] modus ; nullum relinquam facinus
+## 209 | remisso -> remissus (VERB) | n=1 ece=1 | Morpheus: remitto (verb) | LiLa: noun
+   Ecerin: , quod series habet , flatu [[remisso]] ; siste , dum cedat
+## 210 | aurata -> auratus (ADJ) | n=1 ece=0 | Morpheus: aurata (noun); auro (verb) | LiLa: -
+   Thyest: auro , cuius e tergo noui [[aurata]] reges sceptra Tantalici gerunt ;
+## 211 | praesentibus -> praesum (VERB) | n=1 ece=1 | Morpheus: praesens (adjective); praesentia (noun); praesentia2 (noun) | LiLa: verb
+   Ecerin: ex gestis prius , dedere quae [[praesentibus]] causas malis . O ,
+## 212 | instabile -> instabilio (ADJ) | n=1 ece=0 | Morpheus: instabilis (adjective) | LiLa: verb
+   Thyest: cura iuris sanctitas pietas fides , [[instabile]] regnum est . sanctitas pietas
+## 213 | situs -> situs (NOUN) | n=1 ece=1 | Morpheus: sino (verb) | LiLa: noun
+   Ecerin: sedes tyranni ; siue sit terrae [[situs]] belli capacis siue tale hominum
+## 214 | diremit -> diremit (VERB) | n=1 ece=1 | Morpheus: dis-redimo (verb) | LiLa: -
+   Ecerin: cruentae sustulit caedis nefas , litem [[diremit]] sanguine effuso prius campestre bellum
+## 215 | furiis -> furio (NOUN) | n=1 ece=0 | Morpheus: furia (noun); furiae (noun) | LiLa: verb
+   Thyest: detestabilis umbra , et penates impios [[furiis]] age . certetur omni scelere
+## 216 | coepisti -> coepi (VERB) | n=1 ece=1 | Morpheus: coepio (verb) | LiLa: verb
+   Ecerin: fidem ! procede : redeas unde [[coepisti]] prius . sermone cur nos
+## 217 | diis -> deus (NOUN) | n=1 ece=1 | Morpheus: dius (adjective); divus (noun) | LiLa: noun, proper_noun
+   Ecerin: patris ? abnegas diuum genus ? [[diis]] gignimur . Nec stirpe tanta
+## 218 | tutum -> tutus (NOUN) | n=1 ece=0 | Morpheus: tueor (verb); tutum (noun) | LiLa: -
+   Hercul: fata , parentes , quos in [[tutum]] mors aequa tulit ? mea
+## 219 | purisue -> purisuus (ADJ) | n=1 ece=0 | Morpheus: purum (noun); purus (adjective) | LiLa: -
+   Hercul: et fulsit Iole qualis innubis dies [[purisue]] clarum noctibus sidus micat ,
+## 220 | extremae -> exter (ADJ) | n=1 ece=0 | Morpheus: extremus (adjective) | LiLa: adjective
+   Hercul: pectus minas , quid excutis telluris [[extremae]] sinus orbem que uersas ?
+## 221 | pronosticus -> pronosticus (ADJ) | n=1 ece=1 | Morpheus: - | LiLa: -
+   Ecerin: partu uenis . qualis ? necis [[pronosticus]] uentrem leuas cruentus infans ,
+## 222 | aeris -> aes (NOUN) | n=1 ece=1 | Morpheus: aer (noun); aera (noun); aera2 (noun) | LiLa: noun
+   Ecerin: uersa resonuit caelum uice : faciem [[aeris]] sulphureus inuasit uapor , nubem
+## 223 | resonuit -> resonio (VERB) | n=1 ece=1 | Morpheus: re-sono (verb) | LiLa: -
+   Ecerin: apertum chaos , altum que uersa [[resonuit]] caelum uice : faciem aeris
+## 224 | sincopim -> sincopim (VERB) | n=1 ece=1 | Morpheus: - | LiLa: -
+   Ecerin: amentem timor . resperge faciem , [[sincopim]] limphis leua . facile resurget
+## 225 | ministrae -> ministro (NOUN) | n=1 ece=1 | Morpheus: minister (adjective); ministra (noun) | LiLa: verb
+   Ecerin: semper nomen inimicum Crucis . assint [[ministrae]] facinorum comites michi : suadeat
+## 226 | executor -> executo (NOUN) | n=1 ece=1 | Morpheus: exsecutor (noun) | LiLa: verb
+   Ecerin: cruenti detur officium michi : ipse [[executor]] finiam lites merus : nullis
+## 227 | pompae -> pompo (NOUN) | n=1 ece=0 | Morpheus: pompa (noun) | LiLa: proper_noun, verb
+   Hercul: non captiua dabit bracchia uinculis nec [[pompae]] ueniet nobile ferculum : numquam
+## 228 | assuetas -> adsuesco (VERB) | n=1 ece=0 | Morpheus: assuesco (verb) | LiLa: verb
+   Thyest: uoces gemitus , maeror lacrimas amat [[assuetas]] , flendi miseris dira cupido
+## 229 | infimos -> inferus (ADJ) | n=1 ece=1 | Morpheus: infimus (adjective) | LiLa: adjective
+   Ecerin: illos tollimus altius , hos deponimus [[infimos]] : leges iura que condimus
+## 230 | euxilium -> euxilium (NOUN) | n=1 ece=1 | Morpheus: - | LiLa: -
+   Ecerin: . nobis retia tendimus , mortale [[euxilium]] damus , falsum praesidium sumus
+## 231 | horrentes -> horrens (VERB) | n=1 ece=0 | Morpheus: horreo (verb) | LiLa: -
+   Phoeni: , Zethi iuuencus , qua per [[horrentes]] rubos tauri ferocis sanguis ostentat
+## 232 | secretam -> secretus (ADJ) | n=1 ece=0 | Morpheus: secerno (verb) | LiLa: -
+   Hercul: Phoebeos tenet aequa currus , turba [[secretam]] Cererem frequentat et citi tectis
+## 233 | occulto -> occultus (NOUN) | n=1 ece=0 | Morpheus: occulo (verb); occulto2 (verb); occultum (noun) | LiLa: -
+   Medea: age , anime : non in [[occulto]] tibi est perdenda uirtus ;
+## 234 | raptorem -> rapto (NOUN) | n=1 ece=0 | Morpheus: raptor (noun) | LiLa: verb
+   Phaedr: superos uiam : thalami remittet ille [[raptorem]] sui ? nisi forte amori
+## 235 | sollicito -> solliceo (VERB) | n=1 ece=0 | Morpheus: sollicito (verb); sollicitus (adjective) | LiLa: -
+   Phaedr: luxus procul est impetus fugisse : [[sollicito]] bibunt auro superbi ; quam
+## 236 | strepitus -> strepo (NOUN) | n=1 ece=0 | Morpheus: strepitus (noun) | LiLa: verb
+   Phaedr: urbes sata nouit nec omnes conscius [[strepitus]] pauet aut uerba fingit ;
+## 237 | amantis -> amans (VERB) | n=1 ece=0 | Morpheus: amo (verb) | LiLa: noun, proper_noun
+   Phaedr: faciet aut uitae dies . miserere [[amantis]] — magne regnator deum ,
+## 238 | adspectus -> aspicio (NOUN) | n=1 ece=0 | Morpheus: aspectus2 (noun) | LiLa: verb
+   Phaedr: . quid te ipsa lacerans omnium [[adspectus]] fugis ? mens inpudicam facere
+## 239 | praeterita -> praeteritus (ADJ) | n=1 ece=0 | Morpheus: praetereo (verb); praeterita (noun) | LiLa: -
+   Phaedr: tacitum subruit . hora que semper [[praeterita]] deterior subit . quid deserta
+## 240 | senii -> senex (NOUN) | n=1 ece=0 | Morpheus: senium (noun) | LiLa: adjective, noun
+   Phaedr: tutum praetereat forma que nobilis deformis [[senii]] monstret imaginem . quid sinat
+## 241 | reduce -> redux (ADJ) | n=1 ece=0 | Morpheus: reduco (verb) | LiLa: adjective, proper_noun
+   Phaedr: imminet . quae causa leti ? [[reduce]] cur moritur uiro ? haec
+## 242 | uine -> uen (NOUN) | n=1 ece=0 | Morpheus: vinum (noun); vinus (noun); vis (noun) | LiLa: -
+   Phaedr: et pugnaces tendunt Cretes fortia trito [[uine]] ala collo . at Spartanos
+## 243 | ictum -> ico (NOUN) | n=1 ece=0 | Morpheus: ictus2 (noun); jacio (verb) | LiLa: verb
+   Troade: tulit retro gradum ; conuersa ad [[ictum]] stat truci uultu ferox .
+## 244 | tuti -> tutus (ADJ) | n=1 ece=0 | Morpheus: tueor (verb); tutum (noun) | LiLa: -
+   Troade: ite , Danai , petite iam [[tuti]] domos ; optata uelis maria
+## 245 | teretes -> tero (NOUN) | n=1 ece=0 | Morpheus: teres (adjective) | LiLa: noun, verb
+   Phaedr: ceruice graui portare plagas , alius [[teretes]] properet laqueos . picta rubenti
+## 246 | citis -> cio (ADJ) | n=1 ece=0 | Morpheus: cieo (verb) | LiLa: verb
+   Phaedr: umeros que summos , cursibus motae [[citis]] uentos sequantur , laeua se
+## 247 | imam -> inferus (ADJ) | n=1 ece=0 | Morpheus: imus (adjective) | LiLa: adjective
+   Troade: illas nobiles patris notas , confudit [[imam]] pondus ad terram datum ;
+## 248 | extrema -> exter (NOUN) | n=1 ece=0 | Morpheus: extremum (noun); extremus (adjective) | LiLa: adjective
+   Agamem: et ignis saepe medicinae loco est [[extrema]] primo nemo temptauit loco .
+## 249 | paelicum -> pellex (NOUN) | n=1 ece=0 | Morpheus: paelex (noun) | LiLa: noun
+   Agamem: prospera animos efferant . effusa circa [[paelicum]] quanto uenit turba apparatu !
+## 250 | doctus -> doctus (ADJ) | n=1 ece=0 | Morpheus: doceo (verb) | LiLa: proper_noun
+   Agamem: quid deos probro addimus ? subripere [[doctus]] fraude genialis toros , quem
+## 251 | uirenti -> uirens (VERB) | n=1 ece=0 | Morpheus: vireo1 (verb) | LiLa: -
+   Agamem: fontes , quaeque Eurotan , quaeque [[uirenti]] tacitum ripa bibis Ismenon :
+## 252 | aequorum -> aequo (NOUN) | n=1 ece=0 | Morpheus: aequor (noun); aequum (noun); aequus (adjective) | LiLa: verb
+   Phaedr: uastum mare , ultimo quodcumque Proteus [[aequorum]] abscondit sinu , me que
+## 253 | undarum -> undo (NOUN) | n=1 ece=0 | Morpheus: unda (noun) | LiLa: verb
+   Phaedr: physeter capax . , inhorruit concussus [[undarum]] globus soluit que sese et
+## 254 | abominandam -> abomino (VERB) | n=1 ece=0 | Morpheus: abominor (verb) | LiLa: verb
+   Phaedr: manes iuuenis iratos patri , fer [[abominandam]] nunc opem gnato , parens
+## 255 | citos -> cio (VERB) | n=1 ece=0 | Morpheus: cieo (verb) | LiLa: verb
+   Phaedr: arte fluctum fallit , haud aliter [[citos]] currus gubernat : ora nunc
+## 256 | dure -> dure (ADJ) | n=1 ece=0 | Morpheus: dureo (verb); durum (noun); durus (adjective) | LiLa: -
+   Phaedr: undis ultimo fluctu tegit , o [[dure]] Theseu semper , o numquam
+## 257 | furiis -> furius (PROPN) | n=1 ece=0 | Morpheus: furia (noun); furiae (noun) | LiLa: adjective
+   Medea: lania , perure , pectus en [[Furiis]] patet . discedere a me
+## 258 | flagrantes -> fragro (VERB) | n=1 ece=0 | Morpheus: flagro (verb) | LiLa: verb
+   Phoeni: excelsos rotis uolitare proceres , igne [[flagrantes]] trabes fumare , cineri quae
+## 259 | imum -> inferus (ADJ) | n=1 ece=0 | Morpheus: imi (noun); imum (noun); imus (adjective) | LiLa: adjective
+   Troade: . cadit ex umeris uestis apertis [[imum]] que tegit suffulta latus ;
+## 260 | extrema -> exterior (ADJ) | n=1 ece=0 | Morpheus: extremum (noun); extremus (adjective) | LiLa: noun
+   Troade: non , ut solita est , [[extrema]] breuis uerba remittat , totos
+## 261 | adsuetas -> adsuesco (ADJ) | n=1 ece=0 | Morpheus: assuesco (verb) | LiLa: verb
+   Troade: subiecta feret colla tropaeis ; non [[adsuetas]] ad sceptra manus posterga dabit
+## 262 | uereris -> uereris (VERB) | n=1 ece=0 | Morpheus: vereor (verb); vero2 (verb) | LiLa: -
+   Phoeni: in quo est optimum uinci , [[uereris]] fratris infesti dolos ? quotiens
+## 263 | tutis -> tuor (ADJ) | n=1 ece=0 | Morpheus: tueor (verb); tutum (noun) | LiLa: noun, verb
+   Troade: regna tulit ; nunc Elysii nemoris [[tutis]] errat in umbris inter que
+## 264 | cite -> cio (VERB) | n=1 ece=0 | Morpheus: cieo (verb) | LiLa: verb
+   Troade: impleuit omne litus irati sonus : [[cite]] , ite inertes , manibus
+## 265 | affusa -> adfundo (VERB) | n=1 ece=0 | Morpheus: affundo (verb) | LiLa: verb
+   Phoeni: que pauida fratris obseruas manum ? [[affusa]] totum corpus amplexu tegam ,
+## 266 | pensi -> pensus (NOUN) | n=1 ece=0 | Morpheus: pendo (verb); pensum (noun) | LiLa: noun
+   Phoeni: ? certant in omne facinus et [[pensi]] nihil ducunt , ubi illos
+## 267 | scelestis -> scelestis (ADJ) | n=1 ece=0 | Morpheus: scelestus (adjective) | LiLa: adjective
+   Phoeni: imperi armorum doli , diris , [[scelestis]] , breuiter ut dicam meis
+## 268 | afflicti -> afflictus (VERB) | n=1 ece=0 | Morpheus: affligo (verb) | LiLa: noun
+   Phoeni: putant . non patris illos tangit [[afflicti]] pudor , non patria :
+## 269 | pacta -> panquo (VERB) | n=1 ece=0 | Morpheus: paciscor (verb); pacta (noun); pactum (noun); pactus (adjective) | LiLa: -
+   Phoeni: pari . hic afuit ; sed [[pacta]] si fratrum ualent , nunc
+## 270 | amantem -> amans (NOUN) | n=1 ece=0 | Morpheus: amo (verb) | LiLa: noun, proper_noun
+   Phoeni: modestae deditum menti senem placidae que [[amantem]] pacis ad partes uocas ?
+## 271 | oppositu -> oppono (NOUN) | n=1 ece=0 | Morpheus: oppositus2 (noun) | LiLa: verb
+   Phoeni: omnibus , et impia arma matris [[oppositu]] impedi . perge , o
+## 272 | suspensa -> suspensus (ADJ) | n=1 ece=0 | Morpheus: suspendo (verb) | LiLa: noun
+   Phoeni: miscere cupientes manus librata dextra tela [[suspensa]] tenent . paci fauetur ,
+## 273 | sollicita -> solliceor (VERB) | n=1 ece=0 | Morpheus: sollicito (verb); sollicitus (adjective) | LiLa: -
+   Phoeni: bellum tollite aut belli moram , [[sollicita]] cui nunc mater alterna prece
+## 274 | domitrix -> domito (NOUN) | n=1 ece=0 | Morpheus: domitrix (noun) | LiLa: verb
+   Troade: opaca Tempe , an maris uasti [[domitrix]] Iolcos ? parua Gortynis sterilis
+## 275 | miseras -> miserus (ADJ) | n=1 ece=0 | Morpheus: miser (adjective); misero (verb); mitto (verb) | LiLa: adjective
+   Troade: coronis elida claram ? quolibet tristis [[miseras]] procella mittat et donet cuicumque
+## 276 | carinis -> carino (NOUN) | n=1 ece=0 | Morpheus: carina1 (noun) | LiLa: verb
+   Troade: est terror , Ulixe , mille [[carinis]] . submitte manus domini que
+## 277 | machinator -> machinor (NOUN) | n=1 ece=0 | Morpheus: machinator (noun) | LiLa: verb
+   Troade: sed negat Calchas tibi . O [[machinator]] fraudis et scelerum artifex ,
+## 278 | adflictae -> afflictus (ADJ) | n=1 ece=0 | Morpheus: affligo (verb) | LiLa: noun
+   Troade: patrem . miserere matris : unicum [[adflictae]] mihi solamen hic est .
+## 279 | rigens -> rigens (ADJ) | n=1 ece=0 | Morpheus: rigeo (verb) | LiLa: -
+   Troade: atque euersa quodcumque accidit torpens malis [[rigens]] que sine sensu fero .
+## 280 | fusam -> fusus (VERB) | n=1 ece=0 | Morpheus: fundo1 (verb) | LiLa: noun, proper_noun
+   Troade: , fronte sic torua minax ceruice [[fusam]] dissipans iacta comam — o
+## 281 | sparsos -> sparsus (ADJ) | n=1 ece=0 | Morpheus: spargo1 (verb) | LiLa: -
+   Troade: uindex soli recidiua ponas Pergama et [[sparsos]] fuga ciues reducas , nomen
+## 282 | pollens -> pollens (VERB) | n=1 ece=0 | Morpheus: polleo (verb) | LiLa: -
+   Troade: te sede occulam ? arx illa [[pollens]] opibus et muris deum ,
+## 283 | diuersam -> diuersus (ADJ) | n=1 ece=0 | Morpheus: diverto (verb); divorto (verb) | LiLa: -
+   Troade: , procul hinc recede te que [[diuersam]] amoue . leuius solet timere
+## 284 | procerum -> procer (NOUN) | n=1 ece=0 | Morpheus: procerus (adjective) | LiLa: noun
+   Troade: esse credas nostra : Graiorum omnium [[procerum]] que uox est , petere
+## 285 | stulta -> stulta (VERB) | n=1 ece=0 | Morpheus: stultus (adjective) | LiLa: -
+   Troade: iratus timens : [ ULIX . [[Stulta]] est fides celare quod prodas
+## 286 | aurata -> auratus (VERB) | n=1 ece=0 | Morpheus: aurata (noun); auro (verb) | LiLa: -
+   Agamem: clara laetum remigem monuit tuba , [[aurata]] primas prora designat uias aperit
+## 287 | inferorum -> infer (NOUN) | n=1 ece=0 | Morpheus: inferi (noun); inferus (adjective) | LiLa: adjective
+   Hercul: saeuit , dira Furiarum loca et [[inferorum]] carcer et sonti plaga decreta
+## 288 | oblite -> oblite (VERB) | n=1 ece=0 | Morpheus: obliviscor (verb) | LiLa: -
+   Hercul: , genitor , iratus tona , [[oblite]] nostri uindica sera manu saltem
+## 289 | uenerandos -> uenerandos (VERB) | n=1 ece=0 | Morpheus: veneror (verb) | LiLa: -
+   Hercul: seu tu parentem , per que [[uenerandos]] piis canos , senectae parce
+## 290 | desertae -> desertae (VERB) | n=1 ece=0 | Morpheus: desero2 (verb); deserta (noun); desertus (adjective) | LiLa: -
+   Hercul: uenerandos piis canos , senectae parce [[desertae]] , precor , annis que
+## 291 | afflictos -> afflictus (VERB) | n=1 ece=0 | Morpheus: affligo (verb) | LiLa: noun
+   Hercul: labor : uiuamus , artus alleua [[afflictos]] solo , Theseu , parentis
+## 292 | scelerata -> sceleratus (ADJ) | n=1 ece=0 | Morpheus: scelero (verb) | LiLa: -
+   Hercul: , parentis , dextra contactus pios [[scelerata]] refugit , hanc manum amplector
+## 293 | egens -> egens (ADJ) | n=1 ece=0 | Morpheus: egeo (verb) | LiLa: -
+   Medea: uiuat , per urbes erret ignotas [[egens]] exul pauens inuisus incerti laris
+## 294 | proxima -> propior (ADJ) | n=1 ece=0 | Morpheus: proximo2 (verb); proximum (noun); proximus (adjective) | LiLa: adjective
+   Hercul: iam praestare potest furor insontem : [[proxima]] puris sors est manibus nescire
+## 295 | pudendi -> pudendus (ADJ) | n=1 ece=0 | Morpheus: pudeo (verb) | LiLa: -
+   Hercul: Herculeis scelus . bene habet , [[pudendi]] regis excisa est domus .
+## 296 | lugubribus -> lugubre (NOUN) | n=1 ece=0 | Morpheus: lugubria (noun); lugubris (adjective) | LiLa: -
+   Hercul: iste , genitor , squalor et [[lugubribus]] amicta coniunx ? unde tam
+## 297 | abdita -> abdio (VERB) | n=1 ece=0 | Morpheus: abditus (adjective); abdo (verb) | LiLa: -
+   Hercul: quaesiuit Enna mater , ut iura [[abdita]] et operta terris liceat impune
+## 298 | afflicti -> afflictus (ADJ) | n=1 ece=0 | Morpheus: affligo (verb) | LiLa: noun
+   Hercul: tergo nitor fulgor que dubius solis [[afflicti]] cadit et ludit aciem:- nocte
+## 299 | quieto -> quietus (ADJ) | n=1 ece=0 | Morpheus: quiesco (verb); quietum (noun) | LiLa: adjective, proper_noun
+   Hercul: manat hinc uno latex , alter [[quieto]] similis ( hunc iurant dei
+## 300 | remotos -> remotus (ADJ) | n=1 ece=0 | Morpheus: removeo (verb) | LiLa: -
+   Hercul: , ducit ad manes uia qua [[remotos]] tristis et nigra metuenda silua
+## 301 | silentes -> silens (ADJ) | n=1 ece=0 | Morpheus: silentes (noun); sileo (verb) | LiLa: -
+   Hercul: mystae : tanta per campos agitur [[silentes]] turba ; pars tarda graditur
+## 302 | silentis -> silens (VERB) | n=1 ece=0 | Morpheus: silentium (noun); silentus (adjective); sileo (verb) | LiLa: -
+   Hercul: turpes et color noctis malus ac [[silentis]] otium mundi uacuae que nubes
+## 303 | permixtae -> permisceo (VERB) | n=1 ece=0 | Morpheus: per-misceo (verb) | LiLa: verb
+   Hercul: supplices , pingues caedite uictimas ; [[permixtae]] maribus nurus sollemnes agitent choros
+## 304 | belligera -> belligera (ADJ) | n=1 ece=0 | Morpheus: belliger (adjective); belligero (verb) | LiLa: -
+   Hercul: laborum socia et adiutrix precor . [[belligera]] Pallas , cuius in laeua
+## 305 | uirente -> uirens (VERB) | n=1 ece=0 | Morpheus: vireo1 (verb) | LiLa: -
+   Hercul: domitor et rubri maris , tectam [[uirente]] cuspidem thyrso gerens , geminum
+## 306 | secreta -> secretus (ADJ) | n=1 ece=0 | Morpheus: secerno (verb); secretum (noun) | LiLa: -
+   Medea: Tibi moue gentis uinculo soluens comam [[secreta]] nudo nemora lustraui pede et
+## 307 | rigens -> rigens (VERB) | n=1 ece=0 | Morpheus: rigeo (verb) | LiLa: -
+   Medea: perpetua niue Taurus cohercet frigore Arctoo [[rigens]] , et omne monstrum ,
+## 308 | serpentum -> serpo (VERB) | n=1 ece=0 | Morpheus: serpens (noun) | LiLa: verb
+   Medea: meis . ' postquam euocauit omne [[serpentum]] genus , congerit in unum
+## 309 | natas -> nascor (NOUN) | n=1 ece=0 | Morpheus: nata (noun); nato (verb); natus (adjective); natus1 (adjective) | LiLa: verb
+   Medea: non semel factum scelus , ausasqne [[natas]] fraude deceptas mea secare membra
+## 310 | aera -> aes (NOUN) | n=1 ece=0 | Morpheus: aera (noun); aera2 (noun) | LiLa: noun
+   Medea: , Dictynna , tuum pretiosa sonent [[aera]] Corinthi . tibi sanguineo caespite
+## 311 | sacro -> sacrus (ADJ) | n=1 ece=0 | Morpheus: sacer (adjective); sacro (verb); sacrum (noun) | LiLa: adjective
+   Medea: iuuat secuisse et arcano patrem spoliasse [[sacro]] , iuuat in exitium senis
+## 312 | natas -> nascor (VERB) | n=1 ece=0 | Morpheus: nata (noun); nato (verb); natus (adjective); natus1 (adjective) | LiLa: verb
+   Medea: , iuuat in exitium senis armasse [[natas]] , quaere materiam , dolor
+## 313 | fulsi -> fulgo (VERB) | n=1 ece=0 | Morpheus: fulcio (verb); fulgeo (verb) | LiLa: verb
+   Medea: , felix , decore regali potens [[fulsi]] : petebant tunc meos thalamos
+## 314 | remotus -> remotus (VERB) | n=1 ece=0 | Morpheus: removeo (verb) | LiLa: -
+   Medea: urbe si pelli placet , detur [[remotus]] aliquis in regnis locus .
+## 315 | pelle -> pella (VERB) | n=1 ece=0 | Morpheus: pellis (noun); pello (verb) | LiLa: noun, proper_noun
+   Medea: si metuis pati , utrumque regno [[pelle]] , cur sontes duos distinguis
+## 316 | solitis -> solitus (ADJ) | n=1 ece=0 | Morpheus: soleo (verb); solitum (noun) | LiLa: -
+   Hercul: sonitum constiterant ferae , mulcet non [[solitis]] uocibus inferos et surdis resonat
+## 317 | defessus -> defessus (ADJ) | n=1 ece=0 | Morpheus: defatiscor (verb); defetiscor (verb) | LiLa: -
+   Agamem: limosa iacent . et ecce , [[defessus]] senex ad ora ludentes aquas
+## 318 | semustas -> semusta (NOUN) | n=1 ece=0 | Morpheus: semustus (adjective) | LiLa: -
+   Agamem: sanguinea iactant uerbera . fert laeua [[semustas]] faces turgent que pallentes genae
+## 319 | iratae -> iro (VERB) | n=1 ece=0 | Morpheus: irascor (verb) | LiLa: -
+   Agamem: Argos nobilibus nobile ciuibus , Argos [[iratae]] carum nouercae , semper ingentes
+## 320 | casse -> co (NOUN) | n=1 ece=0 | Morpheus: cassus (adjective); casus1 (noun); caveo (verb) | LiLa: -
+   Agamem: ut altis hispidus siluis aper cum [[casse]] uinctus temptat egressus tamen artat
+## 321 | colos -> color (NOUN) | n=1 ece=0 | Morpheus: colus (noun) | LiLa: noun
+   Hercul: utinam iura ferae Stygis parcarum que [[colos]] non reuocabiles . hic qui
+## 322 | secretae -> secretus (VERB) | n=1 ece=0 | Morpheus: secerno (verb) | LiLa: -
+   Agamem: miscere iuuat : magis exurunt quos [[secretae]] lacerant curae , iuuat in
+## 323 | uirenti -> uirens (ADJ) | n=1 ece=0 | Morpheus: vireo1 (verb) | LiLa: -
+   Agamem: frontis ; laeua uictricem tenens frondem [[uirenti]] protegat ramo caput , et
+## 324 | proximus -> propior (ADJ) | n=1 ece=0 | Morpheus: proximus (adjective) | LiLa: adjective
+   Hercul: utero fulmine eiectus puer mox fulminanti [[proximus]] patri stetit . quid ?
+## 325 | inroga -> irrogo (VERB) | n=1 ece=0 | Morpheus: in-rogo (verb) | LiLa: verb
+   Hercul: iubet nescit tyrannus esse : diuersa [[inroga]] ; miserum ueta perire ,
+## 326 | rigentia -> rigens (ADJ) | n=1 ece=0 | Morpheus: rigeo (verb) | LiLa: -
+   Hercul: hospites , calcauit que freti terga [[rigentia]] et mutis tacitum litoribus mare
+## 327 | suspensus -> suspensus (ADJ) | n=1 ece=0 | Morpheus: suspendo (verb) | LiLa: noun
+   Hercul: scopulis aut deceptos instruit hamos aut [[suspensus]] spectat pressa praemia dextra :
+## 328 | ardentem -> ardens (VERB) | n=1 ece=0 | Morpheus: ardeo (verb) | LiLa: -
+   Hercul: . incipite , famulae Ditis , [[ardentem]] citae concutite pinum et agmen
+## 329 | discordem -> discors (ADJ) | n=1 ece=0 | Morpheus: discordo (verb) | LiLa: adjective
+   Hercul: caligine , ultra nocentum exilia , [[discordem]] deam quam munit ingens montis
+## 330 | aperto -> apertum (NOUN) | n=1 ece=0 | Morpheus: aperio (verb); aperto (verb); apertus (adjective) | LiLa: noun
+   Hercul: est et sacra dirae mortis in [[aperto]] iacent . at ille ,
+## 331 | erebo -> erebo (VERB) | n=1 ece=0 | Morpheus: eres (verb) | LiLa: -
+   Hercul: trahit ipsum catenis paria sortitum Ioui [[erebo]] que capto potitur et retegit
+## 332 | paelices -> pellex (NOUN) | n=1 ece=0 | Morpheus: paelex (noun) | LiLa: noun
+   Hercul: dedi ; tellus colenda est : [[paelices]] caelum tenent , hinc Arctos
+## 333 | paelicibus -> pellex (NOUN) | n=1 ece=0 | Morpheus: paelex (noun) | LiLa: noun
+   Hercul: deserui aetheris locum que caelo pulsa [[paelicibus]] dedi ; tellus colenda est
+
+## EXTRA: cecid-/cecis- forms
+## ceciderant -> caedo | n=1
+   Octavi: , quo labor , quo uota [[ceciderant]] mea ? quo te furor
+## cecidere -> cado | n=5
+   Troade: eandem sensit et mitem manum . [[cecidere]] Thebae , uidit Eetion capi
+   Hercul: cruento cecidit in bello pater ? [[cecidere]] fratres ? arma non seruant
+   Octavi: ! haec uindicta debetur mihi ? [[cecidere]] motus impio ferro duces .
+   Thyest: ipse belli . iam minae saeui [[cecidere]] ferri , iam silet murmur
+## ceciderunt -> cado | n=1
+   Troade: lucus sacer : Idaea ruptis saxa [[ceciderunt]] iugis . nec terra solum
+## cecidi -> caedo | n=2
+   Hercul: , maximi coniunx Iouis , gregem [[cecidi]] ; uota persolui libens te
+   Thyest: , ferro uulnera impresso dedi , [[cecidi]] ad aras , caede uotiua
+## cecidisse -> cado | n=3
+   Troade: , reuertit . questus est Hellen [[cecidisse]] Phrixus , cum gregis ductor
+   Oedipu: redit memoria tenue per uestigium , [[cecidisse]] nostri stipitis pulsu obuium datum
+   Hercul: sibi felix pauper habetur nisi felices [[cecidisse]] uidet . quisquis medium defugit
+## cecidit -> cado | n=40
+   Troade: fulta per annos : te cum [[cecidit]] summus que dies Hectoris idem
+   Troade: mori . tum saeua Amazon ultimus [[cecidit]] metus . debes Achilli ,
+   Troade: hoc Danai loco , unde illa [[cecidit]] , fateor , aliquando impotens
+   Troade: . Ilium uobis modo , mihi [[cecidit]] olim . cum ferus curru

@@ -1,0 +1,112 @@
+# A2 seed check (play level)
+
+Seeds: 50 per pipeline (0-49). k = 1-10 trained; coherence, adjacent-model overlap and the trade-off scored for k = 1-9, as in the notebook.
+Pipelines: **original** = the conference pipeline (saved lemmas, original named-entity list); **v2** = LatinCy 3.9.8 lemmas with the approved A1 fixes.
+
+## Original pipeline (conference)
+
+| k | coherence (mean ± SD) | overlap (mean ± SD) | trade-off (mean ± SD) | SE | wins |
+|---|---|---|---|---|---|
+| 1 | 0.397 ± 0.018 | 0.341 ± 0.052 | 0.057 ± 0.048 | 0.0067 | 0.0 |
+| 2 | 0.380 ± 0.031 | 0.188 ± 0.040 | 0.193 ± 0.049 | 0.0070 | 1.0 |
+| 3 | 0.372 ± 0.025 | 0.149 ± 0.033 | 0.223 ± 0.044 | 0.0063 | 3.0 |
+| 4 | 0.366 ± 0.024 | 0.127 ± 0.029 | 0.238 ± 0.040 | 0.0056 | 5.0 |
+| 5 | 0.366 ± 0.025 | 0.121 ± 0.031 | 0.245 ± 0.041 | 0.0058 | 7.0 |
+| 6 | 0.360 ± 0.020 | 0.113 ± 0.022 | 0.247 ± 0.027 | 0.0038 | 5.0 |
+| 7 | 0.366 ± 0.020 | 0.110 ± 0.025 | 0.256 ± 0.029 | 0.0041 | 7.0 |
+| 8 **(best)** | 0.367 ± 0.018 | 0.103 ± 0.025 | 0.263 ± 0.025 | 0.0036 | 9.0 |
+| 9 (tied) | 0.366 ± 0.022 | 0.105 ± 0.026 | 0.261 ± 0.024 | 0.0034 | 13.0 |
+
+- **Rule-selected k = 8.** Highest mean trade-off: k = 8. Within one SE of the best: [8, 9] → reported as tied; the smallest, k = 8, is the default.
+- Wins out of 50 seeds: k = 2: 1, k = 3: 3, k = 4: 5, k = 5: 7, k = 6: 5, k = 7: 7, k = 8: 9, k = 9: 13.
+
+### Ecerinis's dominant topic: the 'Topic 7' check
+
+Jaccard similarity of the shared topic's word list with seed 42's Topic 7 (original pipeline), computed two ways: top 10 by probability (as in the selection calculation) and top 20 by relevance (λ = 0.6, as in the keyword tables). Mean [min-max] over the seeds where the three plays share a topic.
+
+| k | seeds where Ecerinis, Medea and Hercules Oetaeus share a dominant topic | top 10 by probability | top 20 by relevance |
+|---|---|---|---|
+| 8 | 1/50 (2%) | 1.00 [1.00-1.00] | 1.00 [1.00-1.00] |
+
+Seed-42 Topic 7, top 20 by relevance (λ = 0.6): uoltus, uindico, uolucer, axis, inuado, colus, intendo, glacialis, ursa, rigidus, harundo, falsum, perpetuus, flagrans, tingo, pons, sanus, occasus, uirus, innocuus
+
+- k = 8, share of seeds in which each play shares Ecerinis's dominant topic: Thyestes 20%, Troades 16%, Phaedra 14%, Agamemnon 14%, Medea 14%, Phoenissae 10%, Hercules Furens 10%, Octavia 10%, Hercules Oetaeus 10%, Oedipus 8%
+
+### Representative seed at k = 8: seed 25 (Frobenius distance to consensus 2.66; median over seeds 3.57)
+
+|   topic | top20_relevance_lambda06                                                                                                                                                        | plays_dominant                                           |   total_weight |
+|--------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------|---------------:|
+|       1 | eruo, dirigo, externus, accedo, exoro, suspensus, obseruo, eludo, defigo, mollio, planus, abnuo, affectus, aspectus, pestifer, inhaereo, impedio, praerumpo, proicio, caterua   | Phoenissae (1.00)                                        |          1     |
+|       2 | curuus, cognatus, uestigium, bos, dependeo, sacerdos, fatidicus, callidus, annosus, parricida, laurus, niveus, lingua, strages, sons, fibra, exta, permuto, curuo, redimio      | Oedipus (1.00)                                           |          1.001 |
+|       3 | mensa, obsto, saltus, uicina, obliquus, cibus, repono, intactus, demitto, gracilis, cludo, indoles, summum, credulus, abscondo, compono, celo, deformis, priscus, uinum         | Phaedra (1.00), Thyestes (1.00)                          |          2.353 |
+|       4 | classis, uinclum, uenia, ferax, cultus, uerberum, tranquillo, bustum, libens, amoueo, sospes, flexus, arto, laurus, comitor, ductor, immotus, morsus, horrendus, mano           | Troades (0.65), Agamemnon (0.58), Hercules Furens (1.00) |          2.229 |
+|       5 | uoltus, axis, colus, triumphus, vinco, maereo, femineus, uolucer, abrumpo, uindico, deficio, palla, lasso, remeo, deuinco, uirus, sufficio, plango, inuado, caelestis           | Hercules Oetaeus (1.00)                                  |          1.417 |
+|       6 | lis, actus, forum, rabies, plebs, triplex, desino, patulus, supernus, potior, anxius, spons, series, ciuitas, excludo, relatus, secedo, frendo, praepotens, deuius              | Ecerinis (1.00)                                          |          1     |
+|       7 | peruro, paeniteo, profugio, nubo, furiosus, carina, angustus, mortifer, uindicta, harena, mina, pessimus, insum, flammo, hibernus, obicio, permisceo, tactus, armifer, perfidus | Medea (1.00)                                             |          1.001 |
+|       8 | princeps, subicio, constituo, suboles, extruo, consensus, uolucer, lacero, porto, incestus, saevus, immitis, accendo, resoluo, obsequor, uxor, nutus, dedo, suspicio, praesens  | Octavia (1.00)                                           |          1     |
+
+## v2 (LatinCy 3.9.8 + A1 fixes)
+
+| k | coherence (mean ± SD) | overlap (mean ± SD) | trade-off (mean ± SD) | SE | wins |
+|---|---|---|---|---|---|
+| 1 | 0.448 ± 0.017 | 0.334 ± 0.051 | 0.114 ± 0.053 | 0.0076 | 0.0 |
+| 2 | 0.429 ± 0.030 | 0.196 ± 0.040 | 0.233 ± 0.044 | 0.0062 | 2.0 |
+| 3 | 0.418 ± 0.028 | 0.156 ± 0.035 | 0.262 ± 0.043 | 0.0061 | 9.0 |
+| 4 | 0.409 ± 0.025 | 0.131 ± 0.032 | 0.278 ± 0.041 | 0.0058 | 9.0 |
+| 5 | 0.401 ± 0.025 | 0.128 ± 0.028 | 0.273 ± 0.031 | 0.0043 | 4.0 |
+| 6 | 0.398 ± 0.023 | 0.118 ± 0.023 | 0.279 ± 0.028 | 0.0040 | 4.0 |
+| 7 | 0.401 ± 0.018 | 0.115 ± 0.024 | 0.286 ± 0.027 | 0.0038 | 8.0 |
+| 8 | 0.400 ± 0.020 | 0.114 ± 0.020 | 0.285 ± 0.022 | 0.0031 | 7.0 |
+| 9 **(best)** | 0.406 ± 0.019 | 0.116 ± 0.020 | 0.290 ± 0.023 | 0.0032 | 7.0 |
+
+- **Rule-selected k = 9.** Highest mean trade-off: k = 9. Within one SE of the best: [9] (no tie).
+- Wins out of 50 seeds: k = 2: 2, k = 3: 9, k = 4: 9, k = 5: 4, k = 6: 4, k = 7: 8, k = 8: 7, k = 9: 7.
+
+### Ecerinis's dominant topic: the 'Topic 7' check
+
+Jaccard similarity of the shared topic's word list with seed 42's Topic 7 (original pipeline), computed two ways: top 10 by probability (as in the selection calculation) and top 20 by relevance (λ = 0.6, as in the keyword tables). Mean [min-max] over the seeds where the three plays share a topic.
+
+| k | seeds where Ecerinis, Medea and Hercules Oetaeus share a dominant topic | top 10 by probability | top 20 by relevance | v2's own seed 42, top 10 / top 20 relevance |
+|---|---|---|---|---|
+| 8 | 3/50 (6%) | 0.13 [0.11-0.18] | 0.10 [0.08-0.11] | 0.02 [0.00-0.05] / 0.04 [0.03-0.05] |
+| 9 | 2/50 (4%) | 0.14 [0.11-0.18] | 0.16 [0.11-0.21] | 0.00 [0.00-0.00] / 0.03 [0.00-0.05] |
+
+v2 seed 42, k = 8, Ecerinis's topic (Topic 2), top 20 by relevance (λ = 0.6): lis, actus, atrox, forum, triplex, rabies, plebs, pons, adulter, desino, deuoueo, patulus, potior, supernus, series, anxius, praepotens, allido, sinister, recolo
+
+- k = 8, share of seeds in which each play shares Ecerinis's dominant topic: Medea 18%, Oedipus 16%, Thyestes 16%, Phaedra 14%, Troades 12%, Hercules Oetaeus 12%, Agamemnon 10%, Phoenissae 6%, Octavia 6%, Hercules Furens 2%
+
+- k = 9, share of seeds in which each play shares Ecerinis's dominant topic: Hercules Oetaeus 16%, Phaedra 14%, Medea 14%, Oedipus 14%, Octavia 12%, Agamemnon 10%, Phoenissae 6%, Hercules Furens 6%, Troades 4%, Thyestes 4%
+
+### Representative seed at k = 8: seed 29 (Frobenius distance to consensus 2.66; median over seeds 3.45)
+
+|   topic | top20_relevance_lambda06                                                                                                                                                          | plays_dominant                                                  |   total_weight |
+|--------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------|---------------:|
+|       1 | saltus, sanus, ritus, filum, ambiguus, torreo, libido, modero, corniger, pudicus, fretus, iuuenta, pulcher, ratio, restituo, reditus, priscus, tenax, secerno, coeptum            | Phaedra (1.00)                                                  |          1.001 |
+|       2 | mensa, cibus, uinum, uoluptas, amputo, compono, stagnum, ueru, rictus, incubo, aenus, punio, culmen, orno, furia, obsto, hostia, limes, certo, ebur                               | Thyestes (1.00)                                                 |          1.001 |
+|       3 | thebanus, eruo, dirigo, accedo, externus, obseruo, exoro, defigo, pugna, eludo, aequum, affectus, meto, saluus, abstrudo, mollio, planus, impedio, inhaereo, pestifer             | Phoenissae (1.00)                                               |          0.999 |
+|       4 | princeps, interimo, constituo, lacero, iussum, polluo, extruo, consensus, incestus, porto, claro, immitis, resoluo, obsequor, uxor, praesens, alumnus, nutus, fascis, suboleo     | Octavia (1.00)                                                  |          1     |
+|       5 | danai, classis, captiuus, uates, cultus, laurus, bustum, maculo, iliacus, hectoreus, prora, despondeo, responsum, accido, expromo, eruo, pelasgi, occulo, morsus, furtiuus        | Troades (1.00), Agamemnon (1.00)                                |          2.269 |
+|       6 | lis, atrox, actus, forum, plebs, rabies, pons, triplex, adulter, desino, deuoueo, potior, patulus, supernus, anxius, series, allido, frendo, sinister, ciuitas                    | Ecerinis (1.00)                                                 |          1     |
+|       7 | colchus, peruro, serpens, paeniteo, furiosus, carina, obicio, mortifer, uindicta, angustus, harena, nubo, armifer, praetereo, tactus, insum, profundum, pelasgi, ultrix, perfidus | Medea (1.00)                                                    |          1.001 |
+|       8 | inferi, serpens, colus, foris, abrumpo, morbus, axis, discutio, siccus, irascor, fragor, uolucer, glacialis, harundo, maereo, claua, occasus, intrepidus, gigas, penso            | Hercules Furens (1.00), Oedipus (0.73), Hercules Oetaeus (1.00) |          2.729 |
+
+### Representative seed at k = 9: seed 35 (Frobenius distance to consensus 2.18; median over seeds 3.50)
+
+|   topic | top20_relevance_lambda06                                                                                                                                                          | plays_dominant                         |   total_weight |
+|--------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------|---------------:|
+|       1 | inferi, obtineo, morbus, cauda, opimus, sons, uates, senectus, thyrsus, mano, mutus, ferax, purus, curuus, cognatus, obtego, penetro, cauus, tabidus, uiridis                     | Hercules Furens (1.00), Oedipus (1.00) |          1.999 |
+|       2 | classis, danai, pelopius, prora, remeo, iliacus, furtiuus, epulae, laurus, uidua, consors, inops, augeo, redux, periculum, prosper, ductor, doctus, uotiuus, bipennis             | Agamemnon (1.00)                       |          1     |
+|       3 | lis, atrox, actus, forum, plebs, rabies, triplex, pons, adulter, deuoueo, desino, potior, patulus, supernus, anxius, series, praepotens, fulgur, recolo, ciuitas                  | Ecerinis (1.00)                        |          1     |
+|       4 | thebanus, eruo, dirigo, accedo, externus, exoro, obseruo, pugna, defigo, eludo, aequum, affectus, saluus, meto, mollio, abstrudo, pestifer, impedio, proicio, planus              | Phoenissae (1.00)                      |          0.999 |
+|       5 | axis, maereo, colus, foris, irascor, paelex, abrumpo, palla, serpens, uirus, caelestis, gigas, deuinco, cancer, inhibeo, quercus, suppono, anus, promo, discutio                  | Hercules Oetaeus (1.00)                |          1.001 |
+|       6 | saltus, sanus, ambiguus, filum, ritus, libido, torreo, pulcher, fretus, iuuenta, pudicus, corniger, modero, ratio, restituo, reditus, priscus, coeptum, tenax, secerno            | Phaedra (1.00)                         |          1.001 |
+|       7 | princeps, interimo, constituo, lacero, iussum, polluo, consensus, extruo, incestus, porto, claro, immitis, resoluo, obsequor, uxor, praesens, alumnus, nutus, romanus, spondeo    | Octavia (1.00)                         |          1     |
+|       8 | colchus, peruro, serpens, paeniteo, furiosus, carina, obicio, mortifer, uindicta, nubo, harena, angustus, insum, armifer, praetereo, tactus, pelasgi, profundum, perfidus, ultrix | Medea (1.00)                           |          1     |
+|       9 | danai, bustum, classis, mensa, captiuus, sumo, regio, demitto, accido, cibus, hectoreus, ueru, uinum, maeror, amputo, pelasgus, uoluptas, sitio, immolo, epulor                   | Troades (1.00), Thyestes (1.00)        |          1.999 |
+
+## Figures
+
+- `figures/fig_a2_tradeoff_curves.png`: coherence, adjacent-model overlap and trade-off, mean ± 1 SD across seeds, both pipelines; dashed = rule-selected k.
+- `figures/fig_a2_wins.png`: number of seeds in which each k has the highest trade-off.
+- `figures/fig_a2_coassignment_{original,v2}.png`: share of seeds in which each pair of plays shares a dominant topic, at the rule-selected k and at k = 8 (Ecerinis row outlined and labelled).
+- `figures/fig_a2_coassignment_neighbours_{original,v2}.png`: the same at the neighbouring k values (supplementary).

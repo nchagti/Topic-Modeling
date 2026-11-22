@@ -1,0 +1,334 @@
+﻿gid,surface,lemma_398,pos_398,status,n,ecerinis,morpheus_candidates,lila_pos_of_lemma,plays,decision,affects_lda_vocab,priority
+1,manes,manes,NOUN,review: Morpheus rejects lemma for this form,26,1,maneo (verb); mano (verb),"noun, proper_noun","Troades 3, Phaedra 1, Hercules Furens 5, Medea 1, Octavia 2, Oedipus 3, Thyestes 1, Hercules Oetaeus 9, Ecerinis 1",,True,True
+2,imo,inferus,ADJ,review: Morpheus rejects lemma for this form,15,1,imum (noun); imus (adjective),adjective,"Troades 3, Phaedra 3, Hercules Furens 4, Medea 1, Thyestes 3, Ecerinis 1",,True,True
+3,adest,assum,VERB,review: Morpheus rejects lemma for this form,11,1,adsum (verb),"noun, verb","Troades 1, Phaedra 1, Agamemnon 4, Hercules Furens 1, Medea 2, Oedipus 1, Ecerinis 1",,False,True
+4,tutus,tuor,ADJ,review: Morpheus rejects lemma for this form,11,3,tueor (verb),"noun, verb","Phaedra 1, Medea 2, Octavia 2, Thyestes 1, Hercules Oetaeus 2, Ecerinis 3",,False,True
+5,tuta,tutus,ADJ,review: Morpheus rejects lemma for this form,10,1,tueor (verb); tuto (verb); tutum (noun),,"Troades 1, Agamemnon 3, Medea 1, Octavia 1, Oedipus 1, Thyestes 2, Ecerinis 1",,True,True
+6,nata,nascor,VERB,review: Morpheus rejects lemma for this form,10,0,nata (noun); nato (verb); natus (adjective); natus1 (adjective),verb,"Phoenissae 4, Troades 2, Medea 1, Octavia 1, Oedipus 1, Hercules Oetaeus 1",,True,True
+7,paelex,pellex,NOUN,review: Morpheus rejects lemma for this form,8,0,paelex (noun),noun,"Agamemnon 2, Hercules Furens 1, Octavia 1, Hercules Oetaeus 4",,True,True
+8,extremum,exter,ADJ,review: Morpheus rejects lemma for this form,8,1,extremum (noun); extremus (adjective),adjective,"Troades 1, Agamemnon 2, Medea 1, Oedipus 1, Thyestes 1, Hercules Oetaeus 1, Ecerinis 1",,True,True
+9,tutum,tutus,ADJ,review: Morpheus rejects lemma for this form,7,0,tueor (verb); tutum (noun),,"Phaedra 3, Agamemnon 1, Medea 1, Oedipus 1, Hercules Oetaeus 1",,True,True
+10,gnati,natus,NOUN,review: Morpheus rejects lemma for this form,7,2,nascor (noun),noun,"Phoenissae 1, Phaedra 2, Octavia 1, Oedipus 1, Ecerinis 2",,False,True
+11,maenas,maenas,NOUN,review: Morpheus rejects lemma for this form,6,0,maena (noun),"noun, proper_noun","Phoenissae 1, Medea 3, Oedipus 1, Hercules Oetaeus 1",,True,True
+12,imis,inferus,ADJ,review: Morpheus rejects lemma for this form,5,0,imi (noun); imum (noun); imus (adjective),adjective,"Phaedra 1, Agamemnon 2, Hercules Furens 1, Oedipus 1",,True,True
+13,tuto,tutus,ADJ,review: Morpheus rejects lemma for this form,5,0,tueor (verb); tuto (adverb); tutum (noun),,"Phoenissae 1, Hercules Furens 1, Oedipus 1, Thyestes 2",,True,True
+14,sponte,spons,NOUN,review: Morpheus rejects lemma for this form,5,2,sponte (noun),noun,"Troades 2, Hercules Oetaeus 1, Ecerinis 2",,True,True
+15,iratae,iratus,ADJ,review: Morpheus rejects lemma for this form,5,0,irascor (verb),adjective,"Agamemnon 1, Medea 1, Hercules Oetaeus 3",,True,True
+16,extremus,exter,ADJ,review: Morpheus rejects lemma for this form,4,0,extremus (adjective); extro (verb),adjective,"Troades 1, Hercules Oetaeus 3",,True,True
+17,carbasa,carbasa,NOUN,review: Morpheus rejects lemma for this form,4,0,carbasus (noun),noun,"Hercules Furens 2, Medea 1, Oedipus 1",,True,True
+18,terna,ternus,ADJ,review: Morpheus rejects lemma for this form,4,0,terni (adjective),adjective,"Phaedra 1, Hercules Furens 3",,True,True
+19,paelicis,pellex,NOUN,review: Morpheus rejects lemma for this form,4,0,paelex (noun),noun,"Phaedra 1, Hercules Oetaeus 3",,True,True
+20,arctos,arctus,PROPN,review: Morpheus rejects lemma for this form,4,0,arceo (verb); arctos (noun); artus1 (adjective),"adjective, noun","Hercules Furens 1, Medea 1, Oedipus 1, Thyestes 1",,True,True
+21,manes,mane,NOUN,review: Morpheus rejects lemma for this form,4,0,maneo (verb); mano (verb),noun,"Troades 1, Phaedra 1, Hercules Furens 1, Octavia 1",,True,True
+22,docta,doctus,ADJ,review: Morpheus rejects lemma for this form,4,0,doceo (verb),proper_noun,"Troades 1, Phaedra 1, Agamemnon 2",,True,True
+23,coepit,coepi,VERB,review: Morpheus rejects lemma for this form,4,0,coepio (verb),verb,"Troades 1, Hercules Oetaeus 3",,True,True
+24,ruinis,ruino,NOUN,review: Morpheus rejects lemma for this form,4,0,ruina (noun),verb,"Troades 2, Hercules Oetaeus 2",,True,True
+25,extremo,exter,ADJ,review: Morpheus rejects lemma for this form,4,0,extremo (verb); extremum (noun); extremus (adjective),adjective,"Phaedra 1, Medea 1, Oedipus 1, Thyestes 1",,True,True
+26,solito,solitus,ADJ,review: Morpheus rejects lemma for this form,4,0,soleo (verb); solito (verb); solitum (noun),,"Troades 1, Agamemnon 1, Hercules Furens 1, Oedipus 1",,True,True
+27,imos,inferus,ADJ,review: Morpheus rejects lemma for this form,4,0,imi (noun); imus (adjective),adjective,"Troades 1, Medea 1, Oedipus 1, Hercules Oetaeus 1",,True,True
+28,ima,inferus,ADJ,review: Morpheus rejects lemma for this form,4,1,imum (noun); imus (adjective),adjective,"Hercules Furens 1, Medea 1, Oedipus 1, Ecerinis 1",,True,True
+29,horrendum,horrendus,ADJ,review: Morpheus rejects lemma for this form,3,0,horreo (verb),adjective,"Phoenissae 1, Hercules Furens 1, Thyestes 1",,True,True
+30,extrema,exter,ADJ,review: Morpheus rejects lemma for this form,3,0,extremum (noun); extremus (adjective),adjective,"Hercules Furens 1, Medea 1, Oedipus 1",,True,True
+31,diuersa,diuersus,ADJ,review: Morpheus rejects lemma for this form,3,0,diverto (verb); divorto (verb),,"Phoenissae 1, Phaedra 1, Hercules Furens 1",,True,True
+32,imas,inferus,ADJ,review: Morpheus rejects lemma for this form,3,1,imus (adjective),adjective,"Hercules Furens 1, Medea 1, Ecerinis 1",,True,True
+33,cadmea,cadmeius,ADJ,review: Morpheus rejects lemma for this form,3,0,cadmia (noun),adjective,"Phoenissae 2, Oedipus 1",,True,True
+34,septena,septenus,ADJ,review: Morpheus rejects lemma for this form,3,0,septeni (adjective),"adjective, noun","Phoenissae 2, Troades 1",,True,True
+35,oblita,oblino,VERB,review: Morpheus rejects lemma for this form,3,0,oblitor (verb); obliviscor (verb),verb,"Troades 1, Octavia 1, Hercules Oetaeus 1",,True,True
+36,aequoris,aequo,NOUN,review: Morpheus rejects lemma for this form,3,0,aequor (noun),verb,"Troades 1, Octavia 1, Hercules Oetaeus 1",,True,True
+37,remisso,remissus,ADJ,review: Morpheus rejects lemma for this form,3,1,remitto (verb),noun,"Phoenissae 1, Hercules Furens 1, Ecerinis 1",,True,True
+38,ictibus,ico,NOUN,review: Morpheus rejects lemma for this form,3,1,ictus2 (noun),verb,"Phoenissae 1, Hercules Oetaeus 1, Ecerinis 1",,True,True
+39,spectator,specto,NOUN,review: Morpheus rejects lemma for this form,3,1,spectator (noun),verb,"Troades 1, Medea 1, Ecerinis 1",,False,True
+40,perlucet,pelluceo,VERB,review: Morpheus rejects lemma for this form,3,0,perluceo (verb),verb,"Phaedra 1, Agamemnon 1, Hercules Furens 1",,True,True
+41,summisit,summisit,VERB,review: Morpheus rejects lemma for this form,3,0,summitto (verb),,"Agamemnon 1, Hercules Furens 1, Octavia 1",,True,True
+42,cadmeis,cadmeius,ADJ,review: Morpheus rejects lemma for this form,3,0,cadmia (noun),adjective,"Hercules Furens 1, Oedipus 1, Hercules Oetaeus 1",,True,True
+43,natam,nascor,VERB,review: Morpheus rejects lemma for this form,3,0,nata (noun); natus (adjective); natus1 (adjective),verb,"Troades 2, Agamemnon 1",,True,True
+44,aurato,auratus,ADJ,review: Morpheus rejects lemma for this form,3,0,auro (verb),,"Hercules Furens 1, Oedipus 1, Hercules Oetaeus 1",,True,True
+45,subito,subitus,ADJ,review: Morpheus rejects lemma for this form,3,1,subeo (verb); subito (adverb); subitum (noun),,"Hercules Furens 1, Medea 1, Ecerinis 1",,False,True
+46,exarsit,exardesco,VERB,review: Morpheus rejects lemma for this form,2,1,ex-ardeo (verb),verb,"Thyestes 1, Ecerinis 1",,True,True
+47,putres,putris,ADJ,review: Morpheus rejects lemma for this form,2,0,putreo (verb),adjective,"Octavia 1, Oedipus 1",,True,True
+48,supremum,superior,ADJ,review: Morpheus rejects lemma for this form,2,0,superus (adjective); suprema (noun); supremum (noun),noun,"Phaedra 1, Oedipus 1",,True,True
+49,secreto,secretus,ADJ,review: Morpheus rejects lemma for this form,2,0,secerno (verb); secretum (noun),,"Hercules Furens 1, Medea 1",,True,True
+50,remotos,remotus,VERB,review: Morpheus rejects lemma for this form,2,0,removeo (verb),,"Hercules Furens 1, Thyestes 1",,True,True
+51,sparsa,sparsus,VERB,review: Morpheus rejects lemma for this form,2,0,spargo1 (verb),,"Phaedra 1, Agamemnon 1",,True,True
+52,quieti,quietus,ADJ,review: Morpheus rejects lemma for this form,2,0,quies1 (noun); quiesco (verb); quieti (noun); quietum (noun),"adjective, proper_noun","Phaedra 1, Oedipus 1",,True,True
+53,horrentes,horrens,ADJ,review: Morpheus rejects lemma for this form,2,0,horreo (verb),,"Hercules Furens 1, Oedipus 1",,True,True
+54,suspecta,suspectus,ADJ,review: Morpheus rejects lemma for this form,2,0,suspecto1 (verb); suspicio1 (verb),noun,"Medea 1, Octavia 1",,True,True
+55,fulges,fulgo,VERB,review: Morpheus rejects lemma for this form,2,0,fulgeo (verb),verb,"Phaedra 1, Hercules Oetaeus 1",,True,True
+56,effusos,effusus,ADJ,review: Morpheus rejects lemma for this form,2,0,effundo (verb),noun,"Hercules Furens 1, Oedipus 1",,True,True
+57,supremus,supremus,ADJ,review: Morpheus rejects lemma for this form,2,1,superus (adjective),adjective,"Octavia 1, Ecerinis 1",,True,True
+58,uere,uere,NOUN,review: Morpheus rejects lemma for this form,2,0,ver (noun); verum (noun); verum2 (noun); verus (adjective),,"Medea 1, Hercules Oetaeus 1",,True,True
+59,silentum,silens,ADJ,review: Morpheus rejects lemma for this form,2,0,silentes (noun); silentus (adjective),,"Medea 1, Hercules Oetaeus 1",,True,True
+60,septenos,septenus,ADJ,review: Morpheus rejects lemma for this form,2,0,septeni (adjective),"adjective, noun","Medea 1, Hercules Oetaeus 1",,True,True
+61,silentem,silens,ADJ,review: Morpheus rejects lemma for this form,2,0,sileo (verb),,"Phaedra 1, Hercules Furens 1",,True,True
+62,supera,superum,NOUN,review: Morpheus rejects lemma for this form,2,0,supera (noun); supero (verb); superus (adjective),noun,"Phaedra 1, Hercules Furens 1",,True,True
+63,placatos,placatus,ADJ,review: Morpheus rejects lemma for this form,2,0,placo (verb),,"Phaedra 1, Agamemnon 1",,True,True
+64,neglecta,negligo,VERB,review: Morpheus rejects lemma for this form,2,0,neglego (verb),verb,"Agamemnon 1, Octavia 1",,True,True
+65,ardentem,ardens,ADJ,review: Morpheus rejects lemma for this form,2,0,ardeo (verb),,Hercules Oetaeus 2,,True,True
+66,occultum,occultus,ADJ,review: Morpheus rejects lemma for this form,2,1,occulo (verb); occulta (noun); occultum (noun),,"Oedipus 1, Ecerinis 1",,True,True
+67,senior,senior,NOUN,review: Morpheus rejects lemma for this form,2,0,senex (noun); seni (adjective),noun,"Hercules Furens 1, Hercules Oetaeus 1",,True,True
+68,extremum,exter,NOUN,review: Morpheus rejects lemma for this form,2,0,extremum (noun); extremus (adjective),adjective,"Agamemnon 1, Medea 1",,True,True
+69,manes,manes,VERB,review: Morpheus rejects lemma for this form,2,0,maneo (verb); mano (verb),"noun, proper_noun","Phaedra 1, Medea 1",,True,True
+70,pallentes,pallens,ADJ,review: Morpheus rejects lemma for this form,2,0,palleo (verb),,"Agamemnon 1, Oedipus 1",,True,True
+71,tuta,tutus,VERB,review: Morpheus rejects lemma for this form,2,0,tueor (verb); tuto (verb); tutum (noun),,"Agamemnon 1, Thyestes 1",,True,True
+72,iratus,iratus,ADJ,review: Morpheus rejects lemma for this form,2,0,irascor (verb),adjective,"Thyestes 1, Hercules Oetaeus 1",,True,True
+73,libens,libo,VERB,review: Morpheus rejects lemma for this form,2,0,libens (adverb); libet (adjective),"proper_noun, verb","Agamemnon 1, Hercules Furens 1",,True,True
+74,iamne,iamna,NOUN,review: Morpheus rejects lemma for this form,2,0,jam (adverb),,"Oedipus 1, Hercules Oetaeus 1",,True,True
+75,coepit,capio,VERB,review: Morpheus rejects lemma for this form,2,0,coepio (verb),"noun, verb","Hercules Furens 1, Medea 1",,True,True
+76,iratus,iror,VERB,review: Morpheus rejects lemma for this form,2,0,irascor (verb),"noun, verb","Hercules Furens 1, Oedipus 1",,True,True
+77,deprendit,deprehendo,VERB,review: Morpheus rejects lemma for this form,2,0,de_-prehendo (verb),verb,"Oedipus 1, Hercules Oetaeus 1",,True,True
+78,salsa,salsus,ADJ,review: Morpheus rejects lemma for this form,2,0,salio1 (verb); salsa (noun),,"Oedipus 1, Thyestes 1",,True,True
+79,paelice,pellex,NOUN,review: Morpheus rejects lemma for this form,2,0,paelex (noun),noun,"Agamemnon 1, Medea 1",,True,True
+80,sacrata,sacratus,ADJ,review: Morpheus rejects lemma for this form,2,0,sacro (verb),,"Agamemnon 1, Oedipus 1",,True,True
+81,rubentis,rubens,ADJ,review: Morpheus rejects lemma for this form,2,0,rubeo (verb),,"Oedipus 1, Hercules Oetaeus 1",,True,True
+82,dubio,dubium,NOUN,review: Morpheus rejects lemma for this form,2,1,dubius (adjective),noun,"Agamemnon 1, Ecerinis 1",,True,True
+83,flagrantibus,fragro,VERB,review: Morpheus rejects lemma for this form,2,0,flagro (verb),verb,"Medea 1, Hercules Oetaeus 1",,True,True
+84,adflictis,afflictus,ADJ,review: Morpheus rejects lemma for this form,2,0,affligo (verb),noun,"Medea 1, Oedipus 1",,True,True
+85,trigemina,tergeminus,ADJ,review: Morpheus rejects lemma for this form,2,0,trigemino (verb); trigeminus (adjective),adjective,"Agamemnon 1, Oedipus 1",,True,True
+86,ueneranda,uenerandus,ADJ,review: Morpheus rejects lemma for this form,2,0,veneror (verb),,"Phaedra 1, Hercules Oetaeus 1",,True,True
+87,functis,functus,NOUN,review: Morpheus rejects lemma for this form,2,0,fungor (verb),,"Medea 1, Thyestes 1",,True,True
+88,sena,senus,ADJ,review: Morpheus rejects lemma for this form,2,0,seni (adjective),"adjective, noun","Troades 1, Oedipus 1",,True,True
+89,quinis,quinus,ADJ,review: Morpheus rejects lemma for this form,2,0,quini (adjective),adjective,"Troades 1, Agamemnon 1",,True,True
+90,summittit,submitto,VERB,review: Morpheus rejects lemma for this form,2,0,summitto (verb),verb,"Phoenissae 1, Oedipus 1",,True,True
+91,afflictos,afflico,VERB,review: Morpheus rejects lemma for this form,2,0,affligo (verb),,"Troades 1, Thyestes 1",,True,True
+92,adulta,adultus,ADJ,review: Morpheus rejects lemma for this form,2,0,adoleo1 (verb); adolesco (verb),,"Phoenissae 1, Hercules Furens 1",,True,True
+93,coniugi,coniugi,NOUN,review: Morpheus rejects lemma for this form,2,0,conjugium (noun); conjunx (noun),,"Phoenissae 1, Medea 1",,True,True
+94,largire,largio,VERB,review: Morpheus rejects lemma for this form,2,0,largior (verb),verb,"Troades 1, Medea 1",,True,True
+95,tutam,tutus,ADJ,review: Morpheus rejects lemma for this form,2,1,tueor (verb),,"Phoenissae 1, Ecerinis 1",,False,True
+96,renatum,renascor,VERB,review: Morpheus rejects lemma for this form,2,0,reno1 (verb),verb,"Troades 1, Hercules Oetaeus 1",,True,True
+97,maenas,maenas,PROPN,review: Morpheus rejects lemma for this form,2,0,maena (noun),"noun, proper_noun","Troades 1, Hercules Oetaeus 1",,True,True
+98,caedibus,caedo,NOUN,review: Morpheus rejects lemma for this form,2,2,caedes (noun),verb,Ecerinis 2,,False,True
+99,solitum,solitus,ADJ,review: Morpheus rejects lemma for this form,2,0,soleo (verb); solitum (noun),,"Troades 1, Hercules Oetaeus 1",,True,True
+100,tyrannidi,tyrannus,NOUN,review: Morpheus rejects lemma for this form,2,2,tyrannis (noun),noun,Ecerinis 2,,False,True
+101,pecori,pecu,NOUN,review: Morpheus rejects lemma for this form,2,0,pecus1 (noun),noun,"Troades 1, Hercules Oetaeus 1",,True,True
+102,threicia,threicium,NOUN,review: lemma in neither resource,2,0,,,"Troades 1, Hercules Oetaeus 1",,True,True
+103,nitentem,nitens,ADJ,review: Morpheus rejects lemma for this form,2,0,niteo (verb); nitor1 (verb),,"Troades 1, Hercules Oetaeus 1",,True,True
+104,solita,solitus,ADJ,review: Morpheus rejects lemma for this form,2,0,soleo (verb); solito (verb); solitum (noun),,"Troades 1, Medea 1",,True,True
+105,magna,magnum,NOUN,review: Morpheus rejects lemma for this form,2,0,magnus (adjective); magnus1 (adjective),"noun, proper_noun","Troades 1, Hercules Oetaeus 1",,True,True
+106,uerona,uerono,VERB,review: lemma in neither resource,2,2,,,Ecerinis 2,,False,True
+107,iuratos,iuratus,ADJ,review: Morpheus rejects lemma for this form,2,0,juro (verb); juror (verb),,"Troades 1, Hercules Oetaeus 1",,True,True
+108,proci,proco,NOUN,review: Morpheus rejects lemma for this form,2,0,procus (noun); procus2 (noun),verb,"Phaedra 1, Medea 1",,True,True
+109,imo,imo,ADJ,review: Morpheus rejects lemma for this form,2,1,imum (noun); imus (adjective),adverb,"Phoenissae 1, Ecerinis 1",,True,True
+110,opposita,oppono,VERB,review: Morpheus rejects lemma for this form,2,0,opposita (noun); oppositus (adjective),verb,"Phoenissae 1, Hercules Furens 1",,True,True
+111,patenti,patens,VERB,review: Morpheus rejects lemma for this form,2,1,pateo (verb),noun,"Troades 1, Ecerinis 1",,True,True
+112,citas,cio,ADJ,review: Morpheus rejects lemma for this form,2,0,cieo (verb); cito2 (verb),verb,"Phoenissae 1, Phaedra 1",,True,True
+113,senior,senior,ADJ,review: Morpheus rejects lemma for this form,1,0,senex (noun); seni (adjective),noun,Oedipus 1,,True,True
+114,oloris,odor,NOUN,review: Morpheus rejects lemma for this form,1,0,olor1 (noun); olor2 (noun),noun,Octavia 1,,True,True
+115,sollicita,sollicio,VERB,review: Morpheus rejects lemma for this form,1,0,sollicito (verb); sollicitus (adjective),noun,Oedipus 1,,True,True
+116,frequensne,frequensne,ADJ,review: Morpheus rejects lemma for this form,1,0,frequens (adjective),,Oedipus 1,,True,True
+117,iniecit,inicio,VERB,review: Morpheus rejects lemma for this form,1,1,in-jacio (verb),verb,Ecerinis 1,,True,True
+118,constitit,consisto,VERB,review: Morpheus rejects lemma for this form,1,0,consto (verb),verb,Oedipus 1,,True,True
+119,ardentes,ardens,ADJ,review: Morpheus rejects lemma for this form,1,1,ardeo (verb),,Ecerinis 1,,True,True
+120,inquieto,inquieo,ADJ,review: Morpheus rejects lemma for this form,1,0,inquieto (verb); inquietus (adjective),,Oedipus 1,,True,True
+121,genital,genital,NOUN,review: lemma in neither resource,1,1,,,Ecerinis 1,,False,True
+122,implicitum,implicitus,VERB,review: Morpheus rejects lemma for this form,1,0,implico (verb),,Oedipus 1,,True,True
+123,functis,functus,VERB,review: Morpheus rejects lemma for this form,1,0,fungor (verb),,Oedipus 1,,True,True
+124,manes,mane,VERB,review: Morpheus rejects lemma for this form,1,0,maneo (verb); mano (verb),noun,Oedipus 1,,True,True
+125,manes,manis,NOUN,review: Morpheus rejects lemma for this form,1,0,maneo (verb); mano (verb),"adjective, proper_noun",Octavia 1,,True,True
+126,adstringit,astringo,VERB,review: Morpheus rejects lemma for this form,1,0,ad-stringo (verb),verb,Oedipus 1,,True,True
+127,mammis,mammo,NOUN,review: Morpheus rejects lemma for this form,1,1,mamma (noun),verb,Ecerinis 1,,False,True
+128,squalente,squalens,VERB,review: Morpheus rejects lemma for this form,1,0,squaleo (verb),,Oedipus 1,,True,True
+129,ziramons,ziramons,NOUN,review: lemma in neither resource,1,1,,,Ecerinis 1,,False,True
+130,uidetne,uidetne,VERB,review: Morpheus rejects lemma for this form,1,1,video (verb),,Ecerinis 1,,False,True
+131,uirente,uirens,ADJ,review: Morpheus rejects lemma for this form,1,0,vireo1 (verb),,Oedipus 1,,True,True
+132,stipites,stips,NOUN,review: Morpheus rejects lemma for this form,1,1,stipes (noun),noun,Ecerinis 1,,True,True
+133,afflictum,afflictum,VERB,review: Morpheus rejects lemma for this form,1,0,afflictus2 (noun); affligo (verb),noun,Oedipus 1,,True,True
+134,coepti,coepi,NOUN,review: Morpheus rejects lemma for this form,1,1,coepio (verb); coeptum (noun); coeptus (adjective),verb,Ecerinis 1,,True,True
+135,coeptum,coepi,VERB,review: Morpheus rejects lemma for this form,1,0,coepio (verb); coeptum (noun); coeptus (adjective); coeptus2 (noun),verb,Medea 1,,True,True
+136,ratas,ratus,ADJ,review: Morpheus rejects lemma for this form,1,0,reor (verb),,Oedipus 1,,True,True
+137,nutibus,nuo,NOUN,review: Morpheus rejects lemma for this form,1,1,nutus (noun),verb,Ecerinis 1,,True,True
+138,assuetos,adsuesco,VERB,review: Morpheus rejects lemma for this form,1,0,assuesco (verb),verb,Octavia 1,,True,True
+139,implicitas,implicio,VERB,review: Morpheus rejects lemma for this form,1,0,implicito (verb); implico (verb),,Oedipus 1,,True,True
+140,meriti,meritus,VERB,review: Morpheus rejects lemma for this form,1,1,mereo (verb); mereor (verb); meritum (noun),proper_noun,Ecerinis 1,,True,True
+141,paenitendi,paenitendi,VERB,review: Morpheus rejects lemma for this form,1,0,paeniteo (verb),,Oedipus 1,,True,True
+142,moderator,modero,NOUN,review: Morpheus rejects lemma for this form,1,1,moderator (noun),verb,Ecerinis 1,,True,True
+143,nutus,nuo,NOUN,review: Morpheus rejects lemma for this form,1,0,nutus (noun),verb,Octavia 1,,True,True
+144,pactus,paco,VERB,review: Morpheus rejects lemma for this form,1,0,paciscor (verb); pactus (adjective),"proper_noun, verb",Octavia 1,,True,True
+145,iacentum,iacentum,VERB,review: lemma in neither resource,1,1,,,Ecerinis 1,,False,True
+146,residi,residus,VERB,review: Morpheus rejects lemma for this form,1,0,resido (verb),,Octavia 1,,True,True
+147,intima,interior,ADJ,review: Morpheus rejects lemma for this form,1,0,intima (noun); intimo (verb); intimus (adjective),adjective,Oedipus 1,,True,True
+148,silenti,silens,ADJ,review: Morpheus rejects lemma for this form,1,0,silentium (noun); silentus (adjective); sileo (verb),,Oedipus 1,,True,True
+149,lombarda,lombardum,NOUN,review: lemma in neither resource,1,1,,,Ecerinis 1,,False,True
+150,paratas,paratus,ADJ,review: Morpheus rejects lemma for this form,1,1,paro1 (verb); paro2 (verb),"noun, proper_noun",Ecerinis 1,,False,True
+151,extremos,exter,ADJ,review: Morpheus rejects lemma for this form,1,0,extremus (adjective),adjective,Oedipus 1,,True,True
+152,renes,renis,NOUN,review: Morpheus rejects lemma for this form,1,1,reneo (verb); reno1 (verb),,Ecerinis 1,,False,True
+153,erebi,erebo,VERB,review: lemma in neither resource,1,0,,,Octavia 1,,True,True
+154,spumam,spumo,NOUN,review: Morpheus rejects lemma for this form,1,1,spuma (noun),verb,Ecerinis 1,,True,True
+155,aere,aes,NOUN,review: Morpheus rejects lemma for this form,1,0,aer (noun),noun,Octavia 1,,True,True
+156,suspecta,suspectus,VERB,review: Morpheus rejects lemma for this form,1,0,suspecto1 (verb); suspicio1 (verb),noun,Octavia 1,,True,True
+157,fusae,fusus,VERB,review: Morpheus rejects lemma for this form,1,0,fundo1 (verb),"noun, proper_noun",Octavia 1,,True,True
+158,summisi,summisi,VERB,review: Morpheus rejects lemma for this form,1,0,summitto (verb),,Oedipus 1,,True,True
+159,rata,ratus,ADJ,review: Morpheus rejects lemma for this form,1,0,reor (verb),,Octavia 1,,True,True
+160,tractae,trago,VERB,review: Morpheus rejects lemma for this form,1,1,tracta (noun); traho (verb),noun,Ecerinis 1,,False,True
+161,redimite,redimio,VERB,review: Morpheus rejects lemma for this form,1,0,redimo (verb),verb,Oedipus 1,,True,True
+162,effusam,effusus,ADJ,review: Morpheus rejects lemma for this form,1,0,effundo (verb),noun,Oedipus 1,,True,True
+163,peruetustae,peruetustae,VERB,review: Morpheus rejects lemma for this form,1,1,pervetustus (adjective),,Ecerinis 1,,False,True
+164,occultis,occultus,ADJ,review: Morpheus rejects lemma for this form,1,0,occulo (verb); occulta (noun); occultum (noun),,Oedipus 1,,True,True
+165,tenellum,tener,ADJ,review: Morpheus rejects lemma for this form,1,1,tenellus (adjective),adjective,Ecerinis 1,,False,True
+166,incremat,incremo,VERB,review: Morpheus rejects lemma for this form,1,1,in-cremo (verb),,Ecerinis 1,,False,True
+167,sacrate,sacratus,ADJ,review: Morpheus rejects lemma for this form,1,0,sacro (verb),,Oedipus 1,,True,True
+168,merces,merx,NOUN,review: Morpheus rejects lemma for this form,1,0,merces1 (noun),noun,Octavia 1,,True,True
+169,superstite,supersto,ADJ,review: Morpheus rejects lemma for this form,1,1,super-sto (verb),verb,Ecerinis 1,,False,True
+170,pudendis,pudendus,ADJ,review: Morpheus rejects lemma for this form,1,0,pudenda (noun); pudeo (verb),,Oedipus 1,,True,True
+171,ausibus,ausibus,NOUN,review: Morpheus rejects lemma for this form,1,1,ausus2 (noun),,Ecerinis 1,,False,True
+172,placatus,placatus,VERB,review: Morpheus rejects lemma for this form,1,0,placo (verb),,Oedipus 1,,True,True
+173,sceleratae,sceleratus,ADJ,review: Morpheus rejects lemma for this form,1,0,scelero (verb),,Oedipus 1,,True,True
+174,assuetam,assuetus,ADJ,review: Morpheus rejects lemma for this form,1,1,assuesco (verb),,Ecerinis 1,,True,True
+175,certaue,certauo,VERB,review: Morpheus rejects lemma for this form,1,1,certo2 (verb); certus (adjective),,Ecerinis 1,,True,True
+176,tyrannidis,tyrannus,NOUN,review: Morpheus rejects lemma for this form,1,1,tyrannis (noun),noun,Ecerinis 1,,False,True
+177,lampade,lampo,NOUN,review: Morpheus rejects lemma for this form,1,0,lampas (noun),"proper_noun, verb",Hercules Oetaeus 1,,True,True
+178,auratum,auratus,ADJ,review: Morpheus rejects lemma for this form,1,0,auro (verb),,Hercules Oetaeus 1,,True,True
+179,tinxere,tinguo,VERB,review: Morpheus rejects lemma for this form,1,0,tingo (verb),verb,Hercules Oetaeus 1,,True,True
+180,auratis,auratus,ADJ,review: Morpheus rejects lemma for this form,1,0,aurata (noun); auris (verb); auro (verb),,Hercules Oetaeus 1,,True,True
+181,assuetae,adsuesco,VERB,review: Morpheus rejects lemma for this form,1,0,assuesco (verb),verb,Hercules Oetaeus 1,,True,True
+182,planctibus,plango,NOUN,review: Morpheus rejects lemma for this form,1,0,planctus (noun),verb,Hercules Oetaeus 1,,True,True
+183,patenti,patens,ADJ,review: Morpheus rejects lemma for this form,1,0,pateo (verb),noun,Oedipus 1,,True,True
+184,pacator,paco,NOUN,review: Morpheus rejects lemma for this form,1,0,pacator (noun),"proper_noun, verb",Hercules Oetaeus 1,,True,True
+185,pecudis,pecu,NOUN,review: Morpheus rejects lemma for this form,1,0,pecus2 (noun),noun,Medea 1,,True,True
+186,imam,imo,VERB,review: Morpheus rejects lemma for this form,1,0,imus (adjective),adverb,Hercules Oetaeus 1,,True,True
+187,secretum,secretus,ADJ,review: Morpheus rejects lemma for this form,1,0,secerno (verb); secretum (noun),,Hercules Oetaeus 1,,True,True
+188,manes,macnes,VERB,review: Morpheus rejects lemma for this form,1,0,maneo (verb); mano (verb),,Hercules Oetaeus 1,,True,True
+189,docta,doctus,VERB,review: Morpheus rejects lemma for this form,1,0,doceo (verb),proper_noun,Hercules Oetaeus 1,,True,True
+190,exurgens,exurgo,VERB,review: Morpheus rejects lemma for this form,1,0,exurgeo (verb),verb,Hercules Oetaeus 1,,True,True
+191,uadis,uades,NOUN,review: Morpheus rejects lemma for this form,1,0,vado1 (verb); vadum (noun); vas1 (noun),,Hercules Oetaeus 1,,True,True
+192,autumno,autumnus,NOUN,review: Morpheus rejects lemma for this form,1,0,auctumnus1 (noun); auctumnus2 (adjective); autumnum (noun),"adjective, noun",Hercules Oetaeus 1,,True,True
+193,flagranti,fragro,ADJ,review: Morpheus rejects lemma for this form,1,0,flagro (verb),verb,Hercules Oetaeus 1,,True,True
+194,ictus,ico,VERB,review: Morpheus rejects lemma for this form,1,0,ictus2 (noun); jacio (verb),verb,Hercules Oetaeus 1,,True,True
+195,occulto,occultus,VERB,review: Morpheus rejects lemma for this form,1,0,occulo (verb); occulto2 (verb); occultum (noun),,Hercules Oetaeus 1,,True,True
+196,postem,posteo,NOUN,review: Morpheus rejects lemma for this form,1,0,postis (noun),verb,Hercules Oetaeus 1,,True,True
+197,flagranti,fragro,VERB,review: Morpheus rejects lemma for this form,1,0,flagro (verb),verb,Hercules Oetaeus 1,,True,True
+198,extremam,exter,ADJ,review: Morpheus rejects lemma for this form,1,0,extremo (verb); extremus (adjective),adjective,Hercules Oetaeus 1,,True,True
+199,aereae,aerius,ADJ,review: Morpheus rejects lemma for this form,1,1,aereus1 (adjective),"adjective, proper_noun",Ecerinis 1,,False,True
+200,inmugit,immugio,VERB,review: Morpheus rejects lemma for this form,1,0,in-mugio1 (verb),verb,Thyestes 1,,True,True
+201,uenerando,uenerandus,VERB,review: Morpheus rejects lemma for this form,1,0,veneror (verb),,Thyestes 1,,True,True
+202,cycladas,cyclada,VERB,review: Morpheus rejects lemma for this form,1,0,cyclas (noun),,Thyestes 1,,True,True
+203,ima,inferus,NOUN,review: Morpheus rejects lemma for this form,1,0,imum (noun); imus (adjective),adjective,Thyestes 1,,True,True
+204,caelos,caelum,NOUN,review: Morpheus rejects lemma for this form,1,1,caelus (noun),"noun, proper_noun",Ecerinis 1,,False,True
+205,excelse,excelse,ADJ,review: Morpheus rejects lemma for this form,1,1,excello (verb); excelsum (noun),,Ecerinis 1,,False,True
+206,assueta,assuetus,ADJ,review: Morpheus rejects lemma for this form,1,0,assuesco (verb),,Thyestes 1,,True,True
+207,insueto,insuesco,ADJ,review: Morpheus rejects lemma for this form,1,0,insuetus2 (adjective),verb,Thyestes 1,,True,True
+208,assueti,assuetus,VERB,review: Morpheus rejects lemma for this form,1,0,assuesco (verb),,Thyestes 1,,True,True
+209,remisso,remissus,VERB,review: Morpheus rejects lemma for this form,1,1,remitto (verb),noun,Ecerinis 1,,True,True
+210,aurata,auratus,ADJ,review: Morpheus rejects lemma for this form,1,0,aurata (noun); auro (verb),,Thyestes 1,,True,True
+211,praesentibus,praesum,VERB,review: Morpheus rejects lemma for this form,1,1,praesens (adjective); praesentia (noun); praesentia2 (noun),verb,Ecerinis 1,,True,True
+212,instabile,instabilio,ADJ,review: Morpheus rejects lemma for this form,1,0,instabilis (adjective),verb,Thyestes 1,,True,True
+213,situs,situs,NOUN,review: Morpheus rejects lemma for this form,1,1,sino (verb),noun,Ecerinis 1,,False,True
+214,diremit,diremit,VERB,review: Morpheus rejects lemma for this form,1,1,dis-redimo (verb),,Ecerinis 1,,False,True
+215,furiis,furio,NOUN,review: Morpheus rejects lemma for this form,1,0,furia (noun); furiae (noun),verb,Thyestes 1,,True,True
+216,coepisti,coepi,VERB,review: Morpheus rejects lemma for this form,1,1,coepio (verb),verb,Ecerinis 1,,True,True
+217,diis,deus,NOUN,review: Morpheus rejects lemma for this form,1,1,dius (adjective); divus (noun),"noun, proper_noun",Ecerinis 1,,False,True
+218,tutum,tutus,NOUN,review: Morpheus rejects lemma for this form,1,0,tueor (verb); tutum (noun),,Hercules Oetaeus 1,,True,True
+219,purisue,purisuus,ADJ,review: Morpheus rejects lemma for this form,1,0,purum (noun); purus (adjective),,Hercules Oetaeus 1,,True,True
+220,extremae,exter,ADJ,review: Morpheus rejects lemma for this form,1,0,extremus (adjective),adjective,Hercules Oetaeus 1,,True,True
+221,pronosticus,pronosticus,ADJ,review: lemma in neither resource,1,1,,,Ecerinis 1,,False,True
+222,aeris,aes,NOUN,review: Morpheus rejects lemma for this form,1,1,aer (noun); aera (noun); aera2 (noun),noun,Ecerinis 1,,True,True
+223,resonuit,resonio,VERB,review: Morpheus rejects lemma for this form,1,1,re-sono (verb),,Ecerinis 1,,False,True
+224,sincopim,sincopim,VERB,review: lemma in neither resource,1,1,,,Ecerinis 1,,False,True
+225,ministrae,ministro,NOUN,review: Morpheus rejects lemma for this form,1,1,minister (adjective); ministra (noun),verb,Ecerinis 1,,True,True
+226,executor,executo,NOUN,review: Morpheus rejects lemma for this form,1,1,exsecutor (noun),verb,Ecerinis 1,,False,True
+227,pompae,pompo,NOUN,review: Morpheus rejects lemma for this form,1,0,pompa (noun),"proper_noun, verb",Hercules Oetaeus 1,,True,True
+228,assuetas,adsuesco,VERB,review: Morpheus rejects lemma for this form,1,0,assuesco (verb),verb,Thyestes 1,,True,True
+229,infimos,inferus,ADJ,review: Morpheus rejects lemma for this form,1,1,infimus (adjective),adjective,Ecerinis 1,,False,True
+230,euxilium,euxilium,NOUN,review: lemma in neither resource,1,1,,,Ecerinis 1,,False,True
+231,horrentes,horrens,VERB,review: Morpheus rejects lemma for this form,1,0,horreo (verb),,Phoenissae 1,,True,True
+232,secretam,secretus,ADJ,review: Morpheus rejects lemma for this form,1,0,secerno (verb),,Hercules Furens 1,,True,True
+233,occulto,occultus,NOUN,review: Morpheus rejects lemma for this form,1,0,occulo (verb); occulto2 (verb); occultum (noun),,Medea 1,,True,True
+234,raptorem,rapto,NOUN,review: Morpheus rejects lemma for this form,1,0,raptor (noun),verb,Phaedra 1,,True,True
+235,sollicito,solliceo,VERB,review: Morpheus rejects lemma for this form,1,0,sollicito (verb); sollicitus (adjective),,Phaedra 1,,True,True
+236,strepitus,strepo,NOUN,review: Morpheus rejects lemma for this form,1,0,strepitus (noun),verb,Phaedra 1,,True,True
+237,amantis,amans,VERB,review: Morpheus rejects lemma for this form,1,0,amo (verb),"noun, proper_noun",Phaedra 1,,True,True
+238,adspectus,aspicio,NOUN,review: Morpheus rejects lemma for this form,1,0,aspectus2 (noun),verb,Phaedra 1,,True,True
+239,praeterita,praeteritus,ADJ,review: Morpheus rejects lemma for this form,1,0,praetereo (verb); praeterita (noun),,Phaedra 1,,True,True
+240,senii,senex,NOUN,review: Morpheus rejects lemma for this form,1,0,senium (noun),"adjective, noun",Phaedra 1,,True,True
+241,reduce,redux,ADJ,review: Morpheus rejects lemma for this form,1,0,reduco (verb),"adjective, proper_noun",Phaedra 1,,True,True
+242,uine,uen,NOUN,review: Morpheus rejects lemma for this form,1,0,vinum (noun); vinus (noun); vis (noun),,Phaedra 1,,True,True
+243,ictum,ico,NOUN,review: Morpheus rejects lemma for this form,1,0,ictus2 (noun); jacio (verb),verb,Troades 1,,True,True
+244,tuti,tutus,ADJ,review: Morpheus rejects lemma for this form,1,0,tueor (verb); tutum (noun),,Troades 1,,True,True
+245,teretes,tero,NOUN,review: Morpheus rejects lemma for this form,1,0,teres (adjective),"noun, verb",Phaedra 1,,True,True
+246,citis,cio,ADJ,review: Morpheus rejects lemma for this form,1,0,cieo (verb),verb,Phaedra 1,,True,True
+247,imam,inferus,ADJ,review: Morpheus rejects lemma for this form,1,0,imus (adjective),adjective,Troades 1,,True,True
+248,extrema,exter,NOUN,review: Morpheus rejects lemma for this form,1,0,extremum (noun); extremus (adjective),adjective,Agamemnon 1,,True,True
+249,paelicum,pellex,NOUN,review: Morpheus rejects lemma for this form,1,0,paelex (noun),noun,Agamemnon 1,,True,True
+250,doctus,doctus,ADJ,review: Morpheus rejects lemma for this form,1,0,doceo (verb),proper_noun,Agamemnon 1,,True,True
+251,uirenti,uirens,VERB,review: Morpheus rejects lemma for this form,1,0,vireo1 (verb),,Agamemnon 1,,True,True
+252,aequorum,aequo,NOUN,review: Morpheus rejects lemma for this form,1,0,aequor (noun); aequum (noun); aequus (adjective),verb,Phaedra 1,,True,True
+253,undarum,undo,NOUN,review: Morpheus rejects lemma for this form,1,0,unda (noun),verb,Phaedra 1,,True,True
+254,abominandam,abomino,VERB,review: Morpheus rejects lemma for this form,1,0,abominor (verb),verb,Phaedra 1,,True,True
+255,citos,cio,VERB,review: Morpheus rejects lemma for this form,1,0,cieo (verb),verb,Phaedra 1,,True,True
+256,dure,dure,ADJ,review: Morpheus rejects lemma for this form,1,0,dureo (verb); durum (noun); durus (adjective),,Phaedra 1,,True,True
+257,furiis,furius,PROPN,review: Morpheus rejects lemma for this form,1,0,furia (noun); furiae (noun),adjective,Medea 1,,True,True
+258,flagrantes,fragro,VERB,review: Morpheus rejects lemma for this form,1,0,flagro (verb),verb,Phoenissae 1,,True,True
+259,imum,inferus,ADJ,review: Morpheus rejects lemma for this form,1,0,imi (noun); imum (noun); imus (adjective),adjective,Troades 1,,True,True
+260,extrema,exterior,ADJ,review: Morpheus rejects lemma for this form,1,0,extremum (noun); extremus (adjective),noun,Troades 1,,True,True
+261,adsuetas,adsuesco,ADJ,review: Morpheus rejects lemma for this form,1,0,assuesco (verb),verb,Troades 1,,True,True
+262,uereris,uereris,VERB,review: Morpheus rejects lemma for this form,1,0,vereor (verb); vero2 (verb),,Phoenissae 1,,True,True
+263,tutis,tuor,ADJ,review: Morpheus rejects lemma for this form,1,0,tueor (verb); tutum (noun),"noun, verb",Troades 1,,True,True
+264,cite,cio,VERB,review: Morpheus rejects lemma for this form,1,0,cieo (verb),verb,Troades 1,,True,True
+265,affusa,adfundo,VERB,review: Morpheus rejects lemma for this form,1,0,affundo (verb),verb,Phoenissae 1,,True,True
+266,pensi,pensus,NOUN,review: Morpheus rejects lemma for this form,1,0,pendo (verb); pensum (noun),noun,Phoenissae 1,,True,True
+267,scelestis,scelestis,ADJ,review: Morpheus rejects lemma for this form,1,0,scelestus (adjective),adjective,Phoenissae 1,,True,True
+268,afflicti,afflictus,VERB,review: Morpheus rejects lemma for this form,1,0,affligo (verb),noun,Phoenissae 1,,True,True
+269,pacta,panquo,VERB,review: Morpheus rejects lemma for this form,1,0,paciscor (verb); pacta (noun); pactum (noun); pactus (adjective),,Phoenissae 1,,True,True
+270,amantem,amans,NOUN,review: Morpheus rejects lemma for this form,1,0,amo (verb),"noun, proper_noun",Phoenissae 1,,True,True
+271,oppositu,oppono,NOUN,review: Morpheus rejects lemma for this form,1,0,oppositus2 (noun),verb,Phoenissae 1,,True,True
+272,suspensa,suspensus,ADJ,review: Morpheus rejects lemma for this form,1,0,suspendo (verb),noun,Phoenissae 1,,True,True
+273,sollicita,solliceor,VERB,review: Morpheus rejects lemma for this form,1,0,sollicito (verb); sollicitus (adjective),,Phoenissae 1,,True,True
+274,domitrix,domito,NOUN,review: Morpheus rejects lemma for this form,1,0,domitrix (noun),verb,Troades 1,,True,True
+275,miseras,miserus,ADJ,review: Morpheus rejects lemma for this form,1,0,miser (adjective); misero (verb); mitto (verb),adjective,Troades 1,,True,True
+276,carinis,carino,NOUN,review: Morpheus rejects lemma for this form,1,0,carina1 (noun),verb,Troades 1,,True,True
+277,machinator,machinor,NOUN,review: Morpheus rejects lemma for this form,1,0,machinator (noun),verb,Troades 1,,True,True
+278,adflictae,afflictus,ADJ,review: Morpheus rejects lemma for this form,1,0,affligo (verb),noun,Troades 1,,True,True
+279,rigens,rigens,ADJ,review: Morpheus rejects lemma for this form,1,0,rigeo (verb),,Troades 1,,True,True
+280,fusam,fusus,VERB,review: Morpheus rejects lemma for this form,1,0,fundo1 (verb),"noun, proper_noun",Troades 1,,True,True
+281,sparsos,sparsus,ADJ,review: Morpheus rejects lemma for this form,1,0,spargo1 (verb),,Troades 1,,True,True
+282,pollens,pollens,VERB,review: Morpheus rejects lemma for this form,1,0,polleo (verb),,Troades 1,,True,True
+283,diuersam,diuersus,ADJ,review: Morpheus rejects lemma for this form,1,0,diverto (verb); divorto (verb),,Troades 1,,True,True
+284,procerum,procer,NOUN,review: Morpheus rejects lemma for this form,1,0,procerus (adjective),noun,Troades 1,,True,True
+285,stulta,stulta,VERB,review: Morpheus rejects lemma for this form,1,0,stultus (adjective),,Troades 1,,True,True
+286,aurata,auratus,VERB,review: Morpheus rejects lemma for this form,1,0,aurata (noun); auro (verb),,Agamemnon 1,,True,True
+287,inferorum,infer,NOUN,review: Morpheus rejects lemma for this form,1,0,inferi (noun); inferus (adjective),adjective,Hercules Furens 1,,True,True
+288,oblite,oblite,VERB,review: Morpheus rejects lemma for this form,1,0,obliviscor (verb),,Hercules Furens 1,,True,True
+289,uenerandos,uenerandos,VERB,review: Morpheus rejects lemma for this form,1,0,veneror (verb),,Hercules Furens 1,,True,True
+290,desertae,desertae,VERB,review: Morpheus rejects lemma for this form,1,0,desero2 (verb); deserta (noun); desertus (adjective),,Hercules Furens 1,,True,True
+291,afflictos,afflictus,VERB,review: Morpheus rejects lemma for this form,1,0,affligo (verb),noun,Hercules Furens 1,,True,True
+292,scelerata,sceleratus,ADJ,review: Morpheus rejects lemma for this form,1,0,scelero (verb),,Hercules Furens 1,,True,True
+293,egens,egens,ADJ,review: Morpheus rejects lemma for this form,1,0,egeo (verb),,Medea 1,,True,True
+294,proxima,propior,ADJ,review: Morpheus rejects lemma for this form,1,0,proximo2 (verb); proximum (noun); proximus (adjective),adjective,Hercules Furens 1,,True,True
+295,pudendi,pudendus,ADJ,review: Morpheus rejects lemma for this form,1,0,pudeo (verb),,Hercules Furens 1,,True,True
+296,lugubribus,lugubre,NOUN,review: Morpheus rejects lemma for this form,1,0,lugubria (noun); lugubris (adjective),,Hercules Furens 1,,True,True
+297,abdita,abdio,VERB,review: Morpheus rejects lemma for this form,1,0,abditus (adjective); abdo (verb),,Hercules Furens 1,,True,True
+298,afflicti,afflictus,ADJ,review: Morpheus rejects lemma for this form,1,0,affligo (verb),noun,Hercules Furens 1,,True,True
+299,quieto,quietus,ADJ,review: Morpheus rejects lemma for this form,1,0,quiesco (verb); quietum (noun),"adjective, proper_noun",Hercules Furens 1,,True,True
+300,remotos,remotus,ADJ,review: Morpheus rejects lemma for this form,1,0,removeo (verb),,Hercules Furens 1,,True,True
+301,silentes,silens,ADJ,review: Morpheus rejects lemma for this form,1,0,silentes (noun); sileo (verb),,Hercules Furens 1,,True,True
+302,silentis,silens,VERB,review: Morpheus rejects lemma for this form,1,0,silentium (noun); silentus (adjective); sileo (verb),,Hercules Furens 1,,True,True
+303,permixtae,permisceo,VERB,review: Morpheus rejects lemma for this form,1,0,per-misceo (verb),verb,Hercules Furens 1,,True,True
+304,belligera,belligera,ADJ,review: Morpheus rejects lemma for this form,1,0,belliger (adjective); belligero (verb),,Hercules Furens 1,,True,True
+305,uirente,uirens,VERB,review: Morpheus rejects lemma for this form,1,0,vireo1 (verb),,Hercules Furens 1,,True,True
+306,secreta,secretus,ADJ,review: Morpheus rejects lemma for this form,1,0,secerno (verb); secretum (noun),,Medea 1,,True,True
+307,rigens,rigens,VERB,review: Morpheus rejects lemma for this form,1,0,rigeo (verb),,Medea 1,,True,True
+308,serpentum,serpo,VERB,review: Morpheus rejects lemma for this form,1,0,serpens (noun),verb,Medea 1,,True,True
+309,natas,nascor,NOUN,review: Morpheus rejects lemma for this form,1,0,nata (noun); nato (verb); natus (adjective); natus1 (adjective),verb,Medea 1,,True,True
+310,aera,aes,NOUN,review: Morpheus rejects lemma for this form,1,0,aera (noun); aera2 (noun),noun,Medea 1,,True,True
+311,sacro,sacrus,ADJ,review: Morpheus rejects lemma for this form,1,0,sacer (adjective); sacro (verb); sacrum (noun),adjective,Medea 1,,True,True
+312,natas,nascor,VERB,review: Morpheus rejects lemma for this form,1,0,nata (noun); nato (verb); natus (adjective); natus1 (adjective),verb,Medea 1,,True,True
+313,fulsi,fulgo,VERB,review: Morpheus rejects lemma for this form,1,0,fulcio (verb); fulgeo (verb),verb,Medea 1,,True,True
+314,remotus,remotus,VERB,review: Morpheus rejects lemma for this form,1,0,removeo (verb),,Medea 1,,True,True
+315,pelle,pella,VERB,review: Morpheus rejects lemma for this form,1,0,pellis (noun); pello (verb),"noun, proper_noun",Medea 1,,True,True
+316,solitis,solitus,ADJ,review: Morpheus rejects lemma for this form,1,0,soleo (verb); solitum (noun),,Hercules Furens 1,,True,True
+317,defessus,defessus,ADJ,review: Morpheus rejects lemma for this form,1,0,defatiscor (verb); defetiscor (verb),,Agamemnon 1,,True,True
+318,semustas,semusta,NOUN,review: Morpheus rejects lemma for this form,1,0,semustus (adjective),,Agamemnon 1,,True,True
+319,iratae,iro,VERB,review: Morpheus rejects lemma for this form,1,0,irascor (verb),,Agamemnon 1,,True,True
+320,casse,co,NOUN,review: Morpheus rejects lemma for this form,1,0,cassus (adjective); casus1 (noun); caveo (verb),,Agamemnon 1,,True,True
+321,colos,color,NOUN,review: Morpheus rejects lemma for this form,1,0,colus (noun),noun,Hercules Furens 1,,True,True
+322,secretae,secretus,VERB,review: Morpheus rejects lemma for this form,1,0,secerno (verb),,Agamemnon 1,,True,True
+323,uirenti,uirens,ADJ,review: Morpheus rejects lemma for this form,1,0,vireo1 (verb),,Agamemnon 1,,True,True
+324,proximus,propior,ADJ,review: Morpheus rejects lemma for this form,1,0,proximus (adjective),adjective,Hercules Furens 1,,True,True
+325,inroga,irrogo,VERB,review: Morpheus rejects lemma for this form,1,0,in-rogo (verb),verb,Hercules Furens 1,,True,True
+326,rigentia,rigens,ADJ,review: Morpheus rejects lemma for this form,1,0,rigeo (verb),,Hercules Furens 1,,True,True
+327,suspensus,suspensus,ADJ,review: Morpheus rejects lemma for this form,1,0,suspendo (verb),noun,Hercules Furens 1,,True,True
+328,ardentem,ardens,VERB,review: Morpheus rejects lemma for this form,1,0,ardeo (verb),,Hercules Furens 1,,True,True
+329,discordem,discors,ADJ,review: Morpheus rejects lemma for this form,1,0,discordo (verb),adjective,Hercules Furens 1,,True,True
+330,aperto,apertum,NOUN,review: Morpheus rejects lemma for this form,1,0,aperio (verb); aperto (verb); apertus (adjective),noun,Hercules Furens 1,,True,True
+331,erebo,erebo,VERB,review: Morpheus rejects lemma for this form,1,0,eres (verb),,Hercules Furens 1,,True,True
+332,paelices,pellex,NOUN,review: Morpheus rejects lemma for this form,1,0,paelex (noun),noun,Hercules Furens 1,,True,True
+333,paelicibus,pellex,NOUN,review: Morpheus rejects lemma for this form,1,0,paelex (noun),noun,Hercules Furens 1,,True,True

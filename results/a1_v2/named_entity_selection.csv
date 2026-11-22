@@ -1,0 +1,150 @@
+﻿lemma,decision,rule,n,ecerinis,plays,lila_pos,entity_or_propn_share,on_old_list,surface_forms,approve,g
+uenus,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 76%,29,3,7,"noun, proper_noun",0.76,True,"Uenere 10, Uenus 7, Ueneris 4, uenere 4, ueneris 2",,A
+phryges,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 74%,19,0,2,"noun, proper_noun",0.74,True,"Phrygibus 10, Phryges 4, Phrygas 3, Phrygum 2",,A
+zephyrus,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 75%,12,0,7,"noun, proper_noun",0.75,True,"Zephyrus 2, Zephyri 2, Zephyro 2, Zephyros 1, zephyri 1",,A
+graius,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 64%,11,0,5,"adjective, proper_noun",0.64,True,"Graias 3, Graio 3, Graium 2, Graia 2, Graiae 1",,A
+eurus,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 71%,7,0,4,"noun, proper_noun",0.71,True,"Eurus 4, euros 1, Euro 1, euris 1",,A
+luna,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 71%,7,0,5,"noun, proper_noun",0.71,True,"Luna 5, luna 2",,A
+parthus,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 50%,6,0,5,"adjective, proper_noun",0.5,True,"Parthi 3, parthus 2, Parthis 1",,A
+caesar,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 50%,6,1,2,"noun, proper_noun",0.5,True,"caesaris 2, Caesarem 1, caesar 1, Caesari 1, Caesarum 1",,A
+arcadius,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 60%,5,0,4,"adjective, proper_noun",0.6,True,"arcadia 2, Arcadii 1, Arcadium 1, Arcadias 1",,A
+centaurus,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 80%,5,0,2,"noun, proper_noun",0.8,True,"Centauris 3, Centauri 1, centauros 1",,A
+cycnus,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 50%,4,0,3,"noun, proper_noun",0.5,True,"Cycnus 2, cygno 1, cycnus 1",,A
+sparta,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 67%,3,0,3,"noun, proper_noun",0.67,True,Sparte 3,,A
+neptunus,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 67%,3,0,3,"noun, proper_noun",0.67,True,"neptunus 1, Neptuno 1, Neptune 1",,A
+phocis,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 67%,3,0,3,"noun, proper_noun",0.67,True,"phocide 1, Phocis 1, Phocidos 1",,A
+eleus,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 67%,3,0,3,"adjective, proper_noun",0.67,True,"Elea 1, Eleum 1, Elei 1",,A
+astraea,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 67%,3,0,3,"noun, proper_noun",0.67,False,"Astraeae 2, astraea 1",,A
+impietas,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 50%,2,0,2,"noun, proper_noun",0.5,False,"Impietas 1, impietas 1",,A
+phineus,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 50%,2,0,2,"adjective, proper_noun",0.5,True,"Phineas 1, phineis 1",,A
+latinus,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 50%,2,0,2,"adjective, proper_noun",0.5,True,"latinam 1, Latinae 1",,A
+althaea,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 50%,2,0,2,"noun, proper_noun",0.5,True,"Althaeae 1, althaea 1",,A
+plautus,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 50%,2,0,1,"adjective, proper_noun",0.5,True,"Plauti 1, plautum 1",,A
+uulcanus,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 50%,2,1,2,"noun, proper_noun",0.5,True,"Uulcano 1, uulcane 1",,A
+caritas,name,LiLa: proper noun and common word; 3.9.8 tags it as a name in 50%,2,2,1,"noun, proper_noun",0.5,False,Caritas 2,,A
+fortuna,word (flag),LiLa: proper noun and common word; tagged as a name in 46%,80,3,11,"noun, proper_noun",0.46,True,"fortuna 32, Fortuna 29, Fortunae 8, fortunae 7, fortunam 3",,A
+sol,word (flag),LiLa: proper noun and common word; tagged as a name in 26%,31,0,8,"noun, proper_noun",0.26,True,"solem 8, solis 6, sole 4, Sol 3, solibus 2",,A
+auster,word (flag),LiLa: proper noun and common word; tagged as a name in 44%,16,2,7,"adjective, noun, proper_noun",0.44,True,"Auster 4, Austro 3, austrum 3, austris 2, austro 2",,A
+siculus,word (flag),LiLa: proper noun and common word; tagged as a name in 31%,13,0,7,"adjective, noun, proper_noun",0.31,True,"Siculi 3, Siculo 2, Sicula 2, Siculum 2, Siculae 1",,A
+tigris,word (flag),LiLa: proper noun and common word; tagged as a name in 23%,13,0,8,"noun, proper_noun",0.23,True,"tigris 5, tigres 4, Tigris 2, Tigrin 1, tigribus 1",,A
+cupido,word (flag),LiLa: proper noun and common word; tagged as a name in 40%,10,0,6,"noun, proper_noun",0.4,True,"cupido 5, Cupido 4, cupidine 1",,A
+gigas,word (flag),LiLa: proper noun and common word; tagged as a name in 30%,10,1,5,"noun, proper_noun",0.3,True,"Gigantes 3, gigans 2, gigas 2, Gigantas 1, gigantis 1",,A
+maenas,word (flag),LiLa: proper noun and common word; tagged as a name in 22%,9,0,5,"noun, proper_noun",0.22,False,"maenas 6, Maenas 2, maenades 1",,A
+senectus,word (flag),LiLa: proper noun and common word; tagged as a name in 25%,8,0,5,"adjective, noun, proper_noun",0.25,True,"senectus 6, Senectus 2",,A
+eous,word (flag),LiLa: proper noun and common word; tagged as a name in 29%,7,0,5,"adjective, proper_noun",0.29,True,"Eoos 2, Eois 2, Eoo 1, Eoi 1, Eoa 1",,A
+libra,word (flag),LiLa: proper noun and common word; tagged as a name in 20%,5,0,4,"noun, proper_noun",0.2,True,"libra 2, libras 2, Librae 1",,A
+alpheus,word (flag),LiLa: proper noun and common word; tagged as a name in 25%,4,0,3,"adjective, noun, proper_noun",0.25,True,"alpheos 3, Alphei 1",,A
+crux,word (flag),LiLa: proper noun and common word; tagged as a name in 25%,4,4,1,"noun, proper_noun",0.25,True,"cruces 2, Crucis 1, cruce 1",,A
+aegaeus,word (flag),LiLa: proper noun and common word; tagged as a name in 33%,3,0,3,"adjective, proper_noun",0.33,True,"Aegaea 1, Aegaeum 1, Aegaeo 1",,A
+euripus,word (flag),LiLa: proper noun and common word; tagged as a name in 33%,3,0,3,"noun, proper_noun",0.33,True,"euripus 2, Euripo 1",,A
+indus,word (flag),LiLa: proper noun and common word; tagged as a name in 33%,3,0,3,"adjective, proper_noun",0.33,True,"Indus 2, indus 1",,A
+tacitus,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",21,0,7,proper_noun,0.0,False,"tacitum 7, tacita 7, tacito 2, tacitus 2, tacitam 2",,B
+tonans,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",16,0,4,proper_noun,1.0,False,"Tonantis 8, Tonantem 5, Tonanti 3",,B
+patiens,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",10,0,6,proper_noun,0.0,False,"patiens 8, patienti 1, patiente 1",,B
+doctus,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",7,0,5,proper_noun,0.0,False,"docta 5, doctus 1, docti 1",,B
+citus,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",5,2,3,proper_noun,0.0,False,"citus 2, citae 1, citi 1, cito 1",,B
+claudia,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",5,0,1,proper_noun,1.0,True,"Claudiae 3, Claudia 2",,B
+arabs,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",3,0,3,proper_noun,0.67,True,"Arabs 2, arabes 1",,B
+libys,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",3,0,2,proper_noun,0.33,True,Libys 3,,B
+mimas,word (flag),"LiLa: proper noun only, but 3.9.8 tags it VERB (participle/adjective homograph)",3,0,2,proper_noun,1.0,False,"Mimans 2, Mimas 1",,B
+thrax,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",3,0,2,proper_noun,0.67,True,Thracis 3,,B
+achelous,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",3,0,1,proper_noun,0.33,True,"achelous 2, Acheloi 1",,B
+ilissus,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",2,0,1,proper_noun,1.0,True,"Ilisos 1, Iliso 1",,B
+assyria,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",2,0,2,proper_noun,1.0,True,"Assyria 1, Assyriae 1",,B
+atthis,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",2,0,2,proper_noun,1.0,True,"Atthidum 1, Atthis 1",,B
+sarmatae,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",2,0,2,proper_noun,1.0,False,Sarmatis 2,,B
+danuuius,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",2,0,2,proper_noun,0.5,True,"danuuius 1, Danuuii 1",,B
+decens,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",2,0,1,proper_noun,0.0,False,"decentior 1, decenti 1",,B
+armenia,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",2,0,2,proper_noun,1.0,True,Armenia 2,,B
+arcas,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",2,0,1,proper_noun,0.5,True,"arcadum 1, Arcades 1",,B
+dardania,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,0.0,True,dardania 1,,B
+iolcus,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,1.0,True,Iolcos 1,,B
+gortynis,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,0.0,False,Gortynis 1,,B
+olenus,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,0.0,True,olenos 1,,B
+neritus,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,0.0,True,neritos 1,,B
+garamans,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,1.0,True,Garamans 1,,B
+tanaitis,word (flag),"LiLa: proper noun only, but 3.9.8 tags it VERB (participle/adjective homograph)",1,0,1,proper_noun,0.0,True,tanaitis 1,,B
+scironis,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,0.0,True,Scironides 1,,B
+lyrnesis,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,1.0,True,Lyrnesida 1,,B
+thressa,word (flag),"LiLa: proper noun only, but 3.9.8 tags it VERB (participle/adjective homograph)",1,0,1,proper_noun,1.0,True,Thressa 1,,B
+inachia,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,0.0,False,Inachia 1,,B
+icarium,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,0.0,False,Icario 1,,B
+agamemno,word (flag),"LiLa: proper noun only, but 3.9.8 tags it VERB (participle/adjective homograph)",1,0,1,proper_noun,0.0,False,agamemno 1,,B
+troilus,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,1.0,False,Troile 1,,B
+parrhasis,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,0.0,False,Parrhasis 1,,B
+doris,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,1.0,False,Doris 1,,B
+phosphorus,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,1.0,True,Phosphoros 1,,B
+rhadamanthus,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,0.0,True,rhadamanthus 1,,B
+arabes,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,1.0,False,Arabes 1,,B
+hesperia,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,0.0,True,hesperia 1,,B
+iulium,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,0.0,False,iulia 1,,B
+pentheos,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,1.0,False,Pentheos 1,,B
+daulias,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,1.0,False,Daulias 1,,B
+icarus,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,0.0,True,icarus 1,,B
+garamas,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,0.0,True,Garamas 1,,B
+chaonis,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,0,1,proper_noun,1.0,True,Chaonis 1,,B
+meritus,word (flag),"LiLa: proper noun only, but 3.9.8 tags it VERB (participle/adjective homograph)",1,1,1,proper_noun,0.0,False,meriti 1,,B
+macedones,word (flag),"LiLa: proper noun only, but 3.9.8 tags it ADJ (participle/adjective homograph)",1,1,1,proper_noun,1.0,False,Macedonis 1,,B
+megaera,name,LiLa: proper noun only,5,1,5,proper_noun,0.0,True,megaera 5,,C
+phlegethon,name,LiLa: proper noun only,4,0,3,proper_noun,0.0,True,phlegethon 4,,C
+harpyia,name,LiLa: proper noun only,2,0,2,proper_noun,0.0,True,harpyia 2,,C
+maeander,name,LiLa: proper noun only,2,0,2,proper_noun,0.0,True,"maeandros 1, maeander 1",,C
+octauia,name,LiLa: proper noun only,2,0,1,proper_noun,0.0,True,octauiae 2,,C
+pharis,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,False,pharin 1,,C
+sunion,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,True,sunion 1,,C
+erycina,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,True,erycina 1,,C
+latonigena,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,True,latonigenas 1,,C
+deiphobus,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,True,deiphobe 1,,C
+phlegethontis,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,False,phlegethontis 1,,C
+arabis,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,False,arabum 1,,C
+aegisthus,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,True,aegisthus 1,,C
+eumenides,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,False,eumenides 1,,C
+lapitha,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,False,lapithae 1,,C
+malea,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,False,malea 1,,C
+albis,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,False,albin 1,,C
+idmon,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,False,idmonem 1,,C
+hyas,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,False,hyades 1,,C
+britannia,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,True,britanniae 1,,C
+ixio,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,False,ixionis 1,,C
+thyas,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,False,thyades 1,,C
+proetides,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,True,proetides 1,,C
+naxos,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,True,naxos 1,,C
+lachesis,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,True,lachesis 1,,C
+nubila,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,False,nubila 1,,C
+euenus,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,False,euenos 1,,C
+semele,name,LiLa: proper noun only,1,0,1,proper_noun,0.0,True,semelen 1,,C
+taruisium,name,LiLa: proper noun only,1,1,1,proper_noun,0.0,True,taruisium 1,,C
+nabuchodonosor,name,LiLa: proper noun only,1,1,1,proper_noun,0.0,True,nabuchodonosor 1,,C
+zeno,name,LiLa: proper noun only,1,1,1,proper_noun,0.0,False,zenonis 1,,C
+ecerinus,name,not in LiLa; 3.9.8 tags it as a name in 50%,14,14,1,,0.5,True,"Ecerinus 11, Ecerine 3",,D
+iaceret,name,not in LiLa; 3.9.8 tags it as a name in 50%,2,0,2,,0.5,False,Iaceret 2,,D
+ecerinum,name,not in LiLa; 3.9.8 tags it as a name in 50%,2,2,1,,0.5,False,"Ecerini 1, Ecerinum 1",,D
+patauus,name,not in LiLa; 3.9.8 tags it as a name in 50%,2,2,1,,0.5,False,"Patauos 1, Patauum 1",,D
+mors,word (flag),LiLa: proper noun and common word; tagged as a name in 4%,163,10,11,"noun, proper_noun",0.04,True,"mors 49, mortem 38, morte 34, mortis 25, Mors 7",,E
+fides,word (flag),LiLa: proper noun and common word; tagged as a name in 2%,106,7,11,"noun, proper_noun",0.02,False,"fides 45, fidem 40, fide 15, fidei 3, Fides 2",,E
+metus,word (flag),LiLa: proper noun and common word; tagged as a name in 3%,101,3,11,"noun, proper_noun",0.03,True,"metus 53, metu 36, metum 9, Metus 3",,E
+tellus,word (flag),LiLa: proper noun and common word; tagged as a name in 4%,97,6,11,"noun, proper_noun",0.04,True,"tellus 79, tellure 9, telluris 4, Tellus 4, tellurem 1",,E
+amor,word (flag),LiLa: proper noun and common word; tagged as a name in 16%,70,0,10,"noun, proper_noun",0.16,True,"amor 26, amore 11, amorem 8, amoris 7, Amor 7",,E
+pontus,word (flag),LiLa: proper noun and common word; tagged as a name in 8%,60,0,8,"noun, proper_noun",0.08,True,"pontum 17, pontus 16, ponto 15, ponti 7, Ponti 2",,E
+pietas,word (flag),LiLa: proper noun and common word; tagged as a name in 8%,50,3,11,"noun, proper_noun",0.08,False,"pietas 32, pietatem 6, pietate 5, Pietas 5, pietati 2",,E
+notus,word (flag),LiLa: proper noun and common word; tagged as a name in 10%,49,2,11,"adjective, noun, proper_noun",0.1,True,"nota 18, notus 9, notum 4, notae 3, Notus 3",,E
+comes,word (flag),LiLa: proper noun and common word; tagged as a name in 4%,48,3,11,"noun, proper_noun",0.04,True,"comes 31, comites 7, comitem 5, comitum 2, Comes 2",,E
+luctus,word (flag),LiLa: proper noun and common word; tagged as a name in 7%,43,0,9,"noun, proper_noun",0.07,True,"luctus 25, luctu 9, luctum 5, Luctus 3, luctibus 1",,E
+taurus,word (flag),LiLa: proper noun and common word; tagged as a name in 16%,38,1,10,"noun, proper_noun",0.16,True,"taurus 13, tauri 8, Taurus 4, tauros 4, taurum 4",,E
+spes,word (flag),LiLa: proper noun and common word; tagged as a name in 6%,34,6,9,"noun, proper_noun",0.06,False,"spes 20, spe 7, spei 3, Spes 3, spem 1",,E
+pestis,word (flag),LiLa: proper noun and common word; tagged as a name in 6%,33,0,9,"noun, proper_noun",0.06,False,"pestis 18, pestem 6, pestes 5, Pestis 2, peste 1",,E
+natura,word (flag),LiLa: proper noun and common word; tagged as a name in 4%,27,3,8,"noun, proper_noun",0.04,False,"natura 18, Natura 4, naturae 3, naturam 2",,E
+chaos,word (flag),LiLa: proper noun and common word; tagged as a name in 5%,19,2,10,"noun, proper_noun",0.05,True,"chaos 18, Chaos 1",,E
+hydra,word (flag),LiLa: proper noun and common word; tagged as a name in 7%,14,0,3,"noun, proper_noun",0.07,True,"hydra 7, hydram 4, hydrae 2, Hydra 1",,E
+anguis,word (flag),LiLa: proper noun and common word; tagged as a name in 8%,13,1,7,"noun, proper_noun",0.08,True,"anguis 4, anguibus 3, angues 3, angue 2, Anguis 1",,E
+sopor,word (flag),LiLa: proper noun and common word; tagged as a name in 9%,11,1,7,"noun, proper_noun",0.09,True,"sopor 9, Sopor 1, sopore 1",,E
+pauor,word (flag),LiLa: proper noun and common word; tagged as a name in 10%,10,0,8,"noun, proper_noun",0.1,False,"pauor 7, pauoris 2, Pauor 1",,E
+ursa,word (flag),LiLa: proper noun and common word; tagged as a name in 11%,9,0,5,"noun, proper_noun",0.11,False,"ursae 7, Ursas 1, ursa 1",,E
+forum,word (flag),LiLa: proper noun and common word; tagged as a name in 12%,8,5,3,"noun, proper_noun",0.12,False,"foro 5, fori 1, forum 1, Forum 1",,E
+consors,word (flag),LiLa: proper noun and common word; tagged as a name in 14%,7,2,4,"adjective, noun, proper_noun",0.14,True,"consortem 2, consors 2, consorte 2, Consors 1",,E
+herceus,word (flag),LiLa: proper noun and common word; tagged as a name in 0%,2,0,1,"adjective, proper_noun",0.0,True,Herceum 2,,E
+pierius,word (flag),LiLa: proper noun and common word; tagged as a name in 0%,2,0,2,"adjective, proper_noun",0.0,False,"Pieria 1, Pieriam 1",,E
+abydus,word (flag),LiLa: proper noun and common word; tagged as a name in 0%,1,0,1,"adjective, proper_noun",0.0,True,Abydo 1,,E
+io,word (flag),LiLa: proper noun and common word; tagged as a name in 0%,1,0,1,"interjection, proper_noun",0.0,False,Ius 1,,E
+parius,word (flag),LiLa: proper noun and common word; tagged as a name in 0%,1,0,1,"adjective, proper_noun",0.0,True,Pario 1,,E
+actaea,word (flag),LiLa: proper noun and common word; tagged as a name in 0%,1,0,1,"noun, proper_noun",0.0,True,Actaeae 1,,E

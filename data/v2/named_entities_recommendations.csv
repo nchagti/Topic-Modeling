@@ -1,0 +1,150 @@
+﻿lemma,group,rule_decision,recommendation,principle,reason,n,ecerinis,lila_pos,entity_or_propn_share,changes_rule_decision,approve
+pontus,E,word (flag),split,P5,"region Pontus vs pontus 'sea' (60 tokens, mostly the sea)",60,0,"noun, proper_noun",0.08,True,y
+taurus,E,word (flag),split,P5,Taurus mountains / Tauri / constellation vs bull,38,1,"noun, proper_noun",0.16,True,y
+tonans,B,word (flag),name,P1,the Thunderer (Jupiter),16,0,proper_noun,1.0,True,y
+hydra,E,word (flag),name,P4,"the Lernaean Hydra, an individual monster",14,0,"noun, proper_noun",0.07,True,y
+siculus,A,word (flag),name,P1,Sicilian,13,0,"adjective, noun, proper_noun",0.31,True,y
+tigris,A,word (flag),split,P5,river Tigris vs tiger,13,0,"noun, proper_noun",0.23,True,y
+anguis,E,word (flag),split,P5,constellation Anguis (Thy) vs snake,13,1,"noun, proper_noun",0.08,True,y
+zephyrus,A,name,word,P3,west wind,12,0,"noun, proper_noun",0.75,True,y
+forum,E,word (flag),split,P5,Ecerinis 'Iulii Forum' (Cividale) vs forum,8,5,"noun, proper_noun",0.12,True,y
+eurus,A,name,word,P3,east wind,7,0,"noun, proper_noun",0.71,True,y
+luna,A,name,word,P3,the moon (personified in magic passages),7,0,"noun, proper_noun",0.71,True,y
+eous,A,word (flag),name,P1,"'eastern' (from Eos), geographic adjective",7,0,"adjective, proper_noun",0.29,True,y
+centaurus,A,name,word,P4,centaurs as a class of creatures,5,0,"noun, proper_noun",0.8,True,y
+libra,A,word (flag),split,P5,constellation Libra (Thy) vs scales,5,0,"noun, proper_noun",0.2,True,y
+claudia,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,5,0,proper_noun,1.0,True,y
+cycnus,A,name,split,P5,"Cycnus (son of Neptune/Mars) vs cygnus, swan",4,0,"noun, proper_noun",0.5,True,y
+alpheus,A,word (flag),name,P1,river Alpheus,4,0,"adjective, noun, proper_noun",0.25,True,y
+aegaeus,A,word (flag),name,P1,Aegean,3,0,"adjective, proper_noun",0.33,True,y
+euripus,A,word (flag),name,P1,the Euripus strait,3,0,"noun, proper_noun",0.33,True,y
+indus,A,word (flag),name,P1,Indian / the Indus,3,0,"adjective, proper_noun",0.33,True,y
+arabs,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,3,0,proper_noun,0.67,True,y
+libys,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,3,0,proper_noun,0.33,True,y
+mimas,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,3,0,proper_noun,1.0,True,y
+thrax,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,3,0,proper_noun,0.67,True,y
+achelous,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,3,0,proper_noun,0.33,True,y
+impietas,A,name,word,P2,personified Impiety (HF) and impiety (Oct),2,0,"noun, proper_noun",0.5,True,y
+caritas,A,name,word,P2,"Ecerinis: 'Caritas Spes et Fides', 'Caritas pia' (theological virtue)",2,2,"noun, proper_noun",0.5,True,y
+ilissus,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,2,0,proper_noun,1.0,True,y
+assyria,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,2,0,proper_noun,1.0,True,y
+atthis,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,2,0,proper_noun,1.0,True,y
+sarmatae,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,2,0,proper_noun,1.0,True,y
+danuuius,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,2,0,proper_noun,0.5,True,y
+armenia,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,2,0,proper_noun,1.0,True,y
+arcas,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,2,0,proper_noun,0.5,True,y
+harpyia,C,name,word,P4,harpies as a class,2,0,proper_noun,0.0,True,y
+iaceret,D,name,word,-,verb form of iaceo with a garbled lemma; fix the lemma to iaceo,2,0,,0.5,True,y
+herceus,E,word (flag),name,P1,Jupiter Herceus,2,0,"adjective, proper_noun",0.0,True,y
+pierius,E,word (flag),name,P1,Pierian,2,0,"adjective, proper_noun",0.0,True,y
+dardania,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,0.0,True,y
+iolcus,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,1.0,True,y
+gortynis,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,0.0,True,y
+olenus,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,0.0,True,y
+neritus,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,0.0,True,y
+garamans,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,1.0,True,y
+tanaitis,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,0.0,True,y
+scironis,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,0.0,True,y
+lyrnesis,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,1.0,True,y
+thressa,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,1.0,True,y
+inachia,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,0.0,True,y
+icarium,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,0.0,True,y
+agamemno,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,0.0,True,y
+troilus,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,1.0,True,y
+parrhasis,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,0.0,True,y
+doris,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,1.0,True,y
+phosphorus,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,1.0,True,y
+rhadamanthus,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,0.0,True,y
+arabes,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,1.0,True,y
+hesperia,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,0.0,True,y
+iulium,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,0.0,True,y
+pentheos,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,1.0,True,y
+daulias,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,1.0,True,y
+icarus,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,0.0,True,y
+garamas,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,0.0,True,y
+chaonis,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,0,proper_noun,1.0,True,y
+macedones,B,word (flag),name,P1,a name 3.9.8 tagged ADJ/VERB,1,1,proper_noun,1.0,True,y
+thyas,C,name,word,P4,thyiads (bacchants) as a class,1,0,proper_noun,0.0,True,y
+nubila,C,name,word,P1,"clouds ('saeui nubila fati'), not a name",1,0,proper_noun,0.0,True,y
+abydus,E,word (flag),name,P1,Abydos,1,0,"adjective, proper_noun",0.0,True,y
+parius,E,word (flag),name,P1,Parian (marble),1,0,"adjective, proper_noun",0.0,True,y
+actaea,E,word (flag),name,P1,Attic,1,0,"noun, proper_noun",0.0,True,y
+mors,E,word (flag),word,P2,personified abstraction / common word,163,10,"noun, proper_noun",0.04,False,y
+fides,E,word (flag),word,P2,personified abstraction / common word,106,7,"noun, proper_noun",0.02,False,y
+metus,E,word (flag),word,P2,personified abstraction / common word,101,3,"noun, proper_noun",0.03,False,y
+tellus,E,word (flag),word,P2,personified abstraction / common word,97,6,"noun, proper_noun",0.04,False,y
+fortuna,A,word (flag),word,P2,Fortune personified; a theme word,80,3,"noun, proper_noun",0.46,False,y
+amor,E,word (flag),word,P2,personified abstraction / common word,70,0,"noun, proper_noun",0.16,False,y
+pietas,E,word (flag),word,P2,personified abstraction / common word,50,3,"noun, proper_noun",0.08,False,y
+notus,E,word (flag),word,P3,south wind; the lemma also merges notus 'known',49,2,"adjective, noun, proper_noun",0.1,False,y
+comes,E,word (flag),word,P2,companion; Ecerinis 'Comes' is a title (the Count),48,3,"noun, proper_noun",0.04,False,y
+luctus,E,word (flag),word,P2,personified abstraction / common word,43,0,"noun, proper_noun",0.07,False,y
+spes,E,word (flag),word,P2,personified abstraction / common word,34,6,"noun, proper_noun",0.06,False,y
+pestis,E,word (flag),word,P2,personified abstraction / common word,33,0,"noun, proper_noun",0.06,False,y
+sol,A,word (flag),word,P3,the sun (also Medea's ancestor),31,0,"noun, proper_noun",0.26,False,y
+uenus,A,name,name,P1,"the goddess; some Phaedra uses are metonymic (love), but it is a deity name",29,3,"noun, proper_noun",0.76,False,y
+natura,E,word (flag),word,P2,personified abstraction / common word,27,3,"noun, proper_noun",0.04,False,y
+tacitus,B,word (flag),word,P6,adjective 'silent',21,0,proper_noun,0.0,False,y
+phryges,A,name,name,P1,the Phrygians (Trojans),19,0,"noun, proper_noun",0.74,False,y
+chaos,E,word (flag),word,P2,personified abstraction / common word,19,2,"noun, proper_noun",0.05,False,y
+auster,A,word (flag),word,P3,south wind,16,2,"adjective, noun, proper_noun",0.44,False,y
+ecerinus,D,name,name,P1,Ezzelino,14,14,,0.5,False,y
+graius,A,name,name,P1,"'Greek', ethnic adjective",11,0,"adjective, proper_noun",0.64,False,y
+sopor,E,word (flag),word,P2,personified abstraction / common word,11,1,"noun, proper_noun",0.09,False,y
+cupido,A,word (flag),word,P2,"Cupid as personified desire, and cupido 'desire'",10,0,"noun, proper_noun",0.4,False,y
+gigas,A,word (flag),word,P4,giants as a class,10,1,"noun, proper_noun",0.3,False,y
+patiens,B,word (flag),word,P6,adjective 'enduring',10,0,proper_noun,0.0,False,y
+pauor,E,word (flag),word,P2,personified abstraction / common word,10,0,"noun, proper_noun",0.1,False,y
+maenas,A,word (flag),word,P4,maenads as a class,9,0,"noun, proper_noun",0.22,False,y
+ursa,E,word (flag),word,P2,personified abstraction / common word,9,0,"noun, proper_noun",0.11,False,y
+senectus,A,word (flag),word,P2,"old age, sometimes personified",8,0,"adjective, noun, proper_noun",0.25,False,y
+doctus,B,word (flag),word,P6,adjective 'skilled',7,0,proper_noun,0.0,False,y
+consors,E,word (flag),word,P2,personified abstraction / common word,7,2,"adjective, noun, proper_noun",0.14,False,y
+parthus,A,name,name,P1,Parthians,6,0,"adjective, proper_noun",0.5,False,y
+caesar,A,name,name,P1,title/name of the emperor (Octavia); Ecerinis 'Caesarum domus',6,1,"noun, proper_noun",0.5,False,y
+arcadius,A,name,name,P1,Arcadian,5,0,"adjective, proper_noun",0.6,False,y
+citus,B,word (flag),word,P6,adjective 'swift' (Ecerinis: 'atrox Ecerinus citus aduolat'),5,2,proper_noun,0.0,False,y
+megaera,C,name,name,P1,a name written in lowercase at a line start,5,1,proper_noun,0.0,False,y
+crux,A,word (flag),word,P2,"Ecerinis: crosses as punishment, and the Cross; a punishment theme word",4,4,"noun, proper_noun",0.25,False,y
+phlegethon,C,name,name,P1,a name written in lowercase at a line start,4,0,proper_noun,0.0,False,y
+sparta,A,name,name,P1,Sparta,3,0,"noun, proper_noun",0.67,False,y
+neptunus,A,name,name,P1,the god,3,0,"noun, proper_noun",0.67,False,y
+phocis,A,name,name,P1,Phocis,3,0,"noun, proper_noun",0.67,False,y
+eleus,A,name,name,P1,Elean,3,0,"adjective, proper_noun",0.67,False,y
+astraea,A,name,name,P1,Astraea (the Virgin),3,0,"noun, proper_noun",0.67,False,y
+phineus,A,name,name,P1,Phineus,2,0,"adjective, proper_noun",0.5,False,y
+latinus,A,name,name,P1,Latin (matres Latinae),2,0,"adjective, proper_noun",0.5,False,y
+althaea,A,name,name,P1,Althaea,2,0,"noun, proper_noun",0.5,False,y
+plautus,A,name,name,P1,Rubellius Plautus,2,0,"adjective, proper_noun",0.5,False,y
+uulcanus,A,name,name,P1,Vulcan (Ecerinis: vocative 'Vulcane'),2,1,"noun, proper_noun",0.5,False,y
+decens,B,word (flag),word,P6,adjective 'seemly',2,0,proper_noun,0.0,False,y
+maeander,C,name,name,P1,a name written in lowercase at a line start,2,0,proper_noun,0.0,False,y
+octauia,C,name,name,P1,a name written in lowercase at a line start,2,0,proper_noun,0.0,False,y
+ecerinum,D,name,name,P1,Ezzelino (3.9.8 lemma for Ecerini/Ecerinum; should merge into ecerinus),2,2,,0.5,False,y
+patauus,D,name,name,P1,Paduans,2,2,,0.5,False,y
+meritus,B,word (flag),word,P6,Ecerinis 'meriti' (deserved),1,1,proper_noun,0.0,False,y
+pharis,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+sunion,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+erycina,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+latonigena,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+deiphobus,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+phlegethontis,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+arabis,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+aegisthus,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+eumenides,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+lapitha,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+malea,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+albis,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+idmon,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+hyas,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+britannia,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+ixio,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+proetides,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+naxos,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+lachesis,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+euenus,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+semele,C,name,name,P1,a name written in lowercase at a line start,1,0,proper_noun,0.0,False,y
+taruisium,C,name,name,P1,a name written in lowercase at a line start,1,1,proper_noun,0.0,False,y
+nabuchodonosor,C,name,name,P1,a name written in lowercase at a line start,1,1,proper_noun,0.0,False,y
+zeno,C,name,name,P1,a name written in lowercase at a line start,1,1,proper_noun,0.0,False,y
+io,E,word (flag),word,-,garbled token 'Ius' (Pha); not the name Io,1,0,"interjection, proper_noun",0.0,False,y

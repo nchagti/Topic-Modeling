@@ -1,0 +1,8 @@
+{
+  "_about": "Corrections applied to data/sources/mussatus-ecerinis.xml (NeoLatDraCor commit 3d4653db801eb2586c92cb918f6774bd0b079850) when extracting the v2 text. Each entry replaces 'find' with 'replace' in the single verse line that contains 'find'; extraction fails if a 'find' string does not occur exactly once.",
+  "patches": [
+    {"find": "dtabiles perennis", "replace": "stabiles perennis", "reason": "typo (Padrin 1900: Stabiles)"},
+    {"find": "dub lege certa", "replace": "sub lege certa", "reason": "typo (Padrin 1900: Sub)"},
+    {"find": "Resperge faciem, Nuntius sincopim", "replace": "Resperge faciem, sincopim", "reason": "speaker name inside a spoken line"}
+  ]
+}

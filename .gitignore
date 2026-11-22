@@ -4,3 +4,4 @@ __pycache__/
 *.cfg
 notes.txt
 context/
+.venv/

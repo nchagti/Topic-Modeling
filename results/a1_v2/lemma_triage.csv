@@ -1,0 +1,334 @@
+﻿gid,surface,lemma_398,pos_398,n,ecerinis,decision,to_lemma,reason
+1,manes,manes,NOUN,26,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+2,imo,inferus,ADJ,15,1,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+3,adest,assum,VERB,11,1,keep,,handled by the approved spelling map
+4,tutus,tuor,ADJ,11,3,fix,tutus,"adjective 'safe' (tutus, tutis, tutissimum)"
+5,tuta,tutus,ADJ,10,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+6,nata,nascor,VERB,10,0,fix,nata,"vocative/noun 'daughter' ('quid me, nata, ...')"
+7,paelex,pellex,NOUN,8,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+8,extremum,exter,ADJ,8,1,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+9,tutum,tutus,ADJ,7,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+10,gnati,natus,NOUN,7,2,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+11,maenas,maenas,NOUN,6,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+12,imis,inferus,ADJ,5,0,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+13,tuto,tutus,ADJ,5,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+14,sponte,spons,NOUN,5,2,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+15,iratae,iratus,ADJ,5,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+16,extremus,exter,ADJ,4,0,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+17,carbasa,carbasa,NOUN,4,0,fix,carbasus,plural carbasa of carbasus 'sail'
+18,terna,ternus,ADJ,4,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+19,paelicis,pellex,NOUN,4,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+20,arctos,arctus,PROPN,4,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+21,manes,mane,NOUN,4,0,fix,manes,the Manes
+22,docta,doctus,ADJ,4,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+23,coepit,coepi,VERB,4,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+24,ruinis,ruino,NOUN,4,0,fix,ruina,ruinis: noun ruina
+25,extremo,exter,ADJ,4,0,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+26,solito,solitus,ADJ,4,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+27,imos,inferus,ADJ,4,0,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+28,ima,inferus,ADJ,4,1,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+29,horrendum,horrendus,ADJ,3,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+30,extrema,exter,ADJ,3,0,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+31,diuersa,diuersus,ADJ,3,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+32,imas,inferus,ADJ,3,1,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+33,cadmea,cadmeius,ADJ,3,0,name,,Cadmean: add to the name list
+34,septena,septenus,ADJ,3,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+35,oblita,oblino,VERB,3,0,fix,obliuiscor,"'oblita nati', 'oblita nostri' (forgetting)"
+36,aequoris,aequo,NOUN,3,0,fix,aequor,'aequoris undis' (sea)
+37,remisso,remissus,ADJ,3,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+38,ictibus,ico,NOUN,3,1,fix,ictus,noun 'blows' (Ecerinis 1)
+39,spectator,specto,NOUN,3,1,fix,spectator,noun 'onlooker' (Ecerinis 1)
+40,perlucet,pelluceo,VERB,3,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+41,summisit,summisit,VERB,3,0,fix,summitto,non-word lemma
+42,cadmeis,cadmeius,ADJ,3,0,name,,Cadmean: add to the name list
+43,natam,nascor,VERB,3,0,fix,nata,'daughter' ('tuam natam parens Helenae immolasti')
+44,aurato,auratus,ADJ,3,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+45,subito,subitus,ADJ,3,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+46,exarsit,exardesco,VERB,2,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+47,putres,putris,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+48,supremum,superior,ADJ,2,0,fix,supremus,'supremum munus/ignem' (last); like the supremus tokens
+49,secreto,secretus,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+50,remotos,remotus,VERB,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+51,sparsa,sparsus,VERB,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+52,quieti,quietus,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+53,horrentes,horrens,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+54,suspecta,suspectus,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+55,fulges,fulgo,VERB,2,0,fix,fulgeo,"fulges, fulsi: fulgeo"
+56,effusos,effusus,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+57,supremus,supremus,ADJ,2,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+58,uere,uere,NOUN,2,0,fix,uer,'uere primo' (spring)
+59,silentum,silens,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+60,septenos,septenus,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+61,silentem,silens,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+62,supera,superum,NOUN,2,0,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+63,placatos,placatus,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+64,neglecta,negligo,VERB,2,0,fix,neglego,same verb; neglego is the other 3.9.8 lemma
+65,ardentem,ardens,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+66,occultum,occultus,ADJ,2,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+67,senior,senior,NOUN,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+68,extremum,exter,NOUN,2,0,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+69,manes,manes,VERB,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+70,pallentes,pallens,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+71,tuta,tutus,VERB,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+72,iratus,iratus,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+73,libens,libo,VERB,2,0,fix,libens,'furabor libens' (willingly)
+74,iamne,iamna,NOUN,2,0,drop,<drop>,iamne = iam + -ne (adverb)
+75,coepit,capio,VERB,2,0,fix,coepi,'qua coepit'
+76,iratus,iror,VERB,2,0,fix,iratus,non-word lemma for iratus
+77,deprendit,deprehendo,VERB,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+78,salsa,salsus,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+79,paelice,pellex,NOUN,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+80,sacrata,sacratus,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+81,rubentis,rubens,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+82,dubio,dubium,NOUN,2,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+83,flagrantibus,fragro,VERB,2,0,fix,flagro,all tokens are flagr- 'blaze' (fragro is 'smell')
+84,adflictis,afflictus,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+85,trigemina,tergeminus,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+86,ueneranda,uenerandus,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+87,functis,functus,NOUN,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+88,sena,senus,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+89,quinis,quinus,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+90,summittit,submitto,VERB,2,0,keep,,handled by the approved spelling map
+91,afflictos,afflico,VERB,2,0,fix,affligo,non-word lemma for afflictos
+92,adulta,adultus,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+93,coniugi,coniugi,NOUN,2,0,fix,coniux,dative of coniux (3.9.8's headword)
+94,largire,largio,VERB,2,0,fix,largior,largire is the deponent largior
+95,tutam,tutus,ADJ,2,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+96,renatum,renascor,VERB,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+97,maenas,maenas,PROPN,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+98,caedibus,caedo,NOUN,2,2,fix,caedes,"Ecerinis 'caedibus tantis', 'polluere caedibus' (slaughter)"
+99,solitum,solitus,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+100,tyrannidi,tyrannus,NOUN,2,2,fix,tyrannis,Ecerinis 'mors est mixta tyrannidi' (tyranny)
+101,pecori,pecu,NOUN,2,0,fix,pecus,"pecori, pecudis: pecus"
+102,threicia,threicium,NOUN,2,0,fix,threicius,Thracian (a name; see additions)
+103,nitentem,nitens,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+104,solita,solitus,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+105,magna,magnum,NOUN,2,0,fix,magnus,substantive 'great things' (3.9.8 convention: adjective lemma)
+106,uerona,uerono,VERB,2,2,fix,uerona,"Ecerinis: Verona, lowercased at a line start"
+107,iuratos,iuratus,ADJ,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+108,proci,proco,NOUN,2,0,fix,procus,proci 'suitors'
+109,imo,imo,ADJ,2,1,fix,inferus,'ab imo': same as the other imus tokens (accepted convention)
+110,opposita,oppono,VERB,2,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+111,patenti,patens,VERB,2,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+112,citas,cio,ADJ,2,0,fix,citus,'citas undas' (swift)
+113,senior,senior,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+114,oloris,odor,NOUN,1,0,fix,olor,'pennas oloris' (swan)
+115,sollicita,sollicio,VERB,1,0,fix,sollicitus,non-word lemma
+116,frequensne,frequensne,ADJ,1,0,fix,frequens,frequens + -ne
+117,iniecit,inicio,VERB,1,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+118,constitit,consisto,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+119,ardentes,ardens,ADJ,1,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+120,inquieto,inquieo,ADJ,1,0,fix,inquietus,non-word lemma
+121,genital,genital,NOUN,1,1,fix,genitalis,Ecerinis 'infantum genital recidi' (truncated in the source)
+122,implicitum,implicitus,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+123,functis,functus,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+124,manes,mane,VERB,1,0,fix,manes,the Manes
+125,manes,manis,NOUN,1,0,fix,manes,the Manes
+126,adstringit,astringo,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+127,mammis,mammo,NOUN,1,1,fix,mamma,Ecerinis 'sectis mammis'
+128,squalente,squalens,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+129,ziramons,ziramons,NOUN,1,1,drop,<drop>,"Ecerinis 'Ziramons? domine': a name/label, not vocabulary"
+130,uidetne,uidetne,VERB,1,1,fix,uideo,uidet + -ne (Ecerinis)
+131,uirente,uirens,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+132,stipites,stips,NOUN,1,1,fix,stipes,Ecerinis 'pingues stipites' (logs)
+133,afflictum,afflictum,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+134,coepti,coepi,NOUN,1,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+135,coeptum,coepi,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+136,ratas,ratus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+137,nutibus,nuo,NOUN,1,1,fix,nutus,"nutus, nutibus: noun 'nod, command'"
+138,assuetos,adsuesco,VERB,1,0,keep,,handled by the approved spelling map
+139,implicitas,implicio,VERB,1,0,fix,implico,non-word lemma
+140,meriti,meritus,VERB,1,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+141,paenitendi,paenitendi,VERB,1,0,fix,paeniteo,gerund of paeniteo
+142,moderator,modero,NOUN,1,1,fix,moderator,Ecerinis 'moderator aequi'
+143,nutus,nuo,NOUN,1,0,fix,nutus,"nutus, nutibus: noun 'nod, command'"
+144,pactus,paco,VERB,1,0,fix,paciscor,'coniugem pactus sibi'
+145,iacentum,iacentum,VERB,1,1,fix,iaceo,Ecerinis 'gemitus iacentum'
+146,residi,residus,VERB,1,0,fix,resido,'in quis residi'
+147,intima,interior,ADJ,1,0,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+148,silenti,silens,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+149,lombarda,lombardum,NOUN,1,1,fix,lombardus,Ecerinis 'lombarda gens' (a name; see additions)
+150,paratas,paratus,ADJ,1,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+151,extremos,exter,ADJ,1,0,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+152,renes,renis,NOUN,1,1,fix,ren,Ecerinis 'supplices renes'
+153,erebi,erebo,VERB,1,0,fix,erebus,Erebus (a name)
+154,spumam,spumo,NOUN,1,1,fix,spuma,Ecerinis 'ex ore spumam mittit'
+155,aere,aes,NOUN,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+156,suspecta,suspectus,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+157,fusae,fusus,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+158,summisi,summisi,VERB,1,0,fix,summitto,non-word lemma
+159,rata,ratus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+160,tractae,trago,VERB,1,1,fix,traho,Ecerinis 'uirgines tractae'
+161,redimite,redimio,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+162,effusam,effusus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+163,peruetustae,peruetustae,VERB,1,1,fix,peruetustus,Ecerinis 'peruetustae memoriae'
+164,occultis,occultus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+165,tenellum,tener,ADJ,1,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+166,incremat,incremo,VERB,1,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+167,sacrate,sacratus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+168,merces,merx,NOUN,1,0,fix,merces,'funesta merces' (reward)
+169,superstite,supersto,ADJ,1,1,fix,superstes,Ecerinis 'te superstite'
+170,pudendis,pudendus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+171,ausibus,ausibus,NOUN,1,1,fix,ausus,Ecerinis 'ausibus nostris' (noun ausus)
+172,placatus,placatus,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+173,sceleratae,sceleratus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+174,assuetam,assuetus,ADJ,1,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+175,certaue,certauo,VERB,1,1,fix,certus,Ecerinis 'certaue funera' = certa + -ue
+176,tyrannidis,tyrannus,NOUN,1,1,fix,tyrannis,Ecerinis 'saeuae tyrannidis' (tyranny)
+177,lampade,lampo,NOUN,1,0,fix,lampas,'dira lampade Erinys'
+178,auratum,auratus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+179,tinxere,tinguo,VERB,1,0,fix,tingo,same verb; tingo is the other 3.9.8 lemma
+180,auratis,auratus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+181,assuetae,adsuesco,VERB,1,0,keep,,handled by the approved spelling map
+182,planctibus,plango,NOUN,1,0,fix,planctus,noun 'lament'
+183,patenti,patens,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+184,pacator,paco,NOUN,1,0,fix,pacator,'orbis pacator'
+185,pecudis,pecu,NOUN,1,0,fix,pecus,"pecori, pecudis: pecus"
+186,imam,imo,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+187,secretum,secretus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+188,manes,macnes,VERB,1,0,fix,manes,the Manes ('manes semel umbrasque uidi')
+189,docta,doctus,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+190,exurgens,exurgo,VERB,1,0,keep,,handled by the approved spelling map
+191,uadis,uades,NOUN,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+192,autumno,autumnus,NOUN,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+193,flagranti,fragro,ADJ,1,0,fix,flagro,all tokens are flagr- 'blaze' (fragro is 'smell')
+194,ictus,ico,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+195,occulto,occultus,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+196,postem,posteo,NOUN,1,0,fix,postis,'in postem' (doorpost)
+197,flagranti,fragro,VERB,1,0,fix,flagro,all tokens are flagr- 'blaze' (fragro is 'smell')
+198,extremam,exter,ADJ,1,0,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+199,aereae,aerius,ADJ,1,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+200,inmugit,immugio,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+201,uenerando,uenerandus,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+202,cycladas,cyclada,VERB,1,0,fix,cyclades,the Cyclades (a name; see additions)
+203,ima,inferus,NOUN,1,0,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+204,caelos,caelum,NOUN,1,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+205,excelse,excelse,ADJ,1,1,fix,excelsus,Ecerinis vocative 'excelse mundi rector'
+206,assueta,assuetus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+207,insueto,insuesco,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+208,assueti,assuetus,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+209,remisso,remissus,VERB,1,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+210,aurata,auratus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+211,praesentibus,praesum,VERB,1,1,fix,praesens,Ecerinis 'praesentibus malis'
+212,instabile,instabilio,ADJ,1,0,fix,instabilis,
+213,situs,situs,NOUN,1,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+214,diremit,diremit,VERB,1,1,fix,dirimo,Ecerinis 'litem diremit'
+215,furiis,furio,NOUN,1,0,fix,furia,furiis 'with frenzies'
+216,coepisti,coepi,VERB,1,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+217,diis,deus,NOUN,1,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+218,tutum,tutus,NOUN,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+219,purisue,purisuus,ADJ,1,0,fix,purus,purisue = puris + -ue
+220,extremae,exter,ADJ,1,0,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+221,pronosticus,pronosticus,ADJ,1,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+222,aeris,aes,NOUN,1,1,fix,aer,'faciem aeris sulphureus inuasit uapor' (air)
+223,resonuit,resonio,VERB,1,1,fix,resono,Ecerinis 'resonuit caelum'
+224,sincopim,sincopim,VERB,1,1,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+225,ministrae,ministro,NOUN,1,1,fix,ministra,Ecerinis 'ministrae facinorum'
+226,executor,executo,NOUN,1,1,fix,exsecutor,Ecerinis 'ipse executor'
+227,pompae,pompo,NOUN,1,0,fix,pompa,'nec pompae ueniet'
+228,assuetas,adsuesco,VERB,1,0,keep,,handled by the approved spelling map
+229,infimos,inferus,ADJ,1,1,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+230,euxilium,euxilium,NOUN,1,1,fix,auxilium,Ecerinis 'mortale euxilium damus': typo for auxilium
+231,horrentes,horrens,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+232,secretam,secretus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+233,occulto,occultus,NOUN,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+234,raptorem,rapto,NOUN,1,0,fix,raptor,'raptorem sui'
+235,sollicito,solliceo,VERB,1,0,fix,sollicitus,non-word lemma
+236,strepitus,strepo,NOUN,1,0,fix,strepitus,noun 'noise'
+237,amantis,amans,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+238,adspectus,aspicio,NOUN,1,0,fix,aspectus,noun 'sight'
+239,praeterita,praeteritus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+240,senii,senex,NOUN,1,0,fix,senium,'deformis senii'
+241,reduce,redux,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+242,uine,uen,NOUN,1,0,drop,<drop>,Phaedra 'trito uine ala collo': garbled text
+243,ictum,ico,NOUN,1,0,fix,ictus,'conuersa ad ictum' (noun)
+244,tuti,tutus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+245,teretes,tero,NOUN,1,0,fix,teres,'teretes laqueos' (smooth)
+246,citis,cio,ADJ,1,0,fix,citus,'cursibus citis'
+247,imam,inferus,ADJ,1,0,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+248,extrema,exter,NOUN,1,0,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+249,paelicum,pellex,NOUN,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+250,doctus,doctus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+251,uirenti,uirens,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+252,aequorum,aequo,NOUN,1,0,fix,aequor,'Proteus aequorum'
+253,undarum,undo,NOUN,1,0,fix,unda,'undarum globus'
+254,abominandam,abomino,VERB,1,0,fix,abominor,deponent
+255,citos,cio,VERB,1,0,fix,citus,'citos currus'
+256,dure,dure,ADJ,1,0,fix,durus,vocative 'o dure Theseu'
+257,furiis,furius,PROPN,1,0,fix,furia,Medea 'pectus en Furiis patet'
+258,flagrantes,fragro,VERB,1,0,fix,flagro,all tokens are flagr- 'blaze' (fragro is 'smell')
+259,imum,inferus,ADJ,1,0,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+260,extrema,exterior,ADJ,1,0,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+261,adsuetas,adsuesco,ADJ,1,0,keep,,handled by the approved spelling map
+262,uereris,uereris,VERB,1,0,fix,uereor,'uereris fratris dolos'
+263,tutis,tuor,ADJ,1,0,fix,tutus,"adjective 'safe' (tutus, tutis, tutissimum)"
+264,cite,cio,VERB,1,0,fix,cieo,imperative of cieo
+265,affusa,adfundo,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+266,pensi,pensus,NOUN,1,0,fix,pensum,'pensi nihil ducunt'
+267,scelestis,scelestis,ADJ,1,0,fix,scelestus,"'diris, scelestis'"
+268,afflicti,afflictus,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+269,pacta,panquo,VERB,1,0,fix,pactum,'pacta fratrum' (agreements)
+270,amantem,amans,NOUN,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+271,oppositu,oppono,NOUN,1,0,fix,oppositus,noun 'interposition'
+272,suspensa,suspensus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+273,sollicita,solliceor,VERB,1,0,fix,sollicitus,non-word lemma
+274,domitrix,domito,NOUN,1,0,fix,domitrix,'maris domitrix Iolcos'
+275,miseras,miserus,ADJ,1,0,fix,miser,non-word lemma
+276,carinis,carino,NOUN,1,0,fix,carina,'mille carinis'
+277,machinator,machinor,NOUN,1,0,fix,machinator,'O machinator fraudis'
+278,adflictae,afflictus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+279,rigens,rigens,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+280,fusam,fusus,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+281,sparsos,sparsus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+282,pollens,pollens,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+283,diuersam,diuersus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+284,procerum,procer,NOUN,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+285,stulta,stulta,VERB,1,0,fix,stultus,'Stulta est fides'
+286,aurata,auratus,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+287,inferorum,infer,NOUN,1,0,fix,inferi,'inferorum carcer' (3.9.8's plural noun inferi)
+288,oblite,oblite,VERB,1,0,fix,obliuiscor,'oblite nostri'
+289,uenerandos,uenerandos,VERB,1,0,fix,uenerandus,like the other uenerandus tokens
+290,desertae,desertae,VERB,1,0,fix,desertus,'senectae desertae'
+291,afflictos,afflictus,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+292,scelerata,sceleratus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+293,egens,egens,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+294,proxima,propior,ADJ,1,0,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+295,pudendi,pudendus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+296,lugubribus,lugubre,NOUN,1,0,fix,lugubris,'lugubribus amicta'
+297,abdita,abdio,VERB,1,0,fix,abdo,'iura abdita'
+298,afflicti,afflictus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+299,quieto,quietus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+300,remotos,remotus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+301,silentes,silens,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+302,silentis,silens,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+303,permixtae,permisceo,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+304,belligera,belligera,ADJ,1,0,fix,belliger,'belligera Pallas'
+305,uirente,uirens,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+306,secreta,secretus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+307,rigens,rigens,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+308,serpentum,serpo,VERB,1,0,fix,serpens,'serpentum genus'
+309,natas,nascor,NOUN,1,0,fix,nata,'daughters' (Medea: Pelias' daughters)
+310,aera,aes,NOUN,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+311,sacro,sacrus,ADJ,1,0,fix,sacer,non-word lemma
+312,natas,nascor,VERB,1,0,fix,nata,'daughters' (Medea: Pelias' daughters)
+313,fulsi,fulgo,VERB,1,0,fix,fulgeo,"fulges, fulsi: fulgeo"
+314,remotus,remotus,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+315,pelle,pella,VERB,1,0,fix,pello,'regno pelle' (expel)
+316,solitis,solitus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+317,defessus,defessus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+318,semustas,semusta,NOUN,1,0,fix,semustus,'semustas faces'
+319,iratae,iro,VERB,1,0,fix,iratus,non-word lemma for iratae
+320,casse,co,NOUN,1,0,fix,cassis,'casse uinctus' (net)
+321,colos,color,NOUN,1,0,fix,colus,'parcarum colos' (distaffs)
+322,secretae,secretus,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+323,uirenti,uirens,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+324,proximus,propior,ADJ,1,0,keep,,3.9.8 convention (accepted): comparative/superlative or plural noun lemma
+325,inroga,irrogo,VERB,1,0,keep,,handled by the approved spelling map
+326,rigentia,rigens,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+327,suspensus,suspensus,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+328,ardentem,ardens,VERB,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+329,discordem,discors,ADJ,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+330,aperto,apertum,NOUN,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+331,erebo,erebo,VERB,1,0,fix,erebus,Erebus (a name)
+332,paelices,pellex,NOUN,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)
+333,paelicibus,pellex,NOUN,1,0,keep,,3.9.8 lemma is right in context (Morpheus lacks it or lists only the source verb)

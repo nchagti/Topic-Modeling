@@ -1,0 +1,608 @@
+## uenus | group A | now: name | n=29 ece=3 | LiLa: noun, proper_noun | share=0.76
+  Phaedr PROPN/PERSON: nostris opem . stirpem perosa Solis inuisi [[Uenus]] per nos catenas uindicat Martis sui
+  Phaedr PROPN/PERSON: ? cur sancta paruis habitat in tectis [[Uenus]] medium que sanos uulgus affectus tenet
+  Phaedr PROPN/LOC: se que mulcendum dabit castos que ritus [[Uenere]] non casta exuet ? tibi ponet
+  Phaedr PROPN/PERSON: mari . ignes sentit genus aligerum ; [[Uenere]] instinctus suscipit audax grege pro toto
+  Phaedr PROPN/PERSON: mentem : toruus auersus ferox in iura [[Ueneris]] redeat , huc uires tuas intende
+  Phaedr PROPN/PERSON: nunc facile pectus , grata nunc iuueni [[Uenus]] : exultet animus , cur toro
+## phryges | group A | now: name | n=19 ece=0 | LiLa: noun, proper_noun | share=0.74
+  Troade PROPN/-: , patriae que cineres te que rectorem [[Phrygum]] quem Troia toto conditum regno tegit
+  Troade PROPN/NORP: patriae , mora fatorum , tu praesidium [[Phrygibus]] fessis , tu murus eras umeris
+  Troade PROPN/NORP: , Argiua tellus , liceat ) affligi [[Phrygas]] uinci que uolui : ruere et
+  Troade PROPN/NORP: aequa mors est — turbat atque agitat [[Phrygas]] communis iste terror , hic proprie
+  Troade ADJ/NORP: magni certa progenies patris , spes una [[Phrygibus]] , unica adflictae domus , ueteris
+  Troade ADJ/NORP: dissipans iacta comam — o nate sero [[Phrygibus]] , o matri cito , eritne
+## zephyrus | group A | now: name | n=12 ece=0 | LiLa: noun, proper_noun | share=0.75
+  Phaedr PROPN/PERSON: qua prata iacent quae rorifera mulcens aura [[Zephyrus]] uernas euocat herbas , ubi per
+  Agamem PROPN/PERSON: uelis ; unda uix actu leui tranquilla [[Zephyri]] mollis afflatu tremit . splendet que
+  Agamem PROPN/PERSON: que pelagus infimo euersum solo aduersus Euro [[Zephyros]] et Boreae Notus : sua quisque
+  Hercul PROPN/PERSON: laeta facie germinant nec adulta leni fluctuat [[Zephyro]] seges ; non ulla ramos silua
+  Medea PROPN/PERSON: plaustra Bootes , nondum Boreas , nondum [[Zephyrus]] nomen habebant . ausus Tiphys pandere
+  Oedipu PROPN/PERSON: afflatu fouet anhela flammis corda , non [[Zephyri]] leues spirant , sed ignes auget
+## graius | group A | now: name | n=11 ece=0 | LiLa: adjective, proper_noun | share=0.64
+  Phoeni ADJ/LOC: inuocat et Argos exul atque urbes mouet [[Graias]] in arma : non leuis fessis
+  Troade ADJ/-: egimus annis , ex quo tetigit Phrygius [[Graias]] hospes Amyclas securi que fretum pinus
+  Troade ADJ/LOC: te rege tulit , bis pulsari Dardana [[Graio]] moenia ferro bis que pharetras passa
+  Troade ADJ/NORP: ad imos , nec feret umquam uicta [[Graium]] ceruice iugum ; non ille duos
+  Troade ADJ/LOC: non qualis ultro bella in Argiuos ferens [[Graias]] petebat facibus Idaeis rates , nec
+  Troade ADJ/NORP: gentes sub tuum mittes iugum , non [[Graia]] caedes terga , non Pyrrhum trahes
+## eurus | group A | now: name | n=7 ece=0 | LiLa: noun, proper_noun | share=0.71
+  Agamem PROPN/PERSON: rapiunt que pelagus infimo euersum solo aduersus [[Euro]] Zephyros et Boreae Notus : sua
+  Agamem PROPN/LOC: nimbis Notus ] imbre auget undas , [[Eurus]] orientem mouet nabataea quatiens regna et
+  Thyest PROPN/PERSON: concutiet cadens obliqui uia fulminis , non [[Eurus]] rapiens mare aut saeuo rabidus freto
+  Hercul PROPN/PERSON: ponto , cum Borean expulit Africus aut [[Eurus]] Zephyrum , cum mare diuidunt ,
+  Hercul PROPN/PERSON: est . monstrum elocor . niues ut [[Eurus]] soluit aut tepidus Notus , quas
+  Phaedr NOUN/-: casa securos . admota aetheriis culmina sedibus [[euros]] excipiunt , excipiunt Notos , insani
+## luna | group A | now: name | n=7 ece=0 | LiLa: noun, proper_noun | share=0.71
+  Hercul PROPN/PERSON: colla terrifici leuet — [ sublimis alias [[Luna]] concipiat feras ] sed uicit ista
+  Thyest PROPN/PERSON: nec ullo micat igne polus , non [[Luna]] grauis digerit umbras . sed quicquid
+  Thyest PROPN/PERSON: , non Phoebeis obuia flammis dement nocti [[Luna]] timores uincet que sui fratris habenas
+  Hercul PROPN/PERSON: ? carmine in terras mago descendat astris [[Luna]] desertis licet et bruma messes uideat
+  Hercul PROPN/PERSON: Thessalas docuit nurus , nam inter omnis [[Luna]] quam sequitur magas stris relictis ,
+  Agamem NOUN/-: uentis unda Uenturis tumet : cum subito [[luna]] conditur , stellae latent , in
+## parthus | group A | now: name | n=6 ece=0 | LiLa: adjective, proper_noun | share=0.5
+  Medea PROPN/-: Arabes linunt pharetra que pugnax Mediis aut [[Parthi]] leues , aut quos sub axe
+  Octavi ADJ/NORP: opes exhaustus orbis , supplices dextram petant [[Parthi]] cruentam , regna diuitias ferant :
+  Oedipu ADJ/NORP: equites , sagittis ' terga fallacis metuenda [[Parthi]] ; litus intrauit pelagi rubentis :
+  Thyest PROPN/NORP: et Phoebi propioris Indus et Dahae - [[Parthis]] equitem minati , anxius sceptrum tenet
+  Thyest NOUN/-: armis et inertibus telis quae procul ingerit [[parthus]] , cum simulat fugas , admotis
+  Hercul ADJ/-: soliferae suppositus plagae uicino Nabatae uulnera dirigit [[parthus]] Gnosiacis certior ictibus , muros Oechaliae
+## caesar | group A | now: name | n=6 ece=1 | LiLa: noun, proper_noun | share=0.5
+  Octavi PROPN/PERSON: principem . melius fides . decet timeri [[Caesarem]] . at plus diligi . metuant
+  Octavi PROPN/PERSON: precibus et uotis dies nostris refulsit : [[Caesari]] iuncta es tuo taeda iugali ,
+  Ecerin PROPN/NORP: peruetustae memoriae , nostrae quoque praelata mundo [[Caesarum]] egregia domus , felicis unde memoriae
+  Octavi NOUN/-: tibi lucem atque imperium nomen que dedi [[caesaris]] amens . exere uultus Acheronte tuos
+  Octavi NOUN/-: Ioui aequatus altos ipse per honorum gradus [[caesar]] nefando ciuium scelere occidit . quantum
+  Octavi NOUN/-: , nata Agrippae , nurus Augusti , [[caesaris]] uxor , cuius nomen clarum toto
+## arcadius | group A | now: name | n=5 ece=0 | LiLa: adjective, proper_noun | share=0.6
+  Agamem ADJ/PERSON: fulmineus leo cerua que Parrhasis , sensit [[Arcadii]] populator agri , gemuit que taurus
+  Oedipu ADJ/PERSON: frigido fluctu quasque despectat uertice summo sidus [[Arcadium]] geminum que plaustrum . ille dispersos
+  Hercul ADJ/LOC: aer inferi : nullus per urbes errat [[Arcadias]] leo , Stymphalis icta est ,
+  Hercul NOUN/-: , solitum que densis hispidum Erymanthi iugis [[arcadia]] quatere nemora Maenalium suem , taurum
+  Hercul NOUN/-: quot uirgines dilexit : errauit uagus . [[arcadia]] nempe uirgo , Palladios choros dum
+## centaurus | group A | now: name | n=5 ece=0 | LiLa: noun, proper_noun | share=0.8
+  Hercul PROPN/PERSON: bibit . tum uicta trepidant monstra , [[Centauri]] truces lapithae que multo in bella
+  Hercul PROPN/LOC: cum siluis feram rapiam que dextra plena [[Centauris]] iuga . iam monte gemino limitem
+  Hercul PROPN/PERSON: tabe pauissem mea , utinam fuissem praeda [[Centauris]] datus aut inter umbras uinctus aeterno
+  Hercul PROPN/PERSON: tenet ? fugit abducta nauita cumba et [[Centauris]] Thessala motis ferit attonitos ungula manes
+  Hercul NOUN/-: ales deficiens cadit ; abrumpit scopulos Athos [[centauros]] obiter ferens et iuxta Rhodopen stetit
+## cycnus | group A | now: name | n=4 ece=0 | LiLa: noun, proper_noun | share=0.5
+  Agamem PROPN/PERSON: caede purpureos agens , non niuea proles [[Cycnus]] aequorei dei , non bellicoso Thressa
+  Hercul PROPN/PERSON: uulneri et ferro iuuius mortem coactus integer [[Cycnus]] pati nec unus una Geryon uictus
+  Phaedr NOUN/-: modo mouit alas , dulcior uocem moriente [[cygno]] ; fronte nunc torua petulans iuuencus
+  Agamem ADJ/-: ipse uelit clarus niueos inter olores histrum [[cycnus]] Tanain que colens extrema loqui ,
+## sparta | group A | now: name | n=3 ece=0 | LiLa: noun, proper_noun | share=0.67
+  Troade NOUN/LOC: tantam Troiae atque Achiuis quae tulit , [[Sparte]] , procul absit , absit Argos
+  Octavi PROPN/-: Danae , fluxit in auro . formam [[Sparte]] iactet alumnae licet et Phrygius praemia
+  Thyest NOUN/LOC: quaenam ista regio est ? Argos et [[Sparte]] , pios sortita fratres , et
+## neptunus | group A | now: name | n=3 ece=0 | LiLa: noun, proper_noun | share=0.67
+  Medea PROPN/PERSON: . strauit Alcides Aquilone natos , patre [[Neptuno]] genitum necauit sumere innumeras solitum figuras
+  Oedipu PROPN/PERSON: penetrales deos , per te , pater [[Neptune]] , qui fluctu breui utrimque nostro
+  Agamem NOUN/-: furens , tridente rupem subruit pulsam pater [[neptunus]] imis exerens undis caput soluit que
+## phocis | group A | now: name | n=3 ece=0 | LiLa: noun, proper_noun | share=0.67
+  Hercul PROPN/-: et omne quicquid uberi cingit solo obliqua [[Phocis]] , quicquid Ismenos rigat , quicquid
+  Oedipu PROPN/PERSON: in campos uia . secat una gratum [[Phocidos]] Baccho solum , unde altus arua
+  Agamem NOUN/-: Oresta : amici fida praesidia intuor . [[phocide]] relicta Strophius Elea inclutus palma reuertor
+## eleus | group A | now: name | n=3 ece=0 | LiLa: adjective, proper_noun | share=0.67
+  Agamem ADJ/PERSON: fida praesidia intuor . phocide relicta Strophius [[Elea]] inclutus palma reuertor . causa ueniendi
+  Hercul PROPN/-: ad noui ludos auidus theatri , quantus [[Eleum]] ruit ad Tonantem , quinta cum
+  Oedipu ADJ/LOC: errantes aquas gelidum que dirimit amnis i [[Elei]] uadum : hic pace fretum subita
+## astraea | group A | now: name | n=3 ece=0 | LiLa: noun, proper_noun | share=0.67
+  Hercul PROPN/PERSON: melior uitae , uolucre o matris genus [[Astraeae]] , frater durae languide Mortis ,
+  Hercul PROPN/PERSON: et messes alit ; annum fugacem tradit [[Astraeae]] leo , at ille , iactans
+  Octavi ADJ/-: feros hominum et cruenta caede pollutas manus [[astraea]] uirgo , siderum magnum decus .
+## impietas | group A | now: name | n=2 ece=0 | LiLa: noun, proper_noun | share=0.5
+  Hercul PROPN/-: ueniet inuisum Scelus suum que lambens sanguinem [[Impietas]] ferox error que et in se
+  Octavi NOUN/-: graui , quo scelera regnant , saeuit [[impietas]] furens , turpi libido Uenere dominatur
+## phineus | group A | now: name | n=2 ece=0 | LiLa: adjective, proper_noun | share=0.5
+  Hercul ADJ/PERSON: furentes impiae Cadmeides terret que mensas auida [[Phineas]] auis . nunc ede nati nobilem
+  Thyest ADJ/-: gutture Tantalus : impendet capiti plurima noxio [[phineis]] auibus praeda fugacior ; hinc illinc
+## latinus | group A | now: name | n=2 ece=0 | LiLa: adjective, proper_noun | share=0.5
+  Octavi ADJ/PERSON: turba est maesta : resolutis comis matres [[Latinae]] flebiles planctus dabant ; inter tubarum
+  Medea ADJ/-: Tonantibus taurus celsa ferat tergore candido ; [[latinam]] niuei femina corporis intemptata iugo placet
+## althaea | group A | now: name | n=2 ece=0 | LiLa: noun, proper_noun | share=0.5
+  Medea PROPN/PERSON: sororis , impiae matris , facem ultricis [[Althaeae]] uides , reliquit istas inuio plumas
+  Hercul ADJ/-: coniunx , sceleribus ; natam tuam , [[althaea]] mater , recipe , nunc ueram
+## plautus | group A | now: name | n=2 ece=0 | LiLa: adjective, proper_noun | share=0.5
+  Octavi PROPN/PERSON: . perage imperata : mitte , qui [[Plauti]] mihi sullae que caesi referat abscisum
+  Octavi ADJ/-: opprimar ? exilia non fregere summotos procul [[plautum]] atque Sullam , pertinax quorum furor
+## uulcanus | group A | now: name | n=2 ece=1 | LiLa: noun, proper_noun | share=0.5
+  Octavi PROPN/PERSON: saeua face genitum que credit Uenere , [[Uulcano]] satum : uis magna mentis blandus
+  Ecerin ADJ/-: manes , excipe ex imo specu , [[uulcane]] , dignas supplicis gnati preces :
+## caritas | group A | now: name | n=2 ece=2 | LiLa: noun, proper_noun | share=0.5
+  Ecerin PROPN/-: tales edocent primo insitae natura ab ipsa [[Caritas]] Spes et Fides . has ,
+  Ecerin NOUN/-: igitur ad has species boni , ut [[Caritas]] pia proximo parcat tuo , speres
+## fortuna | group A | now: word (flag) | n=80 ece=3 | LiLa: noun, proper_noun | share=0.46
+  Phoeni NOUN/PERSON: unde ista generi uirgo dissimilis suo ? [[Fortuna]] , credis ? aliquis est ex
+  Phoeni PROPN/PERSON: error inuitos adhuc fecit nocentes , omne [[Fortunae]] fuit peccantis in nos crimen :
+  Troade PROPN/PERSON: continuit diu , moderata durant : quoque [[Fortuna]] altius euexit ac leuauit humanas opes
+  Troade PROPN/PERSON: haec quae dare potuisset aliis causa , [[Fortunae]] fauor , tu me superbum ,
+  Troade PROPN/PERSON: que petit — regnum Troiae quocumque uolet [[Fortuna]] ferat . matris quidem me maeror
+  Phaedr PROPN/PERSON: nocuisse malis ? res humanas ordine nullo [[Fortuna]] regit sparsit que manu munera caeca
+## sol | group A | now: word (flag) | n=31 ece=0 | LiLa: noun, proper_noun | share=0.26
+  Phaedr PROPN/PERSON: ullam casibus nostris opem . stirpem perosa [[Solis]] inuisi Uenus per nos catenas uindicat
+  Hercul PROPN/PERSON: probaui , gloriae feci locum , qua [[Sol]] reducens quaque deponens diem binos propinqua
+  Hercul PROPN/PERSON: uiso labantem Cerbero uidi diem pauidum que [[Solem]] ; me quoque inuasit tremor ,
+  Medea PROPN/PERSON: que lucem , spectat hoc nostri sator [[Sol]] generis , et spectatur , et
+  Medea PROPN/PERSON: quondam nobili falsi patre auo que clarum [[Sole]] deduxi genus . quodcumque placidis flexibus
+  Medea PROPN/PERSON: que regni , pignus Aeetae datum a [[Sole]] generis , est et auro textili
+## auster | group A | now: word (flag) | n=16 ece=2 | LiLa: adjective, noun, proper_noun | share=0.44
+  Phaedr PROPN/PERSON: pelagus propria tempestas agit . non tantus [[Auster]] Sicula disturbat freta nec tam furens
+  Agamem PROPN/PERSON: nubibus ipsis inserta caput turris pluuio uapulat [[Austro]] , densas que nemus spargens umbras
+  Agamem PROPN/PERSON: altas Aquilo contorquet niues libycus que harenas [[Auster]] ac Syrtes agit ; [ nec
+  Agamem PROPN/PERSON: Syrtes agit ; [ nec manet in [[Austro]] : fit grauis nimbis Notus ]
+  Medea PROPN/PERSON: odit ; non ubi hibernos nebulosus imbres [[Auster]] aduexit properat que torrens Hister et
+  Oedipu PROPN/PERSON: raperis : non graui flatu tibi luctificus [[Auster]] nec parum pluuio aethere satiata tellus
+## siculus | group A | now: word (flag) | n=13 ece=0 | LiLa: adjective, noun, proper_noun | share=0.31
+  Phoeni ADJ/PERSON: freta iubente te , flammas que quas [[Siculo]] uomit de monte tellus igneos uoluens
+  Phaedr ADJ/-: propria tempestas agit . non tantus Auster [[Sicula]] disturbat freta nec tam furens Ionius
+  Hercul ADJ/LOC: Titanas ausos rumpere imperium Iouis emitte , [[Siculi]] uerticis laxa specum , tellus gigante
+  Hercul ADJ/-: fida niuibus et flammis erit et Scylla [[Siculum]] iunget Ausonio latus , prius que
+  Hercul ADJ/-: , audax ire uias inremeabiles , uidisti [[Siculae]] regna Proserpinae ? illic nulla noto
+  Medea ADJ/-: que uocem perdidit Argo . quid cum [[Siculi]] uirgo Pelori , rabidos utero succincta
+## tigris | group A | now: word (flag) | n=13 ece=0 | LiLa: noun, proper_noun | share=0.23
+  Troade PROPN/PERSON: qui renatum primus excipiens diem tepidum rubenti [[Tigrin]] inmiscet freto , excisa ferro est
+  Hercul PROPN/LOC: quis Nilus aut quis Persica uiolentus unda [[Tigris]] aut Rhenus ferox tagusue Hibera turbidus
+  Medea PROPN/LOC: deposuit comam ; has aluit altum gurgitem [[Tigris]] premens , danuuius illas , has
+  Phaedr NOUN/-: leuiore manu . tibi dant uariae pectora [[tigres]] , tibi uillosi terga bisontes latis
+  Phaedr NOUN/-: concepti signa furoris . tunc uirgatas India [[tigres]] decolor horret ; tunc uulnificos acuit
+  Phaedr NOUN/-: India . intonsa iuuenis perpetuum coma , [[tigres]] pampinea cuspide territans ac mitra cohibens
+## cupido | group A | now: word (flag) | n=10 ece=0 | LiLa: noun, proper_noun | share=0.4
+  Phaedr PROPN/PERSON: generata ponto , quam uocat matrem geminus [[Cupido]] , [ impotens flammis simul et
+  Octavi ADJ/PERSON: hanc leuis fallax que destituet deus uolucer [[Cupido]] : « it licet forma eminens
+  Octavi PROPN/PERSON: frustra bella mouetis ? inuicta gerit tela [[Cupido]] : flammis uestros obruet ignes quis
+  Oedipu PROPN/PERSON: carmen infusis humero capillis cantat et geminus [[Cupido]] concutit taedas . telum deposuit Iuppiter
+  Phaedr NOUN/-: aetas , nullus Ius auri fuit caecus [[cupido]] , nullus in campo sacer diuisit
+  Agamem NOUN/-: pulsat pectus ; hinc animum iugo premit [[cupido]] turpis et uinci uetat : et
+## gigas | group A | now: word (flag) | n=10 ece=1 | LiLa: noun, proper_noun | share=0.3
+  Hercul VERB/-: compesce dementem impetum . quid hoc ? [[Gigantes]] arma pestiferi mouent . profugit umbras
+  Oedipu PROPN/PERSON: in me rueret — aduersus feros audax [[Gigantas]] obuias ferrem manus . nec Sphinga
+  Thyest PROPN/PERSON: numquid aperto carcere Ditis uicti temptant bella [[Gigantes]] ? numquid Tityos pectore fesso renouat
+  Thyest PROPN/-: moles cecidit et qui montibus stabant pares [[Gigantes]] , hac arma expedi ignes que
+  Hercul NOUN/-: est totus Othrys . non truci rictu [[gigans]] Pindo cadauer obruit toto meum :
+  Hercul NOUN/-: cupit extremum finire diem uasta tumidi mole [[gigantis]] et montiferum Titana pati rabidae que
+## maenas | group A | now: word (flag) | n=9 ece=0 | LiLa: noun, proper_noun | share=0.22
+  Troade PROPN/PERSON: Amazon strauit , aut qualis deo percussa [[Maenas]] entheo siluas gradu armata thyrso terret
+  Hercul PROPN/PERSON: exilit aut iussa thyrsum quatere conceptum ferens [[Maenas]] Lyaeum , dubia quo gressus ferat
+  Phoeni NOUN/-: , gestauit et spolium tulit cruenta nati [[maenas]] in partes dati ; fecit scelus
+  Medea NOUN/-: qualis entheos gressus tulit cum iam recepto [[maenas]] insanit deo Pindi niualis uertice aut
+  Medea NOUN/-: ramus ab unda , tibi nudato pectore [[maenas]] sacro feriam bracchia cultro . manet
+  Medea NOUN/-: ultimo amplexu ut fruar , quonam cruenta [[maenas]] praeceps amore saeuo rapitur ? quod
+## senectus | group A | now: word (flag) | n=8 ece=0 | LiLa: adjective, noun, proper_noun | share=0.25
+  Hercul PROPN/PERSON: ferro Bella ; in extremo abdita iners [[Senectus]] adiuuat baculo gradum . estne aliqua
+  Oedipu PROPN/PERSON: que lassum sustinens Morbus caput , grauis [[Senectus]] sibimet et pendens Metus auidum que
+  Troade NOUN/-: quid ruinas urbis euersae gemis , uiuax [[senectus]] ? respice infelix ad hos luctus
+  Phaedr NOUN/-: praeceps arce Palladia cadam ? sic te [[senectus]] nostra praecipiti sinat perire leto ?
+  Hercul NOUN/-: que tegat . uenit ad pigros cana [[senectus]] , humili que loco sed certa
+  Hercul NOUN/-: que nubes . sera nos illo referat [[senectus]] : nemo ad ' id sero
+## eous | group A | now: word (flag) | n=7 ece=0 | LiLa: adjective, proper_noun | share=0.29
+  Agamem ADJ/-: Eurus orientem mouet nabataea quatiens regna et [[Eoos]] sinus . quid rabidus ora Corus
+  Hercul ADJ/-: cuius ortus mundus impendit diem tardus que [[Eoo]] Phoebus effulsit mari retinere mersum iussus
+  Oedipu ADJ/NORP: extremos comes usque ad Indos , ausus [[Eois]] equitare campis figere et mundo tua
+  Oedipu ADJ/-: uoce sollemni uoca aras que dono turis [[Eoi]] extrue . iam tura sacris caelitum
+  Thyest PROPN/-: occasus , nihil ortus erit ? stupet [[Eoos]] assueta deo tradere frenos genetrix primae
+  Hercul ADJ/-: rubentis , nec gemmiferas detrahit aures lapis [[Eoa]] lectus in unda , nec Sidonio
+## libra | group A | now: word (flag) | n=5 ece=0 | LiLa: noun, proper_noun | share=0.2
+  Thyest PROPN/PERSON: in terras Uirgo relictas iustaeqne cadent pondera [[Librae]] secum que trahent Scorpion acrem ;
+  Phaedr NOUN/-: Eleusin dona Triptolemi secat parem que totiens [[libra]] composuit diem , ambiguus ut me
+  Hercul NOUN/-: hora nocti crescere et somnos cupiens quietos [[libra]] Phoebeos tenet aequa currus , turba
+  Thyest NOUN/-: que adhuc pauidum salit ; at ille [[libras]] tractat ac fata inspicit et adhuc
+  Hercul NOUN/-: ; effodiat auidus hinc et hinc uultur [[libras]] ; uacat una Danais , has
+## alpheus | group A | now: word (flag) | n=4 ece=0 | LiLa: adjective, noun, proper_noun | share=0.25
+  Phaedr PROPN/PERSON: Iliso fouet : nunc ille ripam celeris [[Alphei]] legit , nunc nemoris alti densa
+  Medea ADJ/-: caret oppidum , et quas Aonius latex [[alpheos]] que sacer lauat . si forma
+  Thyest ADJ/-: Phoronides latuere uenae nec suas profert sacer [[alpheos]] undas et Cithaeronis iuga stant parte
+  Thyest ADJ/-: Etesiis , quem tangit gelido flumine lucidus [[alpheos]] , stadio notus Olympico , aduertat
+## crux | group A | now: word (flag) | n=4 ece=4 | LiLa: noun, proper_noun | share=0.25
+  Ecerin PROPN/LOC: exosum michi odi que semper nomen inimicum [[Crucis]] . assint ministrae facinorum comites michi
+  Ecerin NOUN/-: minax , promittit atrox ! carceres ignes [[cruces]] tormenta mortes exilia diras fames .
+  Ecerin NOUN/-: foro : hinc inde patulae corpora ostentent [[cruces]] ; subdantur ignes , illa qui
+  Ecerin NOUN/-: poterant , totus et Uenetus fauor , [[cruce]] praeuia Papae que legato duce .
+## aegaeus | group A | now: word (flag) | n=3 ece=0 | LiLa: adjective, proper_noun | share=0.33
+  Phoeni ADJ/PERSON: ; tu tantum impera : hic Oedipus [[Aegaea]] transnabit freta iubente te , flammas
+  Troade ADJ/-: Thracios nutrit greges scyros fretum que Lesbos [[Aegaeum]] secans et cara Phoebo Cilla ;
+  Oedipu ADJ/-: Argos praesente Bacchum coluit nouerca . naxos [[Aegaeo]] redimita ponto tradidit thalamis relictam uirginem
+## euripus | group A | now: word (flag) | n=3 ece=0 | LiLa: noun, proper_noun | share=0.33
+  Troade PROPN/LOC: , an premens litus maris inquieti semper [[Euripo]] properante Chalcis ? quolibet uento faciles
+  Hercul NOUN/-: , prius que multo uicibus alternis fugax [[euripus]] unda stabit Euboica piger . patrem
+  Hercul ADJ/-: at qua niuosi patitur Aquilonis minas , [[euripus]] undas flectit instabilis uagas septem que
+## indus | group A | now: word (flag) | n=3 ece=0 | LiLa: adjective, proper_noun | share=0.33
+  Medea ADJ/-: qua fuerat sede reliquit peruius orbis : [[Indus]] gelidum potat Araxen , albin Persae
+  Thyest ADJ/PERSON: nutum posuere bella medus et Phoebi propioris [[Indus]] et Dahae - Parthis equitem minati
+  Hercul ADJ/-: : me sensit ursae frigidum Scythicae genus [[indus]] que Phoebo subditus , cancro Libys
+## tacitus | group B | now: word (flag) | n=21 ece=0 | LiLa: proper_noun | share=0.0
+  Phaedr ADJ/-: flammis nullus insanis erit . torretur aestu [[tacito]] et inclusus quoque , quamuis tegatur
+  Phaedr ADJ/-: tantum stupro contaminauit , et tamen . [[tacitum]] diu crimen biformi partus exhibuit nota
+  Phaedr ADJ/-: dum licet , utere . tempus te [[tacitum]] subruit . hora que semper praeterita
+  Agamem ADJ/-: Danaum et inclitum Ledae genus , quid [[tacita]] uersas quidue consilii impotens tumido feroces
+  Agamem ADJ/-: fontes , quaeque Eurotan , quaeque uirenti [[tacitum]] ripa bibis Ismenon : quam fatorum
+  Agamem ADJ/-: caderent Pelasgi . saepe commotae sonuere parmae [[tacitum]] que murmur percussit aures , ut
+## tonans | group B | now: word (flag) | n=16 ece=0 | LiLa: proper_noun | share=1.0
+  Agamem ADJ/PERSON: . tu que , o magni gnata [[Tonantis]] , incluta Pallas , quae Dardanias
+  Agamem ADJ/PERSON: impotentia procella Fortunae mouet aut iniqui flamma [[Tonantis]] . perrumpet omne seruitium contemptor leuium
+  Hercul ADJ/PERSON: soror [[Tonantis]] ( hoc enim solum mihi nomen
+  Hercul PROPN/PERSON: auidus theatri , quantus Eleum ruit ad [[Tonantem]] , quinta cum sacrum reuocauit aestas
+  Hercul PROPN/PERSON: oleae fronde gentili tegat , Theseu ; [[Tonantem]] nostra adorabit manus , tu conditores
+  Octavi PROPN/PERSON: coniugis altae pressus que dolor : sola [[Tonantem]] tenet aetherio ' secura toro maxima
+## patiens | group B | now: word (flag) | n=10 ece=0 | LiLa: proper_noun | share=0.0
+  Troade ADJ/-: . miserere matris et preces placidus pias [[patiens]] que recipe , quoque te celsum
+  Agamem ADJ/-: ; nec tu , quamuis dura uirago [[patiens]] que mali , poteris tantas flere
+  Hercul ADJ/-: regia , facilis mea parumper aure uerba [[patienti]] excipe . si aeterna semper odia
+  Hercul ADJ/-: peruigil regni canis componit aures timidus et [[patiens]] trahi eram que fassus , ore
+  Medea ADJ/-: abditos manda dolori , grauia quisquis uulnera [[patiente]] et aequo mutus animo pertulit ,
+  Medea ADJ/-: quoque , etsi ferox est corde nec [[patiens]] iugi , consulere natis malle quam
+## doctus | group B | now: word (flag) | n=7 ece=0 | LiLa: proper_noun | share=0.0
+  Troade ADJ/-: captam ; deprime horrentis comas crinem que [[docta]] patere distingui manu . hic forsitan
+  Phaedr ADJ/-: hic dextrae locus , hic laeua frenis [[docta]] moderandis manus ponenda : laeui lateris
+  Agamem ADJ/-: ? quid deos probro addimus ? subripere [[doctus]] fraude genialis toros , quem Uenere
+  Agamem ADJ/-: lyra flectere carmen simplex , lusus cum [[docta]] tuos musa recenset ; licet et
+  Agamem ADJ/-: buxo solemne canit , tibi fila mouent [[docta]] puellae . carmine molli , tibi
+  Hercul ADJ/-: reges , non Argiua membra palaestra flectere [[docti]] fortes caestu fortes que manu ,
+## citus | group B | now: word (flag) | n=5 ece=2 | LiLa: proper_noun | share=0.0
+  Hercul ADJ/-: . incipite , famulae Ditis , ardentem [[citae]] concutite pinum et agmen horrendum anguibus
+  Hercul ADJ/-: currus , turba secretam Cererem frequentat et [[citi]] tectis properant relictis attici noctem celebrare
+  Oedipu ADJ/-: suum ? praeceps siluas montes que fugit [[citus]] Actaeon agili que magis pede per
+  Ecerin ADJ/-: solutum cadit exangue corpus . erige labantem [[cito]] , Albrice , matrem : illusit
+  Ecerin ADJ/-: perpetuae continuus rotae . en atrox Ecerinus [[citus]] aduolat . assuetam Paduam colla iugo
+## claudia | group B | now: word (flag) | n=5 ece=0 | LiLa: proper_noun | share=1.0
+  Octavi ADJ/PERSON: principis intret teneat que suos nupta penates [[Claudia]] proles ; edat partu pignora pacis
+  Octavi ADJ/PERSON: implebit aulam stirpe caelesti tuam generata diuo [[Claudiae]] gentis decus , sortita fratris more
+  Octavi PROPN/PERSON: fama totiens iactata dies : cessit thalamis [[Claudia]] diri pulsa Neronis , quos iam
+  Octavi ADJ/PERSON: facere quoue consilio doce . reddere penates [[Claudiae]] diui parant toros que fratris ,
+  Octavi PROPN/PERSON: irae coniugem reddat nouam , reddat penates [[Claudiae]] uictus suos . ut noscat ipse
+## arabs | group B | now: word (flag) | n=3 ece=0 | LiLa: proper_noun | share=0.67
+  Phaedr ADJ/PERSON: quicquid solis pascitur aruis , siue illud [[Arabs]] diuite silua siue illud inops nouit
+  Hercul ADJ/PERSON: quod Phoebum colens diues Sabaeis colligit truncis [[Arabs]] . pacata tellus ' inquit '
+  Hercul NOUN/-: appellite greges opimos ; quicquid ludorum seges [[arabes]] que odoris quicquid arboribus legunt conferte
+## libys | group B | now: word (flag) | n=3 ece=0 | LiLa: proper_noun | share=0.33
+  Hercul ADJ/-: fractus suis Eryx et Eryci iunctus Antaeus [[Libys]] , et qui hospitali caede manantes
+  Hercul ADJ/-: dies et ille solem , nullus Antaeus [[Libys]] animam resumit , cecidit ante aras
+  Hercul PROPN/PERSON: genus indus que Phoebo subditus , cancro [[Libys]] ; te , clare Titan ,
+## mimas | group B | now: word (flag) | n=3 ece=0 | LiLa: proper_noun | share=1.0
+  Hercul VERB/PERSON: , hic rapuit Oeten , saeuit horrendum [[Mimans]] . flammifera Erinys uerbere excusso sonat
+  Hercul VERB/PERSON: Notus , quas uere primo lucidus perdit [[Mimans]] , ut que euolutos frangit Ionio
+  Hercul ADJ/PERSON: fluctus Athos frangit Iouis que fulmen excipiens [[Mimas]] : non ipse si in me
+## thrax | group B | now: word (flag) | n=3 ece=0 | LiLa: proper_noun | share=0.67
+  Hercul ADJ/NORP: procede , seu tu uindicas currus truces [[Thracis]] cruenti siue Geryonae pecus libyaeue dominos
+  Hercul ADJ/NORP: nisi dantur mihi , aut omne Pindi [[Thracis]] excidam nemus bacchi que lucos et
+  Hercul ADJ/-: praeda ducar ; si quis Ismarius gregis [[Thracis]] cruenti uindicat , carpent greges mea
+## achelous | group B | now: word (flag) | n=3 ece=0 | LiLa: proper_noun | share=0.33
+  Hercul PROPN/PERSON: dubios , ueneranda , toros . nos [[Acheloi]] te cum solitae pulsare uadum ,
+  Hercul ADJ/-: me gerebas bella , propter me uagas [[achelous]] undas sanguine infecit suo , cum
+  Hercul ADJ/-: . namque ut subactus Herculis claua horridi [[achelous]] omnis facilis in species dari tandem
+## ilissus | group B | now: word (flag) | n=2 ece=0 | LiLa: proper_noun | share=1.0
+  Phaedr ADJ/NORP: euocat herbas , ubi per graciles leuis [[Ilisos]] labitur agros piger et steriles amne
+  Phaedr PROPN/PERSON: nouit et fessus graui labore niueo corpus [[Iliso]] fouet : nunc ille ripam celeris
+## assyria | group B | now: word (flag) | n=2 ece=0 | LiLa: proper_noun | share=1.0
+  Phaedr ADJ/LOC: litus innumerae rates tenuere † pontum quicquid [[Assyria]] tenus tellure Nereus peruius rostris secat
+  Hercul ADJ/PERSON: tumuit et rabidum mare taurus puellae uector [[Assyriae]] scidit ; immitte amorem , uincat
+## atthis | group B | now: word (flag) | n=2 ece=0 | LiLa: proper_noun | share=1.0
+  Phaedr ADJ/PERSON: uotiuis libet . non inter aras . [[Atthidum]] mixtam choris . iactare tacitis conscias
+  Hercul PROPN/PERSON: Philomela suos . natum que sonat flebilis [[Atthis]] : cur mea nondum capiunt uolucres
+## sarmatae | group B | now: word (flag) | n=2 ece=0 | LiLa: proper_noun | share=1.0
+  Hercul ADJ/NORP: rates carbasa tenderent , intonsis teritur semita [[Sarmatis]] , stat pontus , uicibus mobilis
+  Thyest ADJ/LOC: , aut qui Caspia fortibus recludunt iuga [[Sarmatis]] , certet Danuuii uadum audet qui
+## danuuius | group B | now: word (flag) | n=2 ece=0 | LiLa: proper_noun | share=0.5
+  Thyest PROPN/LOC: Caspia fortibus recludunt iuga Sarmatis , certet [[Danuuii]] uadum audet qui pedes ingredi et
+  Medea ADJ/-: has aluit altum gurgitem Tigris premens , [[danuuius]] illas , has per arentes plagas
+## decens | group B | now: word (flag) | n=2 ece=0 | LiLa: proper_noun | share=0.0
+  Thyest ADJ/-: ; nec dapibus feris decerni potuit poena [[decentior]] . stat lassus uacuo gutture Tantalus
+  Thyest ADJ/-: ex causa ? quid me prohibes flore [[decenti]] uincire comam ? prohibet , prohibet
+## armenia | group B | now: word (flag) | n=2 ece=0 | LiLa: proper_noun | share=1.0
+  Thyest ADJ/LOC: scelus sceleri ingerit ? silua iubatus qualis [[Armenia]] leo in caede multa uictor armento
+  Hercul PROPN/LOC: toruum intuens Herculea coniunx ; feta ut [[Armenia]] iacens sub rupe tigris hoste conspecto
+## arcas | group B | now: word (flag) | n=2 ece=0 | LiLa: proper_noun | share=0.5
+  Hercul ADJ/PERSON: Creta , Tonante . flete Herculeos , [[Arcades]] , obitus , nondum Phoebe nascente
+  Hercul ADJ/-: pestis sparget in centum rabiem dracones , [[arcadum]] si quis populis uetustis fecerit siluas
+## dardania | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Troade ADJ/-: sibi potuisse uinci , spolia populator rapit [[dardania]] ; praedam mille non capiunt rates
+## iolcus | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=1.0
+  Troade ADJ/PERSON: opaca Tempe , an maris uasti domitrix [[Iolcos]] ? parua Gortynis sterilis que Tricce
+## gortynis | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Troade ADJ/-: an maris uasti domitrix Iolcos ? parua [[Gortynis]] sterilis que Tricce , an frequens
+## olenus | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Troade ADJ/-: infestos Troiae ruinis non semel arcus ? [[olenos]] tectis habitata raris , uirgini Pleuron
+## neritus | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Troade ADJ/-: absit Argos et saeui Pelopis Mycenae , [[neritos]] parua breuior Zacyntho et nocens saxis
+## garamans | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=1.0
+  Phaedr ADJ/LOC: Arabs diuite silua siue illud inops nouit [[Garamans]] siue ferocis iuga Pyrenes siue Hyrcani
+## tanaitis | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Phaedr VERB/-: Ponti plagis egit cateruas Atticum pulsans solum [[tanaitis]] aut Maeotis et nodo comas coegit
+## scironis | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Phaedr ADJ/-: numine Epidauri dei et scelere petrae nobiles [[Scironides]] et quae duobus terra comprirnitur fretis
+## lyrnesis | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=1.0
+  Agamem ADJ/PERSON: barbara caelebs torus , ablatam Achilli diligit [[Lyrnesida]] , nec rapere puduit e sinu
+## thressa | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=1.0
+  Agamem VERB/PERSON: proles Cycnus aequorei dei , non bellicoso [[Thressa]] cum Rheso phalanx , non picta
+## inachia | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Agamem ADJ/-: , de more comas innuba fudit stirps [[Inachia]] ; tu quoque nostros , Thespias
+## icarium | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Agamem ADJ/-: antemnas ferens , sed trunca toto puppis [[Icario]] natat , nil ratio et usus
+## agamemno | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Agamem VERB/-: Aiaci Ulixes , Hectori Atrides minor , [[agamemno]] Priamo ; quisquis ad Troiam iacet
+## troilus | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=1.0
+  Agamem ADJ/NORP: te sequor , nimium cito congresse Achilli [[Troile]] ; incertos geris , deiphobe ,
+## parrhasis | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Agamem ADJ/-: arto pressus lacerto fulmineus leo cerua que [[Parrhasis]] , sensit Arcadii populator agri ,
+## doris | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=1.0
+  Hercul ADJ/PERSON: Siculi uerticis laxa specum , tellus gigante [[Doris]] excusso tremens supposita monstri colla terrifici
+## phosphorus | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=1.0
+  Hercul ADJ/LOC: contrahit ignes luce renata , cogit nitidum [[Phosphoros]] agmen : signum celsi glaciale poli
+## rhadamanthus | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Hercul ADJ/-: . aditur illo Gnosius Minos foro , [[rhadamanthus]] illo , Thetidis hoc audit socer
+## arabes | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=1.0
+  Medea ADJ/NORP: Caucasus Promethei , et quis sagittas diuites [[Arabes]] linunt pharetra que pugnax Mediis aut
+## hesperia | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Medea ADJ/-: nomen que terris qui dedit Baetis suis [[hesperia]] pulsans maria languenti uado . haec
+## iulium | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Octavi ADJ/-: ruit in facinus poenam que suam . [[iulia]] matris fata secuta est ; post
+## pentheos | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=1.0
+  Oedipu ADJ/PERSON: matres fudere comam . iam post laceros [[Pentheos]] artus thyades , oestro membra remissae
+## daulias | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=1.0
+  Hercul ADJ/PERSON: uel in Edonas tollite siluas qualis natum [[Daulias]] ales solet Ismaria flere sub umbra
+## icarus | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Hercul ADJ/-: ponto ; sed dum uolucres uincere ueras [[icarus]] audet patrias que puer despicit alas
+## garamas | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Hercul ADJ/-: , quicquid per Libyam iacet et sparsus [[Garamas]] tenet ; arctous polus obruet quicquid
+## chaonis | group B | now: word (flag) | n=1 ece=0 | LiLa: proper_noun | share=1.0
+  Hercul ADJ/LOC: et siluam tulit secum minorem , ut [[Chaonis]] quondam loquax : stat uasta late
+## meritus | group B | now: word (flag) | n=1 ece=1 | LiLa: proper_noun | share=0.0
+  Ecerin VERB/-: o maleficis digna permittens Deus supplicia , [[meriti]] nobiles primi luunt ; qui uendidere
+## macedones | group B | now: word (flag) | n=1 ece=1 | LiLa: proper_noun | share=1.0
+  Ecerin ADJ/PERSON: Pharao , Saul , proles Philippi gloriosa [[Macedonis]] , hi peruetustae memoriae , nostrae
+## megaera | group C | now: name | n=5 ece=1 | LiLa: proper_noun | share=0.0
+  Hercul NOUN/-: citae concutite pinum et agmen horrendum anguibus [[megaera]] ducat atque luctifica manu uastam rogo
+  Medea NOUN/-: tortus flagello , quem trabe infesta petit [[megaera]] ? cuius umbra dispersis uenit incerta
+  Thyest NOUN/-: discors que Erinys ueniat et geminas faces [[megaera]] quatiens : non satis magno meum
+  Hercul VERB/-: causam reposcit ; parce uerberibus precor , [[megaera]] , parce , sustine Stygias faces
+  Ecerin VERB/-: suadeat Alecto scelera , Thesiphone explicet , [[megaera]] in actus saeua prorumpat truces ,
+## phlegethon | group C | now: name | n=4 ece=0 | LiLa: proper_noun | share=0.0
+  Phaedr NOUN/-: grauiora uidi , quae pati clausos iubet [[phlegethon]] nocentes igneo cingens uado : quae
+  Oedipu NOUN/-: Erebi claustra profundi turba sororum face Tartarea [[phlegethon]] que suam mutat ripam : miscuit
+  Thyest NOUN/-: mutare ripas : alueo medius tuo , [[phlegethon]] , relinquar igneo cinctus freto .
+  Thyest NOUN/-: caput animae uagentur nostrum et ardenti freto [[phlegethon]] harenas igneus totas agens exilia supra
+## harpyia | group C | now: name | n=2 ece=0 | LiLa: proper_noun | share=0.0
+  Phoeni NOUN/-: aut quae per altas aeris rapiet uias [[harpyia]] saeui regis obseruans famem et inter
+  Medea NOUN/-: uides , reliquit istas inuio plumas specu [[harpyia]] , dum Zeten fugit , his
+## maeander | group C | now: name | n=2 ece=0 | LiLa: proper_noun | share=0.0
+  Phoeni NOUN/-: inundat auro rura ; nec laetis minus [[maeandros]] aruis flectit errantis aquas rapidus que
+  Hercul NOUN/-: grauem inuoluit amnem : qualis incertis uagus [[maeander]] undis ludit et cedit sibi instat
+## octauia | group C | now: name | n=2 ece=0 | LiLa: proper_noun | share=0.0
+  Octavi NOUN/-: pulsata palmis pectora et fusae comae ? [[octauiae]] discidia planxerunt sacros inter penates fratris
+  Octavi NOUN/-: quis iste mentes agitat attonitus furor ? [[octauiae]] fauore percussa agmina et efferata per
+## pharis | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Troade NOUN/-: et Scarphen , Pylon an senilem ? [[pharin]] an Pisas Iouis et coronis elida
+## sunion | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Phaedr NOUN/-: uacat immunis , qua curuati litora ponti [[sunion]] urget si quem tangit gloria siluae
+## erycina | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Phaedr NOUN/-: . natum per omnis scilicet terras uagum [[erycina]] mittit , ille per caelum uolans
+## latonigena | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Agamem NOUN/-: fatorum praescia Manto , sata Tiresia , [[latonigenas]] monuit sacris celebrare deos . arcus
+## deiphobus | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Agamem NOUN/-: congresse Achilli Troile ; incertos geris , [[deiphobe]] , uultus , coniugis munus nouae
+## phlegethontis | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Agamem NOUN/-: que regna Ditis ! haec hodie ratis [[phlegethontis]] atri regias animas uehet , uictamqne
+## arabis | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Agamem NOUN/-: , argolica limo , pecore uotiuo libens [[arabum]] que donis supplice et fibra colam
+## aegisthus | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Agamem NOUN/-: , comes paternae quaeritur natus neci , [[aegisthus]] arces Uenere quaesitas tenet . O
+## eumenides | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Hercul NOUN/-: . adsint ab imo Tartari fundo excitae [[eumenides]] , ignem flammeae spargant comae ,
+## lapitha | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Hercul NOUN/-: tum uicta trepidant monstra , Centauri truces [[lapithae]] que multo in bella succensi mero
+## malea | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Medea NOUN/-: domum ; uidebit atrum uerticem flammis agi [[malea]] longas nauibus flectens moras . sile
+## albis | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Medea NOUN/-: orbis : Indus gelidum potat Araxen , [[albin]] Persae Rhenum que bibunt . uenient
+## idmon | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Medea NOUN/-: fortes , perarate pontum fonte timendo . [[idmonem]] , quamuis bene fata nosset ,
+## hyas | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Medea NOUN/-: . die relicto Phoebus in medio stetit [[hyades]] que nostris cantibus motae labant :
+## britannia | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Octavi NOUN/-: sidus orbis , columen augustae domus , [[britanniae]] , heu me , nunc leuis
+## ixio | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Octavi NOUN/-: , dirum laborem Sisyphi , Tityi alitem [[ixionis]] que membra rapientem rotam . licet
+## thyas | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Oedipu NOUN/-: comam . iam post laceros Pentheos artus [[thyades]] , oestro membra remissae , uelut
+## proetides | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Oedipu NOUN/-: Cithaeron sanguine undauit ophionia que caede ; [[proetides]] siluas petiere , et Argos praesente
+## naxos | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Oedipu NOUN/-: et Argos praesente Bacchum coluit nouerca . [[naxos]] Aegaeo redimita ponto tradidit thalamis relictam
+## lachesis | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Oedipu NOUN/-: , seruat que suae decreta colus . [[lachesis]] nulla reuoluta manu . omnia secto
+## nubila | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Thyest NOUN/-: impositas ferre ruinas . sed iam saeui [[nubila]] fati pelle ac miseri temporis omnis
+## euenus | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Hercul NOUN/-: repetebat Argos , forte per campos uagus [[euenos]] altum gurgitem in pontum ferens iam
+## semele | group C | now: name | n=1 ece=0 | LiLa: proper_noun | share=0.0
+  Hercul NOUN/-: erat ! in me saltem iaculare facem [[semelen]] que puta . iamne Elysias ,
+## taruisium | group C | now: name | n=1 ece=1 | LiLa: proper_noun | share=0.0
+  Ecerin NOUN/-: audes , frater ? edissero statim . [[taruisium]] tyrannidi paret meae : feltro subacto
+## nabuchodonosor | group C | now: name | n=1 ece=1 | LiLa: proper_noun | share=0.0
+  Ecerin NOUN/-: saeuire largo sanguine in gentes uage . [[nabuchodonosor]] , Aegyptius Pharao , Saul ,
+## zeno | group C | now: name | n=1 ece=1 | LiLa: proper_noun | share=0.0
+  Ecerin NOUN/-: ulli , et creditus nullis fuit - [[zenonis]] arcem profugus in tutam fugit ,
+## ecerinus | group D | now: name | n=14 ece=14 | LiLa: - | share=0.5
+  Ecerin ADJ/-: ipso Monachus olim loco parens eburno uester [[Ecerinus]] thoro est dormire uisus , cuius
+  Ecerin PROPN/-: onus que sensit terribile uenter tui , [[Ecerine]] , digna uere que propago patris
+  Ecerin ADJ/-: fauore falso fulta ; non notus sagax [[Ecerinus]] erat , in ambitum flagrans suum
+  Ecerin PROPN/-: uarios partibus casus dedit . exertus hinc [[Ecerinus]] , et uires agens in iurgia
+  Ecerin PROPN/-: Marchiae uidit statum , tunc fouit odia [[Ecerinus]] , exacuens dolo partes amicas ,
+  Ecerin ADJ/-: que Ueronam iugo dolis et astu traxit [[Ecerinus]] suo . quid plura ? Coepti
+## iaceret | group D | now: name | n=2 ece=0 | LiLa: - | share=0.5
+  Agamem VERB/-: ; non si molles comitata uiros tristis [[Iaceret]] bracchia te cum quae turritae turba
+  Thyest PROPN/-: nostram , liberos auidus pater gaudet que [[Iaceret]] et suos artus edat . bene
+## ecerinum | group D | now: name | n=2 ece=2 | LiLa: - | share=0.5
+  Ecerin PROPN/-: - utitur eodem stupro adulter idem uerus [[Ecerini]] pater . quid poscis ultra ,
+  Ecerin ADJ/-: fixerunt uadum , a quo reuerti constat [[Ecerinum]] loco . nec segnis alia parte
+## patauus | group D | now: name | n=2 ece=2 | LiLa: - | share=0.5
+  Ecerin PROPN/NORP: Ad caedes properat concitus impias , captiuos [[Patauos]] innocuos fame caecis carceribus conficit et
+  Ecerin ADJ/-: spectator queritur iudicii parum , dum restat [[Patauum]] quod reparet genus . aduersa uires
+## mors | group E | now: word (flag) | n=163 ece=10 | LiLa: noun, proper_noun | share=0.04
+  Troade NOUN/PERSON: ? an omnia an me sola ? [[Mors]] uotum meum , infantibus uiolenta uirginibus
+  Phaedr NOUN/-: . lacrimae nonne te nostrae mouent ? [[Mors]] optima est perire lacrimandum suis .
+  Hercul PROPN/PERSON: pigro pelagus gurgite languidum , et cum [[Mors]] auidis pallida dentibus gentes innumeras manibus
+  Hercul PROPN/PERSON: matris genus Astraeae , frater durae languide [[Mortis]] , ueris miscens falsa , futuri
+  Medea PROPN/LOC: umbrosi domum . Tartari ripis ligatae squalido [[Mortis]] specu supplicis . animae , remissis
+  Oedipu PROPN/-: rapiente fato ; ducitur semper noua pompa [[Morti]] : longus ad manes properatur ordo
+## fides | group E | now: word (flag) | n=106 ece=7 | LiLa: noun, proper_noun | share=0.02
+  Octavi PROPN/PERSON: , iustitia , caelo missa cum sancta [[Fide]] terris regebat mitis humanum genus .
+  Ecerin NOUN/-: insitae natura ab ipsa Caritas Spes et [[Fides]] . has , crede , quisque
+  Ecerin PROPN/-: ; quae consequi omnia sancta te faciet [[Fides]] . uidetne celsus ista quae facio
+  Phoeni NOUN/-: , mors quoque refugit , praestiti Delphis [[fidem]] : genitorem adortus impia straui nece
+  Phoeni NOUN/-: sunt semina cladis futurae : spernitur pacti [[fides]] ; hic occupato cedere imperio negat
+  Phoeni NOUN/-: dare , patriae quietem , foederi laeso [[fidem]] . uitam tibi ipse si negas
+## metus | group E | now: word (flag) | n=101 ece=3 | LiLa: noun, proper_noun | share=0.03
+  Phaedr PROPN/PERSON: que Phaedra stirpis et geminae iugum ? [[Metus]] remitte , prospero regnum in statu
+  Hercul PROPN/-: pudor que serus conscios uultus tegit . [[Metus]] Pauor que + Funus et frendens
+  Oedipu PROPN/PERSON: caput , grauis Senectus sibimet et pendens [[Metus]] auidum que populi Pestis Ogygii malum
+  Phoeni NOUN/-: multos mihi remissa soles , nate suspensae [[metus]] et spes parentis , cuius aspectum
+  Phoeni NOUN/-: duos sceleris sub ictu . membra quassantur [[metu]] : quam paene mater maius aspexi
+  Phoeni NOUN/-: sint , gladius ; et spes et [[metus]] fors caeca uersat , praemium incertum
+## tellus | group E | now: word (flag) | n=97 ece=6 | LiLa: noun, proper_noun | share=0.04
+  Octavi PROPN/PERSON: non tam ferum Typhona neglecto Ioue irata [[Tellus]] edidit quondam parens : hic grauior
+  Octavi PROPN/PERSON: usus omnium rerum fuit ; et ipsa [[Tellus]] laeta fecundos sinus pandebat ultro ,
+  Thyest PROPN/PERSON: fratrem , sustines tantum nefas gestare , [[Tellus]] ? non ad infernam Styga tenebras
+  Hercul PROPN/PERSON: a deflere iuuat nec plura dedit pectora [[Tellus]] ut digna sonent uerbera fatis ,
+  Phoeni NOUN/-: nudus hic pendet silex , hic scissa [[tellus]] faucibus ruptis hiat : uis hanc
+  Phoeni NOUN/-: flammas que quas Siculo uomit de monte [[tellus]] igneos uoluens globos , excipiet ore
+## amor | group E | now: word (flag) | n=70 ece=0 | LiLa: noun, proper_noun | share=0.16
+  Phaedr PROPN/PERSON: metue ac uerere sceptra remeantis uiri . [[Amoris]] in me maximum regnum puto reditus
+  Phaedr PROPN/PERSON: . poeni quatiunt colla leones cum mouit [[Amor]] . et mugitu dant concepti signa
+  Phaedr PROPN/PERSON: , odium que perit , cum iussit [[Amor]] : ueteres cedunt ignibus irae .
+  Phaedr PROPN/PERSON: mitem geram . saepe obstinatis induit frenos [[Amor]] et odia mutat , regna materna
+  Phaedr NOUN/PERSON: O spes amantum credula , o fallax [[Amor]] ! satisne dixi ? precibus admotis
+  Agamem PROPN/PERSON: iacens que uultu languido optutus stupet ? [[Amor]] iugalis uincit ac flectit retro :
+## pontus | group E | now: word (flag) | n=60 ece=0 | LiLa: noun, proper_noun | share=0.08
+  Phaedr PROPN/LOC: Hippolyti fuit . ] qualis relictis frigidi [[Ponti]] plagis egit cateruas Atticum pulsans solum
+  Medea PROPN/LOC: inhospitalem Caucasum mente indue , quodcumque uidit [[Pontus]] aut Phasis nefas , uidebit Isthmos
+  Medea PROPN/LOC: meum est sati que Borea quique trans [[Pontum]] quoque summota Lynceus lumine inmisso uidet
+  Oedipu PROPN/LOC: remissae , uelut ignotum uidere nefas . [[Ponti]] regna tenet nitidi matertera Bacchi nereidum
+  Hercul PROPN/-: illum , carmina inuenient iter . quas [[Pontus]] herbas generat aut quas Thessala sub
+  Troade NOUN/-: totos reddat Troiae gemitus : audiat omnis [[pontus]] et aether . saeuite , manus
+## pietas | group E | now: word (flag) | n=50 ece=3 | LiLa: noun, proper_noun | share=0.08
+  Phaedr PROPN/-: famuli concitum celeri pede . pro sancta [[Pietas]] , pro gubernator poli et qui
+  Octavi PROPN/-: per gradus scelerum omnium ? tunc sancta [[Pietas]] extulit trepidos gradus uacuam que Erinys
+  Octavi PROPN/-: thalamis expulsa soror miseranda uehar . nullum [[Pietas]] nunc numen habet nec sunt superi
+  Thyest NOUN/-: nulla te pietas mouet ? excede , [[Pietas]] , si modo in nostra domo
+  Thyest PROPN/-: ferrum manibus que iunctis ducit ad pacem [[Pietas]] negantes . otium tanto subitum e
+  Phoeni NOUN/-: inuisum tege ; peccas honesta mente , [[pietatem]] uocas patrem insepultum trahere , qui
+## notus | group E | now: word (flag) | n=49 ece=2 | LiLa: adjective, noun, proper_noun | share=0.1
+  Phaedr PROPN/NORP: aetheriis culmina sedibus euros excipiunt , excipiunt [[Notos]] , insani Boreae minas imbriferum que
+  Agamem PROPN/-: euersum solo aduersus Euro Zephyros et Boreae [[Notus]] : sua quisque mittit tela et
+  Agamem PROPN/-: manet in Austro : fit grauis nimbis [[Notus]] ] imbre auget undas , Eurus
+  Hercul PROPN/-: tepor , at cum solutos expulit Boreas [[Notos]] et saeua totas bruma discussit comas
+  Hercul PROPN/-: . niues ut Eurus soluit aut tepidus [[Notus]] , quas uere primo lucidus perdit
+  Phoeni ADJ/-: comes , ensem parenti trade , sed [[notum]] nece ensem paterna , tradis ?
+## comes | group E | now: word (flag) | n=48 ece=3 | LiLa: noun, proper_noun | share=0.04
+  Ecerin PROPN/PERSON: furens exarsit ira , cuius in partem [[Comes]] bonifacius haerens iunxit ultrices manus .
+  Ecerin PROPN/PERSON: in iurgia Salinguerra Monticulis fauens , exinde [[Comes]] et Marchio , iuncti simul ,
+  Phoeni NOUN/-: nostram manum corpore resoluet , nemo me [[comitem]] tibi eripiet umquam . Labdaci claram
+  Phoeni NOUN/-: regnum mei retineo . si fida es [[comes]] , ensem parenti trade , sed
+  Troade NOUN/-: . non cautus ignes Ithacus aut Itbaci [[comes]] nocturnus in uos sparsit aut fallax
+  Troade NOUN/-: indociles lugere sumus . fidae casus nostri [[comites]] , soluite crinem , per colla
+## luctus | group E | now: word (flag) | n=43 ece=0 | LiLa: noun, proper_noun | share=0.07
+  Hercul PROPN/PERSON: + Funus et frendens Dolor ater que [[Luctus]] sequitur et Morbus tremens et cincta
+  Hercul PROPN/PERSON: scelus ? tacuere ? nostrum est . [[Luctus]] est istic tuus , crimen nouercae
+  Oedipu PROPN/PERSON: quicquid aeternae creant celant que tenebrae : [[Luctus]] auellens comam aegre que lassum sustinens
+  Phoeni NOUN/-: dimitte pugnas , libera patriam metu , [[luctu]] parentes , sceleris et fraudis suae
+  Troade NOUN/-: uiuax senectus ? respice infelix ad hos [[luctus]] recentes : Troia iam uetus est
+  Troade NOUN/-: placet : agnosco Troada turbam . iterum [[luctus]] redeant ueteres , solitum flendi uincite
+## taurus | group E | now: word (flag) | n=38 ece=1 | LiLa: noun, proper_noun | share=0.16
+  Phaedr PROPN/-: , non uagi campis Getae nec inhospitalis [[Taurus]] aut sparsus Scythes ; expelle facinus
+  Phaedr PROPN/LOC: et assiduo genae rore irrigantur , qualiter [[Tauri]] iugis tepido madescunt imbre percussae niues
+  Phaedr PROPN/-: lues ? hunc Graia tellus aluit an [[Taurus]] Scythes colchus que Phasis ? redit
+  Medea PROPN/-: feruentes creat harena Libyae quasque perpetua niue [[Taurus]] cohercet frigore Arctoo rigens , et
+  Octavi PROPN/NORP: . urbe est nostra mitior Aulis et [[Taurorum]] barbara tellus : hospitis illic caede
+  Thyest PROPN/LOC: pauidam uexerat Hellen ; hic qui nitido [[Taurus]] cornu praefert Hyadas , secum Geminos
+## spes | group E | now: word (flag) | n=34 ece=6 | LiLa: noun, proper_noun | share=0.06
+  Phaedr NOUN/-: ? saeuis ecquis- est flammis modus ? [[Spes]] nulla tantum posse leniri malum ,
+  Medea PROPN/-: numquam potest non esse uirtuti locus . [[Spes]] nulla rebus monstrat adflictis uiam .
+  Ecerin PROPN/-: edocent primo insitae natura ab ipsa Caritas [[Spes]] et Fides . has , crede
+  Phoeni NOUN/-: remissa soles , nate suspensae metus et [[spes]] parentis , cuius aspectum deos semper
+  Phoeni NOUN/-: licet impares sint , gladius ; et [[spes]] et metus fors caeca uersat ,
+  Troade NOUN/-: nihil , uelocis spatii meta nouissima ; [[spem]] ponant auidi , solliciti metum :
+## pestis | group E | now: word (flag) | n=33 ece=0 | LiLa: noun, proper_noun | share=0.06
+  Oedipu PROPN/-: sibimet et pendens Metus auidum que populi [[Pestis]] Ogygii malum . nos liquit animus
+  Oedipu PROPN/PERSON: Morbi tremor , macies que et atra [[Pestis]] et rabidus Dolor , me cum
+  Troade NOUN/-: et famem et saeuam sitim uarias que [[pestes]] undique , et ferrum inditum uisceribus
+  Troade NOUN/-: fraude materna abditum hostem , Pelasgi nominis [[pestem]] ultimam , ubicumque latitat , erutam
+  Troade NOUN/-: thalamos eat . quos Helena suadet ? [[pestis]] exitium lues utriusque populi , cernis
+  Phaedr NOUN/-: penates rarius tenues subit haec delicatae eligens [[pestis]] domos ? cur sancta paruis habitat
+## natura | group E | now: word (flag) | n=27 ece=3 | LiLa: noun, proper_noun | share=0.04
+  Phaedr NOUN/-: Oceano uoca . O magna parens , [[Natura]] , deum tu que igniferi rector
+  Octavi NOUN/-: me , ne manu nostra cadat ! [[Natura]] uires non dedit tantas tibi .
+  Octavi NOUN/-: quam iuuabat , quo nihil maius parens [[Natura]] genuit , operis immensi artifex ,
+  Oedipu PROPN/-: non es : illa quae leges ratas [[Natura]] in uno uertit Oedipoda , nouos
+  Phoeni NOUN/-: noceret , ipsa se in leges nouas [[natura]] uertit : regeret in fontem citas
+  Phoeni NOUN/-: fecunda : nullum crimen hoc maius potest [[natura]] ferre , si quod etiamnum est
+## chaos | group E | now: word (flag) | n=19 ece=2 | LiLa: noun, proper_noun | share=0.05
+  Medea PROPN/-: uulgus silentum uos que ferales deos et [[Chaos]] caecum atque opacam Ditis umbrosi domum
+  Troade NOUN/-: metum : tempus nos auidum deuorat et [[chaos]] . mors indiuidua est , noxia
+  Phaedr NOUN/-: . dehisce tellus , recipe me dirum [[chaos]] , recipe , haec ad umbras
+  Agamem NOUN/-: caelo deos decidere et atrum rebus induci [[chaos]] . uento resistit aestus et uentus
+  Hercul NOUN/-: loca , regnare potui : noctis aeternae [[chaos]] et nocte quiddam grauius et tristes
+  Hercul NOUN/-: , sic pronus aer urguet atque auidum [[chaos]] , gradum que retro flectere haut
+## hydra | group E | now: word (flag) | n=14 ece=0 | LiLa: noun, proper_noun | share=0.07
+  Medea PROPN/PERSON: lacessere ausus gemina Python numina . et [[Hydra]] et omnis redeat Herculea manu succisa
+  Hercul NOUN/-: quae fudit : armatus uenit leone et [[hydra]] , nec satis terrae patent :
+  Hercul NOUN/-: et tumida tenera guttura elidens manu prolusit [[hydrae]] . Maenali pernix fera , multo
+  Hercul NOUN/-: ; sparsit peremptus aureum serpens nemus et [[hydra]] uires posuit et notos Hebro cruore
+  Hercul NOUN/-: meruit : o quotiens iacet Python in [[hydra]] ! Bacchus et Perseus deis iam
+  Hercul NOUN/-: pacem debeat mundus tibi . est aliquid [[hydra]] peius : iratae dolor nuptae ,
+## anguis | group E | now: word (flag) | n=13 ece=1 | LiLa: noun, proper_noun | share=0.08
+  Thyest PROPN/LOC: medias diuidit Ursas , fluminis instar lubricus [[Anguis]] magno que minor iuncta Draconi frigida
+  Hercul NOUN/-: ardentem citae concutite pinum et agmen horrendum [[anguibus]] megaera ducat atque luctifica manu uastam
+  Hercul NOUN/-: quam nosse posset , gemina cristati caput [[angues]] ferebant ora , quos contra obuius
+  Hercul NOUN/-: sensit ut motus pedum , attollit hirtas [[angue]] uibrato comas missum que captat aure
+  Medea NOUN/-: huc ille uasti more torrentis iacens descendat [[anguis]] , cuius immensos duae . maior
+  Medea NOUN/-: cruentas agmen infernum faces intentat ? ingens [[anguis]] excusso sonat tortus flagello , quem
+## sopor | group E | now: word (flag) | n=11 ece=1 | LiLa: noun, proper_noun | share=0.09
+  Hercul PROPN/-: comae , taxo imminente quam tenet segnis [[Sopor]] , fames que maesta tabido rictu
+  Troade NOUN/-: proprie meum exterret animum , noctis horrendae [[sopor]] . quae uisa portas ? effer
+  Phaedr NOUN/-: non. me quies nocturna , non altus [[sopor]] soluere curis : alitur et crescit
+  Hercul NOUN/-: tuos qui misit ad mortem furor ? [[sopor]] est : reciprocos spiritus motus agit
+  Hercul NOUN/-: , preme de uictum torpore graui ; [[sopor]] indomitos alliget artus nec torua prius
+  Octavi NOUN/-: soluit quies et fessa fletu lumina oppressit [[sopor]] : modo facibus atris armat infirmas
+## pauor | group E | now: word (flag) | n=10 ece=0 | LiLa: noun, proper_noun | share=0.1
+  Hercul PROPN/-: que serus conscios uultus tegit . Metus [[Pauor]] que + Funus et frendens Dolor
+  Troade NOUN/-: ? haec tanta clades gentium ac tantus [[pauor]] , sparsae tot urbes turbinis uasti
+  Phaedr NOUN/-: : quid poena praesens , conscius mentis [[pauor]] animus que culpa plenus et semet
+  Agamem NOUN/-: superos fugo . en horret animus et [[pauor]] membra excutit : uideo paternos ,
+  Hercul NOUN/-: Theseu , quicquid alto in pectore remanet [[pauoris]] neue te fructu optimo frauda laborum
+  Octavi NOUN/-: . tunc tremor et ingens excutit somnos [[pauor]] renouat que luctus et metus miserae
+## ursa | group E | now: word (flag) | n=9 ece=0 | LiLa: noun, proper_noun | share=0.11
+  Thyest PROPN/LOC: omnia gurges ; et qui medias diuidit [[Ursas]] , fluminis instar lubricus Anguis magno
+  Phaedr NOUN/-: subiecta cancro , si qua Parrbasiae glacialis [[ursae]] semper errantes patitur colonos , nouit
+  Hercul NOUN/-: signum celsi glaciale poli septem stellis Arcados [[ursae]] lucem uerso temone uocat . iam
+  Hercul NOUN/-: ortu solis , an sub cardine glacialis [[ursae]] ? numquid Hesperii maris extrema tellus
+  Medea NOUN/-: astra uidit et uetitum mare tetigistis , [[ursae]] . temporum flexi uices : aestiua
+  Hercul NOUN/-: nulla me tellus silet : me sensit [[ursae]] frigidum Scythicae genus indus que Phoebo
+## forum | group E | now: word (flag) | n=8 ece=5 | LiLa: noun, proper_noun | share=0.12
+  Ecerin PROPN/-: : feltro subacto , ad Iulii pergam [[Forum]] subigam que totas Arcthici gentes poli
+  Hercul NOUN/-: tumidum tollit inani ; hic clamosi rabiosa [[fori]] iurgia uendens improbus iras et .
+  Hercul NOUN/-: sortitur reis . aditur illo Gnosius Minos [[foro]] , rhadamanthus illo , Thetidis hoc
+  Octavi NOUN/-: suos , non gemere dira tabe polluto [[foro]] , stillante sanie per putres uultus
+  Ecerin NOUN/-: reges duces . erimus paterno iudices digni [[foro]] , si uendicemus operibus regnum patris
+  Ecerin NOUN/-: , ferrum poscitur urbibus , turbat iustitiae [[forum]] . uerona uenit anxius , qui
+## consors | group E | now: word (flag) | n=7 ece=2 | LiLa: adjective, noun, proper_noun | share=0.14
+  Ecerin PROPN/PERSON: nocuum sors extollat , regula fallit . [[Consors]] operum meritum sequitur quisque suorum .
+  Agamem ADJ/-: famula ueridici dei : feresne thalami uicta [[consortem]] tui ? at illa nolet ,
+  Agamem ADJ/-: o magni , soror et coniunx , [[consors]] sceptri , regia Iuno : tua
+  Agamem ADJ/-: atque obsoletam sanguine hoc dextram ablue . [[consors]] pericli pariter ac regni mei ,
+  Oedipu ADJ/-: ? ioc . Unum fides uirtus que [[consortem]] addidit . teneo nocentem , conuenit
+  Thyest ADJ/-: hunc facinus ingens ausus assumpta in scelus [[consorte]] nostri perfidus thalami auehit . hinc
+## herceus | group E | now: word (flag) | n=2 ece=0 | LiLa: adjective, proper_noun | share=0.0
+  Agamem ADJ/-: redditum corpus rogo , sparsum cruore rogis [[Herceum]] Iouem . tunc qui iacente reciprocus
+  Agamem ADJ/-: aras pater . Iouem precemur pariter . [[Herceum]] Iouem ? credis uidere te Ilium
+## pierius | group E | now: word (flag) | n=2 ece=0 | LiLa: adjective, proper_noun | share=0.0
+  Medea ADJ/-: pestes uoce canora mare mulcerent . cum [[Pieria]] resonans cithara thracius Orpheus solitam cantu
+  Hercul ADJ/-: cecinit sacer thressae sub Rhodopes iugis aptans [[Pieriam]] chelyn Orpheus Calliopae genus , aeternum
+## abydus | group E | now: word (flag) | n=1 ece=0 | LiLa: adjective, proper_noun | share=0.0
+  Phoeni ADJ/-: qua relinquit nomen Ionii mare fauces que [[Abydo]] Sestos opposita premit , aut quae
+## io | group E | now: word (flag) | n=1 ece=0 | LiLa: interjection, proper_noun | share=0.0
+  Phaedr NOUN/-: quos mixtos deis profudit aetas , nullus [[Ius]] auri fuit caecus cupido , nullus
+## parius | group E | now: word (flag) | n=1 ece=0 | LiLa: adjective, proper_noun | share=0.0
+  Phaedr ADJ/-: haec solem facies rarius appetat : lucebit [[Pario]] marmore clarius , quam grata est
+## actaea | group E | now: word (flag) | n=1 ece=0 | LiLa: noun, proper_noun | share=0.0
+  Phaedr ADJ/-: Auerno sedis patriae uidet hospitium . Pallas [[Actaeae]] ueneranda genti , quod tuus caelum

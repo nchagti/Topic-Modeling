@@ -1,0 +1,486 @@
+## group 1 | ae/e | cedo (65) / caedo (34)
+  -- cedo: surfaces cedat, cede, cedendum, cedent, cedente, cedentem, cedentes, cedere, cedet, cedis, cedit, cedite, cedo, cedunt, cessere, cesserit, cesserunt, cessit
+     Phoeni VERB: spernitur pacti fides ; hic occupato [[cedere]] imperio negat , ius ille
+     Phoeni VERB: fac uotis deos omnes tuis : [[cessere]] et auersi fugam petiere ciues
+     Troade VERB: cum profugo spiritus halitu immixtus nebulis [[cessit]] in aera et nudum tetigit
+     Troade VERB: tumulus , puer , captiua : [[cedendum]] est malis , sanctas parentis
+     Phaedr VERB: insueta audiet , natura totiens legibus [[cedet]] suis , quotiens amabit Cressa
+     Phaedr VERB: nauita aduersa ratem propellit unda , [[cedit]] in uanum labor et uicta
+  -- caedo: surfaces caedam, caedant, caedantur, caedatur, caedes, caedibus, caedit, caedite, caesa, caesi, caesis, caeso, caesorum, caesos, caesum, caesus, ceciderant, cecidi
+     Troade VERB: funera cludis magno que Ioui uictima [[caesus]] sigea , premis litora truncus
+     Troade VERB: infuso cinis , opima Phrygii colla [[caedantur]] greges fluat que nulli flebilis
+     Troade VERB: ac pecori imperat ; quae tenera [[caeso]] uirga de trunco stetit ,
+     Troade VERB: tuum mittes iugum , non Graia [[caedes]] terga , non Pyrrhum trahes
+     Phaedr VERB: uertice euincet nemus quam non maligna [[caedit]] aut resecat " manus :
+     Hercul VERB: . aras tangite supplices , pingues [[caedite]] uictimas ; permixtae maribus nurus
+## group 2 | double consonant | uita (68) / uitta (6)
+  -- uita: surfaces uita, uitae, uitam
+     Phoeni NOUN: solus , quae me ab hac [[uita]] extrahat et hoc nefandi capitis
+     Phoeni NOUN: desiste coepto , uirgo : ius [[uitae]] ac necis meae penes me
+     Phoeni NOUN: optume hoc cauit deus : eripere [[uitam]] nemo non homini , potest
+     Phoeni NOUN: , uirtus , pater , timere [[uitam]] , sed malis ingentibus obstare
+     Phoeni NOUN: dare . qui fata proculcauit ac [[uitae]] bona proiecit atque abscidit et
+     Phoeni NOUN: auferre cuiquam mors , tibi hoc [[uita]] abstulit ; regni tumultus ?
+  -- uitta: surfaces uitta, uittae, uittis
+     Phoeni NOUN: ornauit aedes nec sacra laetas faces [[uitta]] reuinxit ; dona non auro
+     Phaedr NOUN: quis tum ille fulsit ! presserant [[uittae]] comam et ora flauus tenera
+     Agamem NOUN: concedam ad aras . patere me [[uittis]] tuis , Cassandra , iungi
+     Agamem NOUN: totum possidet corpus tremor ; stetere [[uittae]] , mollis horrescit coma ,
+     Medea NOUN: funereo de more iacens passos cingit [[uitta]] capillos , tibi iactatur tristis
+     Thyest NOUN: iuuenum nobiles religat manus et maesta [[uitta]] capita purpurea ligat ; non
+## group 3 | prefix assimilation | assum (48) / adsum (13)
+  -- assum: surfaces aderit, aderunt, ades, adesse, adest, adeste, adsis, adsit, adsum, adsunt, assint
+     Phoeni VERB: , tunc tibi inferias dedi . [[ades]] atque inertem dexteram introrsus preme
+     Troade VERB: solum tremuit : et pontus suum [[adesse]] Achillen sensit ac strauit uada
+     Troade VERB: sinu profundo conde depositum meum . [[adest]] Ulixes , et quidem dubio
+     Phaedr VERB: profugit . paelicis careo metu . [[aderit]] maritus — nempe Perithoi comes
+     Phaedr VERB: culpa , quis testis sciet ? [[adeste]] , Athenae ! fida famulorum
+     Agamem VERB: opaca linquens Ditis inferni loca [[adsum]] profundo Tartari emissus specu ,
+  -- adsum: surfaces aderas, ades, adesse, adest, adfuit, adsint
+     Phoeni VERB: teris que tempus , saeua nudatis [[adest]] acies in armis ; aera
+     Hercul VERB: : bella iam secum gerat . [[adsint]] ab imo Tartari fundo excitae
+     Medea VERB: , cura suo cantu uolucris relicto [[adfuit]] tota comitante silua , Thracios
+     Medea VERB: que nostris cantibus motae labant : [[adesse]] sacris tempus est , Phoebe
+     Hercul VERB: tantum Herculis , uel falsus , [[aderas]] : quas petam terras anus
+     Hercul VERB: ferarum orbis que simul pacator , [[ades]] ; nunc quoque nostras respice
+## group 4 | double consonant | casus (48) / cassus (9)
+  -- casus: surfaces casibus, casu, casum, casus
+     Phoeni NOUN: uitae bona proiecit atque abscidit et [[casus]] suos onerauit ipse , cui
+     Troade NOUN: quam quisque famulam traheret incerto diu [[casu]] pependit , me meus traxit
+     Troade NOUN: in portus cecidit petitos ; aequior [[casum]] tulit et procellas , mille
+     Phaedr NOUN: monstra conclusit domo , promittat ullam [[casibus]] nostris opem . stirpem perosa
+     Phoeni NOUN: dolor , maius que quam quod [[casus]] et iuuenum furor conatur aliquid
+     Phoeni NOUN: te maria tot diuersa , tot [[casus]] uagum egere , non te
+  -- cassus: surfaces cassa, cassum, cassus
+     Troade ADJ: uicimus matrum dolos etiam dearum . [[cassa]] consilia amoue ; ubi natus
+     Troade ADJ: uos flebilis clamor mouet furor que [[cassus]] feminae ? iussa ocius peragite
+     Agamem ADJ: artat que motu uincla et in [[cassum]] furit , cupit fluentes undique
+     Troade ADJ: meos retines sinus manus que matris [[cassa]] praesidia occupas ? fremitu leonis
+     Medea ADJ: peperi , querelas uerba que in [[cassum]] sero ? non ibo in
+     Thyest ADJ: pater fecisse potuit , cecidit in [[cassum]] dolor : scidit ore natos
+## group 5 | ae/e | mereo (24) / maereo (15)
+  -- mereo: surfaces merendo, merenti, meritas, meruere, merui, meruit
+     Troade VERB: potest tantae dari uirtutis ? an [[meruit]] parum qui , fugere bellum
+     Phaedr VERB: fama uix uero fauet , peius [[merenti]] melior et peior bono .
+     Phaedr VERB: transactus ignis — sum nocens , [[merui]] mori : placui nouercae ,
+     Hercul VERB: turba frontibus laurum gerens magni que [[meritas]] Herculis laudes canit . natus
+     Medea VERB: moreris que dextra matris iratae , [[meruere]] cuncti morte quod crimen tener
+     Hercul VERB: ; sed iecur fors horridum sectam [[merendo]] : merita uicerunt malos .
+  -- maereo: surfaces maerens, maerentem, maerenti, maerere, maeres, maeret
+     Troade VERB: numquam perit . scrutare matrem , [[maeret]] , illacrimat , gemit ;
+     Troade VERB: uehar , quicquid rati . dulce [[maerenti]] populus dolentium , dulce lamentis
+     Octavi VERB: rupisset stamina Clotho , tua quam [[maerens]] uulnera uidi ora que foedo
+     Hercul VERB: nunc ferar obruta . Non sola [[maeres]] . Herculem , toto iacet
+     Hercul VERB: Taenarias fores manes cum tacitos adit [[maerentem]] feri ens chelyn , cantu
+     Hercul VERB: est ; ipsa quam sexus iubet [[maerere]] , , siccis haesit Alcmene
+## group 6 | double consonant | annus (32) / anus (6)
+  -- annus: surfaces anni, annis, annorum, annos, annum, annus
+     Troade NOUN: oculis ac decem tandem ferus ignoscit [[annis]] ; horret afflictam quoque ,
+     Troade NOUN: tuis stetit illa decem fulta per [[annos]] : te cum cecidit summus
+     Troade NOUN: his ista iactas , quos decem [[annorum]] graui regno subactos Pyrrhus exsoluit
+     Phaedr NOUN: feruore coquant uires que suas temperet [[annus]] ? sed cur idem qui
+     Hercul NOUN: uolucri que die rota praecipitis uertitur [[anni]] ; durae peragunt pensa sorores
+     Hercul NOUN: sidus fertur et messes alit ; [[annum]] fugacem tradit Astraeae leo ,
+  -- anus: surfaces anus
+     Phoeni NOUN: incipiat a me . feruidos iuuenes [[anus]] tenebo , nullum teste me
+     Troade NOUN: potius , an tuos luctus , [[anus]] ? quoscumque luctus fleueris ,
+     Hercul NOUN: scelus minantur ; quas petam latebras [[anus]] ? dolor iste furor est
+     Hercul NOUN: , aderas : quas petam terras [[anus]] , inuisa saeuis regibus (
+     Hercul NOUN: negata est ? quod tibi infelix [[anus]] quaeram sepulchrum ? de tuis
+     Hercul NOUN: una funeri tanto sat est grandaeua [[anus]] defecta , quod totus breui
+## group 7 | oe/e | leo (32) / loeo (1)
+  -- leo: surfaces leo, leone, leonem, leones, leoni, leonis, leonum
+     Troade NOUN: matris cassa praesidia occupas ? fremitu [[leonis]] qualis audito tener timidum iuuencus
+     Phaedr NOUN: Histro . * tua Gaetulos dextra [[leones]] , tua Cretaeas sequitur ceruas
+     Agamem NOUN: sublimis iacet ignobili sub dente Marmaricus [[leo]] , morsus cruentos passus audacis
+     Hercul NOUN: et quae fudit : armatus uenit [[leone]] et hydra , nec satis
+     Thyest NOUN: ruinam , quisquis auidorum feros rictus [[leonum]] et dira Furiarum agmina implicitus
+     Hercul NOUN: : hic terrentem moenia quondam uestra [[leonem]] fregit nostri dextera nati :
+  -- loeo: surfaces loeas
+     Agamem NOUN: bonis , in praecipiti dubio que [[loeas]] nimis excelsos ; numquam placidam
+## group 8 | ae/e | aequus (17) / equus (13)
+  -- aequus: surfaces aequa, aequi, aequior, aequo, aequum, aequus
+     Troade ADJ: peruium est Danais iter ? certe [[aequa]] mors est — turbat atque
+     Troade ADJ: nudus in portus cecidit petitos ; [[aequior]] casum tulit et procellas ,
+     Phaedr ADJ: et Pluton sedet . illum quidem [[aequi]] caelites reducem dabunt , sed
+     Medea ADJ: , grauia quisquis uulnera patiente et [[aequo]] mutus animo pertulit , referre
+     Medea ADJ: , si regnas , iube . [[aequum]] atque iniquum regis imperium feras
+     Medea ADJ: , aequum licet statuerit , haud [[aequus]] fuit . C R. Auditus
+  -- equus: surfaces equi, equis, equo, equos, equum
+     Phaedr NOUN: ut dura tolerent , cursibus domitent [[equos]] et saeua bella Marte sanguineo
+     Phaedr NOUN: labor . ' inobsequentes protinus frenis [[equi]] rapuere currum iam que derrantes
+     Hercul NOUN: temone uocat . iam caeruleis euectus [[equis]] Titan summa prospicit Oeta ;
+     Hercul NOUN: ferens qua iungit hominem spina deficiens [[equo]] , frangebat ipsas fluminis tumidi
+     Ecerin NOUN: spes Paduae manet , retro uertit [[equum]] castra que summouet ; Ueronam
+     Phaedr NOUN: immunis metu Hippolytus artis continet frenis [[equos]] pauidos que notae uocis hortatu
+## group 9 | double consonant | curro (27) / curo (3)
+  -- curro: surfaces cucurrit, currant, currat, currens, current, currere, curret, currit, currite, curro, currunt, cursibus
+     Phoeni VERB: praetulit thyrso caput ; uel qua [[cucurrit]] , corpus inrisum trahens ,
+     Troade VERB: , quo properat modo obliquis Hecate [[currere]] flexibus : hoc omnes petimus
+     Phaedr VERB: , quae Thriasiis uallibus amnis rapida [[currens]] uerberat unda ; scandite colles
+     Phaedr VERB: quaque per ipsum candida mundum sidera [[currunt]] : haec regna tenet puer
+     Phaedr NOUN: perfundant comae umeros que summos , [[cursibus]] motae citis uentos sequantur ,
+     Agamem VERB: cum in pastus armenta uagos uilia [[currant]] , placet in uulnus maxima
+  -- curo: surfaces curans, curat
+     Medea VERB: est ignis stimulatus ira nec regi [[curat]] patiturue frenos aut timet mortem
+     Ecerin VERB: expetunt , quae non Deus prohibere [[curans]] , esse sic ultro sinit
+     Oedipu VERB: tuenda maxime regum est salus : [[curat]] peremptum nemo quem incolumem timet
+## group 10 | double consonant | ager (20) / agger (7)
+  -- ager: surfaces ager, agri, agris, agro, agros
+     Phoeni NOUN: Elin et Parnason et Boeotios colonus [[agros]] uberis tondes soli : ,
+     Agamem NOUN: que Parrhasis , sensit Arcadii populator [[agri]] , gemuit que taurus Dictaea
+     Hercul NOUN: nihil relinquent bella ; tum uastis [[ager]] squalebit aruis , subdita tectis
+     Oedipu NOUN: tabidos inter moriens iuuencos . incubant [[agris]] pecudes relictae ; non lupos
+     Hercul NOUN: , patrio que sedens ales in [[agro]] referam qnerulo murmure casus uolucrem
+     Phoeni NOUN: sternis et totos fugam edis per [[agros]] : nemo sic uastat sua
+  -- agger: surfaces aggere, aggerem
+     Phoeni NOUN: uterque , flammas potius et uastum [[aggerem]] compone ; in altos ipse
+     Troade NOUN: uendidistis ? pergam et e summo [[aggere]] traham sepulchra , caelitum appello
+     Phaedr NOUN: quisque norat maria ; non uasto [[aggere]] crebra que turre duxerant urbes
+     Phaedr NOUN: . consurgit ingens pontus in uastum [[aggerem]] , [ tumidum que monstro
+     Hercul NOUN: mons et illuc cessit et rupto [[aggere]] noua cucurrit Thessalus torrens uia
+     Hercul NOUN: . quin structum aceruans nemore congesto [[aggerem]] cruore corpus impio sparsum cremo
+## group 11 | prefix assimilation | exstinguo (14) / extinguo (10)
+  -- exstinguo: surfaces extincti, extinctus, extinguat, extingue, extinguet, extinxit
+     Troade VERB: sensus potens , forsan futurus ultor [[extincti]] patris — utrique parci non
+     Phaedr VERB: nefanda casto pectore exturba ocius , [[extingue]] flammas neue te dirae spei
+     Hercul VERB: que gemina caede contingam ? prius [[extinguet]] ortus , referet occasus diem
+     Hercul VERB: mali . Non sic furore cessit [[extinctus]] pudor , populos ut omnes
+     Octavi VERB: thalamis Stygios praetulit ignes te que [[extinxit]] , miserande pater , modo
+     Octavi VERB: similes uolanti funebris flamma abstulit . [[extinguat]] et me , ne manu
+  -- extinguo: surfaces extincta, extincto, extinctos, extinguam, extinguens, extinguere, extingui, extinguit, extinxi
+     Phoeni VERB: non deprecor , non hortor , [[extingui]] cupis uotum que , genitor
+     Troade VERB: , ut luce caruit : inter [[extinctos]] iacet datum que tumulo debita
+     Phaedr VERB: mala . pars una uitae mansit [[extincto]] mihi : sensus malorum ;
+     Octavi VERB: nostra ferro me que perpetuo obruit [[extincta]] luctu ; coniugem traxit suum
+     Octavi VERB: magnum timoris remedium clementia est . [[extinguere]] hostem maxima est uirtus ducis
+     Octavi VERB: effudi grauem erepta pelago , sanguine [[extinxi]] meo nec odia nati :
+## group 12 | double consonant | committo (18) / comito (3)
+  -- committo: surfaces commisit, commissa, commisso, commissum, committat, committe, committens, committi
+     Phoeni VERB: saeua Thebarum lues luctifica caecis uerba [[committens]] modis quid simile posuit ?
+     Phoeni VERB: . ego ille sum qui scelera [[committi]] uetem et abstineri sanguine e
+     Troade VERB: ira et ardens hostis et uictoria [[commissa]] nocti quicquid indignum aut ferum
+     Troade VERB: negant , habes sepulchrum . claustra [[commissum]] tegunt ; quem ne tuus
+     Troade VERB: hoc , quis sedis incertae Scytha [[commisit]] , aut quae Caspium tangens
+     Phaedr VERB: leues loquuntur , ingentes stupent . [[committe]] curas auribus , mater ,
+  -- comito: surfaces comitantem, comitata
+     Phoeni VERB: non te duxit in thalamos parens [[comitata]] primos nec sua festas manu
+     Troade VERB: furibunda manu occidere Pyrrhi , fata [[comitantem]] tua , Polyxene miseranda ,
+     Agamem VERB: superbos urit Erinys , nimias semper [[comitata]] domos , quas in planum
+## group 13 | prefix assimilation | exsilium (20) / exilium (1)
+  -- exsilium: surfaces exilia, exilii, exilio, exilium
+     Phoeni NOUN: que perpessus mala longo parentem fessus [[exilio]] uides , accede propius ,
+     Phoeni NOUN: regnum puta tenere patrem , melius [[exilium]] est tibi quam reditus iste
+     Phoeni NOUN: praecepta melius imperi reges dabunt ; [[exilia]] tu dispone , pro regno
+     Thyest NOUN: que pauor , fugiat trepidi comes [[exilii]] tristis egestas rebus que grauis
+     Phoeni NOUN: uehar ? potesne ciues leto et [[exilio]] datos uidere passim ? moenibus
+     Agamem NOUN: — quid timida loqueris furta et [[exilium]] et fugas ? soror ista
+  -- exilium: surfaces exilio
+     Medea NOUN: infixus timor , unus parando dabitur [[exilio]] dies . nimis est ,
+## group 14 | initial h | hora (10) / ora (7)
+  -- hora: surfaces hora, horae, horas
+     Phaedr NOUN: . tempus te tacitum subruit . [[hora]] que semper praeterita deterior subit
+     Agamem NOUN: cui lege mundi Iuppiter rupta geminauit [[horas]] roscidae noctis iussit que Phoebum
+     Thyest NOUN: rapis aspectus ? nondum serae nuntius [[horae]] nocturna uocat lumina Uesper ;
+     Phaedr NOUN: tonat ] uolat ambiguis mobilis alis [[hora]] , nec ulli praestat uelox
+     Agamem NOUN: domos , quas in planum quaelibet [[hora]] tulit ex alto . licet
+     Hercul NOUN: ; quanta , cum longae redit [[hora]] nocti crescere et somnos cupiens
+  -- ora: surfaces ora, oras, oris
+     Phaedr NOUN: agilis sagittas ; quaeque nascentem uidet [[ora]] solem , quaeque ad Hesperiae
+     Agamem NOUN: mare utrimque geminum : Pelopis hinc [[oras]] tui et Isthmon , arto
+     Ecerin NOUN: laborant , exulat nostris pietas ab [[oris]] , regnat Herinis . frater
+     Phaedr NOUN: solem , quaeque ad Hesperiae iacet [[ora]] metas , si qua feruenti
+     Hercul NOUN: anguifera latus . postquam est ad [[oras]] Taenari uentum et nitor percussit
+     Hercul NOUN: sulcat iter , tenuit placitas Daedalus [[oras]] nulli que dedit nomina ponto
+## group 15 | double consonant | consumo (12) / consummo (1)
+  -- consumo: surfaces consumat, consument, consumeremus, consumpsit, consumpta, consumptos, consumptum, consumptus
+     Troade VERB: felix quisquis bello moriens omnia secum [[consumpta]] tulit . O longa Danais
+     Phaedr VERB: : numquam supremum numinis munus tui [[consumeremus]] . magna ni premerent mala
+     Agamem VERB: undae ferunt ? ignaua fortes fata [[consument]] uiros ? perdenda mors est
+     Agamem VERB: noceant habent . Fortuna uires ipsa [[consumpsit]] suas . quae patria restat
+     Hercul VERB: fiagrent , coniugem et totum gregem [[consumat]] unus igne subiecto rogus .
+     Medea VERB: et mare ? adeone credit omne [[consumptum]] nefas ? incerta uaecors mente
+  -- consummo: surfaces consumma
+     Hercul VERB: . nondum litasti , nate : [[consumma]] sacrum . stat ecce ad
+## group 16 | th/t | tus (7) / thus (4)
+  -- tus: surfaces tura, turis
+     Hercul NOUN: regis aduenae Tyrium coles . date [[tura]] flammis , nate , manantes
+     Oedipu NOUN: uoce sollemni uoca aras que dono [[turis]] Eoi extrue . iam tura
+     Octavi NOUN: uidit attonitus tuam formam senatus , [[tura]] cum superis dares sacras que
+     Oedipu NOUN: dono turis Eoi extrue . iam [[tura]] sacris caelitum ingessi focis .
+     Thyest NOUN: uitta capita purpurea ligat ; non [[tura]] desunt , non sacer Bacchi
+     Hercul NOUN: quo gressus ferat haesit parumper ; [[tura]] per Herculeos lares attonita fertur
+  -- thus: surfaces thure, ture
+     Thyest NOUN: metatur et Parthos ager ; non [[ture]] colimur nec meae excluso Ioue
+     Ecerin NOUN: e summo datam caelo quietem , [[thure]] placetis Deum ; iuuenes senes
+     Hercul NOUN: ante coniunx induat uestes iube quam [[ture]] flammas pascat et placet deos
+     Hercul NOUN: genitor et largo sacer splendescat ignis [[ture]] , quod Phoebum colens diues
+## group 17 | double consonant | calidus (6) / callidus (5)
+  -- calidus: surfaces calidae, calidis, calido, calidum, calidus
+     Phoeni ADJ: egit ; illo teste damnauit parens [[calido]] que teneros transilit ferro pedes
+     Troade ADJ: lacus , usquam est : ut [[calidis]] fumus ab ignibus uanescit ,
+     Phaedr ADJ: sic prata nouo uere decentia aestatis [[calidae]] despoliat uapor , saeuit solstitio
+     Oedipu ADJ: eruantur ; si foret uiridis mihi [[calidus]] que sanguis , pectore exciperem
+     Thyest ADJ: mihi . ex uulnere ipso sanguinem [[calidum]] in tua defundere ora debui
+     Hercul ADJ: procul a leone det pater sedes [[calido]] que cancro , ne tuo
+  -- callidus: surfaces callidas, callidi, callido, callidus
+     Troade ADJ: uultu que : nectit pectore astus [[callido]] . durae minister sortis hoc
+     Phaedr ADJ: et aperto aethere innocuus errat , [[callidas]] tantum feris struxisse fraudes nouit
+     Oedipu ADJ: datur . ille , ille dirus [[callidi]] monstri cinis in nos rebellat
+     Oedipu ADJ: puer , nomen eripuit freto ; [[callidus]] medium senex Daedalus librans iter
+     Oedipu ADJ: grauis ? — iam iam tenemus [[callidi]] socios doli : mentitur ista
+## group 18 | double consonant | uelo (9) / uello (2)
+  -- uelo: surfaces uelandum, uelante, uelas, uelata, ueletur, uelo
+     Troade VERB: pateant artus . cui coniugio pectora [[uelas]] , captiue pudor ? cingat
+     Phaedr VERB: ultro impiam uenerem arguamus : scelere [[uelandum]] est scelus : tutissimum est
+     Agamem VERB: deos . nunc omne laeta fronde [[ueletur]] caput , sacrifiea dulces tibia
+     Hercul VERB: ipsa , tristi uestis obtentu caput [[uelata]] , iuxta praesides adstat deos
+     Medea NOUN: optat et alto rubicunda tremunt sipara [[uelo]] . b « ne dissaepti
+     Hercul VERB: que sequi iussa sagittas totum pinna [[uelante]] diem . flete Argolicae ,
+  -- uello: surfaces uulsa, uulsos
+     Phaedr VERB: poma compescunt famem et fraga paruis [[uulsa]] dumetis cibos faciles ministrant ,
+     Oedipu VERB: lumina , radice ab ima funditus [[uulsos]] simul euoluit orbes ; haeret
+## group 19 | prefix assimilation | exsero (8) / exero (3)
+  -- exsero: surfaces exerens, exerit, exerta, exertos, exertus, exerunt
+     Troade VERB: ex Troia sumpsisse licet . paret [[exertos]] turba lacertos ; ueste remissa
+     Phaedr VERB: cornu iunxit et curru properante pernox [[exerit]] uultus rubicunda Phoebe nec tenent
+     Hercul VERB: ratibus ac ponto gregem passim uagantes [[exerunt]] Atlantides . ferro minax hinc
+     Oedipu VERB: uallis inriguae loca . cupressus altis [[exerens]] siluis caput uirente semper alligat
+     Hercul VERB: diduxit auidum pectus atque utero tenus [[exerta]] uastos ubera in planctus ferit
+     Ecerin VERB: fortuna uarios partibus casus dedit . [[exertus]] hinc Ecerinus , et uires
+  -- exero: surfaces exere, exerens
+     Agamem VERB: . quid rabidus ora Corus oceano [[exerens]] ? mundum reuelli sedibus totum
+     Octavi VERB: nomen que dedi caesaris amens . [[exere]] uultus Acheronte tuos poenis que
+     Agamem VERB: rupem subruit pulsam pater neptunus imis [[exerens]] undis caput soluit que montem
+## group 20 | prefix assimilation | complector (10) / conplector (1)
+  -- complector: surfaces complectere, complexus
+     Phaedr VERB: extrema gestat , quicquid Oceanus uagis [[complexus]] undis ultimo fluctu tegit ,
+     Phaedr VERB: triste fractis orbitas annis malum ! [[complectere]] artus , quodque de nato
+     Agamem VERB: que rumpit pectore et nauem manu [[complexus]] ignes traxit et caeco mari
+     Hercul VERB: , sceptra quid possint scies . [[complectere]] aras : nullus eripiet deus
+     Octavi VERB: sic ille patriae primus Augustus parens [[complexus]] astra est colitur et templis
+     Octavi NOUN: nocti polus , inter Neronis iuncta [[complexus]] mei somno resoluor ; nec
+  -- conplector: surfaces conplecti
+     Hercul VERB: gemit : peractum est . membra [[conplecti]] ultima , o nate ,
+## group 21 | ae/e | coetus (9) / coaetus (1)
+  -- coetus: surfaces coetu, coetum, coetus
+     Troade NOUN: et irato impetu . uterque fleuit [[coetus]] ; at timidum Phryges misere
+     Phaedr NOUN: ducem : urbem frequenta , ciuium [[coetum]] cole . Non alia magis
+     Medea NOUN: manus procul que uestro purus a [[coetu]] stetit . tu , tu
+     Agamem NOUN: alta pax * * nullos ciuium [[coetus]] timet aut minaces uictoris iras
+     Agamem NOUN: atque audax caput , quo more [[coetus]] publicos uirgo petis ? adulterarum
+     Hercul NOUN: , en ultro uocat omnis deorum [[coetus]] et laxat fores , una
+  -- coaetus: surfaces coaetos
+     Thyest NOUN: quidem tenere fugientes deos possem et [[coaetos]] trahere , ut ultricem dapem
+## group 22 | prefix assimilation | exspecto (9) / expecto (1)
+  -- exspecto: surfaces expectans, expectas, expectat, expectent, expecto
+     Troade VERB: sed iam timendus . Troia te [[expectat]] tua : i , uade
+     Agamem VERB: occupandum est . pigra , quem [[expectas]] diem ? Pelopia Phrygiae sceptra
+     Oedipu VERB: que impatiens morae reuulsit ungui uiscera [[expectans]] mea ; nodosa sortis uerba
+     Thyest VERB: mentem impedit reducem que quanta praemia [[expectent]] uide . pater , potes
+     Hercul VERB: dare , animose coniunx , dexteram [[expecto]] tuam . mors differatur :
+     Agamem VERB: resecari placet , intenta ceruix uulnus [[expectat]] tuum . scelus paratum est
+  -- expecto: surfaces expectat
+     Ecerin VERB: . ergo quid segnis facit ? [[expectat]] humilis , pertinax cedat furor
+## group 23 | double consonant | sollemnis (8) / solemnis (1)
+  -- sollemnis: surfaces solemne, sollemne, sollemnem, sollemnes, sollemni
+     Troade ADJ: sequeris nec stato lustri die , [[solemne]] referens Troici lusus sacrum ,
+     Hercul ADJ: caedite uictimas ; permixtae maribus nurus [[sollemnes]] agitent choros ; cessent deposito
+     Medea ADJ: tempus erat succendere pinum : excute [[sollemnem]] digitis marcentibus ignem . festa
+     Medea ADJ: Corinthi . tibi sanguineo caespite sacrum [[sollemne]] damus , tibi de medio
+     Oedipu ADJ: stetit . in uota superos uoce [[sollemni]] uoca aras que dono turis
+     Phaedr ADJ: uotis , dea : ipsum intuor [[solemne]] uenerantem sacrum nullo latus comitante
+  -- solemnis: surfaces solemni
+     Troade ADJ: . taedis quid opus est quidue [[solemni]] face ? quid igne ?
+## group 24 | prefix assimilation | summoueo (8) / submoueo (1)
+  -- summoueo: surfaces summota, summotos, summouere, summouet, summouit
+     Phoeni VERB: ab * aspectu omnium fortuna te [[summouit]] , et quicquid potest auferre
+     Troade VERB: latus , at ille saeuus matre [[summota]] loco praedam minorem morsibus uastis
+     Octavi VERB: subito opprimar ? exilia non fregere [[summotos]] procul plautum atque Sullam ,
+     Octavi VERB: ne credas ) amor . quem [[summouere]] fulminis dominus nequit , caeli
+     Hercul VERB: comes inuidia est : noctem quotiens [[summouet]] Eos , regem totiens credite
+     Phaedr VERB: gentes : te licet terra ultimo [[summota]] mundo dirimat Oceani plagis orbem
+  -- submoueo: surfaces submota
+     Thyest VERB: aliquis dolus . redire pietas unde [[submota]] est solet reparat que uires
+## group 25 | initial h | arundo (6) / harundo (2)
+  -- arundo: surfaces harundo
+     Hercul NOUN: que soluit , stridet emissa impetu [[harundo]] — medio spiculum collo fugit
+     Hercul NOUN: ac telum suspensa diu , fortis [[harundo]] , pharetrae que graues ,
+     Hercul NOUN: cruor ? quid illa puerili madens [[harundo]] leto ? tincta Lernaea nece
+     Hercul NOUN: sollicitum ferit . [ metu aptata [[harundo]] est . ecce iam facies
+     Hercul NOUN: arcus uerba ; tum longum ferens [[harundo]] uulnus tenuit haerentem fugam mortem
+     Hercul NOUN: cruore ; talis in caelum exilit [[harundo]] Getica uisa dimitti manu aut
+  -- harundo: surfaces harundine, harundinem
+     Phaedr NOUN: figere , non mittent gracilem Cretes [[harundinem]] . aut si tela modo
+     Hercul NOUN: cuspides , non arcus Scythica tensus [[harundine]] , non quae tela gerit
+## group 26 | double consonant | immitto (6) / imito (2)
+  -- immitto: surfaces immisit, immissa, immissas, immittam, immittat, immitte
+     Phoeni VERB: compone ; in altos ipse me [[immittam]] rogos , [ haerebo ad
+     Hercul VERB: si fortibus leue pondus umeris moenia [[immissa]] incident septem que opertus non
+     Hercul VERB: puer — hoc Iuno telum manibus [[immisit]] tuis . hoc nunc ego
+     Thyest VERB: Furiarum agmina implicitus horres , quisquis [[immissas]] faces semiustus abigis , Tantali
+     Hercul VERB: taurus puellae uector Assyriae scidit ; [[immitte]] amorem , uincat exempla omnia
+     Hercul VERB: illinc nemus artus que nostros durus [[immittat]] Sinis : sparsus silebo —
+  -- imito: surfaces imitare
+     Troade VERB: nondum funera sentis , matris fletus [[imitare]] tuae . uidit pueri regis
+     Medea VERB: misera , quem statuas modum : [[imitare]] amorem , regias egone ut
+## group 27 | prefix assimilation | immitto (6) / inmitto (2)
+  -- immitto: surfaces immisit, immissa, immissas, immittam, immittat, immitte
+     Phoeni VERB: compone ; in altos ipse me [[immittam]] rogos , [ haerebo ad
+     Hercul VERB: si fortibus leue pondus umeris moenia [[immissa]] incident septem que opertus non
+     Hercul VERB: puer — hoc Iuno telum manibus [[immisit]] tuis . hoc nunc ego
+     Thyest VERB: Furiarum agmina implicitus horres , quisquis [[immissas]] faces semiustus abigis , Tantali
+     Hercul VERB: taurus puellae uector Assyriae scidit ; [[immitte]] amorem , uincat exempla omnia
+     Hercul VERB: illinc nemus artus que nostros durus [[immittat]] Sinis : sparsus silebo —
+  -- inmitto: surfaces inmisso, inmitte
+     Medea VERB: trans Pontum quoque summota Lynceus lumine [[inmisso]] uidet , omnes que Minyae
+     Hercul VERB: in urbes sparge et ignotum tibi [[inmitte]] in orbem : perde ut
+## group 28 | prefix assimilation | summitto (4) / submitto (4)
+  -- summitto: surfaces summissa, summisso, summittunt
+     Phaedr VERB: nec sparsi sacra centena niuei colla [[summittunt]] boues : sed rure uacuo
+     Hercul VERB: trahi eram que fassus , ore [[summisso]] obsequens , utrumque cauda pulsat
+     Medea VERB: : squamosa gemini colla serpentes iugo [[summissa]] praebent , recipe iam gnatoa
+     Hercul VERB: somnum cadit et fessa ceruix capite [[summisso]] labat ; flexo genu iam
+  -- submitto: surfaces submitte, submittit, summittit
+     Phoeni VERB: , equestri fracta quas tellus pede [[summittit]] et , si uera metuentes
+     Troade VERB: , Ulixe , mille carinis . [[submitte]] manus domini que pedes supplice
+     Agamem VERB: onere sidit , illa conuulsum latus [[submittit]] undis , fluctus hanc decimus
+     Oedipu VERB: pabulo semper nouo aestiua nostro prata [[summittit]] gregi . SEN , Noscisne
+## group 29 | prefix assimilation | adsuesco (4) / assuesco (4)
+  -- adsuesco: surfaces adsuetas, assuetae, assuetas, assuetos
+     Troade ADJ: subiecta feret colla tropaeis ; non [[adsuetas]] ad sceptra manus posterga dabit
+     Octavi VERB: tot tantis onerata malis , repete [[assuetos]] iam tibi questus atque aequoreas
+     Thyest VERB: uoces gemitus , maeror lacrimas amat [[assuetas]] , flendi miseris dira cupido
+     Hercul VERB: indomitum malum ; repetentur arae cernere [[assuetae]] hostiam similem colenti : sceleribus
+  -- assuesco: surfaces assuesce, assueta, assueui
+     Troade VERB: magna turris e Troia super , [[assueta]] Priamo , cuius e fastigio
+     Agamem VERB: exilia mihi sunt haud noua , [[assueui]] malis . si tu imperas
+     Medea VERB: manet noster sanguis ad aras : [[assuesce]] , manus , stringere ferrum
+     Agamem VERB: , respuit auras religat que rates [[assueta]] sequi , tu Tantalidos funera
+## group 30 | initial h | arena (4) / harena (3)
+  -- arena: surfaces harenas
+     Phaedr NOUN: piger et steriles amne maligno radit [[harenas]] ; uos qua Marathon tramite
+     Agamem NOUN: altas Aquilo contorquet niues libycus que [[harenas]] Auster ac Syrtes agit ;
+     Hercul NOUN: et fiuctuantes more turbati maris adit [[harenas]] bis que discedens fretum et
+     Thyest NOUN: uagentur nostrum et ardenti freto phlegethon [[harenas]] igneus totas agens exilia supra
+  -- harena: surfaces harena, harenis
+     Medea NOUN: certas mundus euoluet uices numeros que [[harenis]] derit et solem dies ,
+     Medea NOUN: manu pestes uocat quascumque feruentes creat [[harena]] Libyae quasque perpetua niue Taurus
+     Medea NOUN: fata nosset , condidit serpens Libycis [[harenis]] ; omnibus uerax , sibi
+## group 31 | prefix assimilation | exsulto (4) / exulto (3)
+  -- exsulto: surfaces exultat
+     Phaedr VERB: arcus dei . quisquis secundis rebus [[exultat]] nimis fluit que luxu ,
+     Agamem VERB: transilit dorso mare tyrrhenus omni piscis [[exultat]] freto agitat que gyros et
+     Agamem VERB: sitim , maestus futuro funere : [[exultat]] et ponit gradus pater decoros
+     Octavi VERB: , saeua cum luctu fames . [[exultat]] ingens saeculi nostri bonis corrupta
+  -- exulto: surfaces exultes, exultet
+     Phoeni VERB: funesta iacens obtexit agros miles — [[exultes]] licet uictor que fratris spolia
+     Phaedr VERB: , grata nunc iuueni Uenus : [[exultet]] animus , cur toro uiduo
+     Thyest VERB: cruor , supra que magnos gentium [[exultet]] duces libido uictrix : impia
+## group 32 | initial h | irritus (4) / hirritus (2)
+  -- irritus: surfaces inrita, inritus, irritus
+     Agamem ADJ: se refertur , ubi per aduersum [[irritus]] redeunte totiens luditur saxo labor
+     Hercul ADJ: regno capaci te que quam amotam [[inrita]] quaesiuit Enna mater , ut
+     Medea ADJ: uos quoque , urnis quas foratis [[inritus]] ludit labor , Danaides ,
+     Hercul ADJ: canem ira furentem et bella temptantem [[inrita]] intulimus orbi . uidit ut
+  -- hirritus: surfaces irritas
+     Thyest ADJ: accendunt que famem , quae iubet [[irritas]] exercere manus — has ubi
+     Hercul ADJ: felix , iuuenis , has numquam [[irritas]] mittes in postem ; siue
+## group 33 | prefix assimilation | irrigo (4) / inrigo (2)
+  -- irrigo: surfaces irrigantur, irrigat, irriget
+     Phoeni VERB: ostendit comas , rogat abnuentes , [[irrigat]] fletu genas . negare matri
+     Phaedr VERB: per ora et assiduo genae rore [[irrigantur]] , qualiter Tauri iugis tepido
+     Thyest VERB: bella trans pontum uehant,- effusus omnis [[irriget]] terras cruor , supra que
+     Oedipu VERB: uulnere angusto micat an lentus altas [[irrigat]] plagas cruor ? huius per
+  -- inrigo: surfaces inriga, inrigat
+     Phoeni VERB: uulnera rescissa multo sanguine ac tabe [[inriga]] , hac extrahe animam duram
+     Troade VERB: hoc unum mihi remitte funus , [[inrigat]] fletus genas imber que uicto
+## group 34 | prefix assimilation | immisceo (5) / inmisceo (1)
+  -- immisceo: surfaces immiscet, immixta, immixti, immixtus
+     Troade VERB: nostri , cum profugo spiritus halitu [[immixtus]] nebulis cessit in aera et
+     Agamem VERB: niger , non Xanthus armis corpora [[immixta]] aggerens fluctus que Simois caede
+     Hercul VERB: ' infide uector ' inquit ' [[immixti]] licet ganges et Hister uallibus
+     Hercul VERB: pars est et ipsa : pestis [[immiscet]] cuti . nec causa dirae
+     Octavi VERB: calcata caeno , uerba conueniunt feris [[immixta]] factis quae timor reticet meus
+  -- inmisceo: surfaces inmiscet
+     Troade VERB: primus excipiens diem tepidum rubenti Tigrin [[inmiscet]] freto , excisa ferro est
+## group 35 | initial h | hio (4) / io (1)
+  -- hio: surfaces hiante, hiantes, hiat
+     Phoeni VERB: , hic scissa tellus faucibus ruptis [[hiat]] : uis hanc petamus ?
+     Oedipu VERB: naris aduncae cruor et uenas rumpit [[hiantes]] ; intima creber uiscera quassat
+     Thyest VERB: in undis aliquid et peius fame [[hiante]] semper ? Sisyphi numquid lapis
+     Hercul VERB: hic ora soluit Ditis inuisi domus [[hiat]] que rupes alta et immenso
+  -- io: surfaces ius
+     Phaedr NOUN: mixtos deis profudit aetas , nullus [[Ius]] auri fuit caecus cupido ,
+## group 36 | double consonant | disicio (4) / dissicio (1)
+  -- disicio: surfaces disicite, disiecta
+     Phoeni VERB: , rapite in exitium omnia , [[disicite]] passim moenia , in planum
+     Troade VERB: mergetur ? ossa fluctibus spargi sinam [[disiecta]] uastis ? potius hic mortem
+     Troade VERB: praeceps locus reliquit artus ? ossa [[disiecta]] et graui elisa casu ;
+     Phaedr VERB: , maesto pectore incumbens foue . [[disiecta]] genitor membra laceri corporis in
+  -- dissicio: surfaces dissicit
+     Troade VERB: quas modo uidimus , arctoi Boreae [[dissicit]] impetus : sic hic ,
+## group 37 | prefix assimilation | exsurgo (3) / exurgo (2)
+  -- exsurgo: surfaces exsurgit, exsurgunt, exurge
+     Troade VERB: horreo . generosa in ortus semina [[exsurgunt]] suos : sic ille magni
+     Phaedr VERB: disturbat freta nec tam furens Ionius [[exsurgit]] sinus regnante Coro , saxa
+     Hercul VERB: meum uidere uictorem , libet ( [[exurge]] , uirtus ) quem nouum
+  -- exurgo: surfaces exurgat, exurgens
+     Medea VERB: : haec uirgo feci ; grauior [[exurgat]] dolor : maiora iam me
+     Hercul VERB: ferox ; at ille medias inter [[exurgens]] faces , semiustus ac laniatus
+## group 38 | prefix assimilation | exilio (4) / exsilio (1)
+  -- exilio: surfaces exiliat, exilit, exiluit
+     Hercul VERB: uiolenta turbet , nullus irato Ioue [[exiliat]] ignis , nullus hiberna niue
+     Medea VERB: . atque ecce , uiso memet [[exiluit]] , furit , fert odia
+     Hercul VERB: iacens sub rupe tigris hoste conspecto [[exilit]] aut iussa thyrsum quatere conceptum
+     Hercul VERB: spargit cruore ; talis in caelum [[exilit]] harundo Getica uisa dimitti manu
+  -- exsilio: surfaces exiliat
+     Hercul VERB: telo manus armetur : illud fulmen [[exiliat]] polo , quo , nisi
+## group 39 | prefix assimilation | impendo (3) / inpendo (1)
+  -- impendo: surfaces impendi, impendit, impensus
+     Troade VERB: , quando in inferias homo est [[impensus]] hominis ? detrahe inuidiam tuo
+     Hercul VERB: occupet , in cuius ortus mundus [[impendit]] diem tardus que Eoo Phoebus
+     Medea VERB: nisi fratris artus : hos quoque [[impendi]] tibi ; tibi patria cessit
+  -- inpendo: surfaces inpendo
+     Hercul VERB: Alcidae dies nullum malum prosternat , [[inpendo]] , ei mihi , in
+## group 40 | prefix assimilation | extruo (3) / exstruo (1)
+  -- extruo: surfaces extruat, extruit, extruxit
+     Octavi VERB: subiecta et humilis , atque monumenta [[extruit]] quibus timorem fassa testatur suum
+     Octavi VERB: partita fines regna constituit , nouas [[extruxit]] urbes/ tecta defendit sua ,
+     Octavi VERB: que membra rapientem rotam . licet [[extruat]] marmoribus atque auro tegat superbus
+  -- exstruo: surfaces extrue
+     Oedipu VERB: uoca aras que dono turis Eoi [[extrue]] . iam tura sacris caelitum
+## group 41 | ae/e | saepio (2) / sepio (1)
+  -- saepio: surfaces saeptam, septus
+     Agamem VERB: Mycenas ultimo in regni angulo uincite [[saeptam]] nocte tenebrosi specus , ut
+     Ecerin VERB: stetit . quid ille tantis uiribus [[septus]] facit ? quis uultus aut
+  -- sepio: surfaces sepire
+     Octavi VERB: factis quae timor reticet meus . [[sepire]] flammis principis sedem parant ,
+## group 42 | prefix assimilation | illido (2) / inlido (1)
+  -- illido: surfaces illidet, inlisum
+     Troade VERB: Danaos prece placare poteris , conditum [[illidet]] statim : immane busti pondus
+     Oedipu VERB: habet : bracchia prima cadunt praedonibus [[inlisum]] que utero pectus coit ,
+  -- inlido: surfaces inliso
+     Thyest VERB: uia . negatur ensis ? pectora [[inliso]] sonent contusa planctu — sustine
+## group 43 | prefix assimilation | irrogo (2) / inrogo (1)
+  -- irrogo: surfaces inroga, irroga
+     Phaedr VERB: , nunc tibimet ipse iusta supplicia [[irroga]] . pinus coacto uertice attingens
+     Hercul VERB: iubet nescit tyrannus esse : diuersa [[inroga]] ; miserum ueta perire ,
+  -- inrogo: surfaces inrogat
+     Hercul VERB: . nemo nocens sibi ipse poenas [[inrogat]] . multis remissa est uita
+## group 44 | prefix assimilation | allido (2) / adlido (1)
+  -- allido: surfaces allidens, allidit
+     Ecerin VERB: Ecerinus statim frustra resistens : unus [[allidit]] caput , fracto cerebro ;
+     Ecerin VERB: infantis pedes carpit , tenellum robori [[allidens]] caput : fuso cerebro sparsus
+  -- adlido: surfaces adlidet
+     Oedipu VERB: refersne nomen aut uultum senis ? [[adlidet]] animo forma ; nec notus
+## group 45 | y/i | limpha (1) / lympha (1)
+  -- limpha: surfaces limphis
+     Ecerin NOUN: timor . resperge faciem , sincopim [[limphis]] leua . facile resurget .
+  -- lympha: surfaces lympha
+     Oedipu NOUN: mouit comam ac repente sancta fontis [[lympha]] Castalii stetit , incipit Letoa
+## group 46 | prefix assimilation | conluceo (1) / colluceo (1)
+  -- conluceo: surfaces conlucent
+     Thyest VERB: fit miser . aperta multa tecta [[conlucent]] face . resupinus ipse purpurae
+  -- colluceo: surfaces conlucet
+     Agamem VERB: complexus ignes traxit et caeco mari [[conlucet]] Aiax , omne resplendet fretum
