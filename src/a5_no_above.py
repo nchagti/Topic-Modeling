@@ -20,7 +20,7 @@ within k = 7-9. Coherence (c_v) uses the token lists and the setting's dictionar
 Per setting and k: Ecerinis's dominant topic in each seed: alone or shared (and with
 whom); its top 20 words by relevance (lambda = 0.6, p(w) from the setting's model input);
 how many of those words occur in more than 5 of the 11 plays (the words no_above = 0.5
-removes) and their mean number of plays; theme-lexicon words (data/theme_lexicon.json)
+removes) and their mean number of plays; theme-lexicon words (data/theme_lexicon_v1.json)
 among them.
 
 Seed 42 at k = 8 and 9 (the conference seed; v2's rule-selected k is 9): Ecerinis's topic,
@@ -149,7 +149,7 @@ def main():
 
     trip = v2_corpus.token_lists("play")
     plays_per_word = Counter(w for _, _, l in trip for w in set(l))
-    lex = {k: v for k, v in json.loads((P.DATA / "theme_lexicon.json").read_text(encoding="utf-8")).items()
+    lex = {k: v for k, v in json.loads((P.DATA / "theme_lexicon_v1.json").read_text(encoding="utf-8")).items()
            if not k.startswith("_")}
     lex_words = {w for ws in lex.values() for w in ws}
     a2 = pd.read_csv(P.RESULTS / "a2_seeds" / "tradeoff_by_seed.csv")

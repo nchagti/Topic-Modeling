@@ -1,0 +1,7 @@
+{
+  "_note": "Theme word families for src/a5_theme_rates.py. Lemmas in the pipelines' spelling (u for v, i for j). Keys starting with '_' are ignored. Lists follow the table in the brief (A5); fatum is included in Fate because the brief lists it in that row. Candidates not included: falsum (LatinCy splits falsus/falsum; Ecerinis 2 original / 1 v2), fallo (Ecerinis 1).",
+  "Invasion": ["hostis", "urbs", "occupo", "inuado"],
+  "Deceit": ["falsus", "dolus", "fraus"],
+  "Punishment": ["supplicium", "ultio", "ignis"],
+  "Fate": ["sors", "sidus", "fatum"]
+}

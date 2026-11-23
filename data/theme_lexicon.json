@@ -1,7 +1,89 @@
 {
-  "_note": "Theme word families for src/a5_theme_rates.py. Lemmas in the pipelines' spelling (u for v, i for j). Keys starting with '_' are ignored. Lists follow the table in the brief (A5); fatum is included in Fate because the brief lists it in that row. Candidates not included: falsum (LatinCy splits falsus/falsum; Ecerinis 2 original / 1 v2), fallo (Ecerinis 1).",
-  "Invasion": ["hostis", "urbs", "occupo", "inuado"],
-  "Deceit": ["falsus", "dolus", "fraus"],
-  "Punishment": ["supplicium", "ultio", "ignis"],
-  "Fate": ["sors", "sidus", "fatum"]
+  "_note": "Theme lexicon v2 (author-chosen word families; context/theme_lexicon_v2_brief.md, revised by context/lexicon_audit_decisions.md). Lemmas in v2 spelling (u for v, i for j). Keys starting with '_' are ignored as families. prodo and uendo count only for the tokens the author marked (see _marked_only); fingo is not in any family. uendico ('claim', Ecerinis' spelling) is not counted under uindico. The earlier four-family lexicon is data/theme_lexicon_v1.json.",
+  "_sources": {
+    "invasion_conquest": "corpus-level Topic 7; chapter",
+    "deceit_betrayal": "corpus-level Topic 7; chapter (Betrayal); context/lexicon_audit_decisions.md",
+    "punishment_vengeance": "corpus-level Topic 7",
+    "fate_fortune": "act-level Topic 4; corpus-level Topic 7",
+    "natural_cosmic_order": "act-level Topic 12 (Friar Luca)",
+    "providence_divine": "chapter (Providence)",
+    "piety_virtue": "act-level Topics 11 and 12",
+    "sea_water": "act-level Topic 4",
+    "grief_lament": "act-level Topic 4",
+    "memory_report": "act-level Topic 4",
+    "community_commune": "act-level Topic 4 (chorus); keyness",
+    "law_judgment": "act-level Topic 19; chapter (Justice)",
+    "rule_kingship": "act-level Topics 11 and 12",
+    "tyranny_servitude": "act-level Topic 19; keyness",
+    "lineage_kin": "act-level Topic 11",
+    "rage_fury": "act-level Topics 12 and 19",
+    "discord_strife": "act-level Topics 11 and 19"
+  },
+  "_token_rules": [
+    {
+      "key": "uas",
+      "surface": "uadum",
+      "to": "uadum",
+      "reason": "LatinCy 3.9.8 lemma error (vadum 'ford'); lexicon counts only, the LDA input is unchanged"
+    },
+    {
+      "key": "furor",
+      "surface": "furabor",
+      "to": null,
+      "reason": "from furor 'steal' (deponent), not furor 'rage'"
+    },
+    {
+      "key": "deus",
+      "surface": "diti",
+      "to": null,
+      "reason": "from dis/diues, not deus"
+    },
+    {
+      "key": "deus",
+      "surface": "dites",
+      "to": null,
+      "reason": "from dis/diues, not deus"
+    }
+  ],
+  "_marked_only": {
+    "prodo": {
+      "file": "data/lexicon_marks/prodo_tokens_marked.csv",
+      "column": "betray",
+      "reason": "counted only where the author marked the sense 'betray'"
+    },
+    "uendo": {
+      "file": "data/lexicon_marks/uendo_tokens_marked.csv",
+      "column": "decision",
+      "reason": "counted only where the author marked 'sell' as betrayal (selling the city)"
+    }
+  },
+  "_pos_only": {
+    "foedus": {
+      "pos": "NOUN",
+      "reason": "foedus 'treaty' only; the adjective foedus 'foul' (e.g. Ece v. 237 Foeda) shares the key"
+    }
+  },
+  "_exclude_prefixes": {
+    "superus": {
+      "prefixes": ["summ", "supr"],
+      "reason": "LatinCy 3.9.8 files summus / supremus 'highest' under superus; only super- forms count"
+    }
+  },
+  "invasion_conquest": ["inuado", "occupo", "expugno", "obsideo", "hostis", "bellum", "arma", "armo"],
+  "deceit_betrayal": ["fraus", "dolus", "fallo", "falsus", "fallax", "insidiae", "astus", "transfuga", "proditor", "proditio", "perfidus", "perfidia", "periurus", "periurium", "foedus", "prodo", "uendo"],
+  "punishment_vengeance": ["poena", "punio", "supplicium", "ultio", "ulciscor", "uindex", "uindicta", "uindico", "cruciatus", "rogus"],
+  "fate_fortune": ["fatum", "fatalis", "fortuna", "sors", "parca", "destino"],
+  "natural_cosmic_order": ["natura", "ordo", "mundus", "caelum", "polus", "aether", "sidus", "astrum", "axis", "cursus"],
+  "providence_divine": ["deus", "numen", "superi", "diuinus", "prouidentia", "caelestis", "superus", "diuus", "diua"],
+  "piety_virtue": ["pietas", "pius", "impius", "fides", "spes", "caritas", "uirtus"],
+  "sea_water": ["mare", "pelagus", "pontus", "aequor", "fretum", "unda", "fluctus", "ratis", "nauis", "classis", "prora", "puppis", "uelum", "portus", "naufragium", "procella", "flumen", "fluuius", "amnis", "uadum"],
+  "grief_lament": ["lacrima", "lacrimo", "fleo", "luctus", "lugeo", "maeror", "maereo", "gemitus", "gemo", "planctus", "plango", "queror", "querela", "lamentor", "fletus"],
+  "memory_report": ["memoria", "memor", "memini", "recordor", "obliuiscor", "narro", "nuntius", "nuntio", "fama"],
+  "community_commune": ["ciuis", "ciuitas", "populus", "plebs", "uulgus", "turba", "grex", "patria", "urbs", "forum"],
+  "law_judgment": ["lex", "ius", "iustitia", "iustus", "iniustus", "iudex", "iudico", "iudicium", "lis", "reus", "crimen", "sententia", "aequus", "aequitas"],
+  "rule_kingship": ["rex", "regnum", "regno", "regius", "sceptrum", "solium", "diadema", "imperium", "impero", "iubeo", "dominus", "princeps"],
+  "tyranny_servitude": ["tyrannus", "tyrannis", "tyrannicus", "dominatio", "seruitus", "seruio", "iugum"],
+  "lineage_kin": ["pater", "paternus", "mater", "auus", "proles", "suboles", "stirps", "genus", "sanguis", "nepos", "progenies", "heres", "frater", "germanus", "parens", "natus", "nata"],
+  "rage_fury": ["ira", "irascor", "furor", "furo", "furiosus", "rabies", "rabidus", "saeuio", "saeuus", "insania", "exardesco", "odium", "furia"],
+  "discord_strife": ["discordia", "discors", "dissidium", "seditio", "factio", "rixa", "certamen", "contentio", "pugna", "pugno", "inimicus", "rebellis"]
 }

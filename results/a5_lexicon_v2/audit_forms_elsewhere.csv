@@ -1,0 +1,72 @@
+﻿lemma,family,form,v2_key,group,tokens,morpheus
+aequus,law_judgment,aequas,aequo,Seneca,1,aequo; aequs
+aequus,law_judgment,aequorum,aequor,Seneca,1,aequm; aequor; aequs
+armo,invasion_conquest,arma,arma,Seneca,56,arma; armo
+armo,invasion_conquest,armatis,armatus,Seneca,1,armatus; armo
+armo,invasion_conquest,armo,armus,Seneca,1,armo; armus
+cursus,natural_cosmic_order,cursibus,curro,Seneca,2,cursus
+falsus,deceit,falsusne,falsusne,Seneca,1,falo; falsus
+fama,memory_report,famis,fames,Ecerinis,1,fama; fames
+fleo,grief_lament,fletu,fletus,Seneca,12,fleo; fletus
+fleo,grief_lament,fletum,fletus,Seneca,4,fleo; fletus
+fleo,grief_lament,fletus,fletus,Seneca,17,fleo; fletus
+foedus,betrayal_broken_faith,foede,(removed),Seneca,1,foedus
+fraus,deceit,frauda,fraudo,Seneca,1,fraudo; fraus
+furo,rage_fury,furenti,furens,Seneca,3,furo
+furo,rage_fury,furor,furor,Seneca,51,furo; furor
+furo,rage_fury,furor,furor,Ecerinis,6,furo; furor
+gemo,grief_lament,gemitu,gemitus,Seneca,6,gemitus; gemo
+gemo,grief_lament,gemitum,gemitus,Seneca,2,gemitus; gemo
+gemo,grief_lament,gemitus,gemitus,Seneca,10,gemitus; gemo
+gemo,grief_lament,gemitus,gemitus,Ecerinis,3,gemitus; gemo
+gemo,grief_lament,gemma,gemma,Seneca,1,gema; gemo
+impius,piety_virtue,impie,(removed),Seneca,4,impie; impius
+iudicium,law_judgment,iudicis,iudex,Seneca,1,iudex; iudicium
+iudico,law_judgment,iudicem,iudex,Seneca,1,iudex; iudico
+iudico,law_judgment,iudices,iudex,Seneca,1,iudex; iudico
+iudico,law_judgment,iudices,iudex,Ecerinis,1,iudex; iudico
+iustus,law_judgment,iuste,(removed),Seneca,1,iustum; iustus
+lacrimo,grief_lament,lacrimas,lacrima,Seneca,30,lacrima; lacrimo
+mare,sea_water,maribus,mas,Seneca,1,mare; mas
+memor,memory_report,memorem,memoro,Seneca,1,memor; memoro
+memor,memory_report,memoria,memoria,Seneca,7,memor; memoria
+obsideo,invasion_conquest,obsides,obses,Seneca,1,obsideo; obsido
+pater,lineage_kin,pater-,(removed),Seneca,1,pater
+patria,community_commune,patrias,patrius,Seneca,2,patria; patrius
+patria,community_commune,patriis,patrius,Seneca,5,patria; patrium; patrius
+plango,grief_lament,planctu,planctus,Seneca,4,planctus; plango
+plango,grief_lament,planctus,planctus,Seneca,16,planctus; plango
+pontus,sea_water,pontusue,pontusue,Seneca,1,pontus
+prodo,betrayal_broken_faith,prodest,prosum,Seneca,5,prodo; prosum
+prodo,betrayal_broken_faith,prodit,prodeo,Ecerinis,1,prodeo; prodo
+pugno,discord_strife,pugnas,pugna,Seneca,1,pugna; pugno
+regius,rule_kingship,regi,rego,Seneca,8,regius; rego; rex
+regius,rule_kingship,regi,rex,Seneca,12,regius; rego; rex
+regno,rule_kingship,regna,regnum,Seneca,87,regno; regnum
+regno,rule_kingship,regna,regna,Seneca,1,regno; regnum
+regno,rule_kingship,regno,regnum,Seneca,38,regno; regnum
+saeuio,rage_fury,saeui,saeuus,Seneca,17,saeuio; saeus
+saeuio,rage_fury,saeui,saeuus,Ecerinis,1,saeuio; saeus
+saeuio,rage_fury,saeuior,saeuus,Seneca,2,saeuio; saeus
+saeuio,rage_fury,saeuis,saeuus,Seneca,10,saeuio; saeus
+sceptrum,rule_kingship,sceptrone,sceptro,Seneca,1,sceptrum
+solium,rule_kingship,soli,(removed),Seneca,7,sol; solium; solum; solus
+solium,rule_kingship,soli,solus,Seneca,3,sol; solium; solum; solus
+solium,rule_kingship,soli,sol,Seneca,1,sol; solium; solum; solus
+solium,rule_kingship,soli,solus,Ecerinis,1,sol; solium; solum; solus
+solium,rule_kingship,solis,(removed),Seneca,5,sol; solium; solum; solus
+solium,rule_kingship,solis,sol,Seneca,7,sol; solium; solum; solus
+solium,rule_kingship,solis,solus,Seneca,3,sol; solium; solum; solus
+solium,rule_kingship,solisne,solisne,Seneca,1,sol; solium; solum; solus
+suboles,lineage_kin,subole,suboleo,Seneca,3,suboleo; suboles
+supplicium,punishment_vengeance,supplici,supplex,Seneca,3,suplex; suplicium
+supplicium,punishment_vengeance,supplicis,supplex,Seneca,2,suplex; suplicium
+supplicium,punishment_vengeance,supplicis,supplex,Ecerinis,1,suplex; suplicium
+uadum,sea_water,uadum,uas,Seneca,3,uadum; uas
+uadum,sea_water,uadum,uas,Ecerinis,2,uadum; uas
+uindex,punishment_vengeance,uindices,uindico,Seneca,3,uindex; uindico
+uindico,punishment_vengeance,uindicem,uindex,Seneca,7,uindex; uindico
+uirtus,piety_virtue,uirtusne,uirtusne,Seneca,1,uirtus
+urbs,community_commune,urbes/,(removed),Seneca,1,urbs
+uulgus,community_commune,uulgo,(removed),Seneca,1,ulgo; ulgus
+uulgus,community_commune,uulgo,(removed),Ecerinis,1,ulgo; ulgus

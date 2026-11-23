@@ -1,0 +1,2157 @@
+﻿play,theme,word,count,rate
+Phoenissae,invasion_conquest,inuado,0,0.0
+Phoenissae,invasion_conquest,occupo,3,1.2082158679017319
+Phoenissae,invasion_conquest,expugno,0,0.0
+Phoenissae,invasion_conquest,obsideo,0,0.0
+Phoenissae,invasion_conquest,hostis,4,1.6109544905356423
+Phoenissae,invasion_conquest,bellum,20,8.054772452678211
+Phoenissae,invasion_conquest,arma,18,7.24929520741039
+Phoenissae,invasion_conquest,armo,2,0.8054772452678212
+Phoenissae,deceit_betrayal,fraus,2,0.8054772452678212
+Phoenissae,deceit_betrayal,dolus,3,1.2082158679017319
+Phoenissae,deceit_betrayal,fallo,3,1.2082158679017319
+Phoenissae,deceit_betrayal,falsus,0,0.0
+Phoenissae,deceit_betrayal,fallax,0,0.0
+Phoenissae,deceit_betrayal,insidiae,1,0.4027386226339106
+Phoenissae,deceit_betrayal,astus,0,0.0
+Phoenissae,deceit_betrayal,transfuga,0,0.0
+Phoenissae,deceit_betrayal,proditor,0,0.0
+Phoenissae,deceit_betrayal,proditio,0,0.0
+Phoenissae,deceit_betrayal,perfidus,0,0.0
+Phoenissae,deceit_betrayal,perfidia,0,0.0
+Phoenissae,deceit_betrayal,periurus,0,0.0
+Phoenissae,deceit_betrayal,periurium,0,0.0
+Phoenissae,deceit_betrayal,foedus,2,0.8054772452678212
+Phoenissae,deceit_betrayal,prodo,0,0.0
+Phoenissae,deceit_betrayal,uendo,0,0.0
+Phoenissae,punishment_vengeance,poena,12,4.832863471606927
+Phoenissae,punishment_vengeance,punio,0,0.0
+Phoenissae,punishment_vengeance,supplicium,3,1.2082158679017319
+Phoenissae,punishment_vengeance,ultio,0,0.0
+Phoenissae,punishment_vengeance,ulciscor,1,0.4027386226339106
+Phoenissae,punishment_vengeance,uindex,0,0.0
+Phoenissae,punishment_vengeance,uindicta,0,0.0
+Phoenissae,punishment_vengeance,uindico,0,0.0
+Phoenissae,punishment_vengeance,cruciatus,0,0.0
+Phoenissae,punishment_vengeance,rogus,1,0.4027386226339106
+Phoenissae,fate_fortune,fatum,6,2.4164317358034637
+Phoenissae,fate_fortune,fatalis,0,0.0
+Phoenissae,fate_fortune,fortuna,9,3.624647603705195
+Phoenissae,fate_fortune,sors,2,0.8054772452678212
+Phoenissae,fate_fortune,parca,0,0.0
+Phoenissae,fate_fortune,destino,1,0.4027386226339106
+Phoenissae,natural_cosmic_order,natura,3,1.2082158679017319
+Phoenissae,natural_cosmic_order,ordo,0,0.0
+Phoenissae,natural_cosmic_order,mundus,2,0.8054772452678212
+Phoenissae,natural_cosmic_order,caelum,4,1.6109544905356423
+Phoenissae,natural_cosmic_order,polus,1,0.4027386226339106
+Phoenissae,natural_cosmic_order,aether,0,0.0
+Phoenissae,natural_cosmic_order,sidus,0,0.0
+Phoenissae,natural_cosmic_order,astrum,0,0.0
+Phoenissae,natural_cosmic_order,axis,0,0.0
+Phoenissae,natural_cosmic_order,cursus,3,1.2082158679017319
+Phoenissae,providence_divine,deus,15,6.041079339508659
+Phoenissae,providence_divine,numen,0,0.0
+Phoenissae,providence_divine,superi,1,0.4027386226339106
+Phoenissae,providence_divine,diuinus,0,0.0
+Phoenissae,providence_divine,prouidentia,0,0.0
+Phoenissae,providence_divine,caelestis,0,0.0
+Phoenissae,providence_divine,superus,0,0.0
+Phoenissae,providence_divine,diuus,0,0.0
+Phoenissae,providence_divine,diua,0,0.0
+Phoenissae,piety_virtue,pietas,7,2.819170358437374
+Phoenissae,piety_virtue,pius,6,2.4164317358034637
+Phoenissae,piety_virtue,impius,4,1.6109544905356423
+Phoenissae,piety_virtue,fides,7,2.819170358437374
+Phoenissae,piety_virtue,spes,2,0.8054772452678212
+Phoenissae,piety_virtue,caritas,0,0.0
+Phoenissae,piety_virtue,uirtus,2,0.8054772452678212
+Phoenissae,sea_water,mare,6,2.4164317358034637
+Phoenissae,sea_water,pelagus,0,0.0
+Phoenissae,sea_water,pontus,0,0.0
+Phoenissae,sea_water,aequor,0,0.0
+Phoenissae,sea_water,fretum,3,1.2082158679017319
+Phoenissae,sea_water,unda,1,0.4027386226339106
+Phoenissae,sea_water,fluctus,0,0.0
+Phoenissae,sea_water,ratis,1,0.4027386226339106
+Phoenissae,sea_water,nauis,0,0.0
+Phoenissae,sea_water,classis,0,0.0
+Phoenissae,sea_water,prora,0,0.0
+Phoenissae,sea_water,puppis,0,0.0
+Phoenissae,sea_water,uelum,0,0.0
+Phoenissae,sea_water,portus,1,0.4027386226339106
+Phoenissae,sea_water,naufragium,0,0.0
+Phoenissae,sea_water,procella,1,0.4027386226339106
+Phoenissae,sea_water,flumen,0,0.0
+Phoenissae,sea_water,fluuius,0,0.0
+Phoenissae,sea_water,amnis,1,0.4027386226339106
+Phoenissae,sea_water,uadum,2,0.8054772452678212
+Phoenissae,grief_lament,lacrima,2,0.8054772452678212
+Phoenissae,grief_lament,lacrimo,0,0.0
+Phoenissae,grief_lament,fleo,1,0.4027386226339106
+Phoenissae,grief_lament,luctus,1,0.4027386226339106
+Phoenissae,grief_lament,lugeo,1,0.4027386226339106
+Phoenissae,grief_lament,maeror,0,0.0
+Phoenissae,grief_lament,maereo,0,0.0
+Phoenissae,grief_lament,gemitus,0,0.0
+Phoenissae,grief_lament,gemo,0,0.0
+Phoenissae,grief_lament,planctus,0,0.0
+Phoenissae,grief_lament,plango,0,0.0
+Phoenissae,grief_lament,queror,0,0.0
+Phoenissae,grief_lament,querela,0,0.0
+Phoenissae,grief_lament,lamentor,0,0.0
+Phoenissae,grief_lament,fletus,2,0.8054772452678212
+Phoenissae,memory_report,memoria,0,0.0
+Phoenissae,memory_report,memor,0,0.0
+Phoenissae,memory_report,memini,0,0.0
+Phoenissae,memory_report,recordor,0,0.0
+Phoenissae,memory_report,obliuiscor,0,0.0
+Phoenissae,memory_report,narro,0,0.0
+Phoenissae,memory_report,nuntius,0,0.0
+Phoenissae,memory_report,nuntio,0,0.0
+Phoenissae,memory_report,fama,0,0.0
+Phoenissae,community_commune,ciuis,4,1.6109544905356423
+Phoenissae,community_commune,ciuitas,0,0.0
+Phoenissae,community_commune,populus,4,1.6109544905356423
+Phoenissae,community_commune,plebs,0,0.0
+Phoenissae,community_commune,uulgus,0,0.0
+Phoenissae,community_commune,turba,2,0.8054772452678212
+Phoenissae,community_commune,grex,2,0.8054772452678212
+Phoenissae,community_commune,patria,11,4.4301248489730165
+Phoenissae,community_commune,urbs,3,1.2082158679017319
+Phoenissae,community_commune,forum,0,0.0
+Phoenissae,law_judgment,lex,1,0.4027386226339106
+Phoenissae,law_judgment,ius,4,1.6109544905356423
+Phoenissae,law_judgment,iustitia,0,0.0
+Phoenissae,law_judgment,iustus,0,0.0
+Phoenissae,law_judgment,iniustus,0,0.0
+Phoenissae,law_judgment,iudex,1,0.4027386226339106
+Phoenissae,law_judgment,iudico,0,0.0
+Phoenissae,law_judgment,iudicium,0,0.0
+Phoenissae,law_judgment,lis,0,0.0
+Phoenissae,law_judgment,reus,1,0.4027386226339106
+Phoenissae,law_judgment,crimen,5,2.013693113169553
+Phoenissae,law_judgment,sententia,0,0.0
+Phoenissae,law_judgment,aequus,0,0.0
+Phoenissae,law_judgment,aequitas,0,0.0
+Phoenissae,rule_kingship,rex,8,3.2219089810712846
+Phoenissae,rule_kingship,regnum,26,10.471204188481675
+Phoenissae,rule_kingship,regno,3,1.2082158679017319
+Phoenissae,rule_kingship,regius,2,0.8054772452678212
+Phoenissae,rule_kingship,sceptrum,6,2.4164317358034637
+Phoenissae,rule_kingship,solium,0,0.0
+Phoenissae,rule_kingship,diadema,0,0.0
+Phoenissae,rule_kingship,imperium,7,2.819170358437374
+Phoenissae,rule_kingship,impero,3,1.2082158679017319
+Phoenissae,rule_kingship,iubeo,6,2.4164317358034637
+Phoenissae,rule_kingship,dominus,0,0.0
+Phoenissae,rule_kingship,princeps,0,0.0
+Phoenissae,tyranny_servitude,tyrannus,0,0.0
+Phoenissae,tyranny_servitude,tyrannis,0,0.0
+Phoenissae,tyranny_servitude,tyrannicus,0,0.0
+Phoenissae,tyranny_servitude,dominatio,0,0.0
+Phoenissae,tyranny_servitude,seruitus,1,0.4027386226339106
+Phoenissae,tyranny_servitude,seruio,0,0.0
+Phoenissae,tyranny_servitude,iugum,4,1.6109544905356423
+Phoenissae,lineage_kin,pater,25,10.068465565847765
+Phoenissae,lineage_kin,paternus,6,2.4164317358034637
+Phoenissae,lineage_kin,mater,31,12.484897301651229
+Phoenissae,lineage_kin,auus,2,0.8054772452678212
+Phoenissae,lineage_kin,proles,1,0.4027386226339106
+Phoenissae,lineage_kin,suboles,0,0.0
+Phoenissae,lineage_kin,stirps,1,0.4027386226339106
+Phoenissae,lineage_kin,genus,1,0.4027386226339106
+Phoenissae,lineage_kin,sanguis,5,2.013693113169553
+Phoenissae,lineage_kin,nepos,1,0.4027386226339106
+Phoenissae,lineage_kin,progenies,1,0.4027386226339106
+Phoenissae,lineage_kin,heres,0,0.0
+Phoenissae,lineage_kin,frater,25,10.068465565847765
+Phoenissae,lineage_kin,germanus,1,0.4027386226339106
+Phoenissae,lineage_kin,parens,18,7.24929520741039
+Phoenissae,lineage_kin,natus,13,5.2356020942408374
+Phoenissae,lineage_kin,nata,4,1.6109544905356423
+Phoenissae,rage_fury,ira,5,2.013693113169553
+Phoenissae,rage_fury,irascor,0,0.0
+Phoenissae,rage_fury,furor,2,0.8054772452678212
+Phoenissae,rage_fury,furo,6,2.4164317358034637
+Phoenissae,rage_fury,furiosus,0,0.0
+Phoenissae,rage_fury,rabies,0,0.0
+Phoenissae,rage_fury,rabidus,0,0.0
+Phoenissae,rage_fury,saeuio,0,0.0
+Phoenissae,rage_fury,saeuus,12,4.832863471606927
+Phoenissae,rage_fury,insania,0,0.0
+Phoenissae,rage_fury,exardesco,0,0.0
+Phoenissae,rage_fury,odium,3,1.2082158679017319
+Phoenissae,rage_fury,furia,0,0.0
+Phoenissae,discord_strife,discordia,0,0.0
+Phoenissae,discord_strife,discors,0,0.0
+Phoenissae,discord_strife,dissidium,0,0.0
+Phoenissae,discord_strife,seditio,0,0.0
+Phoenissae,discord_strife,factio,0,0.0
+Phoenissae,discord_strife,rixa,0,0.0
+Phoenissae,discord_strife,certamen,0,0.0
+Phoenissae,discord_strife,contentio,0,0.0
+Phoenissae,discord_strife,pugna,2,0.8054772452678212
+Phoenissae,discord_strife,pugno,1,0.4027386226339106
+Phoenissae,discord_strife,inimicus,1,0.4027386226339106
+Phoenissae,discord_strife,rebellis,0,0.0
+Troades,invasion_conquest,inuado,0,0.0
+Troades,invasion_conquest,occupo,3,0.723589001447178
+Troades,invasion_conquest,expugno,0,0.0
+Troades,invasion_conquest,obsideo,2,0.482392667631452
+Troades,invasion_conquest,hostis,11,2.653159671972986
+Troades,invasion_conquest,bellum,17,4.100337674867342
+Troades,invasion_conquest,arma,12,2.894356005788712
+Troades,invasion_conquest,armo,1,0.241196333815726
+Troades,deceit_betrayal,fraus,5,1.20598166907863
+Troades,deceit_betrayal,dolus,6,1.447178002894356
+Troades,deceit_betrayal,fallo,2,0.482392667631452
+Troades,deceit_betrayal,falsus,3,0.723589001447178
+Troades,deceit_betrayal,fallax,3,0.723589001447178
+Troades,deceit_betrayal,insidiae,0,0.0
+Troades,deceit_betrayal,astus,3,0.723589001447178
+Troades,deceit_betrayal,transfuga,0,0.0
+Troades,deceit_betrayal,proditor,0,0.0
+Troades,deceit_betrayal,proditio,0,0.0
+Troades,deceit_betrayal,perfidus,0,0.0
+Troades,deceit_betrayal,perfidia,0,0.0
+Troades,deceit_betrayal,periurus,0,0.0
+Troades,deceit_betrayal,periurium,0,0.0
+Troades,deceit_betrayal,foedus,0,0.0
+Troades,deceit_betrayal,prodo,2,0.482392667631452
+Troades,deceit_betrayal,uendo,0,0.0
+Troades,punishment_vengeance,poena,11,2.653159671972986
+Troades,punishment_vengeance,punio,0,0.0
+Troades,punishment_vengeance,supplicium,0,0.0
+Troades,punishment_vengeance,ultio,0,0.0
+Troades,punishment_vengeance,ulciscor,0,0.0
+Troades,punishment_vengeance,uindex,1,0.241196333815726
+Troades,punishment_vengeance,uindicta,0,0.0
+Troades,punishment_vengeance,uindico,0,0.0
+Troades,punishment_vengeance,cruciatus,1,0.241196333815726
+Troades,punishment_vengeance,rogus,1,0.241196333815726
+Troades,fate_fortune,fatum,24,5.788712011577424
+Troades,fate_fortune,fatalis,1,0.241196333815726
+Troades,fate_fortune,fortuna,7,1.688374336710082
+Troades,fate_fortune,sors,9,2.170767004341534
+Troades,fate_fortune,parca,0,0.0
+Troades,fate_fortune,destino,0,0.0
+Troades,natural_cosmic_order,natura,0,0.0
+Troades,natural_cosmic_order,ordo,1,0.241196333815726
+Troades,natural_cosmic_order,mundus,2,0.482392667631452
+Troades,natural_cosmic_order,caelum,5,1.20598166907863
+Troades,natural_cosmic_order,polus,1,0.241196333815726
+Troades,natural_cosmic_order,aether,1,0.241196333815726
+Troades,natural_cosmic_order,sidus,1,0.241196333815726
+Troades,natural_cosmic_order,astrum,2,0.482392667631452
+Troades,natural_cosmic_order,axis,1,0.241196333815726
+Troades,natural_cosmic_order,cursus,1,0.241196333815726
+Troades,providence_divine,deus,21,5.065123010130246
+Troades,providence_divine,numen,2,0.482392667631452
+Troades,providence_divine,superi,4,0.964785335262904
+Troades,providence_divine,diuinus,0,0.0
+Troades,providence_divine,prouidentia,0,0.0
+Troades,providence_divine,caelestis,0,0.0
+Troades,providence_divine,superus,3,0.723589001447178
+Troades,providence_divine,diuus,1,0.241196333815726
+Troades,providence_divine,diua,0,0.0
+Troades,piety_virtue,pietas,1,0.241196333815726
+Troades,piety_virtue,pius,3,0.723589001447178
+Troades,piety_virtue,impius,0,0.0
+Troades,piety_virtue,fides,9,2.170767004341534
+Troades,piety_virtue,spes,5,1.20598166907863
+Troades,piety_virtue,caritas,0,0.0
+Troades,piety_virtue,uirtus,3,0.723589001447178
+Troades,sea_water,mare,14,3.376748673420164
+Troades,sea_water,pelagus,5,1.20598166907863
+Troades,sea_water,pontus,4,0.964785335262904
+Troades,sea_water,aequor,4,0.964785335262904
+Troades,sea_water,fretum,7,1.688374336710082
+Troades,sea_water,unda,2,0.482392667631452
+Troades,sea_water,fluctus,6,1.447178002894356
+Troades,sea_water,ratis,12,2.894356005788712
+Troades,sea_water,nauis,1,0.241196333815726
+Troades,sea_water,classis,10,2.41196333815726
+Troades,sea_water,prora,0,0.0
+Troades,sea_water,puppis,3,0.723589001447178
+Troades,sea_water,uelum,5,1.20598166907863
+Troades,sea_water,portus,2,0.482392667631452
+Troades,sea_water,naufragium,0,0.0
+Troades,sea_water,procella,2,0.482392667631452
+Troades,sea_water,flumen,0,0.0
+Troades,sea_water,fluuius,0,0.0
+Troades,sea_water,amnis,1,0.241196333815726
+Troades,sea_water,uadum,3,0.723589001447178
+Troades,grief_lament,lacrima,11,2.653159671972986
+Troades,grief_lament,lacrimo,2,0.482392667631452
+Troades,grief_lament,fleo,11,2.653159671972986
+Troades,grief_lament,luctus,12,2.894356005788712
+Troades,grief_lament,lugeo,5,1.20598166907863
+Troades,grief_lament,maeror,3,0.723589001447178
+Troades,grief_lament,maereo,3,0.723589001447178
+Troades,grief_lament,gemitus,4,0.964785335262904
+Troades,grief_lament,gemo,6,1.447178002894356
+Troades,grief_lament,planctus,7,1.688374336710082
+Troades,grief_lament,plango,0,0.0
+Troades,grief_lament,queror,2,0.482392667631452
+Troades,grief_lament,querela,2,0.482392667631452
+Troades,grief_lament,lamentor,0,0.0
+Troades,grief_lament,fletus,12,2.894356005788712
+Troades,memory_report,memoria,0,0.0
+Troades,memory_report,memor,1,0.241196333815726
+Troades,memory_report,memini,0,0.0
+Troades,memory_report,recordor,0,0.0
+Troades,memory_report,obliuiscor,1,0.241196333815726
+Troades,memory_report,narro,1,0.241196333815726
+Troades,memory_report,nuntius,0,0.0
+Troades,memory_report,nuntio,0,0.0
+Troades,memory_report,fama,1,0.241196333815726
+Troades,community_commune,ciuis,1,0.241196333815726
+Troades,community_commune,ciuitas,0,0.0
+Troades,community_commune,populus,6,1.447178002894356
+Troades,community_commune,plebs,1,0.241196333815726
+Troades,community_commune,uulgus,6,1.447178002894356
+Troades,community_commune,turba,11,2.653159671972986
+Troades,community_commune,grex,8,1.929570670525808
+Troades,community_commune,patria,9,2.170767004341534
+Troades,community_commune,urbs,6,1.447178002894356
+Troades,community_commune,forum,0,0.0
+Troades,law_judgment,lex,2,0.482392667631452
+Troades,law_judgment,ius,5,1.20598166907863
+Troades,law_judgment,iustitia,0,0.0
+Troades,law_judgment,iustus,0,0.0
+Troades,law_judgment,iniustus,1,0.241196333815726
+Troades,law_judgment,iudex,3,0.723589001447178
+Troades,law_judgment,iudico,0,0.0
+Troades,law_judgment,iudicium,1,0.241196333815726
+Troades,law_judgment,lis,1,0.241196333815726
+Troades,law_judgment,reus,0,0.0
+Troades,law_judgment,crimen,0,0.0
+Troades,law_judgment,sententia,0,0.0
+Troades,law_judgment,aequus,2,0.482392667631452
+Troades,law_judgment,aequitas,0,0.0
+Troades,rule_kingship,rex,16,3.859141341051616
+Troades,rule_kingship,regnum,15,3.61794500723589
+Troades,rule_kingship,regno,0,0.0
+Troades,rule_kingship,regius,6,1.447178002894356
+Troades,rule_kingship,sceptrum,4,0.964785335262904
+Troades,rule_kingship,solium,2,0.482392667631452
+Troades,rule_kingship,diadema,0,0.0
+Troades,rule_kingship,imperium,1,0.241196333815726
+Troades,rule_kingship,impero,1,0.241196333815726
+Troades,rule_kingship,iubeo,12,2.894356005788712
+Troades,rule_kingship,dominus,11,2.653159671972986
+Troades,rule_kingship,princeps,0,0.0
+Troades,tyranny_servitude,tyrannus,1,0.241196333815726
+Troades,tyranny_servitude,tyrannis,0,0.0
+Troades,tyranny_servitude,tyrannicus,0,0.0
+Troades,tyranny_servitude,dominatio,0,0.0
+Troades,tyranny_servitude,seruitus,1,0.241196333815726
+Troades,tyranny_servitude,seruio,2,0.482392667631452
+Troades,tyranny_servitude,iugum,10,2.41196333815726
+Troades,lineage_kin,pater,18,4.341534008683068
+Troades,lineage_kin,paternus,5,1.20598166907863
+Troades,lineage_kin,mater,26,6.271104679208876
+Troades,lineage_kin,auus,2,0.482392667631452
+Troades,lineage_kin,proles,1,0.241196333815726
+Troades,lineage_kin,suboles,2,0.482392667631452
+Troades,lineage_kin,stirps,4,0.964785335262904
+Troades,lineage_kin,genus,2,0.482392667631452
+Troades,lineage_kin,sanguis,9,2.170767004341534
+Troades,lineage_kin,nepos,4,0.964785335262904
+Troades,lineage_kin,progenies,1,0.241196333815726
+Troades,lineage_kin,heres,0,0.0
+Troades,lineage_kin,frater,2,0.482392667631452
+Troades,lineage_kin,germanus,0,0.0
+Troades,lineage_kin,parens,14,3.376748673420164
+Troades,lineage_kin,natus,19,4.582730342498794
+Troades,lineage_kin,nata,5,1.20598166907863
+Troades,rage_fury,ira,6,1.447178002894356
+Troades,rage_fury,irascor,2,0.482392667631452
+Troades,rage_fury,furor,4,0.964785335262904
+Troades,rage_fury,furo,3,0.723589001447178
+Troades,rage_fury,furiosus,0,0.0
+Troades,rage_fury,rabies,0,0.0
+Troades,rage_fury,rabidus,0,0.0
+Troades,rage_fury,saeuio,2,0.482392667631452
+Troades,rage_fury,saeuus,16,3.859141341051616
+Troades,rage_fury,insania,0,0.0
+Troades,rage_fury,exardesco,0,0.0
+Troades,rage_fury,odium,1,0.241196333815726
+Troades,rage_fury,furia,0,0.0
+Troades,discord_strife,discordia,0,0.0
+Troades,discord_strife,discors,0,0.0
+Troades,discord_strife,dissidium,0,0.0
+Troades,discord_strife,seditio,0,0.0
+Troades,discord_strife,factio,0,0.0
+Troades,discord_strife,rixa,0,0.0
+Troades,discord_strife,certamen,0,0.0
+Troades,discord_strife,contentio,0,0.0
+Troades,discord_strife,pugna,0,0.0
+Troades,discord_strife,pugno,0,0.0
+Troades,discord_strife,inimicus,1,0.241196333815726
+Troades,discord_strife,rebellis,0,0.0
+Phaedra,invasion_conquest,inuado,1,0.2048760499897562
+Phaedra,invasion_conquest,occupo,0,0.0
+Phaedra,invasion_conquest,expugno,0,0.0
+Phaedra,invasion_conquest,obsideo,1,0.2048760499897562
+Phaedra,invasion_conquest,hostis,2,0.4097520999795124
+Phaedra,invasion_conquest,bellum,3,0.6146281499692686
+Phaedra,invasion_conquest,arma,2,0.4097520999795124
+Phaedra,invasion_conquest,armo,2,0.4097520999795124
+Phaedra,deceit_betrayal,fraus,3,0.6146281499692686
+Phaedra,deceit_betrayal,dolus,4,0.8195041999590248
+Phaedra,deceit_betrayal,fallo,1,0.2048760499897562
+Phaedra,deceit_betrayal,falsus,6,1.2292562999385372
+Phaedra,deceit_betrayal,fallax,3,0.6146281499692686
+Phaedra,deceit_betrayal,insidiae,1,0.2048760499897562
+Phaedra,deceit_betrayal,astus,1,0.2048760499897562
+Phaedra,deceit_betrayal,transfuga,0,0.0
+Phaedra,deceit_betrayal,proditor,0,0.0
+Phaedra,deceit_betrayal,proditio,0,0.0
+Phaedra,deceit_betrayal,perfidus,0,0.0
+Phaedra,deceit_betrayal,perfidia,0,0.0
+Phaedra,deceit_betrayal,periurus,0,0.0
+Phaedra,deceit_betrayal,periurium,0,0.0
+Phaedra,deceit_betrayal,foedus,2,0.4097520999795124
+Phaedra,deceit_betrayal,prodo,1,0.2048760499897562
+Phaedra,deceit_betrayal,uendo,0,0.0
+Phaedra,punishment_vengeance,poena,6,1.2292562999385372
+Phaedra,punishment_vengeance,punio,1,0.2048760499897562
+Phaedra,punishment_vengeance,supplicium,2,0.4097520999795124
+Phaedra,punishment_vengeance,ultio,0,0.0
+Phaedra,punishment_vengeance,ulciscor,0,0.0
+Phaedra,punishment_vengeance,uindex,2,0.4097520999795124
+Phaedra,punishment_vengeance,uindicta,0,0.0
+Phaedra,punishment_vengeance,uindico,3,0.6146281499692686
+Phaedra,punishment_vengeance,cruciatus,0,0.0
+Phaedra,punishment_vengeance,rogus,3,0.6146281499692686
+Phaedra,fate_fortune,fatum,8,1.6390083999180496
+Phaedra,fate_fortune,fatalis,1,0.2048760499897562
+Phaedra,fate_fortune,fortuna,5,1.024380249948781
+Phaedra,fate_fortune,sors,5,1.024380249948781
+Phaedra,fate_fortune,parca,0,0.0
+Phaedra,fate_fortune,destino,0,0.0
+Phaedra,natural_cosmic_order,natura,7,1.4341323499282934
+Phaedra,natural_cosmic_order,ordo,3,0.6146281499692686
+Phaedra,natural_cosmic_order,mundus,10,2.048760499897562
+Phaedra,natural_cosmic_order,caelum,15,3.073140749846343
+Phaedra,natural_cosmic_order,polus,7,1.4341323499282934
+Phaedra,natural_cosmic_order,aether,6,1.2292562999385372
+Phaedra,natural_cosmic_order,sidus,10,2.048760499897562
+Phaedra,natural_cosmic_order,astrum,3,0.6146281499692686
+Phaedra,natural_cosmic_order,axis,1,0.2048760499897562
+Phaedra,natural_cosmic_order,cursus,9,1.8438844499078058
+Phaedra,providence_divine,deus,17,3.4828928498258556
+Phaedra,providence_divine,numen,9,1.8438844499078058
+Phaedra,providence_divine,superi,4,0.8195041999590248
+Phaedra,providence_divine,diuinus,0,0.0
+Phaedra,providence_divine,prouidentia,0,0.0
+Phaedra,providence_divine,caelestis,0,0.0
+Phaedra,providence_divine,superus,0,0.0
+Phaedra,providence_divine,diuus,3,0.6146281499692686
+Phaedra,providence_divine,diua,2,0.4097520999795124
+Phaedra,piety_virtue,pietas,3,0.6146281499692686
+Phaedra,piety_virtue,pius,2,0.4097520999795124
+Phaedra,piety_virtue,impius,9,1.8438844499078058
+Phaedra,piety_virtue,fides,5,1.024380249948781
+Phaedra,piety_virtue,spes,4,0.8195041999590248
+Phaedra,piety_virtue,caritas,0,0.0
+Phaedra,piety_virtue,uirtus,2,0.4097520999795124
+Phaedra,sea_water,mare,16,3.278016799836099
+Phaedra,sea_water,pelagus,2,0.4097520999795124
+Phaedra,sea_water,pontus,11,2.253636549887318
+Phaedra,sea_water,aequor,1,0.2048760499897562
+Phaedra,sea_water,fretum,4,0.8195041999590248
+Phaedra,sea_water,unda,16,3.278016799836099
+Phaedra,sea_water,fluctus,8,1.6390083999180496
+Phaedra,sea_water,ratis,7,1.4341323499282934
+Phaedra,sea_water,nauis,0,0.0
+Phaedra,sea_water,classis,0,0.0
+Phaedra,sea_water,prora,0,0.0
+Phaedra,sea_water,puppis,1,0.2048760499897562
+Phaedra,sea_water,uelum,0,0.0
+Phaedra,sea_water,portus,0,0.0
+Phaedra,sea_water,naufragium,0,0.0
+Phaedra,sea_water,procella,1,0.2048760499897562
+Phaedra,sea_water,flumen,0,0.0
+Phaedra,sea_water,fluuius,0,0.0
+Phaedra,sea_water,amnis,6,1.2292562999385372
+Phaedra,sea_water,uadum,4,0.8195041999590248
+Phaedra,grief_lament,lacrima,6,1.2292562999385372
+Phaedra,grief_lament,lacrimo,1,0.2048760499897562
+Phaedra,grief_lament,fleo,2,0.4097520999795124
+Phaedra,grief_lament,luctus,1,0.2048760499897562
+Phaedra,grief_lament,lugeo,1,0.2048760499897562
+Phaedra,grief_lament,maeror,0,0.0
+Phaedra,grief_lament,maereo,0,0.0
+Phaedra,grief_lament,gemitus,0,0.0
+Phaedra,grief_lament,gemo,2,0.4097520999795124
+Phaedra,grief_lament,planctus,1,0.2048760499897562
+Phaedra,grief_lament,plango,0,0.0
+Phaedra,grief_lament,queror,0,0.0
+Phaedra,grief_lament,querela,2,0.4097520999795124
+Phaedra,grief_lament,lamentor,0,0.0
+Phaedra,grief_lament,fletus,3,0.6146281499692686
+Phaedra,memory_report,memoria,0,0.0
+Phaedra,memory_report,memor,2,0.4097520999795124
+Phaedra,memory_report,memini,3,0.6146281499692686
+Phaedra,memory_report,recordor,0,0.0
+Phaedra,memory_report,obliuiscor,0,0.0
+Phaedra,memory_report,narro,0,0.0
+Phaedra,memory_report,nuntius,3,0.6146281499692686
+Phaedra,memory_report,nuntio,0,0.0
+Phaedra,memory_report,fama,4,0.8195041999590248
+Phaedra,community_commune,ciuis,3,0.6146281499692686
+Phaedra,community_commune,ciuitas,0,0.0
+Phaedra,community_commune,populus,8,1.6390083999180496
+Phaedra,community_commune,plebs,0,0.0
+Phaedra,community_commune,uulgus,3,0.6146281499692686
+Phaedra,community_commune,turba,4,0.8195041999590248
+Phaedra,community_commune,grex,4,0.8195041999590248
+Phaedra,community_commune,patria,0,0.0
+Phaedra,community_commune,urbs,7,1.4341323499282934
+Phaedra,community_commune,forum,0,0.0
+Phaedra,law_judgment,lex,5,1.024380249948781
+Phaedra,law_judgment,ius,3,0.6146281499692686
+Phaedra,law_judgment,iustitia,0,0.0
+Phaedra,law_judgment,iustus,4,0.8195041999590248
+Phaedra,law_judgment,iniustus,0,0.0
+Phaedra,law_judgment,iudex,0,0.0
+Phaedra,law_judgment,iudico,0,0.0
+Phaedra,law_judgment,iudicium,0,0.0
+Phaedra,law_judgment,lis,0,0.0
+Phaedra,law_judgment,reus,0,0.0
+Phaedra,law_judgment,crimen,6,1.2292562999385372
+Phaedra,law_judgment,sententia,0,0.0
+Phaedra,law_judgment,aequus,2,0.4097520999795124
+Phaedra,law_judgment,aequitas,0,0.0
+Phaedra,rule_kingship,rex,4,0.8195041999590248
+Phaedra,rule_kingship,regnum,20,4.097520999795124
+Phaedra,rule_kingship,regno,4,0.8195041999590248
+Phaedra,rule_kingship,regius,8,1.6390083999180496
+Phaedra,rule_kingship,sceptrum,3,0.6146281499692686
+Phaedra,rule_kingship,solium,2,0.4097520999795124
+Phaedra,rule_kingship,diadema,0,0.0
+Phaedra,rule_kingship,imperium,7,1.4341323499282934
+Phaedra,rule_kingship,impero,0,0.0
+Phaedra,rule_kingship,iubeo,9,1.8438844499078058
+Phaedra,rule_kingship,dominus,5,1.024380249948781
+Phaedra,rule_kingship,princeps,0,0.0
+Phaedra,tyranny_servitude,tyrannus,1,0.2048760499897562
+Phaedra,tyranny_servitude,tyrannis,0,0.0
+Phaedra,tyranny_servitude,tyrannicus,0,0.0
+Phaedra,tyranny_servitude,dominatio,0,0.0
+Phaedra,tyranny_servitude,seruitus,0,0.0
+Phaedra,tyranny_servitude,seruio,1,0.2048760499897562
+Phaedra,tyranny_servitude,iugum,12,2.4585125998770745
+Phaedra,lineage_kin,pater,12,2.4585125998770745
+Phaedra,lineage_kin,paternus,3,0.6146281499692686
+Phaedra,lineage_kin,mater,16,3.278016799836099
+Phaedra,lineage_kin,auus,2,0.4097520999795124
+Phaedra,lineage_kin,proles,3,0.6146281499692686
+Phaedra,lineage_kin,suboles,0,0.0
+Phaedra,lineage_kin,stirps,4,0.8195041999590248
+Phaedra,lineage_kin,genus,14,2.868264699856587
+Phaedra,lineage_kin,sanguis,4,0.8195041999590248
+Phaedra,lineage_kin,nepos,0,0.0
+Phaedra,lineage_kin,progenies,1,0.2048760499897562
+Phaedra,lineage_kin,heres,1,0.2048760499897562
+Phaedra,lineage_kin,frater,5,1.024380249948781
+Phaedra,lineage_kin,germanus,0,0.0
+Phaedra,lineage_kin,parens,15,3.073140749846343
+Phaedra,lineage_kin,natus,15,3.073140749846343
+Phaedra,lineage_kin,nata,0,0.0
+Phaedra,rage_fury,ira,5,1.024380249948781
+Phaedra,rage_fury,irascor,0,0.0
+Phaedra,rage_fury,furor,17,3.4828928498258556
+Phaedra,rage_fury,furo,6,1.2292562999385372
+Phaedra,rage_fury,furiosus,0,0.0
+Phaedra,rage_fury,rabies,0,0.0
+Phaedra,rage_fury,rabidus,1,0.2048760499897562
+Phaedra,rage_fury,saeuio,1,0.2048760499897562
+Phaedra,rage_fury,saeuus,13,2.6633886498668304
+Phaedra,rage_fury,insania,0,0.0
+Phaedra,rage_fury,exardesco,0,0.0
+Phaedra,rage_fury,odium,7,1.4341323499282934
+Phaedra,rage_fury,furia,0,0.0
+Phaedra,discord_strife,discordia,0,0.0
+Phaedra,discord_strife,discors,0,0.0
+Phaedra,discord_strife,dissidium,0,0.0
+Phaedra,discord_strife,seditio,0,0.0
+Phaedra,discord_strife,factio,0,0.0
+Phaedra,discord_strife,rixa,0,0.0
+Phaedra,discord_strife,certamen,0,0.0
+Phaedra,discord_strife,contentio,0,0.0
+Phaedra,discord_strife,pugna,0,0.0
+Phaedra,discord_strife,pugno,1,0.2048760499897562
+Phaedra,discord_strife,inimicus,1,0.2048760499897562
+Phaedra,discord_strife,rebellis,0,0.0
+Agamemnon,invasion_conquest,inuado,0,0.0
+Agamemnon,invasion_conquest,occupo,4,1.0931948619841487
+Agamemnon,invasion_conquest,expugno,0,0.0
+Agamemnon,invasion_conquest,obsideo,1,0.2732987154960372
+Agamemnon,invasion_conquest,hostis,6,1.639792292976223
+Agamemnon,invasion_conquest,bellum,9,2.4596884394643346
+Agamemnon,invasion_conquest,arma,7,1.91309100847226
+Agamemnon,invasion_conquest,armo,3,0.8198961464881115
+Agamemnon,deceit_betrayal,fraus,3,0.8198961464881115
+Agamemnon,deceit_betrayal,dolus,5,1.3664935774801859
+Agamemnon,deceit_betrayal,fallo,2,0.5465974309920744
+Agamemnon,deceit_betrayal,falsus,3,0.8198961464881115
+Agamemnon,deceit_betrayal,fallax,2,0.5465974309920744
+Agamemnon,deceit_betrayal,insidiae,0,0.0
+Agamemnon,deceit_betrayal,astus,0,0.0
+Agamemnon,deceit_betrayal,transfuga,0,0.0
+Agamemnon,deceit_betrayal,proditor,0,0.0
+Agamemnon,deceit_betrayal,proditio,0,0.0
+Agamemnon,deceit_betrayal,perfidus,3,0.8198961464881115
+Agamemnon,deceit_betrayal,perfidia,0,0.0
+Agamemnon,deceit_betrayal,periurus,0,0.0
+Agamemnon,deceit_betrayal,periurium,0,0.0
+Agamemnon,deceit_betrayal,foedus,0,0.0
+Agamemnon,deceit_betrayal,prodo,0,0.0
+Agamemnon,deceit_betrayal,uendo,0,0.0
+Agamemnon,punishment_vengeance,poena,5,1.3664935774801859
+Agamemnon,punishment_vengeance,punio,0,0.0
+Agamemnon,punishment_vengeance,supplicium,1,0.2732987154960372
+Agamemnon,punishment_vengeance,ultio,0,0.0
+Agamemnon,punishment_vengeance,ulciscor,0,0.0
+Agamemnon,punishment_vengeance,uindex,0,0.0
+Agamemnon,punishment_vengeance,uindicta,0,0.0
+Agamemnon,punishment_vengeance,uindico,0,0.0
+Agamemnon,punishment_vengeance,cruciatus,0,0.0
+Agamemnon,punishment_vengeance,rogus,3,0.8198961464881115
+Agamemnon,fate_fortune,fatum,12,3.279584585952446
+Agamemnon,fate_fortune,fatalis,2,0.5465974309920744
+Agamemnon,fate_fortune,fortuna,10,2.7329871549603717
+Agamemnon,fate_fortune,sors,3,0.8198961464881115
+Agamemnon,fate_fortune,parca,0,0.0
+Agamemnon,fate_fortune,destino,0,0.0
+Agamemnon,natural_cosmic_order,natura,2,0.5465974309920744
+Agamemnon,natural_cosmic_order,ordo,0,0.0
+Agamemnon,natural_cosmic_order,mundus,5,1.3664935774801859
+Agamemnon,natural_cosmic_order,caelum,12,3.279584585952446
+Agamemnon,natural_cosmic_order,polus,4,1.0931948619841487
+Agamemnon,natural_cosmic_order,aether,2,0.5465974309920744
+Agamemnon,natural_cosmic_order,sidus,1,0.2732987154960372
+Agamemnon,natural_cosmic_order,astrum,2,0.5465974309920744
+Agamemnon,natural_cosmic_order,axis,0,0.0
+Agamemnon,natural_cosmic_order,cursus,2,0.5465974309920744
+Agamemnon,providence_divine,deus,19,5.192675594424706
+Agamemnon,providence_divine,numen,3,0.8198961464881115
+Agamemnon,providence_divine,superi,5,1.3664935774801859
+Agamemnon,providence_divine,diuinus,0,0.0
+Agamemnon,providence_divine,prouidentia,0,0.0
+Agamemnon,providence_divine,caelestis,0,0.0
+Agamemnon,providence_divine,superus,1,0.2732987154960372
+Agamemnon,providence_divine,diuus,2,0.5465974309920744
+Agamemnon,providence_divine,diua,0,0.0
+Agamemnon,piety_virtue,pietas,2,0.5465974309920744
+Agamemnon,piety_virtue,pius,1,0.2732987154960372
+Agamemnon,piety_virtue,impius,9,2.4596884394643346
+Agamemnon,piety_virtue,fides,12,3.279584585952446
+Agamemnon,piety_virtue,spes,2,0.5465974309920744
+Agamemnon,piety_virtue,caritas,0,0.0
+Agamemnon,piety_virtue,uirtus,0,0.0
+Agamemnon,sea_water,mare,22,6.012571740912818
+Agamemnon,sea_water,pelagus,6,1.639792292976223
+Agamemnon,sea_water,pontus,3,0.8198961464881115
+Agamemnon,sea_water,aequor,3,0.8198961464881115
+Agamemnon,sea_water,fretum,7,1.91309100847226
+Agamemnon,sea_water,unda,13,3.552883301448483
+Agamemnon,sea_water,fluctus,9,2.4596884394643346
+Agamemnon,sea_water,ratis,22,6.012571740912818
+Agamemnon,sea_water,nauis,2,0.5465974309920744
+Agamemnon,sea_water,classis,10,2.7329871549603717
+Agamemnon,sea_water,prora,3,0.8198961464881115
+Agamemnon,sea_water,puppis,3,0.8198961464881115
+Agamemnon,sea_water,uelum,8,2.1863897239682974
+Agamemnon,sea_water,portus,3,0.8198961464881115
+Agamemnon,sea_water,naufragium,0,0.0
+Agamemnon,sea_water,procella,2,0.5465974309920744
+Agamemnon,sea_water,flumen,1,0.2732987154960372
+Agamemnon,sea_water,fluuius,0,0.0
+Agamemnon,sea_water,amnis,0,0.0
+Agamemnon,sea_water,uadum,3,0.8198961464881115
+Agamemnon,grief_lament,lacrima,7,1.91309100847226
+Agamemnon,grief_lament,lacrimo,1,0.2732987154960372
+Agamemnon,grief_lament,fleo,2,0.5465974309920744
+Agamemnon,grief_lament,luctus,1,0.2732987154960372
+Agamemnon,grief_lament,lugeo,4,1.0931948619841487
+Agamemnon,grief_lament,maeror,0,0.0
+Agamemnon,grief_lament,maereo,0,0.0
+Agamemnon,grief_lament,gemitus,1,0.2732987154960372
+Agamemnon,grief_lament,gemo,2,0.5465974309920744
+Agamemnon,grief_lament,planctus,0,0.0
+Agamemnon,grief_lament,plango,1,0.2732987154960372
+Agamemnon,grief_lament,queror,0,0.0
+Agamemnon,grief_lament,querela,0,0.0
+Agamemnon,grief_lament,lamentor,0,0.0
+Agamemnon,grief_lament,fletus,1,0.2732987154960372
+Agamemnon,memory_report,memoria,1,0.2732987154960372
+Agamemnon,memory_report,memor,2,0.5465974309920744
+Agamemnon,memory_report,memini,2,0.5465974309920744
+Agamemnon,memory_report,recordor,0,0.0
+Agamemnon,memory_report,obliuiscor,1,0.2732987154960372
+Agamemnon,memory_report,narro,2,0.5465974309920744
+Agamemnon,memory_report,nuntius,3,0.8198961464881115
+Agamemnon,memory_report,nuntio,0,0.0
+Agamemnon,memory_report,fama,1,0.2732987154960372
+Agamemnon,community_commune,ciuis,2,0.5465974309920744
+Agamemnon,community_commune,ciuitas,0,0.0
+Agamemnon,community_commune,populus,2,0.5465974309920744
+Agamemnon,community_commune,plebs,0,0.0
+Agamemnon,community_commune,uulgus,0,0.0
+Agamemnon,community_commune,turba,11,3.006285870456409
+Agamemnon,community_commune,grex,3,0.8198961464881115
+Agamemnon,community_commune,patria,2,0.5465974309920744
+Agamemnon,community_commune,urbs,2,0.5465974309920744
+Agamemnon,community_commune,forum,0,0.0
+Agamemnon,law_judgment,lex,4,1.0931948619841487
+Agamemnon,law_judgment,ius,3,0.8198961464881115
+Agamemnon,law_judgment,iustitia,0,0.0
+Agamemnon,law_judgment,iustus,1,0.2732987154960372
+Agamemnon,law_judgment,iniustus,0,0.0
+Agamemnon,law_judgment,iudex,1,0.2732987154960372
+Agamemnon,law_judgment,iudico,0,0.0
+Agamemnon,law_judgment,iudicium,0,0.0
+Agamemnon,law_judgment,lis,0,0.0
+Agamemnon,law_judgment,reus,1,0.2732987154960372
+Agamemnon,law_judgment,crimen,2,0.5465974309920744
+Agamemnon,law_judgment,sententia,0,0.0
+Agamemnon,law_judgment,aequus,1,0.2732987154960372
+Agamemnon,law_judgment,aequitas,0,0.0
+Agamemnon,rule_kingship,rex,16,4.372779447936595
+Agamemnon,rule_kingship,regnum,13,3.552883301448483
+Agamemnon,rule_kingship,regno,0,0.0
+Agamemnon,rule_kingship,regius,11,3.006285870456409
+Agamemnon,rule_kingship,sceptrum,6,1.639792292976223
+Agamemnon,rule_kingship,solium,1,0.2732987154960372
+Agamemnon,rule_kingship,diadema,0,0.0
+Agamemnon,rule_kingship,imperium,0,0.0
+Agamemnon,rule_kingship,impero,1,0.2732987154960372
+Agamemnon,rule_kingship,iubeo,5,1.3664935774801859
+Agamemnon,rule_kingship,dominus,2,0.5465974309920744
+Agamemnon,rule_kingship,princeps,0,0.0
+Agamemnon,tyranny_servitude,tyrannus,3,0.8198961464881115
+Agamemnon,tyranny_servitude,tyrannis,0,0.0
+Agamemnon,tyranny_servitude,tyrannicus,0,0.0
+Agamemnon,tyranny_servitude,dominatio,0,0.0
+Agamemnon,tyranny_servitude,seruitus,0,0.0
+Agamemnon,tyranny_servitude,seruio,0,0.0
+Agamemnon,tyranny_servitude,iugum,5,1.3664935774801859
+Agamemnon,lineage_kin,pater,20,5.465974309920743
+Agamemnon,lineage_kin,paternus,4,1.0931948619841487
+Agamemnon,lineage_kin,mater,7,1.91309100847226
+Agamemnon,lineage_kin,auus,1,0.2732987154960372
+Agamemnon,lineage_kin,proles,2,0.5465974309920744
+Agamemnon,lineage_kin,suboles,1,0.2732987154960372
+Agamemnon,lineage_kin,stirps,2,0.5465974309920744
+Agamemnon,lineage_kin,genus,7,1.91309100847226
+Agamemnon,lineage_kin,sanguis,9,2.4596884394643346
+Agamemnon,lineage_kin,nepos,3,0.8198961464881115
+Agamemnon,lineage_kin,progenies,0,0.0
+Agamemnon,lineage_kin,heres,0,0.0
+Agamemnon,lineage_kin,frater,7,1.91309100847226
+Agamemnon,lineage_kin,germanus,1,0.2732987154960372
+Agamemnon,lineage_kin,parens,10,2.7329871549603717
+Agamemnon,lineage_kin,natus,8,2.1863897239682974
+Agamemnon,lineage_kin,nata,5,1.3664935774801859
+Agamemnon,rage_fury,ira,3,0.8198961464881115
+Agamemnon,rage_fury,irascor,0,0.0
+Agamemnon,rage_fury,furor,8,2.1863897239682974
+Agamemnon,rage_fury,furo,9,2.4596884394643346
+Agamemnon,rage_fury,furiosus,1,0.2732987154960372
+Agamemnon,rage_fury,rabies,0,0.0
+Agamemnon,rage_fury,rabidus,2,0.5465974309920744
+Agamemnon,rage_fury,saeuio,1,0.2732987154960372
+Agamemnon,rage_fury,saeuus,4,1.0931948619841487
+Agamemnon,rage_fury,insania,0,0.0
+Agamemnon,rage_fury,exardesco,0,0.0
+Agamemnon,rage_fury,odium,1,0.2732987154960372
+Agamemnon,rage_fury,furia,0,0.0
+Agamemnon,discord_strife,discordia,0,0.0
+Agamemnon,discord_strife,discors,0,0.0
+Agamemnon,discord_strife,dissidium,0,0.0
+Agamemnon,discord_strife,seditio,0,0.0
+Agamemnon,discord_strife,factio,0,0.0
+Agamemnon,discord_strife,rixa,0,0.0
+Agamemnon,discord_strife,certamen,1,0.2732987154960372
+Agamemnon,discord_strife,contentio,0,0.0
+Agamemnon,discord_strife,pugna,0,0.0
+Agamemnon,discord_strife,pugno,0,0.0
+Agamemnon,discord_strife,inimicus,0,0.0
+Agamemnon,discord_strife,rebellis,0,0.0
+Hercules Furens,invasion_conquest,inuado,1,0.1989258006763477
+Hercules Furens,invasion_conquest,occupo,2,0.3978516013526954
+Hercules Furens,invasion_conquest,expugno,0,0.0
+Hercules Furens,invasion_conquest,obsideo,2,0.3978516013526954
+Hercules Furens,invasion_conquest,hostis,4,0.7957032027053909
+Hercules Furens,invasion_conquest,bellum,17,3.3817386114979113
+Hercules Furens,invasion_conquest,arma,19,3.7795902128506067
+Hercules Furens,invasion_conquest,armo,2,0.3978516013526954
+Hercules Furens,deceit_betrayal,fraus,0,0.0
+Hercules Furens,deceit_betrayal,dolus,0,0.0
+Hercules Furens,deceit_betrayal,fallo,0,0.0
+Hercules Furens,deceit_betrayal,falsus,3,0.5967774020290432
+Hercules Furens,deceit_betrayal,fallax,0,0.0
+Hercules Furens,deceit_betrayal,insidiae,0,0.0
+Hercules Furens,deceit_betrayal,astus,0,0.0
+Hercules Furens,deceit_betrayal,transfuga,0,0.0
+Hercules Furens,deceit_betrayal,proditor,0,0.0
+Hercules Furens,deceit_betrayal,proditio,0,0.0
+Hercules Furens,deceit_betrayal,perfidus,0,0.0
+Hercules Furens,deceit_betrayal,perfidia,0,0.0
+Hercules Furens,deceit_betrayal,periurus,0,0.0
+Hercules Furens,deceit_betrayal,periurium,0,0.0
+Hercules Furens,deceit_betrayal,foedus,1,0.1989258006763477
+Hercules Furens,deceit_betrayal,prodo,0,0.0
+Hercules Furens,deceit_betrayal,uendo,0,0.0
+Hercules Furens,punishment_vengeance,poena,8,1.5914064054107817
+Hercules Furens,punishment_vengeance,punio,0,0.0
+Hercules Furens,punishment_vengeance,supplicium,2,0.3978516013526954
+Hercules Furens,punishment_vengeance,ultio,0,0.0
+Hercules Furens,punishment_vengeance,ulciscor,1,0.1989258006763477
+Hercules Furens,punishment_vengeance,uindex,0,0.0
+Hercules Furens,punishment_vengeance,uindicta,1,0.1989258006763477
+Hercules Furens,punishment_vengeance,uindico,3,0.5967774020290432
+Hercules Furens,punishment_vengeance,cruciatus,0,0.0
+Hercules Furens,punishment_vengeance,rogus,6,1.1935548040580863
+Hercules Furens,fate_fortune,fatum,8,1.5914064054107817
+Hercules Furens,fate_fortune,fatalis,0,0.0
+Hercules Furens,fate_fortune,fortuna,4,0.7957032027053909
+Hercules Furens,fate_fortune,sors,4,0.7957032027053909
+Hercules Furens,fate_fortune,parca,0,0.0
+Hercules Furens,fate_fortune,destino,0,0.0
+Hercules Furens,natural_cosmic_order,natura,0,0.0
+Hercules Furens,natural_cosmic_order,ordo,1,0.1989258006763477
+Hercules Furens,natural_cosmic_order,mundus,18,3.580664412174259
+Hercules Furens,natural_cosmic_order,caelum,22,4.3763676148796495
+Hercules Furens,natural_cosmic_order,polus,9,1.7903322060871294
+Hercules Furens,natural_cosmic_order,aether,5,0.9946290033817387
+Hercules Furens,natural_cosmic_order,sidus,5,0.9946290033817387
+Hercules Furens,natural_cosmic_order,astrum,9,1.7903322060871294
+Hercules Furens,natural_cosmic_order,axis,0,0.0
+Hercules Furens,natural_cosmic_order,cursus,6,1.1935548040580863
+Hercules Furens,providence_divine,deus,22,4.3763676148796495
+Hercules Furens,providence_divine,numen,4,0.7957032027053909
+Hercules Furens,providence_divine,superi,11,2.1881838074398248
+Hercules Furens,providence_divine,diuinus,0,0.0
+Hercules Furens,providence_divine,prouidentia,0,0.0
+Hercules Furens,providence_divine,caelestis,1,0.1989258006763477
+Hercules Furens,providence_divine,superus,2,0.3978516013526954
+Hercules Furens,providence_divine,diuus,1,0.1989258006763477
+Hercules Furens,providence_divine,diua,0,0.0
+Hercules Furens,piety_virtue,pietas,2,0.3978516013526954
+Hercules Furens,piety_virtue,pius,2,0.3978516013526954
+Hercules Furens,piety_virtue,impius,11,2.1881838074398248
+Hercules Furens,piety_virtue,fides,8,1.5914064054107817
+Hercules Furens,piety_virtue,spes,2,0.3978516013526954
+Hercules Furens,piety_virtue,caritas,0,0.0
+Hercules Furens,piety_virtue,uirtus,17,3.3817386114979113
+Hercules Furens,sea_water,mare,15,2.983887010145216
+Hercules Furens,sea_water,pelagus,1,0.1989258006763477
+Hercules Furens,sea_water,pontus,5,0.9946290033817387
+Hercules Furens,sea_water,aequor,4,0.7957032027053909
+Hercules Furens,sea_water,fretum,6,1.1935548040580863
+Hercules Furens,sea_water,unda,12,2.3871096081161727
+Hercules Furens,sea_water,fluctus,5,0.9946290033817387
+Hercules Furens,sea_water,ratis,5,0.9946290033817387
+Hercules Furens,sea_water,nauis,2,0.3978516013526954
+Hercules Furens,sea_water,classis,1,0.1989258006763477
+Hercules Furens,sea_water,prora,0,0.0
+Hercules Furens,sea_water,puppis,4,0.7957032027053909
+Hercules Furens,sea_water,uelum,1,0.1989258006763477
+Hercules Furens,sea_water,portus,3,0.5967774020290432
+Hercules Furens,sea_water,naufragium,0,0.0
+Hercules Furens,sea_water,procella,0,0.0
+Hercules Furens,sea_water,flumen,2,0.3978516013526954
+Hercules Furens,sea_water,fluuius,1,0.1989258006763477
+Hercules Furens,sea_water,amnis,4,0.7957032027053909
+Hercules Furens,sea_water,uadum,5,0.9946290033817387
+Hercules Furens,grief_lament,lacrima,3,0.5967774020290432
+Hercules Furens,grief_lament,lacrimo,1,0.1989258006763477
+Hercules Furens,grief_lament,fleo,2,0.3978516013526954
+Hercules Furens,grief_lament,luctus,4,0.7957032027053909
+Hercules Furens,grief_lament,lugeo,1,0.1989258006763477
+Hercules Furens,grief_lament,maeror,2,0.3978516013526954
+Hercules Furens,grief_lament,maereo,0,0.0
+Hercules Furens,grief_lament,gemitus,1,0.1989258006763477
+Hercules Furens,grief_lament,gemo,2,0.3978516013526954
+Hercules Furens,grief_lament,planctus,1,0.1989258006763477
+Hercules Furens,grief_lament,plango,1,0.1989258006763477
+Hercules Furens,grief_lament,queror,3,0.5967774020290432
+Hercules Furens,grief_lament,querela,0,0.0
+Hercules Furens,grief_lament,lamentor,0,0.0
+Hercules Furens,grief_lament,fletus,2,0.3978516013526954
+Hercules Furens,memory_report,memoria,1,0.1989258006763477
+Hercules Furens,memory_report,memor,2,0.3978516013526954
+Hercules Furens,memory_report,memini,1,0.1989258006763477
+Hercules Furens,memory_report,recordor,0,0.0
+Hercules Furens,memory_report,obliuiscor,4,0.7957032027053909
+Hercules Furens,memory_report,narro,1,0.1989258006763477
+Hercules Furens,memory_report,nuntius,0,0.0
+Hercules Furens,memory_report,nuntio,1,0.1989258006763477
+Hercules Furens,memory_report,fama,5,0.9946290033817387
+Hercules Furens,community_commune,ciuis,1,0.1989258006763477
+Hercules Furens,community_commune,ciuitas,0,0.0
+Hercules Furens,community_commune,populus,13,2.5860354087925206
+Hercules Furens,community_commune,plebs,0,0.0
+Hercules Furens,community_commune,uulgus,1,0.1989258006763477
+Hercules Furens,community_commune,turba,9,1.7903322060871294
+Hercules Furens,community_commune,grex,11,2.1881838074398248
+Hercules Furens,community_commune,patria,4,0.7957032027053909
+Hercules Furens,community_commune,urbs,9,1.7903322060871294
+Hercules Furens,community_commune,forum,2,0.3978516013526954
+Hercules Furens,law_judgment,lex,3,0.5967774020290432
+Hercules Furens,law_judgment,ius,7,1.392480604734434
+Hercules Furens,law_judgment,iustitia,0,0.0
+Hercules Furens,law_judgment,iustus,2,0.3978516013526954
+Hercules Furens,law_judgment,iniustus,0,0.0
+Hercules Furens,law_judgment,iudex,1,0.1989258006763477
+Hercules Furens,law_judgment,iudico,0,0.0
+Hercules Furens,law_judgment,iudicium,1,0.1989258006763477
+Hercules Furens,law_judgment,lis,0,0.0
+Hercules Furens,law_judgment,reus,2,0.3978516013526954
+Hercules Furens,law_judgment,crimen,3,0.5967774020290432
+Hercules Furens,law_judgment,sententia,0,0.0
+Hercules Furens,law_judgment,aequus,2,0.3978516013526954
+Hercules Furens,law_judgment,aequitas,0,0.0
+Hercules Furens,rule_kingship,rex,20,3.9785160135269546
+Hercules Furens,rule_kingship,regnum,26,5.172070817585041
+Hercules Furens,rule_kingship,regno,6,1.1935548040580863
+Hercules Furens,rule_kingship,regius,2,0.3978516013526954
+Hercules Furens,rule_kingship,sceptrum,8,1.5914064054107817
+Hercules Furens,rule_kingship,solium,1,0.1989258006763477
+Hercules Furens,rule_kingship,diadema,0,0.0
+Hercules Furens,rule_kingship,imperium,6,1.1935548040580863
+Hercules Furens,rule_kingship,impero,6,1.1935548040580863
+Hercules Furens,rule_kingship,iubeo,16,3.1828128108215634
+Hercules Furens,rule_kingship,dominus,8,1.5914064054107817
+Hercules Furens,rule_kingship,princeps,0,0.0
+Hercules Furens,tyranny_servitude,tyrannus,6,1.1935548040580863
+Hercules Furens,tyranny_servitude,tyrannis,0,0.0
+Hercules Furens,tyranny_servitude,tyrannicus,0,0.0
+Hercules Furens,tyranny_servitude,dominatio,0,0.0
+Hercules Furens,tyranny_servitude,seruitus,0,0.0
+Hercules Furens,tyranny_servitude,seruio,2,0.3978516013526954
+Hercules Furens,tyranny_servitude,iugum,10,1.9892580067634773
+Hercules Furens,lineage_kin,pater,25,4.973145016908693
+Hercules Furens,lineage_kin,paternus,1,0.1989258006763477
+Hercules Furens,lineage_kin,mater,9,1.7903322060871294
+Hercules Furens,lineage_kin,auus,2,0.3978516013526954
+Hercules Furens,lineage_kin,proles,3,0.5967774020290432
+Hercules Furens,lineage_kin,suboles,0,0.0
+Hercules Furens,lineage_kin,stirps,2,0.3978516013526954
+Hercules Furens,lineage_kin,genus,13,2.5860354087925206
+Hercules Furens,lineage_kin,sanguis,8,1.5914064054107817
+Hercules Furens,lineage_kin,nepos,1,0.1989258006763477
+Hercules Furens,lineage_kin,progenies,0,0.0
+Hercules Furens,lineage_kin,heres,1,0.1989258006763477
+Hercules Furens,lineage_kin,frater,9,1.7903322060871294
+Hercules Furens,lineage_kin,germanus,1,0.1989258006763477
+Hercules Furens,lineage_kin,parens,17,3.3817386114979113
+Hercules Furens,lineage_kin,natus,21,4.177441814203302
+Hercules Furens,lineage_kin,nata,0,0.0
+Hercules Furens,rage_fury,ira,10,1.9892580067634773
+Hercules Furens,rage_fury,irascor,2,0.3978516013526954
+Hercules Furens,rage_fury,furor,11,2.1881838074398248
+Hercules Furens,rage_fury,furo,10,1.9892580067634773
+Hercules Furens,rage_fury,furiosus,0,0.0
+Hercules Furens,rage_fury,rabies,0,0.0
+Hercules Furens,rage_fury,rabidus,1,0.1989258006763477
+Hercules Furens,rage_fury,saeuio,2,0.3978516013526954
+Hercules Furens,rage_fury,saeuus,17,3.3817386114979113
+Hercules Furens,rage_fury,insania,0,0.0
+Hercules Furens,rage_fury,exardesco,0,0.0
+Hercules Furens,rage_fury,odium,8,1.5914064054107817
+Hercules Furens,rage_fury,furia,1,0.1989258006763477
+Hercules Furens,discord_strife,discordia,0,0.0
+Hercules Furens,discord_strife,discors,2,0.3978516013526954
+Hercules Furens,discord_strife,dissidium,0,0.0
+Hercules Furens,discord_strife,seditio,0,0.0
+Hercules Furens,discord_strife,factio,0,0.0
+Hercules Furens,discord_strife,rixa,0,0.0
+Hercules Furens,discord_strife,certamen,0,0.0
+Hercules Furens,discord_strife,contentio,0,0.0
+Hercules Furens,discord_strife,pugna,1,0.1989258006763477
+Hercules Furens,discord_strife,pugno,2,0.3978516013526954
+Hercules Furens,discord_strife,inimicus,3,0.5967774020290432
+Hercules Furens,discord_strife,rebellis,0,0.0
+Medea,invasion_conquest,inuado,1,0.27839643652561247
+Medea,invasion_conquest,occupo,1,0.27839643652561247
+Medea,invasion_conquest,expugno,0,0.0
+Medea,invasion_conquest,obsideo,0,0.0
+Medea,invasion_conquest,hostis,5,1.3919821826280623
+Medea,invasion_conquest,bellum,4,1.1135857461024499
+Medea,invasion_conquest,arma,3,0.8351893095768375
+Medea,invasion_conquest,armo,3,0.8351893095768375
+Medea,deceit_betrayal,fraus,8,2.2271714922048997
+Medea,deceit_betrayal,dolus,3,0.8351893095768375
+Medea,deceit_betrayal,fallo,2,0.5567928730512249
+Medea,deceit_betrayal,falsus,2,0.5567928730512249
+Medea,deceit_betrayal,fallax,1,0.27839643652561247
+Medea,deceit_betrayal,insidiae,0,0.0
+Medea,deceit_betrayal,astus,0,0.0
+Medea,deceit_betrayal,transfuga,0,0.0
+Medea,deceit_betrayal,proditor,0,0.0
+Medea,deceit_betrayal,proditio,0,0.0
+Medea,deceit_betrayal,perfidus,3,0.8351893095768375
+Medea,deceit_betrayal,perfidia,0,0.0
+Medea,deceit_betrayal,periurus,0,0.0
+Medea,deceit_betrayal,periurium,0,0.0
+Medea,deceit_betrayal,foedus,3,0.8351893095768375
+Medea,deceit_betrayal,prodo,0,0.0
+Medea,deceit_betrayal,uendo,0,0.0
+Medea,punishment_vengeance,poena,15,4.1759465478841875
+Medea,punishment_vengeance,punio,0,0.0
+Medea,punishment_vengeance,supplicium,4,1.1135857461024499
+Medea,punishment_vengeance,ultio,2,0.5567928730512249
+Medea,punishment_vengeance,ulciscor,2,0.5567928730512249
+Medea,punishment_vengeance,uindex,1,0.27839643652561247
+Medea,punishment_vengeance,uindicta,3,0.8351893095768375
+Medea,punishment_vengeance,uindico,2,0.5567928730512249
+Medea,punishment_vengeance,cruciatus,0,0.0
+Medea,punishment_vengeance,rogus,1,0.27839643652561247
+Medea,fate_fortune,fatum,4,1.1135857461024499
+Medea,fate_fortune,fatalis,0,0.0
+Medea,fate_fortune,fortuna,6,1.670378619153675
+Medea,fate_fortune,sors,1,0.27839643652561247
+Medea,fate_fortune,parca,0,0.0
+Medea,fate_fortune,destino,0,0.0
+Medea,natural_cosmic_order,natura,0,0.0
+Medea,natural_cosmic_order,ordo,0,0.0
+Medea,natural_cosmic_order,mundus,6,1.670378619153675
+Medea,natural_cosmic_order,caelum,12,3.34075723830735
+Medea,natural_cosmic_order,polus,3,0.8351893095768375
+Medea,natural_cosmic_order,aether,3,0.8351893095768375
+Medea,natural_cosmic_order,sidus,2,0.5567928730512249
+Medea,natural_cosmic_order,astrum,2,0.5567928730512249
+Medea,natural_cosmic_order,axis,1,0.27839643652561247
+Medea,natural_cosmic_order,cursus,3,0.8351893095768375
+Medea,providence_divine,deus,12,3.34075723830735
+Medea,providence_divine,numen,6,1.670378619153675
+Medea,providence_divine,superi,1,0.27839643652561247
+Medea,providence_divine,diuinus,0,0.0
+Medea,providence_divine,prouidentia,0,0.0
+Medea,providence_divine,caelestis,0,0.0
+Medea,providence_divine,superus,1,0.27839643652561247
+Medea,providence_divine,diuus,2,0.5567928730512249
+Medea,providence_divine,diua,0,0.0
+Medea,piety_virtue,pietas,6,1.670378619153675
+Medea,piety_virtue,pius,2,0.5567928730512249
+Medea,piety_virtue,impius,5,1.3919821826280623
+Medea,piety_virtue,fides,8,2.2271714922048997
+Medea,piety_virtue,spes,3,0.8351893095768375
+Medea,piety_virtue,caritas,0,0.0
+Medea,piety_virtue,uirtus,3,0.8351893095768375
+Medea,sea_water,mare,20,5.567928730512249
+Medea,sea_water,pelagus,3,0.8351893095768375
+Medea,sea_water,pontus,9,2.505567928730512
+Medea,sea_water,aequor,1,0.27839643652561247
+Medea,sea_water,fretum,4,1.1135857461024499
+Medea,sea_water,unda,9,2.505567928730512
+Medea,sea_water,fluctus,3,0.8351893095768375
+Medea,sea_water,ratis,5,1.3919821826280623
+Medea,sea_water,nauis,1,0.27839643652561247
+Medea,sea_water,classis,0,0.0
+Medea,sea_water,prora,0,0.0
+Medea,sea_water,puppis,0,0.0
+Medea,sea_water,uelum,1,0.27839643652561247
+Medea,sea_water,portus,1,0.27839643652561247
+Medea,sea_water,naufragium,0,0.0
+Medea,sea_water,procella,0,0.0
+Medea,sea_water,flumen,1,0.27839643652561247
+Medea,sea_water,fluuius,0,0.0
+Medea,sea_water,amnis,1,0.27839643652561247
+Medea,sea_water,uadum,3,0.8351893095768375
+Medea,grief_lament,lacrima,4,1.1135857461024499
+Medea,grief_lament,lacrimo,0,0.0
+Medea,grief_lament,fleo,1,0.27839643652561247
+Medea,grief_lament,luctus,0,0.0
+Medea,grief_lament,lugeo,0,0.0
+Medea,grief_lament,maeror,1,0.27839643652561247
+Medea,grief_lament,maereo,0,0.0
+Medea,grief_lament,gemitus,0,0.0
+Medea,grief_lament,gemo,3,0.8351893095768375
+Medea,grief_lament,planctus,0,0.0
+Medea,grief_lament,plango,0,0.0
+Medea,grief_lament,queror,7,1.9487750556792873
+Medea,grief_lament,querela,1,0.27839643652561247
+Medea,grief_lament,lamentor,0,0.0
+Medea,grief_lament,fletus,1,0.27839643652561247
+Medea,memory_report,memoria,2,0.5567928730512249
+Medea,memory_report,memor,2,0.5567928730512249
+Medea,memory_report,memini,0,0.0
+Medea,memory_report,recordor,0,0.0
+Medea,memory_report,obliuiscor,1,0.27839643652561247
+Medea,memory_report,narro,1,0.27839643652561247
+Medea,memory_report,nuntius,0,0.0
+Medea,memory_report,nuntio,0,0.0
+Medea,memory_report,fama,1,0.27839643652561247
+Medea,community_commune,ciuis,1,0.27839643652561247
+Medea,community_commune,ciuitas,0,0.0
+Medea,community_commune,populus,5,1.3919821826280623
+Medea,community_commune,plebs,0,0.0
+Medea,community_commune,uulgus,1,0.27839643652561247
+Medea,community_commune,turba,5,1.3919821826280623
+Medea,community_commune,grex,1,0.27839643652561247
+Medea,community_commune,patria,2,0.5567928730512249
+Medea,community_commune,urbs,5,1.3919821826280623
+Medea,community_commune,forum,0,0.0
+Medea,law_judgment,lex,3,0.8351893095768375
+Medea,law_judgment,ius,2,0.5567928730512249
+Medea,law_judgment,iustitia,1,0.27839643652561247
+Medea,law_judgment,iustus,1,0.27839643652561247
+Medea,law_judgment,iniustus,0,0.0
+Medea,law_judgment,iudex,0,0.0
+Medea,law_judgment,iudico,1,0.27839643652561247
+Medea,law_judgment,iudicium,0,0.0
+Medea,law_judgment,lis,0,0.0
+Medea,law_judgment,reus,0,0.0
+Medea,law_judgment,crimen,8,2.2271714922048997
+Medea,law_judgment,sententia,0,0.0
+Medea,law_judgment,aequus,4,1.1135857461024499
+Medea,law_judgment,aequitas,0,0.0
+Medea,rule_kingship,rex,16,4.4543429844097995
+Medea,rule_kingship,regnum,24,6.6815144766147
+Medea,rule_kingship,regno,2,0.5567928730512249
+Medea,rule_kingship,regius,9,2.505567928730512
+Medea,rule_kingship,sceptrum,5,1.3919821826280623
+Medea,rule_kingship,solium,0,0.0
+Medea,rule_kingship,diadema,0,0.0
+Medea,rule_kingship,imperium,5,1.3919821826280623
+Medea,rule_kingship,impero,1,0.27839643652561247
+Medea,rule_kingship,iubeo,13,3.6191536748329622
+Medea,rule_kingship,dominus,3,0.8351893095768375
+Medea,rule_kingship,princeps,0,0.0
+Medea,tyranny_servitude,tyrannus,0,0.0
+Medea,tyranny_servitude,tyrannis,0,0.0
+Medea,tyranny_servitude,tyrannicus,0,0.0
+Medea,tyranny_servitude,dominatio,0,0.0
+Medea,tyranny_servitude,seruitus,0,0.0
+Medea,tyranny_servitude,seruio,0,0.0
+Medea,tyranny_servitude,iugum,8,2.2271714922048997
+Medea,lineage_kin,pater,17,4.732739420935412
+Medea,lineage_kin,paternus,4,1.1135857461024499
+Medea,lineage_kin,mater,15,4.1759465478841875
+Medea,lineage_kin,auus,1,0.27839643652561247
+Medea,lineage_kin,proles,8,2.2271714922048997
+Medea,lineage_kin,suboles,0,0.0
+Medea,lineage_kin,stirps,1,0.27839643652561247
+Medea,lineage_kin,genus,8,2.2271714922048997
+Medea,lineage_kin,sanguis,3,0.8351893095768375
+Medea,lineage_kin,nepos,2,0.5567928730512249
+Medea,lineage_kin,progenies,0,0.0
+Medea,lineage_kin,heres,0,0.0
+Medea,lineage_kin,frater,13,3.6191536748329622
+Medea,lineage_kin,germanus,1,0.27839643652561247
+Medea,lineage_kin,parens,3,0.8351893095768375
+Medea,lineage_kin,natus,14,3.8975501113585747
+Medea,lineage_kin,nata,3,0.8351893095768375
+Medea,rage_fury,ira,22,6.124721603563474
+Medea,rage_fury,irascor,1,0.27839643652561247
+Medea,rage_fury,furor,8,2.2271714922048997
+Medea,rage_fury,furo,5,1.3919821826280623
+Medea,rage_fury,furiosus,3,0.8351893095768375
+Medea,rage_fury,rabies,0,0.0
+Medea,rage_fury,rabidus,1,0.27839643652561247
+Medea,rage_fury,saeuio,1,0.27839643652561247
+Medea,rage_fury,saeuus,8,2.2271714922048997
+Medea,rage_fury,insania,0,0.0
+Medea,rage_fury,exardesco,0,0.0
+Medea,rage_fury,odium,4,1.1135857461024499
+Medea,rage_fury,furia,2,0.5567928730512249
+Medea,discord_strife,discordia,0,0.0
+Medea,discord_strife,discors,1,0.27839643652561247
+Medea,discord_strife,dissidium,0,0.0
+Medea,discord_strife,seditio,0,0.0
+Medea,discord_strife,factio,0,0.0
+Medea,discord_strife,rixa,0,0.0
+Medea,discord_strife,certamen,0,0.0
+Medea,discord_strife,contentio,0,0.0
+Medea,discord_strife,pugna,0,0.0
+Medea,discord_strife,pugno,0,0.0
+Medea,discord_strife,inimicus,0,0.0
+Medea,discord_strife,rebellis,0,0.0
+Octavia,invasion_conquest,inuado,0,0.0
+Octavia,invasion_conquest,occupo,1,0.29394473838918284
+Octavia,invasion_conquest,expugno,0,0.0
+Octavia,invasion_conquest,obsideo,0,0.0
+Octavia,invasion_conquest,hostis,12,3.527336860670194
+Octavia,invasion_conquest,bellum,9,2.6455026455026456
+Octavia,invasion_conquest,arma,3,0.8818342151675485
+Octavia,invasion_conquest,armo,7,2.05761316872428
+Octavia,deceit_betrayal,fraus,1,0.29394473838918284
+Octavia,deceit_betrayal,dolus,4,1.1757789535567313
+Octavia,deceit_betrayal,fallo,0,0.0
+Octavia,deceit_betrayal,falsus,0,0.0
+Octavia,deceit_betrayal,fallax,3,0.8818342151675485
+Octavia,deceit_betrayal,insidiae,1,0.29394473838918284
+Octavia,deceit_betrayal,astus,0,0.0
+Octavia,deceit_betrayal,transfuga,0,0.0
+Octavia,deceit_betrayal,proditor,0,0.0
+Octavia,deceit_betrayal,proditio,0,0.0
+Octavia,deceit_betrayal,perfidus,0,0.0
+Octavia,deceit_betrayal,perfidia,0,0.0
+Octavia,deceit_betrayal,periurus,0,0.0
+Octavia,deceit_betrayal,periurium,0,0.0
+Octavia,deceit_betrayal,foedus,0,0.0
+Octavia,deceit_betrayal,prodo,2,0.5878894767783657
+Octavia,deceit_betrayal,uendo,0,0.0
+Octavia,punishment_vengeance,poena,17,4.997060552616108
+Octavia,punishment_vengeance,punio,1,0.29394473838918284
+Octavia,punishment_vengeance,supplicium,0,0.0
+Octavia,punishment_vengeance,ultio,0,0.0
+Octavia,punishment_vengeance,ulciscor,3,0.8818342151675485
+Octavia,punishment_vengeance,uindex,3,0.8818342151675485
+Octavia,punishment_vengeance,uindicta,1,0.29394473838918284
+Octavia,punishment_vengeance,uindico,0,0.0
+Octavia,punishment_vengeance,cruciatus,0,0.0
+Octavia,punishment_vengeance,rogus,3,0.8818342151675485
+Octavia,fate_fortune,fatum,16,4.703115814226925
+Octavia,fate_fortune,fatalis,0,0.0
+Octavia,fate_fortune,fortuna,13,3.8212815990593767
+Octavia,fate_fortune,sors,3,0.8818342151675485
+Octavia,fate_fortune,parca,0,0.0
+Octavia,fate_fortune,destino,1,0.29394473838918284
+Octavia,natural_cosmic_order,natura,4,1.1757789535567313
+Octavia,natural_cosmic_order,ordo,0,0.0
+Octavia,natural_cosmic_order,mundus,4,1.1757789535567313
+Octavia,natural_cosmic_order,caelum,12,3.527336860670194
+Octavia,natural_cosmic_order,polus,4,1.1757789535567313
+Octavia,natural_cosmic_order,aether,2,0.5878894767783657
+Octavia,natural_cosmic_order,sidus,6,1.763668430335097
+Octavia,natural_cosmic_order,astrum,6,1.763668430335097
+Octavia,natural_cosmic_order,axis,0,0.0
+Octavia,natural_cosmic_order,cursus,1,0.29394473838918284
+Octavia,providence_divine,deus,18,5.291005291005291
+Octavia,providence_divine,numen,9,2.6455026455026456
+Octavia,providence_divine,superi,7,2.05761316872428
+Octavia,providence_divine,diuinus,0,0.0
+Octavia,providence_divine,prouidentia,0,0.0
+Octavia,providence_divine,caelestis,2,0.5878894767783657
+Octavia,providence_divine,superus,2,0.5878894767783657
+Octavia,providence_divine,diuus,7,2.05761316872428
+Octavia,providence_divine,diua,0,0.0
+Octavia,piety_virtue,pietas,11,3.2333921222810114
+Octavia,piety_virtue,pius,5,1.4697236919459142
+Octavia,piety_virtue,impius,9,2.6455026455026456
+Octavia,piety_virtue,fides,15,4.409171075837743
+Octavia,piety_virtue,spes,6,1.763668430335097
+Octavia,piety_virtue,caritas,0,0.0
+Octavia,piety_virtue,uirtus,4,1.1757789535567313
+Octavia,sea_water,mare,9,2.6455026455026456
+Octavia,sea_water,pelagus,6,1.763668430335097
+Octavia,sea_water,pontus,0,0.0
+Octavia,sea_water,aequor,2,0.5878894767783657
+Octavia,sea_water,fretum,8,2.3515579071134627
+Octavia,sea_water,unda,3,0.8818342151675485
+Octavia,sea_water,fluctus,4,1.1757789535567313
+Octavia,sea_water,ratis,8,2.3515579071134627
+Octavia,sea_water,nauis,0,0.0
+Octavia,sea_water,classis,2,0.5878894767783657
+Octavia,sea_water,prora,0,0.0
+Octavia,sea_water,puppis,4,1.1757789535567313
+Octavia,sea_water,uelum,2,0.5878894767783657
+Octavia,sea_water,portus,1,0.29394473838918284
+Octavia,sea_water,naufragium,2,0.5878894767783657
+Octavia,sea_water,procella,1,0.29394473838918284
+Octavia,sea_water,flumen,0,0.0
+Octavia,sea_water,fluuius,0,0.0
+Octavia,sea_water,amnis,0,0.0
+Octavia,sea_water,uadum,0,0.0
+Octavia,grief_lament,lacrima,6,1.763668430335097
+Octavia,grief_lament,lacrimo,0,0.0
+Octavia,grief_lament,fleo,4,1.1757789535567313
+Octavia,grief_lament,luctus,13,3.8212815990593767
+Octavia,grief_lament,lugeo,1,0.29394473838918284
+Octavia,grief_lament,maeror,2,0.5878894767783657
+Octavia,grief_lament,maereo,3,0.8818342151675485
+Octavia,grief_lament,gemitus,1,0.29394473838918284
+Octavia,grief_lament,gemo,1,0.29394473838918284
+Octavia,grief_lament,planctus,2,0.5878894767783657
+Octavia,grief_lament,plango,1,0.29394473838918284
+Octavia,grief_lament,queror,2,0.5878894767783657
+Octavia,grief_lament,querela,0,0.0
+Octavia,grief_lament,lamentor,0,0.0
+Octavia,grief_lament,fletus,4,1.1757789535567313
+Octavia,memory_report,memoria,1,0.29394473838918284
+Octavia,memory_report,memor,2,0.5878894767783657
+Octavia,memory_report,memini,0,0.0
+Octavia,memory_report,recordor,0,0.0
+Octavia,memory_report,obliuiscor,1,0.29394473838918284
+Octavia,memory_report,narro,1,0.29394473838918284
+Octavia,memory_report,nuntius,0,0.0
+Octavia,memory_report,nuntio,0,0.0
+Octavia,memory_report,fama,5,1.4697236919459142
+Octavia,community_commune,ciuis,14,4.11522633744856
+Octavia,community_commune,ciuitas,0,0.0
+Octavia,community_commune,populus,12,3.527336860670194
+Octavia,community_commune,plebs,3,0.8818342151675485
+Octavia,community_commune,uulgus,3,0.8818342151675485
+Octavia,community_commune,turba,4,1.1757789535567313
+Octavia,community_commune,grex,0,0.0
+Octavia,community_commune,patria,10,2.9394473838918285
+Octavia,community_commune,urbs,8,2.3515579071134627
+Octavia,community_commune,forum,1,0.29394473838918284
+Octavia,law_judgment,lex,4,1.1757789535567313
+Octavia,law_judgment,ius,5,1.4697236919459142
+Octavia,law_judgment,iustitia,1,0.29394473838918284
+Octavia,law_judgment,iustus,3,0.8818342151675485
+Octavia,law_judgment,iniustus,0,0.0
+Octavia,law_judgment,iudex,0,0.0
+Octavia,law_judgment,iudico,0,0.0
+Octavia,law_judgment,iudicium,1,0.29394473838918284
+Octavia,law_judgment,lis,0,0.0
+Octavia,law_judgment,reus,1,0.29394473838918284
+Octavia,law_judgment,crimen,2,0.5878894767783657
+Octavia,law_judgment,sententia,0,0.0
+Octavia,law_judgment,aequus,0,0.0
+Octavia,law_judgment,aequitas,0,0.0
+Octavia,rule_kingship,rex,4,1.1757789535567313
+Octavia,rule_kingship,regnum,9,2.6455026455026456
+Octavia,rule_kingship,regno,2,0.5878894767783657
+Octavia,rule_kingship,regius,0,0.0
+Octavia,rule_kingship,sceptrum,0,0.0
+Octavia,rule_kingship,solium,0,0.0
+Octavia,rule_kingship,diadema,0,0.0
+Octavia,rule_kingship,imperium,9,2.6455026455026456
+Octavia,rule_kingship,impero,4,1.1757789535567313
+Octavia,rule_kingship,iubeo,7,2.05761316872428
+Octavia,rule_kingship,dominus,3,0.8818342151675485
+Octavia,rule_kingship,princeps,19,5.584950029394474
+Octavia,tyranny_servitude,tyrannus,10,2.9394473838918285
+Octavia,tyranny_servitude,tyrannis,0,0.0
+Octavia,tyranny_servitude,tyrannicus,0,0.0
+Octavia,tyranny_servitude,dominatio,0,0.0
+Octavia,tyranny_servitude,seruitus,0,0.0
+Octavia,tyranny_servitude,seruio,1,0.29394473838918284
+Octavia,tyranny_servitude,iugum,4,1.1757789535567313
+Octavia,lineage_kin,pater,10,2.9394473838918285
+Octavia,lineage_kin,paternus,0,0.0
+Octavia,lineage_kin,mater,9,2.6455026455026456
+Octavia,lineage_kin,auus,0,0.0
+Octavia,lineage_kin,proles,3,0.8818342151675485
+Octavia,lineage_kin,suboles,2,0.5878894767783657
+Octavia,lineage_kin,stirps,4,1.1757789535567313
+Octavia,lineage_kin,genus,11,3.2333921222810114
+Octavia,lineage_kin,sanguis,9,2.6455026455026456
+Octavia,lineage_kin,nepos,0,0.0
+Octavia,lineage_kin,progenies,0,0.0
+Octavia,lineage_kin,heres,0,0.0
+Octavia,lineage_kin,frater,17,4.997060552616108
+Octavia,lineage_kin,germanus,2,0.5878894767783657
+Octavia,lineage_kin,parens,21,6.172839506172839
+Octavia,lineage_kin,natus,14,4.11522633744856
+Octavia,lineage_kin,nata,3,0.8818342151675485
+Octavia,rage_fury,ira,16,4.703115814226925
+Octavia,rage_fury,irascor,1,0.29394473838918284
+Octavia,rage_fury,furor,10,2.9394473838918285
+Octavia,rage_fury,furo,4,1.1757789535567313
+Octavia,rage_fury,furiosus,0,0.0
+Octavia,rage_fury,rabies,1,0.29394473838918284
+Octavia,rage_fury,rabidus,0,0.0
+Octavia,rage_fury,saeuio,2,0.5878894767783657
+Octavia,rage_fury,saeuus,31,9.112286890064668
+Octavia,rage_fury,insania,0,0.0
+Octavia,rage_fury,exardesco,0,0.0
+Octavia,rage_fury,odium,4,1.1757789535567313
+Octavia,rage_fury,furia,0,0.0
+Octavia,discord_strife,discordia,0,0.0
+Octavia,discord_strife,discors,0,0.0
+Octavia,discord_strife,dissidium,0,0.0
+Octavia,discord_strife,seditio,0,0.0
+Octavia,discord_strife,factio,0,0.0
+Octavia,discord_strife,rixa,0,0.0
+Octavia,discord_strife,certamen,0,0.0
+Octavia,discord_strife,contentio,0,0.0
+Octavia,discord_strife,pugna,0,0.0
+Octavia,discord_strife,pugno,0,0.0
+Octavia,discord_strife,inimicus,1,0.29394473838918284
+Octavia,discord_strife,rebellis,0,0.0
+Oedipus,invasion_conquest,inuado,1,0.24813895781637718
+Oedipus,invasion_conquest,occupo,1,0.24813895781637718
+Oedipus,invasion_conquest,expugno,0,0.0
+Oedipus,invasion_conquest,obsideo,1,0.24813895781637718
+Oedipus,invasion_conquest,hostis,0,0.0
+Oedipus,invasion_conquest,bellum,3,0.7444168734491315
+Oedipus,invasion_conquest,arma,4,0.9925558312655087
+Oedipus,invasion_conquest,armo,2,0.49627791563275436
+Oedipus,deceit_betrayal,fraus,1,0.24813895781637718
+Oedipus,deceit_betrayal,dolus,3,0.7444168734491315
+Oedipus,deceit_betrayal,fallo,1,0.24813895781637718
+Oedipus,deceit_betrayal,falsus,2,0.49627791563275436
+Oedipus,deceit_betrayal,fallax,2,0.49627791563275436
+Oedipus,deceit_betrayal,insidiae,1,0.24813895781637718
+Oedipus,deceit_betrayal,astus,0,0.0
+Oedipus,deceit_betrayal,transfuga,0,0.0
+Oedipus,deceit_betrayal,proditor,0,0.0
+Oedipus,deceit_betrayal,proditio,0,0.0
+Oedipus,deceit_betrayal,perfidus,1,0.24813895781637718
+Oedipus,deceit_betrayal,perfidia,0,0.0
+Oedipus,deceit_betrayal,periurus,0,0.0
+Oedipus,deceit_betrayal,periurium,0,0.0
+Oedipus,deceit_betrayal,foedus,1,0.24813895781637718
+Oedipus,deceit_betrayal,prodo,0,0.0
+Oedipus,deceit_betrayal,uendo,0,0.0
+Oedipus,punishment_vengeance,poena,8,1.9851116625310175
+Oedipus,punishment_vengeance,punio,0,0.0
+Oedipus,punishment_vengeance,supplicium,1,0.24813895781637718
+Oedipus,punishment_vengeance,ultio,0,0.0
+Oedipus,punishment_vengeance,ulciscor,1,0.24813895781637718
+Oedipus,punishment_vengeance,uindex,0,0.0
+Oedipus,punishment_vengeance,uindicta,1,0.24813895781637718
+Oedipus,punishment_vengeance,uindico,0,0.0
+Oedipus,punishment_vengeance,cruciatus,0,0.0
+Oedipus,punishment_vengeance,rogus,4,0.9925558312655087
+Oedipus,fate_fortune,fatum,27,6.699751861042183
+Oedipus,fate_fortune,fatalis,0,0.0
+Oedipus,fate_fortune,fortuna,8,1.9851116625310175
+Oedipus,fate_fortune,sors,4,0.9925558312655087
+Oedipus,fate_fortune,parca,0,0.0
+Oedipus,fate_fortune,destino,0,0.0
+Oedipus,natural_cosmic_order,natura,3,0.7444168734491315
+Oedipus,natural_cosmic_order,ordo,3,0.7444168734491315
+Oedipus,natural_cosmic_order,mundus,5,1.2406947890818858
+Oedipus,natural_cosmic_order,caelum,17,4.218362282878412
+Oedipus,natural_cosmic_order,polus,2,0.49627791563275436
+Oedipus,natural_cosmic_order,aether,2,0.49627791563275436
+Oedipus,natural_cosmic_order,sidus,5,1.2406947890818858
+Oedipus,natural_cosmic_order,astrum,1,0.24813895781637718
+Oedipus,natural_cosmic_order,axis,0,0.0
+Oedipus,natural_cosmic_order,cursus,2,0.49627791563275436
+Oedipus,providence_divine,deus,23,5.707196029776675
+Oedipus,providence_divine,numen,7,1.7369727047146402
+Oedipus,providence_divine,superi,2,0.49627791563275436
+Oedipus,providence_divine,diuinus,0,0.0
+Oedipus,providence_divine,prouidentia,0,0.0
+Oedipus,providence_divine,caelestis,0,0.0
+Oedipus,providence_divine,superus,1,0.24813895781637718
+Oedipus,providence_divine,diuus,1,0.24813895781637718
+Oedipus,providence_divine,diua,1,0.24813895781637718
+Oedipus,piety_virtue,pietas,2,0.49627791563275436
+Oedipus,piety_virtue,pius,2,0.49627791563275436
+Oedipus,piety_virtue,impius,8,1.9851116625310175
+Oedipus,piety_virtue,fides,9,2.2332506203473947
+Oedipus,piety_virtue,spes,0,0.0
+Oedipus,piety_virtue,caritas,0,0.0
+Oedipus,piety_virtue,uirtus,2,0.49627791563275436
+Oedipus,sea_water,mare,6,1.488833746898263
+Oedipus,sea_water,pelagus,1,0.24813895781637718
+Oedipus,sea_water,pontus,4,0.9925558312655087
+Oedipus,sea_water,aequor,1,0.24813895781637718
+Oedipus,sea_water,fretum,4,0.9925558312655087
+Oedipus,sea_water,unda,4,0.9925558312655087
+Oedipus,sea_water,fluctus,7,1.7369727047146402
+Oedipus,sea_water,ratis,1,0.24813895781637718
+Oedipus,sea_water,nauis,0,0.0
+Oedipus,sea_water,classis,0,0.0
+Oedipus,sea_water,prora,1,0.24813895781637718
+Oedipus,sea_water,puppis,1,0.24813895781637718
+Oedipus,sea_water,uelum,1,0.24813895781637718
+Oedipus,sea_water,portus,0,0.0
+Oedipus,sea_water,naufragium,0,0.0
+Oedipus,sea_water,procella,0,0.0
+Oedipus,sea_water,flumen,2,0.49627791563275436
+Oedipus,sea_water,fluuius,0,0.0
+Oedipus,sea_water,amnis,3,0.7444168734491315
+Oedipus,sea_water,uadum,2,0.49627791563275436
+Oedipus,grief_lament,lacrima,4,0.9925558312655087
+Oedipus,grief_lament,lacrimo,0,0.0
+Oedipus,grief_lament,fleo,1,0.24813895781637718
+Oedipus,grief_lament,luctus,3,0.7444168734491315
+Oedipus,grief_lament,lugeo,0,0.0
+Oedipus,grief_lament,maeror,0,0.0
+Oedipus,grief_lament,maereo,0,0.0
+Oedipus,grief_lament,gemitus,3,0.7444168734491315
+Oedipus,grief_lament,gemo,3,0.7444168734491315
+Oedipus,grief_lament,planctus,0,0.0
+Oedipus,grief_lament,plango,0,0.0
+Oedipus,grief_lament,queror,0,0.0
+Oedipus,grief_lament,querela,0,0.0
+Oedipus,grief_lament,lamentor,0,0.0
+Oedipus,grief_lament,fletus,2,0.49627791563275436
+Oedipus,memory_report,memoria,4,0.9925558312655087
+Oedipus,memory_report,memor,0,0.0
+Oedipus,memory_report,memini,0,0.0
+Oedipus,memory_report,recordor,0,0.0
+Oedipus,memory_report,obliuiscor,0,0.0
+Oedipus,memory_report,narro,0,0.0
+Oedipus,memory_report,nuntius,0,0.0
+Oedipus,memory_report,nuntio,1,0.24813895781637718
+Oedipus,memory_report,fama,1,0.24813895781637718
+Oedipus,community_commune,ciuis,2,0.49627791563275436
+Oedipus,community_commune,ciuitas,0,0.0
+Oedipus,community_commune,populus,9,2.2332506203473947
+Oedipus,community_commune,plebs,0,0.0
+Oedipus,community_commune,uulgus,1,0.24813895781637718
+Oedipus,community_commune,turba,8,1.9851116625310175
+Oedipus,community_commune,grex,8,1.9851116625310175
+Oedipus,community_commune,patria,5,1.2406947890818858
+Oedipus,community_commune,urbs,5,1.2406947890818858
+Oedipus,community_commune,forum,0,0.0
+Oedipus,law_judgment,lex,4,0.9925558312655087
+Oedipus,law_judgment,ius,5,1.2406947890818858
+Oedipus,law_judgment,iustitia,0,0.0
+Oedipus,law_judgment,iustus,1,0.24813895781637718
+Oedipus,law_judgment,iniustus,0,0.0
+Oedipus,law_judgment,iudex,0,0.0
+Oedipus,law_judgment,iudico,0,0.0
+Oedipus,law_judgment,iudicium,0,0.0
+Oedipus,law_judgment,lis,0,0.0
+Oedipus,law_judgment,reus,1,0.24813895781637718
+Oedipus,law_judgment,crimen,2,0.49627791563275436
+Oedipus,law_judgment,sententia,0,0.0
+Oedipus,law_judgment,aequus,1,0.24813895781637718
+Oedipus,law_judgment,aequitas,0,0.0
+Oedipus,rule_kingship,rex,19,4.714640198511166
+Oedipus,rule_kingship,regnum,20,4.962779156327543
+Oedipus,rule_kingship,regno,2,0.49627791563275436
+Oedipus,rule_kingship,regius,10,2.4813895781637716
+Oedipus,rule_kingship,sceptrum,9,2.2332506203473947
+Oedipus,rule_kingship,solium,1,0.24813895781637718
+Oedipus,rule_kingship,diadema,0,0.0
+Oedipus,rule_kingship,imperium,6,1.488833746898263
+Oedipus,rule_kingship,impero,1,0.24813895781637718
+Oedipus,rule_kingship,iubeo,6,1.488833746898263
+Oedipus,rule_kingship,dominus,2,0.49627791563275436
+Oedipus,rule_kingship,princeps,0,0.0
+Oedipus,tyranny_servitude,tyrannus,0,0.0
+Oedipus,tyranny_servitude,tyrannis,0,0.0
+Oedipus,tyranny_servitude,tyrannicus,0,0.0
+Oedipus,tyranny_servitude,dominatio,0,0.0
+Oedipus,tyranny_servitude,seruitus,0,0.0
+Oedipus,tyranny_servitude,seruio,0,0.0
+Oedipus,tyranny_servitude,iugum,4,0.9925558312655087
+Oedipus,lineage_kin,pater,11,2.729528535980149
+Oedipus,lineage_kin,paternus,3,0.7444168734491315
+Oedipus,lineage_kin,mater,17,4.218362282878412
+Oedipus,lineage_kin,auus,0,0.0
+Oedipus,lineage_kin,proles,4,0.9925558312655087
+Oedipus,lineage_kin,suboles,0,0.0
+Oedipus,lineage_kin,stirps,2,0.49627791563275436
+Oedipus,lineage_kin,genus,6,1.488833746898263
+Oedipus,lineage_kin,sanguis,13,3.225806451612903
+Oedipus,lineage_kin,nepos,1,0.24813895781637718
+Oedipus,lineage_kin,progenies,0,0.0
+Oedipus,lineage_kin,heres,0,0.0
+Oedipus,lineage_kin,frater,5,1.2406947890818858
+Oedipus,lineage_kin,germanus,1,0.24813895781637718
+Oedipus,lineage_kin,parens,18,4.4665012406947895
+Oedipus,lineage_kin,natus,11,2.729528535980149
+Oedipus,lineage_kin,nata,2,0.49627791563275436
+Oedipus,rage_fury,ira,6,1.488833746898263
+Oedipus,rage_fury,irascor,0,0.0
+Oedipus,rage_fury,furor,2,0.49627791563275436
+Oedipus,rage_fury,furo,4,0.9925558312655087
+Oedipus,rage_fury,furiosus,0,0.0
+Oedipus,rage_fury,rabies,0,0.0
+Oedipus,rage_fury,rabidus,4,0.9925558312655087
+Oedipus,rage_fury,saeuio,1,0.24813895781637718
+Oedipus,rage_fury,saeuus,14,3.4739454094292803
+Oedipus,rage_fury,insania,0,0.0
+Oedipus,rage_fury,exardesco,0,0.0
+Oedipus,rage_fury,odium,3,0.7444168734491315
+Oedipus,rage_fury,furia,0,0.0
+Oedipus,discord_strife,discordia,0,0.0
+Oedipus,discord_strife,discors,1,0.24813895781637718
+Oedipus,discord_strife,dissidium,0,0.0
+Oedipus,discord_strife,seditio,0,0.0
+Oedipus,discord_strife,factio,0,0.0
+Oedipus,discord_strife,rixa,0,0.0
+Oedipus,discord_strife,certamen,0,0.0
+Oedipus,discord_strife,contentio,0,0.0
+Oedipus,discord_strife,pugna,0,0.0
+Oedipus,discord_strife,pugno,0,0.0
+Oedipus,discord_strife,inimicus,0,0.0
+Oedipus,discord_strife,rebellis,0,0.0
+Thyestes,invasion_conquest,inuado,0,0.0
+Thyestes,invasion_conquest,occupo,4,1.010611419909045
+Thyestes,invasion_conquest,expugno,0,0.0
+Thyestes,invasion_conquest,obsideo,1,0.25265285497726125
+Thyestes,invasion_conquest,hostis,4,1.010611419909045
+Thyestes,invasion_conquest,bellum,9,2.2738756947953513
+Thyestes,invasion_conquest,arma,5,1.263264274886306
+Thyestes,invasion_conquest,armo,1,0.25265285497726125
+Thyestes,deceit_betrayal,fraus,5,1.263264274886306
+Thyestes,deceit_betrayal,dolus,4,1.010611419909045
+Thyestes,deceit_betrayal,fallo,3,0.7579585649317837
+Thyestes,deceit_betrayal,falsus,3,0.7579585649317837
+Thyestes,deceit_betrayal,fallax,0,0.0
+Thyestes,deceit_betrayal,insidiae,1,0.25265285497726125
+Thyestes,deceit_betrayal,astus,0,0.0
+Thyestes,deceit_betrayal,transfuga,0,0.0
+Thyestes,deceit_betrayal,proditor,0,0.0
+Thyestes,deceit_betrayal,proditio,0,0.0
+Thyestes,deceit_betrayal,perfidus,1,0.25265285497726125
+Thyestes,deceit_betrayal,perfidia,0,0.0
+Thyestes,deceit_betrayal,periurus,0,0.0
+Thyestes,deceit_betrayal,periurium,0,0.0
+Thyestes,deceit_betrayal,foedus,2,0.5053057099545225
+Thyestes,deceit_betrayal,prodo,1,0.25265285497726125
+Thyestes,deceit_betrayal,uendo,0,0.0
+Thyestes,punishment_vengeance,poena,11,2.7791814047498735
+Thyestes,punishment_vengeance,punio,3,0.7579585649317837
+Thyestes,punishment_vengeance,supplicium,2,0.5053057099545225
+Thyestes,punishment_vengeance,ultio,0,0.0
+Thyestes,punishment_vengeance,ulciscor,1,0.25265285497726125
+Thyestes,punishment_vengeance,uindex,0,0.0
+Thyestes,punishment_vengeance,uindicta,0,0.0
+Thyestes,punishment_vengeance,uindico,2,0.5053057099545225
+Thyestes,punishment_vengeance,cruciatus,0,0.0
+Thyestes,punishment_vengeance,rogus,0,0.0
+Thyestes,fate_fortune,fatum,6,1.5159171298635674
+Thyestes,fate_fortune,fatalis,2,0.5053057099545225
+Thyestes,fate_fortune,fortuna,6,1.5159171298635674
+Thyestes,fate_fortune,sors,2,0.5053057099545225
+Thyestes,fate_fortune,parca,0,0.0
+Thyestes,fate_fortune,destino,1,0.25265285497726125
+Thyestes,natural_cosmic_order,natura,2,0.5053057099545225
+Thyestes,natural_cosmic_order,ordo,1,0.25265285497726125
+Thyestes,natural_cosmic_order,mundus,6,1.5159171298635674
+Thyestes,natural_cosmic_order,caelum,9,2.2738756947953513
+Thyestes,natural_cosmic_order,polus,4,1.010611419909045
+Thyestes,natural_cosmic_order,aether,2,0.5053057099545225
+Thyestes,natural_cosmic_order,sidus,5,1.263264274886306
+Thyestes,natural_cosmic_order,astrum,5,1.263264274886306
+Thyestes,natural_cosmic_order,axis,1,0.25265285497726125
+Thyestes,natural_cosmic_order,cursus,2,0.5053057099545225
+Thyestes,providence_divine,deus,23,5.811015664477009
+Thyestes,providence_divine,numen,2,0.5053057099545225
+Thyestes,providence_divine,superi,7,1.7685699848408287
+Thyestes,providence_divine,diuinus,0,0.0
+Thyestes,providence_divine,prouidentia,0,0.0
+Thyestes,providence_divine,caelestis,0,0.0
+Thyestes,providence_divine,superus,0,0.0
+Thyestes,providence_divine,diuus,2,0.5053057099545225
+Thyestes,providence_divine,diua,0,0.0
+Thyestes,piety_virtue,pietas,10,2.526528549772612
+Thyestes,piety_virtue,pius,3,0.7579585649317837
+Thyestes,piety_virtue,impius,9,2.2738756947953513
+Thyestes,piety_virtue,fides,18,4.547751389590703
+Thyestes,piety_virtue,spes,4,1.010611419909045
+Thyestes,piety_virtue,caritas,0,0.0
+Thyestes,piety_virtue,uirtus,1,0.25265285497726125
+Thyestes,sea_water,mare,13,3.284487114704396
+Thyestes,sea_water,pelagus,3,0.7579585649317837
+Thyestes,sea_water,pontus,5,1.263264274886306
+Thyestes,sea_water,aequor,0,0.0
+Thyestes,sea_water,fretum,4,1.010611419909045
+Thyestes,sea_water,unda,7,1.7685699848408287
+Thyestes,sea_water,fluctus,4,1.010611419909045
+Thyestes,sea_water,ratis,1,0.25265285497726125
+Thyestes,sea_water,nauis,2,0.5053057099545225
+Thyestes,sea_water,classis,2,0.5053057099545225
+Thyestes,sea_water,prora,0,0.0
+Thyestes,sea_water,puppis,0,0.0
+Thyestes,sea_water,uelum,2,0.5053057099545225
+Thyestes,sea_water,portus,2,0.5053057099545225
+Thyestes,sea_water,naufragium,0,0.0
+Thyestes,sea_water,procella,3,0.7579585649317837
+Thyestes,sea_water,flumen,2,0.5053057099545225
+Thyestes,sea_water,fluuius,0,0.0
+Thyestes,sea_water,amnis,2,0.5053057099545225
+Thyestes,sea_water,uadum,4,1.010611419909045
+Thyestes,grief_lament,lacrima,3,0.7579585649317837
+Thyestes,grief_lament,lacrimo,0,0.0
+Thyestes,grief_lament,fleo,3,0.7579585649317837
+Thyestes,grief_lament,luctus,2,0.5053057099545225
+Thyestes,grief_lament,lugeo,0,0.0
+Thyestes,grief_lament,maeror,2,0.5053057099545225
+Thyestes,grief_lament,maereo,0,0.0
+Thyestes,grief_lament,gemitus,3,0.7579585649317837
+Thyestes,grief_lament,gemo,3,0.7579585649317837
+Thyestes,grief_lament,planctus,1,0.25265285497726125
+Thyestes,grief_lament,plango,0,0.0
+Thyestes,grief_lament,queror,6,1.5159171298635674
+Thyestes,grief_lament,querela,0,0.0
+Thyestes,grief_lament,lamentor,0,0.0
+Thyestes,grief_lament,fletus,1,0.25265285497726125
+Thyestes,memory_report,memoria,0,0.0
+Thyestes,memory_report,memor,0,0.0
+Thyestes,memory_report,memini,0,0.0
+Thyestes,memory_report,recordor,0,0.0
+Thyestes,memory_report,obliuiscor,1,0.25265285497726125
+Thyestes,memory_report,narro,0,0.0
+Thyestes,memory_report,nuntius,1,0.25265285497726125
+Thyestes,memory_report,nuntio,0,0.0
+Thyestes,memory_report,fama,2,0.5053057099545225
+Thyestes,community_commune,ciuis,0,0.0
+Thyestes,community_commune,ciuitas,1,0.25265285497726125
+Thyestes,community_commune,populus,8,2.02122283981809
+Thyestes,community_commune,plebs,0,0.0
+Thyestes,community_commune,uulgus,1,0.25265285497726125
+Thyestes,community_commune,turba,7,1.7685699848408287
+Thyestes,community_commune,grex,1,0.25265285497726125
+Thyestes,community_commune,patria,3,0.7579585649317837
+Thyestes,community_commune,urbs,4,1.010611419909045
+Thyestes,community_commune,forum,0,0.0
+Thyestes,law_judgment,lex,2,0.5053057099545225
+Thyestes,law_judgment,ius,4,1.010611419909045
+Thyestes,law_judgment,iustitia,0,0.0
+Thyestes,law_judgment,iustus,1,0.25265285497726125
+Thyestes,law_judgment,iniustus,0,0.0
+Thyestes,law_judgment,iudex,0,0.0
+Thyestes,law_judgment,iudico,0,0.0
+Thyestes,law_judgment,iudicium,0,0.0
+Thyestes,law_judgment,lis,0,0.0
+Thyestes,law_judgment,reus,0,0.0
+Thyestes,law_judgment,crimen,3,0.7579585649317837
+Thyestes,law_judgment,sententia,0,0.0
+Thyestes,law_judgment,aequus,0,0.0
+Thyestes,law_judgment,aequitas,0,0.0
+Thyestes,rule_kingship,rex,14,3.5371399696816574
+Thyestes,rule_kingship,regnum,34,8.590197069226882
+Thyestes,rule_kingship,regno,5,1.263264274886306
+Thyestes,rule_kingship,regius,3,0.7579585649317837
+Thyestes,rule_kingship,sceptrum,5,1.263264274886306
+Thyestes,rule_kingship,solium,1,0.25265285497726125
+Thyestes,rule_kingship,diadema,1,0.25265285497726125
+Thyestes,rule_kingship,imperium,4,1.010611419909045
+Thyestes,rule_kingship,impero,1,0.25265285497726125
+Thyestes,rule_kingship,iubeo,8,2.02122283981809
+Thyestes,rule_kingship,dominus,5,1.263264274886306
+Thyestes,rule_kingship,princeps,0,0.0
+Thyestes,tyranny_servitude,tyrannus,2,0.5053057099545225
+Thyestes,tyranny_servitude,tyrannis,0,0.0
+Thyestes,tyranny_servitude,tyrannicus,0,0.0
+Thyestes,tyranny_servitude,dominatio,0,0.0
+Thyestes,tyranny_servitude,seruitus,0,0.0
+Thyestes,tyranny_servitude,seruio,1,0.25265285497726125
+Thyestes,tyranny_servitude,iugum,4,1.010611419909045
+Thyestes,lineage_kin,pater,18,4.547751389590703
+Thyestes,lineage_kin,paternus,3,0.7579585649317837
+Thyestes,lineage_kin,mater,2,0.5053057099545225
+Thyestes,lineage_kin,auus,2,0.5053057099545225
+Thyestes,lineage_kin,proles,2,0.5053057099545225
+Thyestes,lineage_kin,suboles,0,0.0
+Thyestes,lineage_kin,stirps,1,0.25265285497726125
+Thyestes,lineage_kin,genus,4,1.010611419909045
+Thyestes,lineage_kin,sanguis,11,2.7791814047498735
+Thyestes,lineage_kin,nepos,3,0.7579585649317837
+Thyestes,lineage_kin,progenies,1,0.25265285497726125
+Thyestes,lineage_kin,heres,0,0.0
+Thyestes,lineage_kin,frater,38,9.600808489135927
+Thyestes,lineage_kin,germanus,1,0.25265285497726125
+Thyestes,lineage_kin,parens,7,1.7685699848408287
+Thyestes,lineage_kin,natus,21,5.305709954522486
+Thyestes,lineage_kin,nata,0,0.0
+Thyestes,rage_fury,ira,13,3.284487114704396
+Thyestes,rage_fury,irascor,0,0.0
+Thyestes,rage_fury,furor,5,1.263264274886306
+Thyestes,rage_fury,furo,2,0.5053057099545225
+Thyestes,rage_fury,furiosus,0,0.0
+Thyestes,rage_fury,rabies,1,0.25265285497726125
+Thyestes,rage_fury,rabidus,2,0.5053057099545225
+Thyestes,rage_fury,saeuio,1,0.25265285497726125
+Thyestes,rage_fury,saeuus,10,2.526528549772612
+Thyestes,rage_fury,insania,0,0.0
+Thyestes,rage_fury,exardesco,1,0.25265285497726125
+Thyestes,rage_fury,odium,7,1.7685699848408287
+Thyestes,rage_fury,furia,3,0.7579585649317837
+Thyestes,discord_strife,discordia,0,0.0
+Thyestes,discord_strife,discors,1,0.25265285497726125
+Thyestes,discord_strife,dissidium,0,0.0
+Thyestes,discord_strife,seditio,0,0.0
+Thyestes,discord_strife,factio,0,0.0
+Thyestes,discord_strife,rixa,0,0.0
+Thyestes,discord_strife,certamen,0,0.0
+Thyestes,discord_strife,contentio,0,0.0
+Thyestes,discord_strife,pugna,0,0.0
+Thyestes,discord_strife,pugno,1,0.25265285497726125
+Thyestes,discord_strife,inimicus,4,1.010611419909045
+Thyestes,discord_strife,rebellis,0,0.0
+Hercules Oetaeus,invasion_conquest,inuado,7,1.0365763364430622
+Hercules Oetaeus,invasion_conquest,occupo,10,1.4808233377758033
+Hercules Oetaeus,invasion_conquest,expugno,0,0.0
+Hercules Oetaeus,invasion_conquest,obsideo,0,0.0
+Hercules Oetaeus,invasion_conquest,hostis,7,1.0365763364430622
+Hercules Oetaeus,invasion_conquest,bellum,2,0.2961646675551607
+Hercules Oetaeus,invasion_conquest,arma,6,0.8884940026654821
+Hercules Oetaeus,invasion_conquest,armo,3,0.44424700133274103
+Hercules Oetaeus,deceit_betrayal,fraus,6,0.8884940026654821
+Hercules Oetaeus,deceit_betrayal,dolus,8,1.1846586702206428
+Hercules Oetaeus,deceit_betrayal,fallo,6,0.8884940026654821
+Hercules Oetaeus,deceit_betrayal,falsus,4,0.5923293351103214
+Hercules Oetaeus,deceit_betrayal,fallax,2,0.2961646675551607
+Hercules Oetaeus,deceit_betrayal,insidiae,0,0.0
+Hercules Oetaeus,deceit_betrayal,astus,0,0.0
+Hercules Oetaeus,deceit_betrayal,transfuga,0,0.0
+Hercules Oetaeus,deceit_betrayal,proditor,0,0.0
+Hercules Oetaeus,deceit_betrayal,proditio,0,0.0
+Hercules Oetaeus,deceit_betrayal,perfidus,1,0.14808233377758034
+Hercules Oetaeus,deceit_betrayal,perfidia,0,0.0
+Hercules Oetaeus,deceit_betrayal,periurus,0,0.0
+Hercules Oetaeus,deceit_betrayal,periurium,0,0.0
+Hercules Oetaeus,deceit_betrayal,foedus,0,0.0
+Hercules Oetaeus,deceit_betrayal,prodo,0,0.0
+Hercules Oetaeus,deceit_betrayal,uendo,0,0.0
+Hercules Oetaeus,punishment_vengeance,poena,13,1.9250703391085444
+Hercules Oetaeus,punishment_vengeance,punio,1,0.14808233377758034
+Hercules Oetaeus,punishment_vengeance,supplicium,3,0.44424700133274103
+Hercules Oetaeus,punishment_vengeance,ultio,0,0.0
+Hercules Oetaeus,punishment_vengeance,ulciscor,0,0.0
+Hercules Oetaeus,punishment_vengeance,uindex,8,1.1846586702206428
+Hercules Oetaeus,punishment_vengeance,uindicta,0,0.0
+Hercules Oetaeus,punishment_vengeance,uindico,2,0.2961646675551607
+Hercules Oetaeus,punishment_vengeance,cruciatus,0,0.0
+Hercules Oetaeus,punishment_vengeance,rogus,9,1.332741003998223
+Hercules Oetaeus,fate_fortune,fatum,42,6.219458018658374
+Hercules Oetaeus,fate_fortune,fatalis,0,0.0
+Hercules Oetaeus,fate_fortune,fortuna,9,1.332741003998223
+Hercules Oetaeus,fate_fortune,sors,4,0.5923293351103214
+Hercules Oetaeus,fate_fortune,parca,0,0.0
+Hercules Oetaeus,fate_fortune,destino,0,0.0
+Hercules Oetaeus,natural_cosmic_order,natura,3,0.44424700133274103
+Hercules Oetaeus,natural_cosmic_order,ordo,0,0.0
+Hercules Oetaeus,natural_cosmic_order,mundus,30,4.44247001332741
+Hercules Oetaeus,natural_cosmic_order,caelum,38,5.627128683548053
+Hercules Oetaeus,natural_cosmic_order,polus,19,2.8135643417740264
+Hercules Oetaeus,natural_cosmic_order,aether,6,0.8884940026654821
+Hercules Oetaeus,natural_cosmic_order,sidus,11,1.6289056715533836
+Hercules Oetaeus,natural_cosmic_order,astrum,30,4.44247001332741
+Hercules Oetaeus,natural_cosmic_order,axis,10,1.4808233377758033
+Hercules Oetaeus,natural_cosmic_order,cursus,2,0.2961646675551607
+Hercules Oetaeus,providence_divine,deus,29,4.29438767954983
+Hercules Oetaeus,providence_divine,numen,5,0.7404116688879017
+Hercules Oetaeus,providence_divine,superi,22,3.2578113431067672
+Hercules Oetaeus,providence_divine,diuinus,0,0.0
+Hercules Oetaeus,providence_divine,prouidentia,0,0.0
+Hercules Oetaeus,providence_divine,caelestis,5,0.7404116688879017
+Hercules Oetaeus,providence_divine,superus,1,0.14808233377758034
+Hercules Oetaeus,providence_divine,diuus,0,0.0
+Hercules Oetaeus,providence_divine,diua,0,0.0
+Hercules Oetaeus,piety_virtue,pietas,3,0.44424700133274103
+Hercules Oetaeus,piety_virtue,pius,0,0.0
+Hercules Oetaeus,piety_virtue,impius,3,0.44424700133274103
+Hercules Oetaeus,piety_virtue,fides,8,1.1846586702206428
+Hercules Oetaeus,piety_virtue,spes,0,0.0
+Hercules Oetaeus,piety_virtue,caritas,0,0.0
+Hercules Oetaeus,piety_virtue,uirtus,13,1.9250703391085444
+Hercules Oetaeus,sea_water,mare,7,1.0365763364430622
+Hercules Oetaeus,sea_water,pelagus,2,0.2961646675551607
+Hercules Oetaeus,sea_water,pontus,15,2.221235006663705
+Hercules Oetaeus,sea_water,aequor,3,0.44424700133274103
+Hercules Oetaeus,sea_water,fretum,9,1.332741003998223
+Hercules Oetaeus,sea_water,unda,15,2.221235006663705
+Hercules Oetaeus,sea_water,fluctus,2,0.2961646675551607
+Hercules Oetaeus,sea_water,ratis,4,0.5923293351103214
+Hercules Oetaeus,sea_water,nauis,0,0.0
+Hercules Oetaeus,sea_water,classis,0,0.0
+Hercules Oetaeus,sea_water,prora,0,0.0
+Hercules Oetaeus,sea_water,puppis,8,1.1846586702206428
+Hercules Oetaeus,sea_water,uelum,0,0.0
+Hercules Oetaeus,sea_water,portus,1,0.14808233377758034
+Hercules Oetaeus,sea_water,naufragium,1,0.14808233377758034
+Hercules Oetaeus,sea_water,procella,1,0.14808233377758034
+Hercules Oetaeus,sea_water,flumen,5,0.7404116688879017
+Hercules Oetaeus,sea_water,fluuius,0,0.0
+Hercules Oetaeus,sea_water,amnis,4,0.5923293351103214
+Hercules Oetaeus,sea_water,uadum,6,0.8884940026654821
+Hercules Oetaeus,grief_lament,lacrima,15,2.221235006663705
+Hercules Oetaeus,grief_lament,lacrimo,0,0.0
+Hercules Oetaeus,grief_lament,fleo,16,2.3693173404412855
+Hercules Oetaeus,grief_lament,luctus,6,0.8884940026654821
+Hercules Oetaeus,grief_lament,lugeo,4,0.5923293351103214
+Hercules Oetaeus,grief_lament,maeror,0,0.0
+Hercules Oetaeus,grief_lament,maereo,9,1.332741003998223
+Hercules Oetaeus,grief_lament,gemitus,5,0.7404116688879017
+Hercules Oetaeus,grief_lament,gemo,18,2.665482007996446
+Hercules Oetaeus,grief_lament,planctus,9,1.332741003998223
+Hercules Oetaeus,grief_lament,plango,4,0.5923293351103214
+Hercules Oetaeus,grief_lament,queror,6,0.8884940026654821
+Hercules Oetaeus,grief_lament,querela,0,0.0
+Hercules Oetaeus,grief_lament,lamentor,0,0.0
+Hercules Oetaeus,grief_lament,fletus,7,1.0365763364430622
+Hercules Oetaeus,memory_report,memoria,0,0.0
+Hercules Oetaeus,memory_report,memor,2,0.2961646675551607
+Hercules Oetaeus,memory_report,memini,0,0.0
+Hercules Oetaeus,memory_report,recordor,0,0.0
+Hercules Oetaeus,memory_report,obliuiscor,2,0.2961646675551607
+Hercules Oetaeus,memory_report,narro,0,0.0
+Hercules Oetaeus,memory_report,nuntius,0,0.0
+Hercules Oetaeus,memory_report,nuntio,0,0.0
+Hercules Oetaeus,memory_report,fama,4,0.5923293351103214
+Hercules Oetaeus,community_commune,ciuis,0,0.0
+Hercules Oetaeus,community_commune,ciuitas,0,0.0
+Hercules Oetaeus,community_commune,populus,24,3.5539760106619283
+Hercules Oetaeus,community_commune,plebs,0,0.0
+Hercules Oetaeus,community_commune,uulgus,3,0.44424700133274103
+Hercules Oetaeus,community_commune,turba,8,1.1846586702206428
+Hercules Oetaeus,community_commune,grex,6,0.8884940026654821
+Hercules Oetaeus,community_commune,patria,4,0.5923293351103214
+Hercules Oetaeus,community_commune,urbs,12,1.7769880053309641
+Hercules Oetaeus,community_commune,forum,0,0.0
+Hercules Oetaeus,law_judgment,lex,5,0.7404116688879017
+Hercules Oetaeus,law_judgment,ius,0,0.0
+Hercules Oetaeus,law_judgment,iustitia,0,0.0
+Hercules Oetaeus,law_judgment,iustus,0,0.0
+Hercules Oetaeus,law_judgment,iniustus,0,0.0
+Hercules Oetaeus,law_judgment,iudex,0,0.0
+Hercules Oetaeus,law_judgment,iudico,0,0.0
+Hercules Oetaeus,law_judgment,iudicium,0,0.0
+Hercules Oetaeus,law_judgment,lis,0,0.0
+Hercules Oetaeus,law_judgment,reus,0,0.0
+Hercules Oetaeus,law_judgment,crimen,1,0.14808233377758034
+Hercules Oetaeus,law_judgment,sententia,0,0.0
+Hercules Oetaeus,law_judgment,aequus,3,0.44424700133274103
+Hercules Oetaeus,law_judgment,aequitas,0,0.0
+Hercules Oetaeus,rule_kingship,rex,21,3.109729009329187
+Hercules Oetaeus,rule_kingship,regnum,24,3.5539760106619283
+Hercules Oetaeus,rule_kingship,regno,2,0.2961646675551607
+Hercules Oetaeus,rule_kingship,regius,2,0.2961646675551607
+Hercules Oetaeus,rule_kingship,sceptrum,4,0.5923293351103214
+Hercules Oetaeus,rule_kingship,solium,0,0.0
+Hercules Oetaeus,rule_kingship,diadema,0,0.0
+Hercules Oetaeus,rule_kingship,imperium,0,0.0
+Hercules Oetaeus,rule_kingship,impero,2,0.2961646675551607
+Hercules Oetaeus,rule_kingship,iubeo,22,3.2578113431067672
+Hercules Oetaeus,rule_kingship,dominus,2,0.2961646675551607
+Hercules Oetaeus,rule_kingship,princeps,0,0.0
+Hercules Oetaeus,tyranny_servitude,tyrannus,6,0.8884940026654821
+Hercules Oetaeus,tyranny_servitude,tyrannis,0,0.0
+Hercules Oetaeus,tyranny_servitude,tyrannicus,0,0.0
+Hercules Oetaeus,tyranny_servitude,dominatio,0,0.0
+Hercules Oetaeus,tyranny_servitude,seruitus,0,0.0
+Hercules Oetaeus,tyranny_servitude,seruio,3,0.44424700133274103
+Hercules Oetaeus,tyranny_servitude,iugum,7,1.0365763364430622
+Hercules Oetaeus,lineage_kin,pater,33,4.886717014660151
+Hercules Oetaeus,lineage_kin,paternus,2,0.2961646675551607
+Hercules Oetaeus,lineage_kin,mater,41,6.071375684880794
+Hercules Oetaeus,lineage_kin,auus,1,0.14808233377758034
+Hercules Oetaeus,lineage_kin,proles,1,0.14808233377758034
+Hercules Oetaeus,lineage_kin,suboles,0,0.0
+Hercules Oetaeus,lineage_kin,stirps,0,0.0
+Hercules Oetaeus,lineage_kin,genus,14,2.0731526728861245
+Hercules Oetaeus,lineage_kin,sanguis,9,1.332741003998223
+Hercules Oetaeus,lineage_kin,nepos,3,0.44424700133274103
+Hercules Oetaeus,lineage_kin,progenies,1,0.14808233377758034
+Hercules Oetaeus,lineage_kin,heres,1,0.14808233377758034
+Hercules Oetaeus,lineage_kin,frater,3,0.44424700133274103
+Hercules Oetaeus,lineage_kin,germanus,1,0.14808233377758034
+Hercules Oetaeus,lineage_kin,parens,17,2.517399674218866
+Hercules Oetaeus,lineage_kin,natus,40,5.923293351103213
+Hercules Oetaeus,lineage_kin,nata,4,0.5923293351103214
+Hercules Oetaeus,rage_fury,ira,7,1.0365763364430622
+Hercules Oetaeus,rage_fury,irascor,7,1.0365763364430622
+Hercules Oetaeus,rage_fury,furor,8,1.1846586702206428
+Hercules Oetaeus,rage_fury,furo,9,1.332741003998223
+Hercules Oetaeus,rage_fury,furiosus,0,0.0
+Hercules Oetaeus,rage_fury,rabies,2,0.2961646675551607
+Hercules Oetaeus,rage_fury,rabidus,3,0.44424700133274103
+Hercules Oetaeus,rage_fury,saeuio,3,0.44424700133274103
+Hercules Oetaeus,rage_fury,saeuus,16,2.3693173404412855
+Hercules Oetaeus,rage_fury,insania,0,0.0
+Hercules Oetaeus,rage_fury,exardesco,0,0.0
+Hercules Oetaeus,rage_fury,odium,8,1.1846586702206428
+Hercules Oetaeus,rage_fury,furia,0,0.0
+Hercules Oetaeus,discord_strife,discordia,0,0.0
+Hercules Oetaeus,discord_strife,discors,0,0.0
+Hercules Oetaeus,discord_strife,dissidium,0,0.0
+Hercules Oetaeus,discord_strife,seditio,0,0.0
+Hercules Oetaeus,discord_strife,factio,0,0.0
+Hercules Oetaeus,discord_strife,rixa,0,0.0
+Hercules Oetaeus,discord_strife,certamen,0,0.0
+Hercules Oetaeus,discord_strife,contentio,0,0.0
+Hercules Oetaeus,discord_strife,pugna,0,0.0
+Hercules Oetaeus,discord_strife,pugno,0,0.0
+Hercules Oetaeus,discord_strife,inimicus,0,0.0
+Hercules Oetaeus,discord_strife,rebellis,0,0.0
+Ecerinis,invasion_conquest,inuado,3,1.366742596810934
+Ecerinis,invasion_conquest,occupo,5,2.277904328018223
+Ecerinis,invasion_conquest,expugno,0,0.0
+Ecerinis,invasion_conquest,obsideo,0,0.0
+Ecerinis,invasion_conquest,hostis,6,2.733485193621868
+Ecerinis,invasion_conquest,bellum,7,3.1890660592255125
+Ecerinis,invasion_conquest,arma,1,0.45558086560364464
+Ecerinis,invasion_conquest,armo,0,0.0
+Ecerinis,deceit_betrayal,fraus,3,1.366742596810934
+Ecerinis,deceit_betrayal,dolus,4,1.8223234624145785
+Ecerinis,deceit_betrayal,fallo,1,0.45558086560364464
+Ecerinis,deceit_betrayal,falsus,5,2.277904328018223
+Ecerinis,deceit_betrayal,fallax,1,0.45558086560364464
+Ecerinis,deceit_betrayal,insidiae,1,0.45558086560364464
+Ecerinis,deceit_betrayal,astus,2,0.9111617312072893
+Ecerinis,deceit_betrayal,transfuga,1,0.45558086560364464
+Ecerinis,deceit_betrayal,proditor,0,0.0
+Ecerinis,deceit_betrayal,proditio,0,0.0
+Ecerinis,deceit_betrayal,perfidus,0,0.0
+Ecerinis,deceit_betrayal,perfidia,0,0.0
+Ecerinis,deceit_betrayal,periurus,0,0.0
+Ecerinis,deceit_betrayal,periurium,0,0.0
+Ecerinis,deceit_betrayal,foedus,0,0.0
+Ecerinis,deceit_betrayal,prodo,0,0.0
+Ecerinis,deceit_betrayal,uendo,1,0.45558086560364464
+Ecerinis,punishment_vengeance,poena,2,0.9111617312072893
+Ecerinis,punishment_vengeance,punio,0,0.0
+Ecerinis,punishment_vengeance,supplicium,2,0.9111617312072893
+Ecerinis,punishment_vengeance,ultio,2,0.9111617312072893
+Ecerinis,punishment_vengeance,ulciscor,1,0.45558086560364464
+Ecerinis,punishment_vengeance,uindex,1,0.45558086560364464
+Ecerinis,punishment_vengeance,uindicta,0,0.0
+Ecerinis,punishment_vengeance,uindico,0,0.0
+Ecerinis,punishment_vengeance,cruciatus,0,0.0
+Ecerinis,punishment_vengeance,rogus,0,0.0
+Ecerinis,fate_fortune,fatum,2,0.9111617312072893
+Ecerinis,fate_fortune,fatalis,1,0.45558086560364464
+Ecerinis,fate_fortune,fortuna,3,1.366742596810934
+Ecerinis,fate_fortune,sors,3,1.366742596810934
+Ecerinis,fate_fortune,parca,0,0.0
+Ecerinis,fate_fortune,destino,0,0.0
+Ecerinis,natural_cosmic_order,natura,3,1.366742596810934
+Ecerinis,natural_cosmic_order,ordo,7,3.1890660592255125
+Ecerinis,natural_cosmic_order,mundus,6,2.733485193621868
+Ecerinis,natural_cosmic_order,caelum,10,4.555808656036446
+Ecerinis,natural_cosmic_order,polus,4,1.8223234624145785
+Ecerinis,natural_cosmic_order,aether,2,0.9111617312072893
+Ecerinis,natural_cosmic_order,sidus,3,1.366742596810934
+Ecerinis,natural_cosmic_order,astrum,2,0.9111617312072893
+Ecerinis,natural_cosmic_order,axis,0,0.0
+Ecerinis,natural_cosmic_order,cursus,1,0.45558086560364464
+Ecerinis,providence_divine,deus,18,8.200455580865604
+Ecerinis,providence_divine,numen,2,0.9111617312072893
+Ecerinis,providence_divine,superi,0,0.0
+Ecerinis,providence_divine,diuinus,1,0.45558086560364464
+Ecerinis,providence_divine,prouidentia,0,0.0
+Ecerinis,providence_divine,caelestis,0,0.0
+Ecerinis,providence_divine,superus,0,0.0
+Ecerinis,providence_divine,diuus,1,0.45558086560364464
+Ecerinis,providence_divine,diua,1,0.45558086560364464
+Ecerinis,piety_virtue,pietas,3,1.366742596810934
+Ecerinis,piety_virtue,pius,2,0.9111617312072893
+Ecerinis,piety_virtue,impius,1,0.45558086560364464
+Ecerinis,piety_virtue,fides,7,3.1890660592255125
+Ecerinis,piety_virtue,spes,6,2.733485193621868
+Ecerinis,piety_virtue,caritas,2,0.9111617312072893
+Ecerinis,piety_virtue,uirtus,2,0.9111617312072893
+Ecerinis,sea_water,mare,3,1.366742596810934
+Ecerinis,sea_water,pelagus,0,0.0
+Ecerinis,sea_water,pontus,0,0.0
+Ecerinis,sea_water,aequor,0,0.0
+Ecerinis,sea_water,fretum,0,0.0
+Ecerinis,sea_water,unda,1,0.45558086560364464
+Ecerinis,sea_water,fluctus,0,0.0
+Ecerinis,sea_water,ratis,2,0.9111617312072893
+Ecerinis,sea_water,nauis,0,0.0
+Ecerinis,sea_water,classis,0,0.0
+Ecerinis,sea_water,prora,0,0.0
+Ecerinis,sea_water,puppis,0,0.0
+Ecerinis,sea_water,uelum,0,0.0
+Ecerinis,sea_water,portus,0,0.0
+Ecerinis,sea_water,naufragium,0,0.0
+Ecerinis,sea_water,procella,1,0.45558086560364464
+Ecerinis,sea_water,flumen,2,0.9111617312072893
+Ecerinis,sea_water,fluuius,1,0.45558086560364464
+Ecerinis,sea_water,amnis,0,0.0
+Ecerinis,sea_water,uadum,2,0.9111617312072893
+Ecerinis,grief_lament,lacrima,2,0.9111617312072893
+Ecerinis,grief_lament,lacrimo,0,0.0
+Ecerinis,grief_lament,fleo,0,0.0
+Ecerinis,grief_lament,luctus,0,0.0
+Ecerinis,grief_lament,lugeo,1,0.45558086560364464
+Ecerinis,grief_lament,maeror,0,0.0
+Ecerinis,grief_lament,maereo,0,0.0
+Ecerinis,grief_lament,gemitus,3,1.366742596810934
+Ecerinis,grief_lament,gemo,0,0.0
+Ecerinis,grief_lament,planctus,0,0.0
+Ecerinis,grief_lament,plango,0,0.0
+Ecerinis,grief_lament,queror,1,0.45558086560364464
+Ecerinis,grief_lament,querela,1,0.45558086560364464
+Ecerinis,grief_lament,lamentor,0,0.0
+Ecerinis,grief_lament,fletus,0,0.0
+Ecerinis,memory_report,memoria,2,0.9111617312072893
+Ecerinis,memory_report,memor,0,0.0
+Ecerinis,memory_report,memini,0,0.0
+Ecerinis,memory_report,recordor,0,0.0
+Ecerinis,memory_report,obliuiscor,0,0.0
+Ecerinis,memory_report,narro,0,0.0
+Ecerinis,memory_report,nuntius,1,0.45558086560364464
+Ecerinis,memory_report,nuntio,0,0.0
+Ecerinis,memory_report,fama,0,0.0
+Ecerinis,community_commune,ciuis,3,1.366742596810934
+Ecerinis,community_commune,ciuitas,2,0.9111617312072893
+Ecerinis,community_commune,populus,7,3.1890660592255125
+Ecerinis,community_commune,plebs,4,1.8223234624145785
+Ecerinis,community_commune,uulgus,3,1.366742596810934
+Ecerinis,community_commune,turba,2,0.9111617312072893
+Ecerinis,community_commune,grex,1,0.45558086560364464
+Ecerinis,community_commune,patria,0,0.0
+Ecerinis,community_commune,urbs,7,3.1890660592255125
+Ecerinis,community_commune,forum,4,1.8223234624145785
+Ecerinis,law_judgment,lex,4,1.8223234624145785
+Ecerinis,law_judgment,ius,3,1.366742596810934
+Ecerinis,law_judgment,iustitia,2,0.9111617312072893
+Ecerinis,law_judgment,iustus,5,2.277904328018223
+Ecerinis,law_judgment,iniustus,0,0.0
+Ecerinis,law_judgment,iudex,3,1.366742596810934
+Ecerinis,law_judgment,iudico,0,0.0
+Ecerinis,law_judgment,iudicium,2,0.9111617312072893
+Ecerinis,law_judgment,lis,6,2.733485193621868
+Ecerinis,law_judgment,reus,0,0.0
+Ecerinis,law_judgment,crimen,5,2.277904328018223
+Ecerinis,law_judgment,sententia,0,0.0
+Ecerinis,law_judgment,aequus,2,0.9111617312072893
+Ecerinis,law_judgment,aequitas,0,0.0
+Ecerinis,rule_kingship,rex,2,0.9111617312072893
+Ecerinis,rule_kingship,regnum,4,1.8223234624145785
+Ecerinis,rule_kingship,regno,2,0.9111617312072893
+Ecerinis,rule_kingship,regius,0,0.0
+Ecerinis,rule_kingship,sceptrum,1,0.45558086560364464
+Ecerinis,rule_kingship,solium,1,0.45558086560364464
+Ecerinis,rule_kingship,diadema,0,0.0
+Ecerinis,rule_kingship,imperium,3,1.366742596810934
+Ecerinis,rule_kingship,impero,0,0.0
+Ecerinis,rule_kingship,iubeo,3,1.366742596810934
+Ecerinis,rule_kingship,dominus,4,1.8223234624145785
+Ecerinis,rule_kingship,princeps,2,0.9111617312072893
+Ecerinis,tyranny_servitude,tyrannus,8,3.644646924829157
+Ecerinis,tyranny_servitude,tyrannis,5,2.277904328018223
+Ecerinis,tyranny_servitude,tyrannicus,1,0.45558086560364464
+Ecerinis,tyranny_servitude,dominatio,0,0.0
+Ecerinis,tyranny_servitude,seruitus,0,0.0
+Ecerinis,tyranny_servitude,seruio,0,0.0
+Ecerinis,tyranny_servitude,iugum,3,1.366742596810934
+Ecerinis,lineage_kin,pater,18,8.200455580865604
+Ecerinis,lineage_kin,paternus,1,0.45558086560364464
+Ecerinis,lineage_kin,mater,8,3.644646924829157
+Ecerinis,lineage_kin,auus,0,0.0
+Ecerinis,lineage_kin,proles,6,2.733485193621868
+Ecerinis,lineage_kin,suboles,1,0.45558086560364464
+Ecerinis,lineage_kin,stirps,1,0.45558086560364464
+Ecerinis,lineage_kin,genus,13,5.922551252847381
+Ecerinis,lineage_kin,sanguis,6,2.733485193621868
+Ecerinis,lineage_kin,nepos,1,0.45558086560364464
+Ecerinis,lineage_kin,progenies,1,0.45558086560364464
+Ecerinis,lineage_kin,heres,0,0.0
+Ecerinis,lineage_kin,frater,7,3.1890660592255125
+Ecerinis,lineage_kin,germanus,0,0.0
+Ecerinis,lineage_kin,parens,3,1.366742596810934
+Ecerinis,lineage_kin,natus,4,1.8223234624145785
+Ecerinis,lineage_kin,nata,0,0.0
+Ecerinis,rage_fury,ira,5,2.277904328018223
+Ecerinis,rage_fury,irascor,0,0.0
+Ecerinis,rage_fury,furor,7,3.1890660592255125
+Ecerinis,rage_fury,furo,3,1.366742596810934
+Ecerinis,rage_fury,furiosus,0,0.0
+Ecerinis,rage_fury,rabies,4,1.8223234624145785
+Ecerinis,rage_fury,rabidus,0,0.0
+Ecerinis,rage_fury,saeuio,1,0.45558086560364464
+Ecerinis,rage_fury,saeuus,8,3.644646924829157
+Ecerinis,rage_fury,insania,0,0.0
+Ecerinis,rage_fury,exardesco,1,0.45558086560364464
+Ecerinis,rage_fury,odium,4,1.8223234624145785
+Ecerinis,rage_fury,furia,0,0.0
+Ecerinis,discord_strife,discordia,0,0.0
+Ecerinis,discord_strife,discors,0,0.0
+Ecerinis,discord_strife,dissidium,0,0.0
+Ecerinis,discord_strife,seditio,1,0.45558086560364464
+Ecerinis,discord_strife,factio,0,0.0
+Ecerinis,discord_strife,rixa,0,0.0
+Ecerinis,discord_strife,certamen,1,0.45558086560364464
+Ecerinis,discord_strife,contentio,0,0.0
+Ecerinis,discord_strife,pugna,0,0.0
+Ecerinis,discord_strife,pugno,1,0.45558086560364464
+Ecerinis,discord_strife,inimicus,1,0.45558086560364464
+Ecerinis,discord_strife,rebellis,2,0.9111617312072893

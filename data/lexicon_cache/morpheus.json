@@ -655,10 +655,88 @@
 ]
 ],
 "aeoliam": [],
+"aequa": [
+[
+"aequo",
+"verb"
+],
+[
+"aequum",
+"noun"
+],
+[
+"aequus",
+"adjective"
+]
+],
+"aequaeui": [
+[
+"aequaevus",
+"adjective"
+]
+],
 "aequaevi": [
 [
 "aequaevus",
 "adjective"
+]
+],
+"aequale": [
+[
+"aequalis",
+"adjective"
+]
+],
+"aequales": [
+[
+"aequalis",
+"adjective"
+]
+],
+"aequalis": [
+[
+"aequalis",
+"adjective"
+]
+],
+"aequanda": [
+[
+"aequo",
+"verb"
+]
+],
+"aequari": [
+[
+"aequo",
+"verb"
+]
+],
+"aequas": [
+[
+"aequo",
+"verb"
+],
+[
+"aequus",
+"adjective"
+]
+],
+"aequasti": [
+[
+"aequo",
+"verb"
+]
+],
+"aequatus": [
+[
+"aequo",
+"verb"
+]
+],
+"aequetur": [
+[
+"aequo",
+"verb"
 ]
 ],
 "aequi": [
@@ -668,6 +746,72 @@
 ],
 [
 "aequus",
+"adjective"
+]
+],
+"aequior": [
+[
+"aequus",
+"adjective"
+]
+],
+"aequo": [
+[
+"aequo",
+"verb"
+],
+[
+"aequum",
+"noun"
+],
+[
+"aequus",
+"adjective"
+]
+],
+"aequor": [
+[
+"aequo",
+"verb"
+],
+[
+"aequor",
+"noun"
+]
+],
+"aequora": [
+[
+"aequor",
+"noun"
+]
+],
+"aequore": [
+[
+"aequor",
+"noun"
+]
+],
+"aequoreas": [
+[
+"aequoreus",
+"adjective"
+]
+],
+"aequorei": [
+[
+"aequoreus",
+"adjective"
+]
+],
+"aequoreum": [
+[
+"aequoreus",
+"adjective"
+]
+],
+"aequoreus": [
+[
+"aequoreus",
 "adjective"
 ]
 ],
@@ -696,6 +840,12 @@
 "aequum",
 "noun"
 ],
+[
+"aequus",
+"adjective"
+]
+],
+"aequus": [
 [
 "aequus",
 "adjective"
@@ -759,6 +909,72 @@
 ],
 [
 "aeternus",
+"adjective"
+]
+],
+"aether": [
+[
+"aether",
+"noun"
+]
+],
+"aethera": [
+[
+"aether",
+"noun"
+]
+],
+"aethere": [
+[
+"aether",
+"noun"
+]
+],
+"aetheria": [
+[
+"aetherius",
+"adjective"
+]
+],
+"aetheriae": [
+[
+"aetherius",
+"adjective"
+]
+],
+"aetheriam": [
+[
+"aetherius",
+"adjective"
+]
+],
+"aetherias": [
+[
+"aetherius",
+"adjective"
+]
+],
+"aetheriis": [
+[
+"aetherius",
+"adjective"
+]
+],
+"aetherio": [
+[
+"aetherius",
+"adjective"
+]
+],
+"aetheris": [
+[
+"aether",
+"noun"
+]
+],
+"aetherium": [
+[
+"aetherius",
 "adjective"
 ]
 ],
@@ -1131,6 +1347,30 @@
 ]
 ],
 "ammentum": [],
+"amne": [
+[
+"amnis",
+"noun"
+]
+],
+"amnem": [
+[
+"amnis",
+"noun"
+]
+],
+"amnes": [
+[
+"amnis",
+"noun"
+]
+],
+"amnis": [
+[
+"amnis",
+"noun"
+]
+],
 "amorne": [
 [
 "amo",
@@ -1477,13 +1717,77 @@
 ]
 ],
 "ariadnae": [],
+"arma": [
+[
+"arma",
+"noun"
+],
+[
+"armo",
+"verb"
+]
+],
+"armasse": [
+[
+"armo",
+"verb"
+]
+],
+"armasset": [
+[
+"armo",
+"verb"
+]
+],
+"armat": [
+[
+"armo",
+"verb"
+]
+],
+"armata": [
+[
+"armo",
+"verb"
+]
+],
 "armatae": [
 [
 "armo",
 "verb"
 ]
 ],
+"armate": [
+[
+"armatus",
+"noun"
+],
+[
+"armo",
+"verb"
+]
+],
+"armati": [
+[
+"armatus",
+"noun"
+],
+[
+"armo",
+"verb"
+]
+],
 "armatis": [
+[
+"armatus",
+"noun"
+],
+[
+"armo",
+"verb"
+]
+],
+"armato": [
 [
 "armatus",
 "noun"
@@ -1505,6 +1809,129 @@
 [
 "armo",
 "verb"
+]
+],
+"armauit": [
+[
+"armo",
+"verb"
+]
+],
+"armemus": [
+[
+"armo",
+"verb"
+]
+],
+"armenia": [],
+"arment": [
+[
+"armo",
+"verb"
+]
+],
+"armenta": [
+[
+"armenta",
+"noun"
+],
+[
+"armentum",
+"noun"
+]
+],
+"armenti": [
+[
+"armentum",
+"noun"
+]
+],
+"armentis": [
+[
+"armenta",
+"noun"
+],
+[
+"armentum",
+"noun"
+]
+],
+"armento": [
+[
+"armentum",
+"noun"
+]
+],
+"armentum": [
+[
+"armentum",
+"noun"
+]
+],
+"armes": [
+[
+"armo",
+"verb"
+]
+],
+"armetur": [
+[
+"armo",
+"verb"
+]
+],
+"armiferae": [
+[
+"armifer",
+"adjective"
+]
+],
+"armiferi": [
+[
+"armifer",
+"adjective"
+]
+],
+"armifero": [
+[
+"armifer",
+"adjective"
+]
+],
+"armis": [
+[
+"arma",
+"noun"
+],
+[
+"armus",
+"noun"
+]
+],
+"armo": [
+[
+"armo",
+"verb"
+],
+[
+"armus",
+"noun"
+]
+],
+"armorum": [
+[
+"arma",
+"noun"
+],
+[
+"armus",
+"noun"
+]
+],
+"armos": [
+[
+"armus",
+"noun"
 ]
 ],
 "arquitenens": [
@@ -1639,8 +2066,50 @@
 "verb"
 ]
 ],
+"astra": [
+[
+"astrum",
+"noun"
+]
+],
 "astraea": [],
 "astraeae": [],
+"astrictam": [
+[
+"astringo",
+"verb"
+]
+],
+"astringe": [
+[
+"astringo",
+"verb"
+]
+],
+"astringunt": [
+[
+"astringo",
+"verb"
+]
+],
+"astrinxit": [
+[
+"astringo",
+"verb"
+]
+],
+"astris": [
+[
+"astrum",
+"noun"
+]
+],
+"astrorum": [
+[
+"astrum",
+"noun"
+]
+],
 "athon": [],
 "atlans": [],
 "atr": [],
@@ -1723,6 +2192,42 @@
 ]
 ],
 "augei": [],
+"aui": [
+[
+"avis",
+"noun"
+],
+[
+"avium",
+"noun"
+],
+[
+"avius",
+"adjective"
+],
+[
+"avus",
+"noun"
+]
+],
+"auiis": [
+[
+"avia1",
+"noun"
+],
+[
+"avia2",
+"noun"
+],
+[
+"avium",
+"noun"
+],
+[
+"avius",
+"adjective"
+]
+],
 "auimusne": [],
 "aulae": [
 [
@@ -1745,6 +2250,18 @@
 ],
 [
 "aulus1",
+"noun"
+]
+],
+"auo": [
+[
+"avus",
+"noun"
+]
+],
+"auos": [
+[
+"avus",
 "noun"
 ]
 ],
@@ -1863,6 +2380,48 @@
 "noun"
 ]
 ],
+"auulsam": [
+[
+"avello",
+"verb"
+],
+[
+"avulsus",
+"adjective"
+]
+],
+"auulsas": [
+[
+"avello",
+"verb"
+],
+[
+"avulsus",
+"adjective"
+]
+],
+"auulsi": [
+[
+"avello",
+"verb"
+],
+[
+"avulsus",
+"adjective"
+]
+],
+"auum": [
+[
+"avus",
+"noun"
+]
+],
+"auus": [
+[
+"avus",
+"noun"
+]
+],
 "auxere": [
 [
 "augeo",
@@ -1970,6 +2529,30 @@
 ]
 ],
 "axan": [],
+"axe": [
+[
+"axis",
+"noun"
+]
+],
+"axes": [
+[
+"axis",
+"noun"
+]
+],
+"axibus": [
+[
+"axis",
+"noun"
+]
+],
+"axis": [
+[
+"axis",
+"noun"
+]
+],
 "azo": [],
 "bacchis": [],
 "baetis": [],
@@ -2005,6 +2588,18 @@
 "adjective"
 ]
 ],
+"bellandi": [
+[
+"bello",
+"verb"
+]
+],
+"bellare": [
+[
+"bello",
+"verb"
+]
+],
 "belli": [
 [
 "bellum",
@@ -2012,6 +2607,60 @@
 ],
 [
 "bellus",
+"adjective"
+]
+],
+"bellica": [
+[
+"bellicum",
+"noun"
+],
+[
+"bellicus",
+"adjective"
+]
+],
+"bellicas": [
+[
+"bellicus",
+"adjective"
+]
+],
+"bellici": [
+[
+"bellicum",
+"noun"
+],
+[
+"bellicus",
+"adjective"
+]
+],
+"bellicoso": [
+[
+"bellicosus",
+"adjective"
+]
+],
+"bellicum": [
+[
+"bellicum",
+"noun"
+],
+[
+"bellicus",
+"adjective"
+]
+],
+"bellicus": [
+[
+"bellicus",
+"adjective"
+]
+],
+"belliger": [
+[
+"belliger",
 "adjective"
 ]
 ],
@@ -2023,6 +2672,57 @@
 [
 "belligero",
 "verb"
+]
+],
+"belligeri": [
+[
+"belliger",
+"adjective"
+]
+],
+"belligeris": [
+[
+"belliger",
+"adjective"
+]
+],
+"bellis": [
+[
+"bellis",
+"noun"
+],
+[
+"bellum",
+"noun"
+],
+[
+"bellus",
+"adjective"
+]
+],
+"bello": [
+[
+"bello",
+"verb"
+],
+[
+"bellum",
+"noun"
+],
+[
+"bellus",
+"adjective"
+]
+],
+"bellona": [],
+"bellorum": [
+[
+"bellum",
+"noun"
+],
+[
+"bellus",
+"adjective"
 ]
 ],
 "belluis": [
@@ -2228,6 +2928,95 @@
 "noun"
 ]
 ],
+"caelebs": [],
+"caelestem": [
+[
+"caelestis",
+"adjective"
+]
+],
+"caelestes": [
+[
+"caelestis",
+"adjective"
+]
+],
+"caelesti": [
+[
+"caelestis",
+"adjective"
+]
+],
+"caelestibus": [
+[
+"caelestia",
+"noun"
+],
+[
+"caelestis",
+"adjective"
+]
+],
+"caelestis": [
+[
+"caelestis",
+"adjective"
+]
+],
+"caelestium": [
+[
+"caelestia",
+"noun"
+],
+[
+"caelestis",
+"adjective"
+]
+],
+"caelestum": [],
+"caeli": [
+[
+"caelum1",
+"noun"
+],
+[
+"caelum2",
+"noun"
+],
+[
+"caelus",
+"noun"
+]
+],
+"caelibem": [],
+"caelibi": [],
+"caelibis": [],
+"caelicolae": [
+[
+"caelicola",
+"noun"
+]
+],
+"caeliferam": [
+[
+"caelifer",
+"adjective"
+]
+],
+"caelis": [
+[
+"caelum1",
+"noun"
+],
+[
+"caelum2",
+"noun"
+],
+[
+"caelus",
+"noun"
+]
+],
 "caelites": [
 [
 "caeles",
@@ -2240,7 +3029,39 @@
 "noun"
 ]
 ],
+"caelo": [
+[
+"caelo",
+"verb"
+],
+[
+"caelum1",
+"noun"
+],
+[
+"caelum2",
+"noun"
+],
+[
+"caelus",
+"noun"
+]
+],
 "caelos": [
+[
+"caelus",
+"noun"
+]
+],
+"caelum": [
+[
+"caelum1",
+"noun"
+],
+[
+"caelum2",
+"noun"
+],
 [
 "caelus",
 "noun"
@@ -2440,6 +3261,22 @@
 "noun"
 ]
 ],
+"caritas": [
+[
+"careo",
+"verb"
+],
+[
+"caritas",
+"noun"
+]
+],
+"caritura": [
+[
+"careo",
+"verb"
+]
+],
 "caro": [
 [
 "caro1",
@@ -2582,6 +3419,24 @@
 "cephallanum": [],
 "cerbero": [],
 "cerberum": [],
+"certam": [
+[
+"certus",
+"adjective"
+]
+],
+"certamina": [
+[
+"certamen",
+"noun"
+]
+],
+"certaminis": [
+[
+"certamen",
+"noun"
+]
+],
 "certas": [
 [
 "certo2",
@@ -2739,6 +3594,56 @@
 "verb"
 ]
 ],
+"ciues": [
+[
+"civis",
+"noun"
+]
+],
+"ciuibus": [
+[
+"civis",
+"noun"
+]
+],
+"ciuile": [
+[
+"civile",
+"noun"
+],
+[
+"civilis1",
+"adjective"
+]
+],
+"ciuilis": [
+[
+"civile",
+"noun"
+],
+[
+"civilis1",
+"adjective"
+]
+],
+"ciuis": [
+[
+"civis",
+"noun"
+]
+],
+"ciuitas": [
+[
+"civitas",
+"noun"
+]
+],
+"ciuium": [
+[
+"civis",
+"noun"
+]
+],
 "clarius": [
 [
 "clarus",
@@ -2755,6 +3660,64 @@
 "adjective"
 ]
 ],
+"classe": [
+[
+"classis",
+"noun"
+]
+],
+"classem": [
+[
+"classis",
+"noun"
+]
+],
+"classes": [
+[
+"classis",
+"noun"
+]
+],
+"classi": [
+[
+"classis",
+"noun"
+]
+],
+"classibus": [
+[
+"classis",
+"noun"
+]
+],
+"classicis": [
+[
+"classici",
+"noun"
+],
+[
+"classicum",
+"noun"
+],
+[
+"classicus",
+"adjective"
+]
+],
+"classicorum": [
+[
+"classici",
+"noun"
+],
+[
+"classicum",
+"noun"
+],
+[
+"classicus",
+"adjective"
+]
+],
 "classicum": [
 [
 "classici",
@@ -2767,6 +3730,12 @@
 [
 "classicus",
 "adjective"
+]
+],
+"classis": [
+[
+"classis",
+"noun"
 ]
 ],
 "clauserit": [
@@ -3514,7 +4483,47 @@
 "adjective"
 ]
 ],
+"contendat": [
+[
+"contendo",
+"verb"
+]
+],
+"contenta": [
+[
+"contemptor",
+"verb"
+],
+[
+"contendo",
+"verb"
+],
+[
+"contineo",
+"verb"
+]
+],
 "contente": [
+[
+"contendo",
+"verb"
+],
+[
+"contineo",
+"verb"
+]
+],
+"contentum": [
+[
+"contendo",
+"verb"
+],
+[
+"contineo",
+"verb"
+]
+],
+"contentus": [
 [
 "contendo",
 "verb"
@@ -3632,10 +4641,66 @@
 "verb"
 ]
 ],
+"crimen": [
+[
+"crimen",
+"noun"
+]
+],
+"crimina": [
+[
+"crimen",
+"noun"
+],
+[
+"crimino",
+"verb"
+]
+],
+"crimine": [
+[
+"crimen",
+"noun"
+]
+],
+"criminis": [
+[
+"crimen",
+"noun"
+]
+],
+"criminum": [
+[
+"crimen",
+"noun"
+]
+],
 "cristati": [
 [
 "cristatus",
 "adjective"
+]
+],
+"cruciant": [
+[
+"crucio",
+"verb"
+]
+],
+"cruciata": [
+[
+"crucio",
+"verb"
+]
+],
+"cruciatu": [
+[
+"cruciatus",
+"noun"
+],
+[
+"crucio",
+"noun"
 ]
 ],
 "cruentas": [
@@ -3677,6 +4742,36 @@
 ]
 ],
 "cursibus": [
+[
+"cursus",
+"noun"
+]
+],
+"cursu": [
+[
+"curro",
+"noun"
+],
+[
+"cursus",
+"noun"
+]
+],
+"cursum": [
+[
+"curro",
+"verb"
+],
+[
+"cursus",
+"noun"
+]
+],
+"cursus": [
+[
+"curro",
+"verb"
+],
 [
 "cursus",
 "noun"
@@ -3894,6 +4989,16 @@
 "verb"
 ]
 ],
+"dei": [
+[
+"deeo",
+"verb"
+],
+[
+"deus",
+"noun"
+]
+],
 "deiecta": [
 [
 "deicio",
@@ -3924,6 +5029,20 @@
 [
 "deicio",
 "verb"
+]
+],
+"deis": [
+[
+"dea",
+"noun"
+],
+[
+"deeo",
+"verb"
+],
+[
+"deus",
+"noun"
 ]
 ],
 "delia": [
@@ -3994,6 +5113,24 @@
 [
 "densus",
 "adjective"
+]
+],
+"deo": [
+[
+"deus",
+"noun"
+]
+],
+"deorum": [
+[
+"deus",
+"noun"
+]
+],
+"deos": [
+[
+"deus",
+"noun"
 ]
 ],
 "depositum": [
@@ -4099,6 +5236,60 @@
 "adverb"
 ]
 ],
+"destinamus": [
+[
+"destino",
+"verb"
+]
+],
+"destinatas": [
+[
+"destinata",
+"noun"
+],
+[
+"destinatus",
+"adjective"
+],
+[
+"destino",
+"verb"
+]
+],
+"destino": [
+[
+"destino",
+"verb"
+]
+],
+"destiti": [
+[
+"de_-sisto",
+"verb"
+],
+[
+"de_-sto",
+"verb"
+]
+],
+"destituet": [
+[
+"destituo",
+"verb"
+]
+],
+"destituit": [
+[
+"destituo",
+"verb"
+]
+],
+"destituunt": [
+[
+"destituo",
+"verb"
+]
+],
 "detritis": [
 [
 "detero",
@@ -4107,6 +5298,126 @@
 [
 "detritus",
 "adjective"
+]
+],
+"deuectam": [
+[
+"deveho",
+"verb"
+]
+],
+"deuehens": [
+[
+"deveho",
+"verb"
+]
+],
+"deuenit": [
+[
+"devenio",
+"verb"
+]
+],
+"deuias": [
+[
+"devio",
+"verb"
+],
+[
+"devius",
+"adjective"
+]
+],
+"deuicta": [
+[
+"devinco",
+"verb"
+]
+],
+"deuicti": [
+[
+"devinco",
+"verb"
+]
+],
+"deuicto": [
+[
+"devinco",
+"verb"
+]
+],
+"deuictus": [
+[
+"devinco",
+"verb"
+]
+],
+"deuincam": [
+[
+"devinco",
+"verb"
+]
+],
+"deuinctus": [
+[
+"devincio",
+"verb"
+],
+[
+"devinctus",
+"adjective"
+]
+],
+"deuio": [
+[
+"devio",
+"verb"
+],
+[
+"devius",
+"adjective"
+]
+],
+"deuius": [
+[
+"devius",
+"adjective"
+]
+],
+"deum": [
+[
+"deus",
+"noun"
+]
+],
+"deuorat": [
+[
+"devoro",
+"verb"
+]
+],
+"deuota": [
+[
+"devoto",
+"verb"
+]
+],
+"deuoti": [
+[
+"de_-voveo",
+"verb"
+]
+],
+"deuotos": [
+[
+"de_-voveo",
+"verb"
+]
+],
+"deus": [
+[
+"deus",
+"noun"
 ]
 ],
 "devicti": [
@@ -4215,6 +5526,22 @@
 "noun"
 ]
 ],
+"di": [
+[
+"deus",
+"noun"
+],
+[
+"dius",
+"adjective"
+]
+],
+"diadema": [
+[
+"diadema",
+"noun"
+]
+],
 "dicam": [
 [
 "dica",
@@ -4253,6 +5580,16 @@
 "verb"
 ]
 ],
+"dis": [
+[
+"deus",
+"noun"
+],
+[
+"dives",
+"adjective"
+]
+],
 "discnssit": [],
 "discordem": [
 [
@@ -4260,6 +5597,13 @@
 "verb"
 ]
 ],
+"discordes": [
+[
+"discordo",
+"verb"
+]
+],
+"discors": [],
 "disiecta": [
 [
 "disicio",
@@ -4271,6 +5615,18 @@
 ]
 ],
 "dissicit": [],
+"dissidens": [
+[
+"dis-sido",
+"verb"
+]
+],
+"dissidet": [
+[
+"dis-sido",
+"verb"
+]
+],
 "distincto": [
 [
 "distinguo",
@@ -4337,6 +5693,22 @@
 ],
 [
 "divorto",
+"verb"
+]
+],
+"diuinam": [
+[
+"divina",
+"noun"
+],
+[
+"divinus",
+"adjective"
+]
+],
+"diuinat": [
+[
+"divino",
 "verb"
 ]
 ],
@@ -4413,6 +5785,58 @@
 ]
 ],
 "dolentum": [],
+"doli": [
+[
+"dolium",
+"noun"
+],
+[
+"dolus",
+"noun"
+]
+],
+"dolis": [
+[
+"dolium",
+"noun"
+],
+[
+"dolus",
+"noun"
+]
+],
+"dolo": [
+[
+"dolo",
+"noun"
+],
+[
+"dolo1",
+"verb"
+],
+[
+"dolus",
+"noun"
+]
+],
+"dolos": [
+[
+"dolus",
+"noun"
+]
+],
+"doluit": [
+[
+"doleo",
+"verb"
+]
+],
+"dolus": [
+[
+"dolus",
+"noun"
+]
+],
 "doma": [
 [
 "doma",
@@ -4423,10 +5847,118 @@
 "verb"
 ]
 ],
+"dominae": [
+[
+"domina",
+"noun"
+]
+],
+"dominam": [
+[
+"domina",
+"noun"
+]
+],
+"dominante": [
+[
+"dominor",
+"verb"
+]
+],
+"dominantem": [
+[
+"dominor",
+"verb"
+]
+],
+"dominanti": [
+[
+"dominor",
+"verb"
+]
+],
 "dominare": [
 [
 "dominor",
 "verb"
+]
+],
+"dominator": [
+[
+"dominator",
+"noun"
+]
+],
+"dominatrix": [
+[
+"dominatrix",
+"noun"
+]
+],
+"dominatur": [
+[
+"dominor",
+"verb"
+]
+],
+"domine": [
+[
+"dominus",
+"noun"
+]
+],
+"dominetur": [
+[
+"dominor",
+"verb"
+]
+],
+"domini": [
+[
+"dominium",
+"noun"
+],
+[
+"dominus",
+"noun"
+]
+],
+"dominis": [
+[
+"domina",
+"noun"
+],
+[
+"dominium",
+"noun"
+],
+[
+"dominus",
+"noun"
+]
+],
+"domino": [
+[
+"dominus",
+"noun"
+]
+],
+"dominos": [
+[
+"dominus",
+"noun"
+]
+],
+"dominum": [
+[
+"dominus",
+"noun"
+]
+],
+"dominus": [
+[
+"dominus",
+"noun"
 ]
 ],
 "domitrix": [
@@ -4906,6 +6438,12 @@
 "adjective"
 ]
 ],
+"exardet": [
+[
+"exardeo",
+"verb"
+]
+],
 "exarsit": [
 [
 "ex-ardeo",
@@ -5352,6 +6890,182 @@
 "noun"
 ]
 ],
+"facta": [
+[
+"facio",
+"verb"
+],
+[
+"factum",
+"noun"
+]
+],
+"factae": [
+[
+"facio",
+"verb"
+]
+],
+"facti": [
+[
+"facio",
+"verb"
+],
+[
+"factum",
+"noun"
+]
+],
+"factis": [
+[
+"facio",
+"verb"
+],
+[
+"factum",
+"noun"
+]
+],
+"facto": [
+[
+"facio",
+"verb"
+],
+[
+"factum",
+"noun"
+]
+],
+"factum": [
+[
+"facio",
+"verb"
+],
+[
+"factum",
+"noun"
+],
+[
+"factus2",
+"noun"
+]
+],
+"factura": [
+[
+"facio",
+"verb"
+],
+[
+"factura",
+"noun"
+]
+],
+"facturus": [
+[
+"facio",
+"verb"
+]
+],
+"factus": [
+[
+"facio",
+"verb"
+],
+[
+"factus2",
+"noun"
+]
+],
+"fallacem": [
+[
+"fallax",
+"adjective"
+]
+],
+"fallaces": [
+[
+"fallax",
+"adjective"
+]
+],
+"fallaci": [
+[
+"fallax",
+"adjective"
+]
+],
+"fallacis": [
+[
+"fallax",
+"adjective"
+]
+],
+"fallant": [
+[
+"fallo",
+"verb"
+]
+],
+"fallatur": [
+[
+"fallo",
+"verb"
+]
+],
+"fallax": [
+[
+"fallax",
+"adjective"
+]
+],
+"fallere": [
+[
+"fallo",
+"verb"
+]
+],
+"falles": [
+[
+"fallo",
+"verb"
+]
+],
+"fallet": [
+[
+"fallo",
+"verb"
+]
+],
+"falli": [
+[
+"fallo",
+"verb"
+]
+],
+"fallimur": [
+[
+"fallo",
+"verb"
+]
+],
+"fallit": [
+[
+"fallo",
+"verb"
+]
+],
+"fallor": [
+[
+"fallo",
+"verb"
+]
+],
+"fallunt": [
+[
+"fallo",
+"verb"
+]
+],
 "falsa": [
 [
 "fallo",
@@ -5496,6 +7210,48 @@
 "adjective"
 ]
 ],
+"fama": [
+[
+"fama",
+"noun"
+]
+],
+"famae": [
+[
+"fama",
+"noun"
+]
+],
+"famam": [
+[
+"fama",
+"noun"
+]
+],
+"fame": [
+[
+"fames",
+"noun"
+]
+],
+"famem": [
+[
+"fames",
+"noun"
+]
+],
+"fames": [
+[
+"fames",
+"noun"
+]
+],
+"familiaris": [
+[
+"familiaris",
+"adjective"
+]
+],
 "famis": [
 [
 "fama",
@@ -5504,6 +7260,40 @@
 [
 "fames",
 "noun"
+]
+],
+"famula": [
+[
+"famula",
+"noun"
+],
+[
+"famulo",
+"verb"
+],
+[
+"famulus2",
+"adjective"
+]
+],
+"famulae": [
+[
+"famula",
+"noun"
+],
+[
+"famulus2",
+"adjective"
+]
+],
+"famulam": [
+[
+"famula",
+"noun"
+],
+[
+"famulus2",
+"adjective"
 ]
 ],
 "famulare": [
@@ -5520,6 +7310,30 @@
 "verb"
 ]
 ],
+"famularum": [
+[
+"famula",
+"noun"
+],
+[
+"famulus2",
+"adjective"
+]
+],
+"famulas": [
+[
+"famula",
+"noun"
+],
+[
+"famulo",
+"verb"
+],
+[
+"famulus2",
+"adjective"
+]
+],
 "famulatus": [
 [
 "famulatus",
@@ -5534,7 +7348,81 @@
 "verb"
 ]
 ],
+"famuli": [
+[
+"famulus",
+"noun"
+],
+[
+"famulus1",
+"noun"
+],
+[
+"famulus2",
+"adjective"
+]
+],
 "famuline": [
+[
+"famulus",
+"noun"
+],
+[
+"famulus1",
+"noun"
+],
+[
+"famulus2",
+"adjective"
+]
+],
+"famulo": [
+[
+"famulo",
+"verb"
+],
+[
+"famulus",
+"noun"
+],
+[
+"famulus1",
+"noun"
+],
+[
+"famulus2",
+"adjective"
+]
+],
+"famulorum": [
+[
+"famulus",
+"noun"
+],
+[
+"famulus1",
+"noun"
+],
+[
+"famulus2",
+"adjective"
+]
+],
+"famulum": [
+[
+"famulus",
+"noun"
+],
+[
+"famulus1",
+"noun"
+],
+[
+"famulus2",
+"adjective"
+]
+],
+"famulus": [
 [
 "famulus",
 "noun"
@@ -5559,6 +7447,24 @@
 "verb"
 ]
 ],
+"fatale": [
+[
+"fatalis",
+"adjective"
+]
+],
+"fatali": [
+[
+"fatalis",
+"adjective"
+]
+],
+"fatalis": [
+[
+"fatalis",
+"adjective"
+]
+],
 "fatere": [
 [
 "fateor",
@@ -5566,6 +7472,16 @@
 ],
 [
 "fator",
+"verb"
+]
+],
+"fati": [
+[
+"fatum",
+"noun"
+],
+[
+"for",
 "verb"
 ]
 ],
@@ -5609,6 +7525,26 @@
 "noun"
 ]
 ],
+"fatum": [
+[
+"fatum",
+"noun"
+],
+[
+"fatus2",
+"noun"
+],
+[
+"for",
+"verb"
+]
+],
+"fatur": [
+[
+"for",
+"verb"
+]
+],
 "fatus": [
 [
 "fatus2",
@@ -5632,6 +7568,18 @@
 ]
 ],
 "favonio": [],
+"fefellissem": [
+[
+"fallo",
+"verb"
+]
+],
+"fefellit": [
+[
+"fallo",
+"verb"
+]
+],
 "feltro": [],
 "fenus": [
 [
@@ -5817,6 +7765,88 @@
 "verb"
 ]
 ],
+"fide": [
+[
+"fides1",
+"noun"
+],
+[
+"fides2",
+"noun"
+],
+[
+"fido",
+"verb"
+],
+[
+"fidus1",
+"adjective"
+]
+],
+"fidei": [
+[
+"fides1",
+"noun"
+]
+],
+"fidele": [
+[
+"fidelis",
+"adjective"
+]
+],
+"fideli": [
+[
+"fidelis",
+"adjective"
+]
+],
+"fidelis": [
+[
+"fidelis",
+"adjective"
+]
+],
+"fidem": [
+[
+"fides1",
+"noun"
+],
+[
+"fides2",
+"noun"
+]
+],
+"fidens": [
+[
+"fido",
+"verb"
+]
+],
+"fidere": [
+[
+"fido",
+"verb"
+],
+[
+"findo",
+"verb"
+]
+],
+"fides": [
+[
+"fides1",
+"noun"
+],
+[
+"fides2",
+"noun"
+],
+[
+"fido",
+"verb"
+]
+],
 "fidi": [
 [
 "fides1",
@@ -5932,7 +7962,177 @@
 ]
 ],
 "flanimeum": [],
+"fleam": [
+[
+"fleo",
+"verb"
+]
+],
+"fleat": [
+[
+"fleo",
+"verb"
+]
+],
+"flebile": [
+[
+"flebilis",
+"adjective"
+]
+],
+"flebilem": [
+[
+"flebilis",
+"adjective"
+]
+],
+"flebiles": [
+[
+"flebilis",
+"adjective"
+]
+],
+"flebili": [
+[
+"flebilis",
+"adjective"
+]
+],
+"flebilibus": [
+[
+"flebilis",
+"adjective"
+]
+],
+"flebilis": [
+[
+"flebilis",
+"adjective"
+]
+],
+"flebilius": [
+[
+"flebilis",
+"adjective"
+]
+],
+"flebis": [
+[
+"fleo",
+"verb"
+]
+],
+"flecte": [
+[
+"flecto",
+"verb"
+]
+],
+"flectemus": [
+[
+"flecto",
+"verb"
+]
+],
+"flectens": [
+[
+"flecto",
+"verb"
+]
+],
+"flectere": [
+[
+"flecto",
+"verb"
+]
+],
+"flecteret": [
+[
+"flecto",
+"verb"
+]
+],
+"flectet": [
+[
+"flecto",
+"verb"
+]
+],
+"flecti": [
+[
+"flecto",
+"verb"
+]
+],
+"flectit": [
+[
+"flecto",
+"verb"
+]
+],
+"flectite": [
+[
+"flecto",
+"verb"
+]
+],
+"flecto": [
+[
+"flecto",
+"verb"
+]
+],
+"flemus": [
+[
+"fleo",
+"verb"
+],
+[
+"flo",
+"verb"
+]
+],
 "flenda": [
+[
+"fleo",
+"verb"
+]
+],
+"flendi": [
+[
+"fleo",
+"verb"
+]
+],
+"flent": [
+[
+"fleo",
+"verb"
+],
+[
+"flo",
+"verb"
+]
+],
+"flente": [
+[
+"fleo",
+"verb"
+]
+],
+"flentem": [
+[
+"fleo",
+"verb"
+]
+],
+"flentes": [
+[
+"fleo",
+"verb"
+]
+],
+"fleo": [
 [
 "fleo",
 "verb"
@@ -5948,6 +8148,38 @@
 "verb"
 ]
 ],
+"fles": [
+[
+"fleo",
+"verb"
+],
+[
+"flo",
+"verb"
+]
+],
+"flete": [
+[
+"fleo",
+"verb"
+]
+],
+"fletibus": [
+[
+"fletus2",
+"noun"
+]
+],
+"fletu": [
+[
+"fleo",
+"noun"
+],
+[
+"fletus2",
+"noun"
+]
+],
 "fletum": [
 [
 "fleo",
@@ -5958,6 +8190,38 @@
 "noun"
 ]
 ],
+"fletur": [
+[
+"fleo",
+"verb"
+],
+[
+"flo",
+"verb"
+]
+],
+"fletus": [
+[
+"fleo",
+"verb"
+],
+[
+"fletus2",
+"noun"
+]
+],
+"fleueris": [
+[
+"fleo",
+"verb"
+]
+],
+"fleuit": [
+[
+"fleo",
+"verb"
+]
+],
 "flexa": [
 [
 "flecto",
@@ -5965,6 +8229,30 @@
 ],
 [
 "flexo",
+"verb"
+]
+],
+"flexerat": [
+[
+"flecto",
+"verb"
+]
+],
+"flexi": [
+[
+"flecto",
+"verb"
+]
+],
+"flexibus": [
+[
+"flexus2",
+"noun"
+]
+],
+"flexit": [
+[
+"flecto",
 "verb"
 ]
 ],
@@ -6000,7 +8288,35 @@
 "adjective"
 ]
 ],
+"fluctibus": [
+[
+"fluctus",
+"noun"
+]
+],
+"fluctisona": [
+[
+"fluctisonus",
+"adjective"
+]
+],
+"fluctu": [
+[
+"fluctus",
+"noun"
+]
+],
 "fluctuante": [
+[
+"fluctuo",
+"verb"
+],
+[
+"fluctuor",
+"verb"
+]
+],
+"fluctuanti": [
 [
 "fluctuo",
 "verb"
@@ -6020,10 +8336,154 @@
 "verb"
 ]
 ],
+"fluctuat": [
+[
+"fluctuo",
+"verb"
+]
+],
+"fluctuatur": [
+[
+"fluctuo",
+"verb"
+],
+[
+"fluctuor",
+"verb"
+]
+],
+"fluctum": [
+[
+"fluctus",
+"noun"
+]
+],
+"fluctus": [
+[
+"fluctus",
+"noun"
+]
+],
+"flumen": [
+[
+"flumen",
+"noun"
+]
+],
+"flumina": [
+[
+"flumen",
+"noun"
+]
+],
+"flumine": [
+[
+"flumen",
+"noun"
+]
+],
+"flumini": [
+[
+"flumen",
+"noun"
+]
+],
+"fluminibus": [
+[
+"flumen",
+"noun"
+]
+],
+"fluminis": [
+[
+"flumen",
+"noun"
+]
+],
+"fluuio": [
+[
+"fluvius",
+"noun"
+]
+],
+"fluuius": [
+[
+"fluvius",
+"noun"
+]
+],
 "fodiendus": [
 [
 "fodio",
 "verb"
+]
+],
+"foeda": [
+[
+"foedo",
+"verb"
+],
+[
+"foedus1",
+"adjective"
+]
+],
+"foedauit": [
+[
+"foedo",
+"verb"
+]
+],
+"foede": [
+[
+"foedus1",
+"adjective"
+]
+],
+"foedera": [
+[
+"foedero",
+"verb"
+],
+[
+"foedus2",
+"noun"
+]
+],
+"foederi": [
+[
+"foedus2",
+"noun"
+]
+],
+"foederis": [
+[
+"foedo",
+"verb"
+],
+[
+"foedus2",
+"noun"
+]
+],
+"foedo": [
+[
+"foedo",
+"verb"
+],
+[
+"foedus1",
+"adjective"
+]
+],
+"foedus": [
+[
+"foedus1",
+"adjective"
+],
+[
+"foedus2",
+"noun"
 ]
 ],
 "fores": [
@@ -6044,12 +8504,222 @@
 "verb"
 ]
 ],
+"fori": [
+[
+"fori",
+"noun"
+],
+[
+"forio",
+"verb"
+],
+[
+"foris1",
+"adjective"
+],
+[
+"forum",
+"noun"
+],
+[
+"forum1",
+"noun"
+],
+[
+"forus",
+"noun"
+],
+[
+"forus1",
+"noun"
+]
+],
 "formonsi": [],
 "formonsos": [],
+"foro": [
+[
+"foro",
+"verb"
+],
+[
+"forum",
+"noun"
+],
+[
+"forum1",
+"noun"
+],
+[
+"forus",
+"noun"
+],
+[
+"forus1",
+"noun"
+]
+],
+"fortuna": [
+[
+"fortuna",
+"noun"
+],
+[
+"fortuno",
+"verb"
+]
+],
+"fortunae": [
+[
+"fortuna",
+"noun"
+]
+],
+"fortunam": [
+[
+"fortuna",
+"noun"
+]
+],
+"forum": [
+[
+"fores",
+"noun"
+],
+[
+"fori",
+"noun"
+],
+[
+"forum",
+"noun"
+],
+[
+"forum1",
+"noun"
+],
+[
+"forus",
+"noun"
+],
+[
+"forus1",
+"noun"
+]
+],
 "frangenda": [
 [
 "frango",
 "verb"
+]
+],
+"frater": [
+[
+"frater",
+"noun"
+]
+],
+"fraterna": [
+[
+"fraternus",
+"adjective"
+]
+],
+"fraternae": [
+[
+"fraternus",
+"adjective"
+]
+],
+"fraterni": [
+[
+"fraternus",
+"adjective"
+]
+],
+"fraternos": [
+[
+"fraternus",
+"adjective"
+]
+],
+"fraternum": [
+[
+"fraternus",
+"adjective"
+]
+],
+"fraternus": [
+[
+"fraternus",
+"adjective"
+]
+],
+"fratre": [
+[
+"frater",
+"noun"
+]
+],
+"fratrem": [
+[
+"frater",
+"noun"
+]
+],
+"fratres": [
+[
+"frater",
+"noun"
+]
+],
+"fratri": [
+[
+"frater",
+"noun"
+]
+],
+"fratribus": [
+[
+"frater",
+"noun"
+]
+],
+"fratris": [
+[
+"frater",
+"noun"
+]
+],
+"fratrum": [
+[
+"frater",
+"noun"
+]
+],
+"frauda": [
+[
+"fraudo",
+"verb"
+],
+[
+"fraus",
+"noun"
+]
+],
+"fraude": [
+[
+"fraus",
+"noun"
+]
+],
+"fraudem": [
+[
+"fraudo",
+"verb"
+],
+[
+"fraus",
+"noun"
 ]
 ],
 "fraudes": [
@@ -6057,6 +8727,30 @@
 "fraudo",
 "verb"
 ],
+[
+"fraus",
+"noun"
+]
+],
+"fraudi": [
+[
+"fraus",
+"noun"
+]
+],
+"fraudibus": [
+[
+"fraus",
+"noun"
+]
+],
+"fraudis": [
+[
+"fraus",
+"noun"
+]
+],
+"fraus": [
 [
 "fraus",
 "noun"
@@ -6082,7 +8776,37 @@
 "adjective"
 ]
 ],
+"freta": [
+[
+"fretum",
+"noun"
+],
+[
+"fretus1",
+"adjective"
+]
+],
 "freti": [
+[
+"fretum",
+"noun"
+],
+[
+"fretus1",
+"adjective"
+]
+],
+"fretis": [
+[
+"fretum",
+"noun"
+],
+[
+"fretus1",
+"adjective"
+]
+],
+"freto": [
 [
 "fretum",
 "noun"
@@ -6252,7 +8976,31 @@
 "noun"
 ]
 ],
+"furabor": [
+[
+"furor1",
+"verb"
+]
+],
 "furens": [
+[
+"furo",
+"verb"
+]
+],
+"furente": [
+[
+"furo",
+"verb"
+]
+],
+"furentem": [
+[
+"furo",
+"verb"
+]
+],
+"furentes": [
 [
 "furo",
 "verb"
@@ -6270,6 +9018,40 @@
 "verb"
 ]
 ],
+"furere": [
+[
+"furo",
+"verb"
+],
+[
+"furor1",
+"verb"
+]
+],
+"furerem": [
+[
+"furo",
+"verb"
+]
+],
+"fureret": [
+[
+"furo",
+"verb"
+]
+],
+"furialem": [
+[
+"furialis",
+"adjective"
+]
+],
+"furiali": [
+[
+"furialis",
+"adjective"
+]
+],
 "furiarum": [
 [
 "furia",
@@ -6280,6 +9062,24 @@
 "noun"
 ]
 ],
+"furibunda": [
+[
+"furibundus",
+"adjective"
+]
+],
+"furibundum": [
+[
+"furibundus",
+"adjective"
+]
+],
+"furibundus": [
+[
+"furibundus",
+"adjective"
+]
+],
 "furiis": [
 [
 "furia",
@@ -6288,6 +9088,144 @@
 [
 "furiae",
 "noun"
+]
+],
+"furiosa": [
+[
+"furiosus",
+"adjective"
+]
+],
+"furiose": [
+[
+"furiosus",
+"adjective"
+]
+],
+"furiosus": [
+[
+"furiosus",
+"adjective"
+]
+],
+"furis": [
+[
+"fur",
+"noun"
+],
+[
+"furio2",
+"verb"
+],
+[
+"furo",
+"verb"
+]
+],
+"furit": [
+[
+"furio2",
+"verb"
+],
+[
+"furo",
+"verb"
+]
+],
+"furor": [
+[
+"furo",
+"verb"
+],
+[
+"furor1",
+"verb"
+],
+[
+"furor2",
+"noun"
+]
+],
+"furore": [
+[
+"furor2",
+"noun"
+]
+],
+"furorem": [
+[
+"furor2",
+"noun"
+]
+],
+"furores": [
+[
+"furor2",
+"noun"
+]
+],
+"furori": [
+[
+"furor2",
+"noun"
+]
+],
+"furoris": [
+[
+"furor2",
+"noun"
+]
+],
+"furta": [
+[
+"furtum",
+"noun"
+]
+],
+"furtim": [
+[
+"furtim",
+"adverb"
+]
+],
+"furtiua": [
+[
+"furtivus",
+"adjective"
+]
+],
+"furtiuo": [
+[
+"furtivus",
+"adjective"
+]
+],
+"furtiuum": [
+[
+"furtivus",
+"adjective"
+]
+],
+"furto": [
+[
+"furto",
+"adverb"
+],
+[
+"furtum",
+"noun"
+]
+],
+"furtum": [
+[
+"furtum",
+"noun"
+]
+],
+"furua": [
+[
+"furvus",
+"adjective"
 ]
 ],
 "fusae": [
@@ -6346,6 +9284,146 @@
 "verb"
 ]
 ],
+"gemam": [
+[
+"gemo",
+"verb"
+]
+],
+"gemendus": [
+[
+"gemo",
+"verb"
+]
+],
+"gemente": [
+[
+"gemo",
+"verb"
+]
+],
+"gementem": [
+[
+"gemo",
+"verb"
+]
+],
+"gementes": [
+[
+"gemo",
+"verb"
+]
+],
+"gementi": [
+[
+"gemo",
+"verb"
+]
+],
+"gementibus": [
+[
+"gemo",
+"verb"
+]
+],
+"gementis": [
+[
+"gemo",
+"verb"
+]
+],
+"gemere": [
+[
+"gemo",
+"verb"
+]
+],
+"gemerent": [
+[
+"gemo",
+"verb"
+]
+],
+"gemeret": [
+[
+"gemo",
+"verb"
+]
+],
+"gemina": [
+[
+"gemino",
+"verb"
+],
+[
+"geminus",
+"adjective"
+]
+],
+"geminae": [
+[
+"geminus",
+"adjective"
+]
+],
+"geminam": [
+[
+"geminus",
+"adjective"
+]
+],
+"geminas": [
+[
+"gemino",
+"verb"
+],
+[
+"geminus",
+"adjective"
+]
+],
+"geminat": [
+[
+"gemino",
+"verb"
+]
+],
+"geminauit": [
+[
+"gemino",
+"verb"
+]
+],
+"gemini": [
+[
+"gemini",
+"noun"
+],
+[
+"geminus",
+"adjective"
+]
+],
+"geminis": [
+[
+"gemini",
+"noun"
+],
+[
+"geminus",
+"adjective"
+]
+],
+"gemino": [
+[
+"gemino",
+"verb"
+],
+[
+"geminus",
+"adjective"
+]
+],
 "geminos": [
 [
 "gemini",
@@ -6354,6 +9432,168 @@
 [
 "geminus",
 "adjective"
+]
+],
+"geminum": [
+[
+"gemini",
+"noun"
+],
+[
+"geminus",
+"adjective"
+]
+],
+"geminus": [
+[
+"geminus",
+"adjective"
+]
+],
+"gemis": [
+[
+"gemo",
+"verb"
+]
+],
+"gemit": [
+[
+"gemo",
+"verb"
+]
+],
+"gemitu": [
+[
+"gemitus",
+"noun"
+],
+[
+"gemo",
+"noun"
+]
+],
+"gemitum": [
+[
+"gemitus",
+"noun"
+],
+[
+"gemo",
+"verb"
+]
+],
+"gemitus": [
+[
+"gemitus",
+"noun"
+],
+[
+"gemo",
+"verb"
+]
+],
+"gemma": [
+[
+"gemma",
+"noun"
+],
+[
+"gemmo",
+"verb"
+]
+],
+"gemmarum": [
+[
+"gemma",
+"noun"
+]
+],
+"gemmifer": [
+[
+"gemmifer",
+"adjective"
+]
+],
+"gemmiferas": [
+[
+"gemmifer",
+"adjective"
+]
+],
+"gemmiferi": [
+[
+"gemmifer",
+"adjective"
+]
+],
+"gemmis": [
+[
+"gemma",
+"noun"
+]
+],
+"gemuere": [
+[
+"gemo",
+"verb"
+]
+],
+"gemuisset": [
+[
+"gemo",
+"verb"
+]
+],
+"gemuit": [
+[
+"gemo",
+"verb"
+]
+],
+"gemunt": [
+[
+"gemo",
+"verb"
+]
+],
+"genera": [
+[
+"genero",
+"verb"
+],
+[
+"genus1",
+"noun"
+]
+],
+"genere": [
+[
+"gener",
+"noun"
+],
+[
+"genus1",
+"noun"
+]
+],
+"generi": [
+[
+"gener",
+"noun"
+],
+[
+"genus1",
+"noun"
+]
+],
+"generis": [
+[
+"gener",
+"noun"
+],
+[
+"genus1",
+"noun"
 ]
 ],
 "genita": [
@@ -6383,6 +9623,94 @@
 [
 "gigno",
 "verb"
+]
+],
+"genu": [
+[
+"genu",
+"noun"
+]
+],
+"genua": [
+[
+"genu",
+"noun"
+]
+],
+"genui": [
+[
+"genu",
+"noun"
+],
+[
+"gigno",
+"verb"
+]
+],
+"genuisse": [
+[
+"gigno",
+"verb"
+]
+],
+"genuit": [
+[
+"gigno",
+"verb"
+]
+],
+"genus": [
+[
+"genu",
+"noun"
+],
+[
+"genus",
+"noun"
+],
+[
+"genus1",
+"noun"
+]
+],
+"germane": [
+[
+"germanus",
+"noun"
+],
+[
+"germanus1",
+"adjective"
+]
+],
+"germani": [
+[
+"germanus",
+"noun"
+],
+[
+"germanus1",
+"adjective"
+]
+],
+"germanos": [
+[
+"germanus",
+"noun"
+],
+[
+"germanus1",
+"adjective"
+]
+],
+"germanum": [
+[
+"germanus",
+"noun"
+],
+[
+"germanus1",
+"adjective"
 ]
 ],
 "geryonae": [],
@@ -6557,7 +9885,89 @@
 "adjective"
 ]
 ],
+"grege": [
+[
+"grex",
+"noun"
+]
+],
+"gregem": [
+[
+"grego",
+"verb"
+],
+[
+"grex",
+"noun"
+]
+],
+"greges": [
+[
+"grego",
+"verb"
+],
+[
+"grex",
+"noun"
+]
+],
+"gregi": [
+[
+"grex",
+"noun"
+]
+],
+"gregibus": [
+[
+"grex",
+"noun"
+]
+],
+"gregis": [
+[
+"grex",
+"noun"
+]
+],
+"gregum": [
+[
+"grex",
+"noun"
+]
+],
+"gremio": [
+[
+"gremium",
+"noun"
+]
+],
+"gressibus": [
+[
+"gressus2",
+"noun"
+]
+],
+"gressu": [
+[
+"gradior",
+"noun"
+],
+[
+"gressus2",
+"noun"
+]
+],
 "gressum": [
+[
+"gradior",
+"verb"
+],
+[
+"gressus2",
+"noun"
+]
+],
+"gressus": [
 [
 "gradior",
 "verb"
@@ -6655,6 +10065,12 @@
 "herculea": [],
 "herculei": [],
 "herculens": [],
+"heres": [
+[
+"heres",
+"noun"
+]
+],
 "heri": [
 [
 "erus",
@@ -6777,6 +10193,180 @@
 ],
 [
 "hortor",
+"noun"
+]
+],
+"hoste": [
+[
+"hostis",
+"noun"
+],
+[
+"hostus1",
+"noun"
+]
+],
+"hostem": [
+[
+"hostis",
+"noun"
+]
+],
+"hostes": [
+[
+"hostis",
+"noun"
+]
+],
+"hosti": [
+[
+"hostio1",
+"verb"
+],
+[
+"hostio2",
+"verb"
+],
+[
+"hostis",
+"noun"
+],
+[
+"hostus1",
+"noun"
+]
+],
+"hostia": [
+[
+"hostia",
+"noun"
+]
+],
+"hostiae": [
+[
+"hostia",
+"noun"
+]
+],
+"hostiam": [
+[
+"hostia",
+"noun"
+],
+[
+"hostio1",
+"verb"
+],
+[
+"hostio2",
+"verb"
+]
+],
+"hostiarum": [
+[
+"hostia",
+"noun"
+]
+],
+"hostibus": [
+[
+"hostis",
+"noun"
+]
+],
+"hostica": [
+[
+"hosticum",
+"noun"
+],
+[
+"hosticus",
+"adjective"
+]
+],
+"hostico": [
+[
+"hosticum",
+"noun"
+],
+[
+"hosticus",
+"adjective"
+]
+],
+"hostile": [
+[
+"hostile",
+"noun"
+],
+[
+"hostilis",
+"adjective"
+]
+],
+"hostilem": [
+[
+"hostilis",
+"adjective"
+]
+],
+"hostiles": [
+[
+"hostilis",
+"adjective"
+]
+],
+"hostili": [
+[
+"hostile",
+"noun"
+],
+[
+"hostilis",
+"adjective"
+]
+],
+"hostilibus": [
+[
+"hostile",
+"noun"
+],
+[
+"hostilis",
+"adjective"
+]
+],
+"hostilis": [
+[
+"hostile",
+"noun"
+],
+[
+"hostilis",
+"adjective"
+]
+],
+"hostis": [
+[
+"hostio1",
+"verb"
+],
+[
+"hostio2",
+"verb"
+],
+[
+"hostis",
+"noun"
+],
+[
+"hostus1",
+"noun"
+]
+],
+"hostium": [
+[
+"hostis",
 "noun"
 ]
 ],
@@ -7136,6 +10726,114 @@
 "adjective"
 ]
 ],
+"impedi": [
+[
+"impedio",
+"verb"
+]
+],
+"impedit": [
+[
+"impedio",
+"verb"
+]
+],
+"impegit": [
+[
+"impingo",
+"verb"
+]
+],
+"impellat": [
+[
+"impello",
+"verb"
+]
+],
+"impelle": [
+[
+"impello",
+"verb"
+]
+],
+"impellentibus": [
+[
+"impello",
+"verb"
+]
+],
+"impelli": [
+[
+"impello",
+"verb"
+]
+],
+"impellit": [
+[
+"impello",
+"verb"
+]
+],
+"impendens": [
+[
+"impendeo",
+"verb"
+],
+[
+"impendo",
+"verb"
+]
+],
+"impendes": [
+[
+"impendeo",
+"verb"
+],
+[
+"impendo",
+"verb"
+]
+],
+"impendet": [
+[
+"impendeo",
+"verb"
+],
+[
+"impendo",
+"verb"
+]
+],
+"impendi": [
+[
+"impendium",
+"noun"
+],
+[
+"impendo",
+"verb"
+]
+],
+"impendit": [
+[
+"impendo",
+"verb"
+]
+],
+"impense": [
+[
+"impendo",
+"verb"
+],
+[
+"impense",
+"adverb"
+],
+[
+"impensus",
+"adjective"
+]
+],
 "impensus": [
 [
 "impendo",
@@ -7150,6 +10848,42 @@
 "noun"
 ]
 ],
+"impera": [
+[
+"impero",
+"verb"
+]
+],
+"imperando": [
+[
+"impero",
+"verb"
+]
+],
+"imperari": [
+[
+"impero",
+"verb"
+]
+],
+"imperas": [
+[
+"impero",
+"verb"
+]
+],
+"imperasse": [
+[
+"impero",
+"verb"
+]
+],
+"imperat": [
+[
+"impero",
+"verb"
+]
+],
 "imperata": [
 [
 "imperatum",
@@ -7160,10 +10894,230 @@
 "verb"
 ]
 ],
+"imperatum": [
+[
+"imperatum",
+"noun"
+],
+[
+"imperatus",
+"noun"
+],
+[
+"impero",
+"verb"
+]
+],
+"imperatur": [
+[
+"impero",
+"verb"
+]
+],
+"imperauit": [
+[
+"impero",
+"verb"
+]
+],
+"imperi": [
+[
+"imperium",
+"noun"
+]
+],
+"imperia": [
+[
+"imperium",
+"noun"
+]
+],
+"imperii": [
+[
+"imperium",
+"noun"
+]
+],
+"imperio": [
+[
+"imperium",
+"noun"
+]
+],
+"imperium": [
+[
+"imperium",
+"noun"
+]
+],
+"impero": [
+[
+"impero",
+"verb"
+]
+],
+"impetrare": [
+[
+"impetro",
+"verb"
+]
+],
+"impetratur": [
+[
+"impetro",
+"verb"
+]
+],
+"impetu": [
+[
+"impetus",
+"noun"
+]
+],
+"impetum": [
+[
+"impetus",
+"noun"
+]
+],
+"impetus": [
+[
+"impetus",
+"noun"
+]
+],
+"impexa": [
+[
+"impexus",
+"adjective"
+]
+],
+"impia": [
+[
+"impia",
+"noun"
+],
+[
+"impio",
+"verb"
+],
+[
+"impius",
+"adjective"
+]
+],
+"impiae": [
+[
+"impius",
+"adjective"
+]
+],
+"impiam": [
+[
+"impius",
+"adjective"
+]
+],
+"impias": [
+[
+"impio",
+"verb"
+],
+[
+"impius",
+"adjective"
+]
+],
 "impiatos": [
 [
 "impio",
 "verb"
+]
+],
+"impie": [
+[
+"impie",
+"adverb"
+],
+[
+"impius",
+"adjective"
+]
+],
+"impietas": [
+[
+"impietas",
+"noun"
+]
+],
+"impiger": [
+[
+"impiger",
+"adjective"
+]
+],
+"impii": [
+[
+"impii",
+"noun"
+],
+[
+"impius",
+"adjective"
+]
+],
+"impiis": [
+[
+"impia",
+"noun"
+],
+[
+"impii",
+"noun"
+],
+[
+"impius",
+"adjective"
+]
+],
+"impio": [
+[
+"impio",
+"verb"
+],
+[
+"impius",
+"adjective"
+]
+],
+"impios": [
+[
+"impii",
+"noun"
+],
+[
+"impius",
+"adjective"
+]
+],
+"impium": [
+[
+"impia",
+"noun"
+],
+[
+"impii",
+"noun"
+],
+[
+"impius",
+"adjective"
+]
+],
+"impius": [
+[
+"impius",
+"adjective"
 ]
 ],
 "implexos": [
@@ -7470,6 +11424,44 @@
 "verb"
 ]
 ],
+"inimica": [
+[
+"inimica",
+"noun"
+],
+[
+"inimico",
+"verb"
+],
+[
+"inimicus",
+"adjective"
+]
+],
+"inimici": [
+[
+"inimicus",
+"adjective"
+]
+],
+"inimicos": [
+[
+"inimicus",
+"adjective"
+]
+],
+"inimicum": [
+[
+"inimicus",
+"adjective"
+]
+],
+"iniustus": [
+[
+"injustus",
+"adjective"
+]
+],
 "inlaetabilis": [
 [
 "illaetabilis",
@@ -7646,11 +11638,63 @@
 "verb"
 ]
 ],
+"insana": [
+[
+"insanus1",
+"adjective"
+]
+],
+"insanae": [
+[
+"insanus1",
+"adjective"
+]
+],
 "insani": [
 [
 "insanio",
 "verb"
 ],
+[
+"insanus1",
+"adjective"
+]
+],
+"insaniendum": [
+[
+"insanio",
+"verb"
+]
+],
+"insanis": [
+[
+"insanio",
+"verb"
+],
+[
+"insanus1",
+"adjective"
+]
+],
+"insanit": [
+[
+"insanio",
+"verb"
+]
+],
+"insano": [
+[
+"insanus1",
+"adjective"
+]
+],
+"insanos": [
+[
+"insanus1",
+"adjective"
+]
+],
+"insanum": [
 [
 "insanus1",
 "adjective"
@@ -7822,6 +11866,36 @@
 [
 "intonsus2",
 "adjective"
+]
+],
+"inuadam": [
+[
+"invado",
+"verb"
+]
+],
+"inuade": [
+[
+"invado",
+"verb"
+]
+],
+"inuadere": [
+[
+"invado",
+"verb"
+]
+],
+"inuadet": [
+[
+"invado",
+"verb"
+]
+],
+"inuasit": [
+[
+"invado",
+"verb"
 ]
 ],
 "inuite": [
@@ -8010,6 +12084,46 @@
 "ionidesue": [],
 "ionidesve": [],
 "ioniis": [],
+"ira": [
+[
+"ira",
+"noun"
+]
+],
+"irae": [
+[
+"ira",
+"noun"
+]
+],
+"iram": [
+[
+"ira",
+"noun"
+]
+],
+"irarum": [
+[
+"ira",
+"noun"
+]
+],
+"iras": [
+[
+"ira",
+"noun"
+]
+],
+"irasci": [
+[
+"irasco",
+"verb"
+],
+[
+"irascor",
+"verb"
+]
+],
 "irata": [
 [
 "irascor",
@@ -8022,6 +12136,18 @@
 "verb"
 ]
 ],
+"iratam": [
+[
+"irascor",
+"verb"
+]
+],
+"irati": [
+[
+"irascor",
+"verb"
+]
+],
 "iratis": [
 [
 "irascor",
@@ -8029,6 +12155,18 @@
 ]
 ],
 "irato": [
+[
+"irascor",
+"verb"
+]
+],
+"iratos": [
+[
+"irascor",
+"verb"
+]
+],
+"iratum": [
 [
 "irascor",
 "verb"
@@ -8082,7 +12220,119 @@
 "ithace": [],
 "ithaco": [],
 "ityn": [],
+"iube": [
+[
+"jubeo",
+"verb"
+]
+],
+"iubeas": [
+[
+"jubeo",
+"verb"
+]
+],
+"iubeat": [
+[
+"jubeo",
+"verb"
+]
+],
+"iubent": [
+[
+"jubeo",
+"verb"
+]
+],
+"iubente": [
+[
+"jubeo",
+"verb"
+]
+],
+"iubentibus": [
+[
+"jubeo",
+"verb"
+]
+],
+"iubeor": [
+[
+"jubeo",
+"verb"
+]
+],
+"iubere": [
+[
+"jubeo",
+"verb"
+]
+],
+"iuberet": [
+[
+"jubeo",
+"verb"
+]
+],
+"iuberis": [
+[
+"jubeo",
+"verb"
+]
+],
+"iubes": [
+[
+"jubeo",
+"verb"
+]
+],
+"iubet": [
+[
+"jubeo",
+"verb"
+]
+],
+"iubete": [
+[
+"jubeo",
+"verb"
+]
+],
+"iubetur": [
+[
+"jubeo",
+"verb"
+]
+],
+"iudex": [
+[
+"judex",
+"noun"
+]
+],
+"iudicas": [
+[
+"judico",
+"verb"
+]
+],
+"iudice": [
+[
+"judex",
+"noun"
+]
+],
 "iudicem": [
+[
+"judex",
+"noun"
+],
+[
+"judico",
+"verb"
+]
+],
+"iudices": [
 [
 "judex",
 "noun"
@@ -8100,6 +12350,48 @@
 [
 "judicium",
 "noun"
+]
+],
+"iudicia": [
+[
+"judicium",
+"noun"
+]
+],
+"iudicii": [
+[
+"judicium",
+"noun"
+]
+],
+"iudicio": [
+[
+"judicium",
+"noun"
+]
+],
+"iudicis": [
+[
+"judex",
+"noun"
+],
+[
+"judicium",
+"noun"
+]
+],
+"iuga": [
+[
+"jugo1",
+"verb"
+],
+[
+"jugum",
+"noun"
+],
+[
+"jugus",
+"adjective"
 ]
 ],
 "iugi": [
@@ -8124,6 +12416,56 @@
 "adjective"
 ]
 ],
+"iugis": [
+[
+"jugis1",
+"adjective"
+],
+[
+"jugis2",
+"adjective"
+],
+[
+"jugo2",
+"verb"
+],
+[
+"jugum",
+"noun"
+],
+[
+"jugus",
+"adjective"
+]
+],
+"iugo": [
+[
+"jugo1",
+"verb"
+],
+[
+"jugo2",
+"verb"
+],
+[
+"jugum",
+"noun"
+],
+[
+"jugus",
+"adjective"
+]
+],
+"iugulis": [
+[
+"jugulum",
+"noun"
+],
+[
+"jugulus",
+"noun"
+]
+],
 "iugulo": [
 [
 "jugulo",
@@ -8136,6 +12478,26 @@
 [
 "jugulus",
 "noun"
+]
+],
+"iugulum": [
+[
+"jugulum",
+"noun"
+],
+[
+"jugulus",
+"noun"
+]
+],
+"iugum": [
+[
+"jugum",
+"noun"
+],
+[
+"jugus",
+"adjective"
 ]
 ],
 "iulia": [],
@@ -8257,7 +12619,19 @@
 "verb"
 ]
 ],
+"iure": [
+[
+"jus",
+"noun"
+]
+],
 "iurida": [],
+"iuris": [
+[
+"jus",
+"noun"
+]
+],
 "ius": [
 [
 "jus",
@@ -8274,10 +12648,26 @@
 "noun"
 ]
 ],
+"iusserat": [
+[
+"jubeo",
+"verb"
+]
+],
 "iusserint": [
 [
 "jubeo",
 "verb"
+]
+],
+"iussi": [
+[
+"jubeo",
+"verb"
+],
+[
+"jussum",
+"noun"
 ]
 ],
 "iussis": [
@@ -8290,6 +12680,12 @@
 "noun"
 ]
 ],
+"iussit": [
+[
+"jubeo",
+"verb"
+]
+],
 "iusso": [
 [
 "jubeo",
@@ -8297,6 +12693,30 @@
 ],
 [
 "jussum",
+"noun"
+]
+],
+"iussu": [
+[
+"jubeo",
+"noun"
+],
+[
+"jussus2",
+"noun"
+]
+],
+"iussum": [
+[
+"jubeo",
+"verb"
+],
+[
+"jussum",
+"noun"
+],
+[
+"jussus2",
 "noun"
 ]
 ],
@@ -8324,7 +12744,91 @@
 "adjective"
 ]
 ],
+"iustae": [
+[
+"justus",
+"adjective"
+]
+],
 "iustaeqne": [],
+"iuste": [
+[
+"justum",
+"noun"
+],
+[
+"justus",
+"adjective"
+]
+],
+"iusti": [
+[
+"justum",
+"noun"
+],
+[
+"justus",
+"adjective"
+]
+],
+"iustior": [
+[
+"justus",
+"adjective"
+]
+],
+"iustitia": [
+[
+"justitia",
+"noun"
+],
+[
+"justitium",
+"noun"
+]
+],
+"iustitiae": [
+[
+"justitia",
+"noun"
+]
+],
+"iusto": [
+[
+"justum",
+"noun"
+],
+[
+"justus",
+"adjective"
+]
+],
+"iustos": [
+[
+"justus",
+"adjective"
+]
+],
+"iustum": [
+[
+"justa",
+"noun"
+],
+[
+"justum",
+"noun"
+],
+[
+"justus",
+"adjective"
+]
+],
+"iustus": [
+[
+"justus",
+"adjective"
+]
+],
 "iuvabit": [
 [
 "juvo",
@@ -8421,6 +12925,60 @@
 "adjective"
 ]
 ],
+"lacrimae": [
+[
+"lacrima",
+"noun"
+]
+],
+"lacrimam": [
+[
+"lacrima",
+"noun"
+]
+],
+"lacrimandum": [
+[
+"lacrimo",
+"verb"
+],
+[
+"lacrimor",
+"verb"
+]
+],
+"lacrimare": [
+[
+"lacrimo",
+"verb"
+],
+[
+"lacrimor",
+"verb"
+]
+],
+"lacrimas": [
+[
+"lacrima",
+"noun"
+],
+[
+"lacrimo",
+"verb"
+]
+],
+"lacrimat": [
+[
+"lacrimo",
+"verb"
+]
+],
+"lacrimis": [
+[
+"lacrima",
+"noun"
+]
+],
 "laerta": [],
 "laeta": [
 [
@@ -8494,6 +13052,28 @@
 [
 "lamento",
 "verb"
+],
+[
+"lamentum",
+"noun"
+]
+],
+"lamentabili": [
+[
+"lamentabilis",
+"adjective"
+]
+],
+"lamentatio": [
+[
+"lamentatio",
+"noun"
+]
+],
+"lamentis": [
+[
+"lamenta",
+"noun"
 ],
 [
 "lamentum",
@@ -8622,6 +13202,26 @@
 "verb"
 ]
 ],
+"lege": [
+[
+"lego2",
+"verb"
+],
+[
+"lex",
+"noun"
+]
+],
+"legem": [
+[
+"lego1",
+"verb"
+],
+[
+"lex",
+"noun"
+]
+],
 "legendo": [
 [
 "lego2",
@@ -8632,6 +13232,42 @@
 [
 "lego2",
 "verb"
+]
+],
+"leges": [
+[
+"lego1",
+"verb"
+],
+[
+"lego2",
+"verb"
+],
+[
+"lex",
+"noun"
+]
+],
+"legibus": [
+[
+"lex",
+"noun"
+]
+],
+"legis": [
+[
+"lego2",
+"verb"
+],
+[
+"lex",
+"noun"
+]
+],
+"legum": [
+[
+"lex",
+"noun"
 ]
 ],
 "lemnon": [],
@@ -8792,6 +13428,12 @@
 "adjective"
 ]
 ],
+"lex": [
+[
+"lex",
+"noun"
+]
+],
 "libens": [
 [
 "libens",
@@ -8915,6 +13557,48 @@
 "verb"
 ]
 ],
+"lis": [
+[
+"lis",
+"noun"
+]
+],
+"litem": [
+[
+"lis",
+"noun"
+],
+[
+"lito",
+"verb"
+]
+],
+"lites": [
+[
+"lis",
+"noun"
+],
+[
+"lito",
+"verb"
+]
+],
+"litibus": [
+[
+"lis",
+"noun"
+],
+[
+"litus2",
+"noun"
+]
+],
+"litis": [
+[
+"lis",
+"noun"
+]
+],
 "litui": [
 [
 "litus2",
@@ -8965,6 +13649,84 @@
 ]
 ],
 "lucreti": [],
+"luctantem": [
+[
+"luctor",
+"verb"
+]
+],
+"luctantur": [
+[
+"luctor",
+"verb"
+]
+],
+"luctatur": [
+[
+"luctor",
+"verb"
+]
+],
+"luctibus": [
+[
+"luctus",
+"noun"
+]
+],
+"luctifer": [
+[
+"luctifer",
+"adjective"
+]
+],
+"luctifica": [
+[
+"luctificus",
+"adjective"
+]
+],
+"luctificam": [
+[
+"luctificus",
+"adjective"
+]
+],
+"luctificus": [
+[
+"luctificus",
+"adjective"
+]
+],
+"luctu": [
+[
+"luctus",
+"noun"
+],
+[
+"lugeo",
+"noun"
+]
+],
+"luctum": [
+[
+"luctus",
+"noun"
+],
+[
+"lugeo",
+"verb"
+]
+],
+"luctus": [
+[
+"luctus",
+"noun"
+],
+[
+"lugeo",
+"verb"
+]
+],
 "ludicri": [
 [
 "ludicer",
@@ -9024,6 +13786,54 @@
 ],
 [
 "luo2",
+"verb"
+]
+],
+"lugeat": [
+[
+"lugeo",
+"verb"
+]
+],
+"lugebis": [
+[
+"lugeo",
+"verb"
+]
+],
+"lugendae": [
+[
+"lugeo",
+"verb"
+]
+],
+"lugendo": [
+[
+"lugeo",
+"verb"
+]
+],
+"lugendus": [
+[
+"lugeo",
+"verb"
+]
+],
+"lugere": [
+[
+"lugeo",
+"verb"
+]
+],
+"luget": [
+[
+"lugeo",
+"verb"
+]
+],
+"lugete": [
+[
+"lugeo",
 "verb"
 ]
 ],
@@ -9110,6 +13920,60 @@
 "maenas": [
 [
 "maena",
+"noun"
+]
+],
+"maerens": [
+[
+"maereo",
+"verb"
+]
+],
+"maerentem": [
+[
+"maereo",
+"verb"
+]
+],
+"maerenti": [
+[
+"maereo",
+"verb"
+]
+],
+"maerere": [
+[
+"maereo",
+"verb"
+]
+],
+"maeres": [
+[
+"maereo",
+"verb"
+]
+],
+"maeret": [
+[
+"maereo",
+"verb"
+]
+],
+"maeror": [
+[
+"maeror",
+"noun"
+]
+],
+"maerore": [
+[
+"maeror",
+"noun"
+]
+],
+"maeroris": [
+[
+"maeror",
 "noun"
 ]
 ],
@@ -9416,11 +14280,337 @@
 ]
 ],
 "mantuae": [],
+"marathon": [],
+"marcent": [
+[
+"marceo",
+"verb"
+]
+],
+"marcente": [
+[
+"marceo",
+"verb"
+]
+],
+"marcentibus": [
+[
+"marceo",
+"verb"
+]
+],
+"marcet": [
+[
+"marceo",
+"verb"
+]
+],
+"marchia": [],
 "marchiae": [],
 "marchio": [],
+"marcidus": [
+[
+"marcidus",
+"adjective"
+]
+],
+"mare": [
+[
+"mare",
+"noun"
+],
+[
+"marum",
+"noun"
+],
+[
+"mas",
+"adjective"
+]
+],
+"mari": [
+[
+"mare",
+"noun"
+],
+[
+"marum",
+"noun"
+],
+[
+"mas",
+"adjective"
+]
+],
+"maria": [
+[
+"mare",
+"noun"
+]
+],
+"maribus": [
+[
+"mare",
+"noun"
+],
+[
+"mas",
+"adjective"
+]
+],
+"maris": [
+[
+"mare",
+"noun"
+],
+[
+"marum",
+"noun"
+],
+[
+"mas",
+"adjective"
+]
+],
+"marita": [
+[
+"marita",
+"noun"
+],
+[
+"marito",
+"verb"
+],
+[
+"maritus1",
+"adjective"
+]
+],
+"maritales": [
+[
+"maritalis",
+"adjective"
+]
+],
+"mariti": [
+[
+"mariti",
+"noun"
+],
+[
+"maritus",
+"noun"
+],
+[
+"maritus1",
+"adjective"
+]
+],
+"marito": [
+[
+"marito",
+"verb"
+],
+[
+"maritus",
+"noun"
+],
+[
+"maritus1",
+"adjective"
+]
+],
+"maritum": [
+[
+"mariti",
+"noun"
+],
+[
+"maritus",
+"noun"
+],
+[
+"maritus1",
+"adjective"
+]
+],
+"maritus": [
+[
+"maritus",
+"noun"
+],
+[
+"maritus1",
+"adjective"
+]
+],
+"marmaricus": [],
+"marmora": [
+[
+"marmoro",
+"verb"
+]
+],
+"marmore": [
+[
+"marmor",
+"noun"
+]
+],
+"marmoribus": [
+[
+"marmor",
+"noun"
+]
+],
+"mars": [],
 "marte": [
 [
 "martes",
+"noun"
+]
+],
+"martem": [
+[
+"martes",
+"noun"
+]
+],
+"marti": [
+[
+"martes",
+"noun"
+]
+],
+"martinus": [],
+"martis": [
+[
+"martes",
+"noun"
+]
+],
+"martius": [],
+"mater": [
+[
+"mater",
+"noun"
+]
+],
+"materia": [
+[
+"materia",
+"noun"
+],
+[
+"materio",
+"verb"
+]
+],
+"materiam": [
+[
+"materia",
+"noun"
+]
+],
+"materna": [
+[
+"maternus1",
+"adjective"
+]
+],
+"maternae": [
+[
+"maternus1",
+"adjective"
+]
+],
+"maternam": [
+[
+"maternus1",
+"adjective"
+]
+],
+"maternas": [
+[
+"maternus1",
+"adjective"
+]
+],
+"maternis": [
+[
+"maternus1",
+"adjective"
+]
+],
+"materno": [
+[
+"maternus1",
+"adjective"
+]
+],
+"maternos": [
+[
+"maternus1",
+"adjective"
+]
+],
+"maternum": [
+[
+"maternus1",
+"adjective"
+]
+],
+"maternus": [
+[
+"maternus1",
+"adjective"
+]
+],
+"matertera": [
+[
+"matertera",
+"noun"
+]
+],
+"matre": [
+[
+"mater",
+"noun"
+]
+],
+"matrem": [
+[
+"mater",
+"noun"
+]
+],
+"matres": [
+[
+"mater",
+"noun"
+]
+],
+"matri": [
+[
+"mater",
+"noun"
+]
+],
+"matribus": [
+[
+"mater",
+"noun"
+]
+],
+"matris": [
+[
+"mater",
+"noun"
+]
+],
+"matrum": [
+[
+"mater",
 "noun"
 ]
 ],
@@ -9613,11 +14803,88 @@
 "adverb"
 ]
 ],
+"memento": [],
+"memini": [
+[
+"memini",
+"verb"
+]
+],
+"meminimus": [
+[
+"memini",
+"verb"
+]
+],
+"meminisse": [
+[
+"memini",
+"verb"
+]
+],
+"meminit": [
+[
+"memini",
+"verb"
+]
+],
+"memor": [
+[
+"memor1",
+"adjective"
+]
+],
+"memora": [
+[
+"memoro",
+"verb"
+]
+],
 "memoranda": [
 [
 "memorandus",
 "adjective"
 ],
+[
+"memoro",
+"verb"
+]
+],
+"memorans": [
+[
+"memoro",
+"verb"
+]
+],
+"memorare": [
+[
+"memoro",
+"verb"
+]
+],
+"memoras": [
+[
+"memoro",
+"verb"
+]
+],
+"memorate": [
+[
+"memoratus",
+"adjective"
+],
+[
+"memoro",
+"verb"
+]
+],
+"memoraui": [
+[
+"memoro",
+"verb"
+]
+],
+"memorauit": [
 [
 "memoro",
 "verb"
@@ -9631,6 +14898,44 @@
 [
 "memoro",
 "verb"
+]
+],
+"memores": [
+[
+"memor1",
+"adjective"
+],
+[
+"memoro",
+"verb"
+]
+],
+"memoret": [
+[
+"memoro",
+"verb"
+]
+],
+"memoria": [
+[
+"memor1",
+"adjective"
+],
+[
+"memoria",
+"noun"
+]
+],
+"memoriae": [
+[
+"memoria",
+"noun"
+]
+],
+"memoriam": [
+[
+"memoria",
+"noun"
 ]
 ],
 "menelao": [],
@@ -10221,6 +15526,78 @@
 "verb"
 ]
 ],
+"mundi": [
+[
+"mundum",
+"noun"
+],
+[
+"mundus",
+"noun"
+],
+[
+"mundus1",
+"adjective"
+],
+[
+"mundus2",
+"noun"
+]
+],
+"mundo": [
+[
+"mundo",
+"verb"
+],
+[
+"mundum",
+"noun"
+],
+[
+"mundus",
+"noun"
+],
+[
+"mundus1",
+"adjective"
+],
+[
+"mundus2",
+"noun"
+]
+],
+"mundum": [
+[
+"mundum",
+"noun"
+],
+[
+"mundus",
+"noun"
+],
+[
+"mundus1",
+"adjective"
+],
+[
+"mundus2",
+"noun"
+]
+],
+"mundus": [
+[
+"mundus",
+"noun"
+],
+[
+"mundus1",
+"adjective"
+],
+[
+"mundus2",
+"noun"
+]
+],
 "muta": [
 [
 "muto1",
@@ -10270,6 +15647,30 @@
 [
 "nardus",
 "noun"
+]
+],
+"narrare": [
+[
+"narro",
+"verb"
+]
+],
+"narrat": [
+[
+"narro",
+"verb"
+]
+],
+"narratur": [
+[
+"narro",
+"verb"
+]
+],
+"narrentur": [
+[
+"narro",
+"verb"
 ]
 ],
 "nata": [
@@ -10448,6 +15849,24 @@
 "noun"
 ]
 ],
+"natura": [
+[
+"natura",
+"noun"
+]
+],
+"naturae": [
+[
+"natura",
+"noun"
+]
+],
+"naturam": [
+[
+"natura",
+"noun"
+]
+],
 "natus": [
 [
 "nascor",
@@ -10463,6 +15882,82 @@
 ],
 [
 "natus2",
+"noun"
+]
+],
+"nauem": [
+[
+"navis",
+"noun"
+],
+[
+"navo",
+"verb"
+]
+],
+"naues": [
+[
+"navis",
+"noun"
+],
+[
+"navo",
+"verb"
+]
+],
+"naufraga": [
+[
+"naufrago",
+"verb"
+],
+[
+"naufragus",
+"adjective"
+]
+],
+"naufragia": [
+[
+"naufragium",
+"noun"
+]
+],
+"naufragium": [
+[
+"naufragium",
+"noun"
+]
+],
+"naufragos": [
+[
+"naufragus",
+"adjective"
+]
+],
+"nauibus": [
+[
+"navis",
+"noun"
+]
+],
+"nauis": [
+[
+"navis",
+"noun"
+],
+[
+"navus",
+"adjective"
+]
+],
+"nauita": [
+[
+"nauta",
+"noun"
+]
+],
+"nauitam": [
+[
+"nauta",
 "noun"
 ]
 ],
@@ -10505,6 +16000,36 @@
 ]
 ],
 "nemiuem": [],
+"nepos": [
+[
+"nepos1",
+"noun"
+]
+],
+"nepotem": [
+[
+"nepos1",
+"noun"
+]
+],
+"nepotes": [
+[
+"nepos1",
+"noun"
+]
+],
+"nepotibus": [
+[
+"nepos1",
+"noun"
+]
+],
+"nepotis": [
+[
+"nepos1",
+"noun"
+]
+],
 "neptunium": [],
 "nequis": [
 [
@@ -10870,7 +16395,135 @@
 "adjective"
 ]
 ],
+"numen": [
+[
+"numen",
+"noun"
+]
+],
+"numerare": [
+[
+"numero1",
+"verb"
+]
+],
+"numeras": [
+[
+"numero1",
+"verb"
+]
+],
+"numerat": [
+[
+"numero1",
+"verb"
+]
+],
+"numeres": [
+[
+"numero1",
+"verb"
+]
+],
+"numeret": [
+[
+"numero1",
+"verb"
+]
+],
+"numero": [
+[
+"numero1",
+"verb"
+],
+[
+"numerus",
+"noun"
+]
+],
+"numeros": [
+[
+"numerus",
+"noun"
+]
+],
+"numerosa": [
+[
+"numerosus",
+"adjective"
+]
+],
+"numerosum": [
+[
+"numerosus",
+"adjective"
+]
+],
+"numerum": [
+[
+"numerus",
+"noun"
+]
+],
+"numerus": [
+[
+"numerus",
+"noun"
+]
+],
+"numina": [
+[
+"numen",
+"noun"
+]
+],
+"numine": [
+[
+"numen",
+"noun"
+]
+],
+"numinis": [
+[
+"numen",
+"noun"
+]
+],
+"numinum": [
+[
+"numen",
+"noun"
+]
+],
 "numiui": [],
+"nuntiat": [
+[
+"nuntio",
+"verb"
+]
+],
+"nuntiet": [
+[
+"nuntio",
+"verb"
+]
+],
+"nuntium": [
+[
+"nuntium",
+"noun"
+],
+[
+"nuntius",
+"noun"
+]
+],
+"nuntius": [
+[
+"nuntius",
+"noun"
+]
+],
 "nupta": [
 [
 "nubo",
@@ -10997,15 +16650,80 @@
 "verb"
 ]
 ],
+"oblitos": [
+[
+"obliviscor",
+"verb"
+]
+],
+"oblitus": [
+[
+"obliviscor",
+"verb"
+]
+],
 "obrutam": [
 [
 "obruo",
 "verb"
 ]
 ],
+"obsedit": [
+[
+"obsideo",
+"verb"
+]
+],
+"obsessa": [
+[
+"obsideo",
+"verb"
+]
+],
 "obsessae": [
 [
 "obsideo",
+"verb"
+]
+],
+"obsidem": [],
+"obsidens": [
+[
+"obsideo",
+"verb"
+],
+[
+"obsido",
+"verb"
+]
+],
+"obsidentem": [
+[
+"obsideo",
+"verb"
+],
+[
+"obsido",
+"verb"
+]
+],
+"obsides": [
+[
+"obsideo",
+"verb"
+],
+[
+"obsido",
+"verb"
+]
+],
+"obsidet": [
+[
+"obsideo",
+"verb"
+],
+[
+"obsido",
 "verb"
 ]
 ],
@@ -11087,6 +16805,46 @@
 "verb"
 ]
 ],
+"occubat": [
+[
+"occubo",
+"verb"
+]
+],
+"occucurrit": [
+[
+"occurro",
+"verb"
+]
+],
+"occulam": [
+[
+"occulo",
+"verb"
+]
+],
+"occule": [
+[
+"occulo",
+"verb"
+]
+],
+"occulit": [
+[
+"occulo",
+"verb"
+]
+],
+"occulte": [
+[
+"occulo",
+"verb"
+],
+[
+"occultum",
+"noun"
+]
+],
 "occultis": [
 [
 "occulo",
@@ -11129,6 +16887,77 @@
 "noun"
 ]
 ],
+"occupa": [
+[
+"occupo",
+"verb"
+]
+],
+"occupandum": [
+[
+"occupo",
+"verb"
+]
+],
+"occupanti": [
+[
+"occupo",
+"verb"
+]
+],
+"occupare": [
+[
+"occupo",
+"verb"
+]
+],
+"occupari": [
+[
+"occupo",
+"verb"
+]
+],
+"occuparo": [],
+"occupas": [
+[
+"occupo",
+"verb"
+]
+],
+"occupasti": [
+[
+"occupo",
+"verb"
+]
+],
+"occupat": [
+[
+"occupo",
+"verb"
+]
+],
+"occupata": [
+[
+"occupo",
+"verb"
+]
+],
+"occupato": [
+[
+"occupo",
+"verb"
+]
+],
+"occupatum": [
+[
+"occupatus2",
+"noun"
+],
+[
+"occupo",
+"verb"
+]
+],
 "occupatus": [
 [
 "occupatus2",
@@ -11139,6 +16968,84 @@
 "verb"
 ]
 ],
+"occupaui": [
+[
+"occupo",
+"verb"
+]
+],
+"occupauit": [
+[
+"occupo",
+"verb"
+]
+],
+"occupet": [
+[
+"occupo",
+"verb"
+]
+],
+"occupor": [
+[
+"occupo",
+"verb"
+]
+],
+"occurram": [
+[
+"occurro",
+"verb"
+]
+],
+"occurrat": [
+[
+"occurro",
+"verb"
+]
+],
+"occurre": [
+[
+"occurro",
+"verb"
+]
+],
+"occurrens": [
+[
+"occurro",
+"verb"
+]
+],
+"occurret": [
+[
+"occurro",
+"verb"
+]
+],
+"occurri": [
+[
+"occurro",
+"verb"
+]
+],
+"occurrit": [
+[
+"occurro",
+"verb"
+]
+],
+"occurro": [
+[
+"occurro",
+"verb"
+]
+],
+"occurrunt": [
+[
+"occurro",
+"verb"
+]
+],
 "ocius": [
 [
 "ocior",
@@ -11146,6 +17053,46 @@
 ]
 ],
 "octaviae": [],
+"odia": [
+[
+"odium1",
+"noun"
+],
+[
+"odium2",
+"noun"
+]
+],
+"odiis": [
+[
+"odium1",
+"noun"
+],
+[
+"odium2",
+"noun"
+]
+],
+"odio": [
+[
+"odium1",
+"noun"
+],
+[
+"odium2",
+"noun"
+]
+],
+"odium": [
+[
+"odium1",
+"noun"
+],
+[
+"odium2",
+"noun"
+]
+],
 "odore": [
 [
 "odor",
@@ -11293,6 +17240,40 @@
 ]
 ],
 "orbεs": [],
+"ordinare": [
+[
+"ordino",
+"verb"
+]
+],
+"ordine": [
+[
+"ordo",
+"noun"
+]
+],
+"ordinem": [
+[
+"ordino",
+"verb"
+],
+[
+"ordo",
+"noun"
+]
+],
+"ordiri": [
+[
+"ordior",
+"verb"
+]
+],
+"ordo": [
+[
+"ordo",
+"noun"
+]
+],
 "orgia": [
 [
 "Orgia",
@@ -11501,6 +17482,22 @@
 "verb"
 ]
 ],
+"parcae": [
+[
+"parcus",
+"adjective"
+]
+],
+"parcam": [
+[
+"parco",
+"verb"
+],
+[
+"parcus",
+"adjective"
+]
+],
 "parcarum": [
 [
 "parcus",
@@ -11517,7 +17514,53 @@
 "adjective"
 ]
 ],
+"parcat": [
+[
+"parco",
+"verb"
+]
+],
 "parce": [
+[
+"parco",
+"verb"
+],
+[
+"parcus",
+"adjective"
+]
+],
+"parcens": [
+[
+"parco",
+"verb"
+]
+],
+"parcent": [
+[
+"parco",
+"verb"
+]
+],
+"parcere": [
+[
+"parco",
+"verb"
+]
+],
+"parces": [
+[
+"parco",
+"verb"
+]
+],
+"parcet": [
+[
+"parco",
+"verb"
+]
+],
+"parci": [
 [
 "parco",
 "verb"
@@ -11537,6 +17580,50 @@
 "adjective"
 ]
 ],
+"parcit": [
+[
+"parco",
+"verb"
+]
+],
+"parcite": [
+[
+"parco",
+"verb"
+]
+],
+"parcius": [
+[
+"parcus",
+"adjective"
+]
+],
+"pare": [
+[
+"pareo",
+"verb"
+],
+[
+"pario2",
+"verb"
+],
+[
+"parus1",
+"noun"
+]
+],
+"pareamus": [
+[
+"pareo",
+"verb"
+]
+],
+"pareant": [
+[
+"pareo",
+"verb"
+]
+],
 "parem": [
 [
 "par",
@@ -11551,7 +17638,151 @@
 "verb"
 ]
 ],
+"paremus": [
+[
+"pareo",
+"verb"
+],
+[
+"paro1",
+"verb"
+],
+[
+"paro2",
+"verb"
+]
+],
+"parens": [
+[
+"parens",
+"noun"
+],
+[
+"parens2",
+"noun"
+],
+[
+"pareo",
+"verb"
+]
+],
 "parent": [
+[
+"pareo",
+"verb"
+],
+[
+"paro1",
+"verb"
+],
+[
+"paro2",
+"verb"
+]
+],
+"parente": [
+[
+"parens",
+"noun"
+],
+[
+"parens2",
+"noun"
+],
+[
+"pareo",
+"verb"
+]
+],
+"parentem": [
+[
+"parens",
+"noun"
+],
+[
+"parens2",
+"noun"
+],
+[
+"parento",
+"verb"
+],
+[
+"pareo",
+"verb"
+]
+],
+"parentes": [
+[
+"parens",
+"noun"
+],
+[
+"parens2",
+"noun"
+],
+[
+"parento",
+"verb"
+],
+[
+"pareo",
+"verb"
+]
+],
+"parenti": [
+[
+"parens",
+"noun"
+],
+[
+"parens2",
+"noun"
+],
+[
+"pareo",
+"verb"
+]
+],
+"parentibus": [
+[
+"parens",
+"noun"
+],
+[
+"parens2",
+"noun"
+],
+[
+"pareo",
+"verb"
+]
+],
+"parentis": [
+[
+"parens",
+"noun"
+],
+[
+"parens2",
+"noun"
+],
+[
+"pareo",
+"verb"
+]
+],
+"parentum": [
+[
+"parens",
+"noun"
+],
+[
+"parens2",
+"noun"
+]
+],
+"parentur": [
 [
 "pareo",
 "verb"
@@ -11728,10 +17959,84 @@
 "patavorum": [],
 "patavos": [],
 "patavum": [],
+"pateant": [
+[
+"pateo",
+"verb"
+]
+],
+"pateat": [
+[
+"pateo",
+"verb"
+]
+],
+"patebit": [
+[
+"pateo",
+"verb"
+]
+],
+"patefacite": [
+[
+"patefacio",
+"verb"
+]
+],
+"patefacta": [
+[
+"patefacio",
+"verb"
+]
+],
+"patefecit": [
+[
+"patefacio",
+"verb"
+]
+],
+"patefiat": [],
+"patefient": [],
+"patens": [
+[
+"pateo",
+"verb"
+]
+],
+"patent": [
+[
+"pateo",
+"verb"
+]
+],
+"patentes": [
+[
+"pateo",
+"verb"
+]
+],
 "patenti": [
 [
 "pateo",
 "verb"
+]
+],
+"patentis": [
+[
+"pateo",
+"verb"
+]
+],
+"pater": [
+[
+"pater",
+"noun"
+]
+],
+"pater-": [
+[
+"pater",
+"noun"
 ]
 ],
 "patere": [
@@ -11741,6 +18046,100 @@
 ],
 [
 "patior",
+"verb"
+]
+],
+"paterer": [
+[
+"pateo",
+"verb"
+],
+[
+"patior",
+"verb"
+]
+],
+"paterere": [
+[
+"pateo",
+"verb"
+],
+[
+"patior",
+"verb"
+]
+],
+"pateris": [
+[
+"pateo",
+"verb"
+],
+[
+"patera",
+"noun"
+],
+[
+"patior",
+"verb"
+]
+],
+"paterna": [
+[
+"paternus",
+"adjective"
+]
+],
+"paternae": [
+[
+"paternus",
+"adjective"
+]
+],
+"paterni": [
+[
+"paternus",
+"adjective"
+]
+],
+"paternis": [
+[
+"paternus",
+"adjective"
+]
+],
+"paterno": [
+[
+"paternus",
+"adjective"
+]
+],
+"paternos": [
+[
+"paternus",
+"adjective"
+]
+],
+"paternum": [
+[
+"paternus",
+"adjective"
+]
+],
+"paternus": [
+[
+"paternus",
+"adjective"
+]
+],
+"patescunt": [
+[
+"patesco",
+"verb"
+]
+],
+"patet": [
+[
+"pateo",
 "verb"
 ]
 ],
@@ -11766,6 +18165,76 @@
 [
 "patior",
 "verb"
+]
+],
+"patrandae": [
+[
+"patro",
+"verb"
+]
+],
+"patrata": [
+[
+"patratus",
+"adjective"
+],
+[
+"patro",
+"verb"
+]
+],
+"patratis": [
+[
+"patratus",
+"adjective"
+],
+[
+"patro",
+"verb"
+]
+],
+"patre": [
+[
+"pater",
+"noun"
+]
+],
+"patrem": [
+[
+"pater",
+"noun"
+],
+[
+"patro",
+"verb"
+]
+],
+"patres": [
+[
+"pater",
+"noun"
+],
+[
+"patro",
+"verb"
+]
+],
+"patri": [
+[
+"pater",
+"noun"
+],
+[
+"patrium",
+"noun"
+],
+[
+"patrius1",
+"adjective"
+],
+[
+"patrius2",
+"adjective"
 ]
 ],
 "patria": [
@@ -11843,6 +18312,120 @@
 ],
 [
 "patrius2",
+"adjective"
+]
+],
+"patrio": [
+[
+"patrium",
+"noun"
+],
+[
+"patrius1",
+"adjective"
+],
+[
+"patrius2",
+"adjective"
+]
+],
+"patrios": [
+[
+"patrius1",
+"adjective"
+],
+[
+"patrius2",
+"adjective"
+]
+],
+"patris": [
+[
+"pater",
+"noun"
+],
+[
+"patrium",
+"noun"
+]
+],
+"patrium": [
+[
+"patrium",
+"noun"
+],
+[
+"patrius1",
+"adjective"
+],
+[
+"patrius2",
+"adjective"
+]
+],
+"patrius": [
+[
+"patrius1",
+"adjective"
+],
+[
+"patrius2",
+"adjective"
+]
+],
+"patrui": [
+[
+"patruus1",
+"noun"
+],
+[
+"patruus2",
+"adjective"
+]
+],
+"patrum": [
+[
+"pater",
+"noun"
+]
+],
+"patruo": [
+[
+"patruus1",
+"noun"
+],
+[
+"patruus2",
+"adjective"
+]
+],
+"patruos": [
+[
+"patruus1",
+"noun"
+],
+[
+"patruus2",
+"adjective"
+]
+],
+"patruum": [
+[
+"patruus1",
+"noun"
+],
+[
+"patruus2",
+"adjective"
+]
+],
+"patruus": [
+[
+"patruus1",
+"noun"
+],
+[
+"patruus2",
 "adjective"
 ]
 ],
@@ -11930,6 +18513,32 @@
 [
 "malus",
 "adjective"
+]
+],
+"pelagi": [
+[
+"pelagium",
+"noun"
+],
+[
+"pelagius",
+"adjective"
+],
+[
+"pelagus",
+"noun"
+]
+],
+"pelago": [
+[
+"pelagus",
+"noun"
+]
+],
+"pelagus": [
+[
+"pelagus",
+"noun"
 ]
 ],
 "pelasgae": [],
@@ -12033,6 +18642,36 @@
 [
 "perficio",
 "verb"
+]
+],
+"perfida": [
+[
+"perfidus",
+"adjective"
+]
+],
+"perfide": [
+[
+"perfidus",
+"adjective"
+]
+],
+"perfidi": [
+[
+"perfidus",
+"adjective"
+]
+],
+"perfido": [
+[
+"perfidus",
+"adjective"
+]
+],
+"perfidus": [
+[
+"perfidus",
+"adjective"
 ]
 ],
 "pericli": [
@@ -12174,8 +18813,62 @@
 "phrygiae": [],
 "phrygibus": [],
 "phrygum": [],
+"pia": [
+[
+"pio",
+"verb"
+],
+[
+"pius",
+"adjective"
+]
+],
+"piae": [
+[
+"pigeo",
+"verb"
+],
+[
+"pius",
+"adjective"
+]
+],
+"pias": [
+[
+"pio",
+"verb"
+],
+[
+"pius",
+"adjective"
+]
+],
 "pieria": [],
 "pieriam": [],
+"pietas": [
+[
+"pietas1",
+"noun"
+]
+],
+"pietate": [
+[
+"pietas1",
+"noun"
+]
+],
+"pietatem": [
+[
+"pietas1",
+"noun"
+]
+],
+"pietati": [
+[
+"pietas1",
+"noun"
+]
+],
 "pigeat": [
 [
 "pigeo",
@@ -12186,6 +18879,18 @@
 [
 "pigeo",
 "verb"
+]
+],
+"pii": [
+[
+"pius",
+"adjective"
+]
+],
+"piis": [
+[
+"pius",
+"adjective"
 ]
 ],
 "pindon": [],
@@ -12207,11 +18912,45 @@
 "noun"
 ]
 ],
+"pio": [
+[
+"pio",
+"verb"
+],
+[
+"pius",
+"adjective"
+]
+],
+"piorum": [
+[
+"pius",
+"adjective"
+]
+],
+"pios": [
+[
+"pius",
+"adjective"
+]
+],
 "pirenidas": [],
 "pisces": [
 [
 "piscis",
 "noun"
+]
+],
+"pium": [
+[
+"pius",
+"adjective"
+]
+],
+"pius": [
+[
+"pius",
+"adjective"
 ]
 ],
 "placatos": [
@@ -12260,9 +18999,37 @@
 "noun"
 ]
 ],
+"plana": [
+[
+"plana",
+"noun"
+],
+[
+"plano",
+"verb"
+],
+[
+"planum",
+"noun"
+],
+[
+"planus1",
+"adjective"
+]
+],
 "planctibus": [
 [
 "planctus",
+"noun"
+]
+],
+"planctu": [
+[
+"planctus",
+"noun"
+],
+[
+"plango",
 "noun"
 ]
 ],
@@ -12276,6 +19043,68 @@
 "verb"
 ]
 ],
+"plangant": [
+[
+"plango",
+"verb"
+]
+],
+"plangente": [
+[
+"plango",
+"verb"
+]
+],
+"plangite": [
+[
+"plango",
+"verb"
+]
+],
+"plano": [
+[
+"plano",
+"verb"
+],
+[
+"planum",
+"noun"
+],
+[
+"planus1",
+"adjective"
+],
+[
+"planus2",
+"noun"
+]
+],
+"planta": [
+[
+"planta",
+"noun"
+],
+[
+"planto",
+"verb"
+]
+],
+"plantas": [
+[
+"planta",
+"noun"
+],
+[
+"planto",
+"verb"
+]
+],
+"plantis": [
+[
+"planta",
+"noun"
+]
+],
 "planum": [
 [
 "planum",
@@ -12287,6 +19116,46 @@
 ],
 [
 "planus2",
+"noun"
+]
+],
+"planxerunt": [
+[
+"plango",
+"verb"
+]
+],
+"plebe": [
+[
+"plebs",
+"noun"
+]
+],
+"plebeia": [
+[
+"plebeius",
+"adjective"
+]
+],
+"plebeius": [
+[
+"plebeius",
+"noun"
+]
+],
+"plebis": [
+[
+"plebs",
+"noun"
+],
+[
+"pleo",
+"verb"
+]
+],
+"plebs": [
+[
+"plebs",
 "noun"
 ]
 ],
@@ -12315,17 +19184,105 @@
 "poeans": [],
 "poeante": [],
 "poeantium": [],
+"poena": [
+[
+"poena",
+"noun"
+]
+],
+"poenae": [
+[
+"poena",
+"noun"
+]
+],
+"poenam": [
+[
+"poena",
+"noun"
+]
+],
+"poenarum": [
+[
+"poena",
+"noun"
+]
+],
+"poenas": [
+[
+"poena",
+"noun"
+]
+],
 "poeni": [
 [
 "poenio",
 "verb"
 ]
 ],
+"poenis": [
+[
+"poena",
+"noun"
+],
+[
+"poenio",
+"verb"
+]
+],
 "polagus": [],
+"poli": [
+[
+"polio1",
+"verb"
+],
+[
+"polion",
+"noun"
+],
+[
+"polus1",
+"noun"
+]
+],
+"polis": [
+[
+"polio1",
+"verb"
+],
+[
+"polus1",
+"noun"
+]
+],
 "pollens": [
 [
 "polleo",
 "verb"
+]
+],
+"polo": [
+[
+"polus1",
+"noun"
+]
+],
+"polos": [
+[
+"polus1",
+"noun"
+]
+],
+"polum": [
+[
+"polus1",
+"noun"
+]
+],
+"polus": [
+[
+"polus1",
+"noun"
 ]
 ],
 "polyxene": [],
@@ -12351,11 +19308,52 @@
 "verb"
 ]
 ],
+"pontem": [
+[
+"pons",
+"noun"
+]
+],
+"pontes": [
+[
+"pons",
+"noun"
+]
+],
 "ponti": [
 [
 "pons",
 "noun"
 ],
+[
+"pontus1",
+"noun"
+]
+],
+"ponticam": [],
+"pontici": [],
+"pontico": [],
+"ponto": [
+[
+"ponto",
+"noun"
+],
+[
+"pontus1",
+"noun"
+]
+],
+"pontum": [
+[
+"pons",
+"noun"
+],
+[
+"pontus1",
+"noun"
+]
+],
+"pontus": [
 [
 "pontus1",
 "noun"
@@ -12371,6 +19369,62 @@
 [
 "pontus1",
 "noun"
+]
+],
+"populante": [
+[
+"populo",
+"verb"
+],
+[
+"populor",
+"verb"
+]
+],
+"populare": [
+[
+"popularis",
+"adjective"
+],
+[
+"populo",
+"verb"
+],
+[
+"populor",
+"verb"
+]
+],
+"populari": [
+[
+"popularis",
+"adjective"
+],
+[
+"populo",
+"verb"
+],
+[
+"populor",
+"verb"
+]
+],
+"popularis": [
+[
+"populares",
+"noun"
+],
+[
+"popularis",
+"adjective"
+],
+[
+"populo",
+"verb"
+],
+[
+"populor",
+"verb"
 ]
 ],
 "populato": [
@@ -12389,6 +19443,124 @@
 "noun"
 ]
 ],
+"populatur": [
+[
+"populo",
+"verb"
+],
+[
+"populor",
+"verb"
+]
+],
+"populea": [
+[
+"populeus",
+"adjective"
+]
+],
+"populi": [
+[
+"populus1",
+"noun"
+],
+[
+"populus2",
+"noun"
+]
+],
+"populis": [
+[
+"populus1",
+"noun"
+],
+[
+"populus2",
+"noun"
+]
+],
+"populo": [
+[
+"populo",
+"verb"
+],
+[
+"populus1",
+"noun"
+],
+[
+"populus2",
+"noun"
+]
+],
+"populorum": [
+[
+"populus1",
+"noun"
+],
+[
+"populus2",
+"noun"
+]
+],
+"populos": [
+[
+"populus1",
+"noun"
+],
+[
+"populus2",
+"noun"
+]
+],
+"populum": [
+[
+"populus1",
+"noun"
+],
+[
+"populus2",
+"noun"
+]
+],
+"populus": [
+[
+"populus1",
+"noun"
+],
+[
+"populus2",
+"noun"
+]
+],
+"porta": [
+[
+"porta",
+"noun"
+],
+[
+"porto",
+"verb"
+]
+],
+"portae": [
+[
+"porta",
+"noun"
+]
+],
+"portam": [
+[
+"porta",
+"noun"
+]
+],
+"portare": [
+[
+"porto",
+"verb"
+]
+],
 "portas": [
 [
 "porta",
@@ -12397,6 +19569,34 @@
 [
 "porto",
 "verb"
+]
+],
+"portasse": [
+[
+"porto",
+"verb"
+]
+],
+"portat": [
+[
+"porto",
+"verb"
+]
+],
+"portate": [
+[
+"porto",
+"verb"
+]
+],
+"portenta": [
+[
+"portendo",
+"verb"
+],
+[
+"portentum",
+"noun"
 ]
 ],
 "portentis": [
@@ -12416,6 +19616,62 @@
 ],
 [
 "portentum",
+"noun"
+]
+],
+"portes": [
+[
+"porto",
+"verb"
+]
+],
+"portet": [
+[
+"porto",
+"verb"
+]
+],
+"portibus": [
+[
+"portus",
+"noun"
+]
+],
+"portis": [
+[
+"porta",
+"noun"
+]
+],
+"portitor": [
+[
+"portito",
+"verb"
+],
+[
+"portitor1",
+"noun"
+],
+[
+"portitor2",
+"noun"
+]
+],
+"portu": [
+[
+"portus",
+"noun"
+]
+],
+"portum": [
+[
+"portus",
+"noun"
+]
+],
+"portus": [
+[
+"portus",
 "noun"
 ]
 ],
@@ -12661,9 +19917,35 @@
 "adjective"
 ]
 ],
+"princeps": [
+[
+"princeps",
+"noun"
+]
+],
 "principem": [
 [
 "princeps",
+"noun"
+]
+],
+"principes": [
+[
+"princeps",
+"noun"
+],
+[
+"principes",
+"noun"
+]
+],
+"principi": [
+[
+"princeps",
+"noun"
+],
+[
+"principium",
 "noun"
 ]
 ],
@@ -12685,6 +19967,44 @@
 [
 "privo",
 "verb"
+]
+],
+"procella": [
+[
+"procella",
+"noun"
+]
+],
+"procellae": [
+[
+"procella",
+"noun"
+]
+],
+"procellas": [
+[
+"procella",
+"noun"
+],
+[
+"procello",
+"verb"
+]
+],
+"procellis": [
+[
+"procella",
+"noun"
+],
+[
+"procello",
+"verb"
+]
+],
+"procellosum": [
+[
+"procellosus",
+"adjective"
 ]
 ],
 "procerum": [
@@ -12710,6 +20030,78 @@
 ]
 ],
 "procustis": [],
+"prodas": [
+[
+"prodo",
+"verb"
+]
+],
+"prodat": [
+[
+"prodo",
+"verb"
+]
+],
+"proderit": [
+[
+"pro-defleo",
+"verb"
+],
+[
+"pro-sum1",
+"verb"
+]
+],
+"prodesse": [
+[
+"prosum",
+"verb"
+]
+],
+"prodest": [
+[
+"prodo",
+"verb"
+],
+[
+"prosum",
+"verb"
+]
+],
+"prodet": [
+[
+"prodo",
+"verb"
+]
+],
+"prodidit": [
+[
+"prodo",
+"verb"
+]
+],
+"prodigia": [
+[
+"prodigium",
+"noun"
+]
+],
+"prodimus": [
+[
+"prodeo",
+"verb"
+],
+[
+"prodo",
+"verb"
+]
+],
+"prodire": [
+[
+"prodeo",
+"verb"
+]
+],
 "prodit": [
 [
 "prodeo",
@@ -12717,6 +20109,60 @@
 ],
 [
 "prodo",
+"verb"
+]
+],
+"proditur": [
+[
+"prodeo",
+"verb"
+],
+[
+"prodo",
+"verb"
+]
+],
+"proditus": [
+[
+"prodeo",
+"verb"
+],
+[
+"proditus2",
+"noun"
+],
+[
+"prodo",
+"verb"
+]
+],
+"producat": [
+[
+"produco",
+"verb"
+]
+],
+"productos": [
+[
+"produco",
+"verb"
+]
+],
+"producunt": [
+[
+"produco",
+"verb"
+]
+],
+"produnt": [
+[
+"prodo",
+"verb"
+]
+],
+"produxit": [
+[
+"produco",
 "verb"
 ]
 ],
@@ -12792,9 +20238,25 @@
 "verb"
 ]
 ],
+"progenies": [
+[
+"progenies",
+"noun"
+]
+],
 "progredere": [
 [
 "progredior",
+"verb"
+]
+],
+"prolata": [
+[
+"profero",
+"verb"
+],
+[
+"prolato",
 "verb"
 ]
 ],
@@ -12805,6 +20267,68 @@
 ],
 [
 "prolato",
+"verb"
+]
+],
+"prolatum": [
+[
+"profero",
+"verb"
+],
+[
+"prolatus2",
+"noun"
+]
+],
+"prole": [
+[
+"proles",
+"noun"
+]
+],
+"prolem": [
+[
+"proles",
+"noun"
+]
+],
+"proles": [
+[
+"proles",
+"noun"
+]
+],
+"prolis": [
+[
+"proles",
+"noun"
+]
+],
+"proloquere": [
+[
+"proloquor",
+"verb"
+]
+],
+"proloqui": [
+[
+"proloquium",
+"noun"
+],
+[
+"proloquor",
+"verb"
+]
+],
+"proludens": [
+[
+"proludo",
+"verb"
+]
+],
+"prolusit": [
+[
+"proludo",
 "verb"
 ]
 ],
@@ -12868,7 +20392,47 @@
 ]
 ],
 "proporat": [],
+"prora": [
+[
+"prora",
+"noun"
+]
+],
+"prorae": [
+[
+"prora",
+"noun"
+]
+],
+"prorsus": [
+[
+"prorsus1",
+"adverb"
+],
+[
+"prorsus2",
+"adjective"
+]
+],
+"prorumpat": [
+[
+"prorumpo",
+"verb"
+]
+],
+"prorupit": [
+[
+"prorumpo",
+"verb"
+]
+],
 "prorutum": [
+[
+"proruo",
+"verb"
+]
+],
+"prorutus": [
 [
 "proruo",
 "verb"
@@ -12899,6 +20463,18 @@
 ]
 ],
 "prothoi": [],
+"prouidae": [
+[
+"providus",
+"adjective"
+]
+],
+"prouidit": [
+[
+"provideo",
+"verb"
+]
+],
 "proxima": [
 [
 "proximo2",
@@ -12960,6 +20536,30 @@
 "noun"
 ]
 ],
+"pugnaces": [
+[
+"pugnax",
+"adjective"
+]
+],
+"pugnam": [
+[
+"pugna",
+"noun"
+]
+],
+"pugnandi": [
+[
+"pugno",
+"verb"
+]
+],
+"pugnanti": [
+[
+"pugno",
+"verb"
+]
+],
 "pugnas": [
 [
 "pugna",
@@ -12968,6 +20568,18 @@
 [
 "pugno",
 "verb"
+]
+],
+"pugnat": [
+[
+"pugno",
+"verb"
+]
+],
+"pugnax": [
+[
+"pugnax",
+"adjective"
 ]
 ],
 "pulcrum": [
@@ -12991,6 +20603,67 @@
 [
 "pulvereus",
 "adjective"
+]
+],
+"puniceo": [
+[
+"puniceus",
+"adjective"
+]
+],
+"puniendum": [
+[
+"punior",
+"verb"
+]
+],
+"punire": [
+[
+"punior",
+"verb"
+]
+],
+"puniri": [
+[
+"punior",
+"verb"
+]
+],
+"punisti": [],
+"punitur": [
+[
+"punior",
+"verb"
+]
+],
+"puppe": [
+[
+"puppis",
+"noun"
+]
+],
+"puppem": [
+[
+"puppis",
+"noun"
+]
+],
+"puppes": [
+[
+"puppis",
+"noun"
+]
+],
+"puppibus": [
+[
+"puppis",
+"noun"
+]
+],
+"puppis": [
+[
+"puppis",
+"noun"
 ]
 ],
 "puri": [
@@ -13061,13 +20734,125 @@
 "pronoun"
 ]
 ],
+"querar": [
+[
+"queror",
+"verb"
+]
+],
+"queraris": [
+[
+"queror",
+"verb"
+]
+],
+"quercum": [
+[
+"quercus",
+"noun"
+]
+],
+"quercus": [
+[
+"quercus",
+"noun"
+]
+],
+"querelae": [
+[
+"querela",
+"noun"
+]
+],
+"querelas": [
+[
+"querela",
+"noun"
+]
+],
+"querelis": [
+[
+"querela",
+"noun"
+]
+],
+"querens": [
+[
+"queror",
+"verb"
+]
+],
+"querente": [
+[
+"queror",
+"verb"
+]
+],
+"querentes": [
+[
+"queror",
+"verb"
+]
+],
+"querere": [
+[
+"queror",
+"verb"
+]
+],
+"querimur": [
+[
+"queror",
+"verb"
+]
+],
 "queritur": [
 [
 "queror",
 "verb"
 ]
 ],
+"queror": [
+[
+"queror",
+"verb"
+]
+],
+"querulae": [
+[
+"querulus",
+"adjective"
+]
+],
+"querulo": [
+[
+"querulus",
+"adjective"
+]
+],
+"querulos": [
+[
+"querulus",
+"adjective"
+]
+],
+"querulum": [
+[
+"querulus",
+"adjective"
+]
+],
 "questibus": [
+[
+"questus2",
+"noun"
+]
+],
+"questum": [
+[
+"queror",
+"verb"
+],
 [
 "questus2",
 "noun"
@@ -13114,6 +20899,70 @@
 "quinis": [
 [
 "quini",
+"adjective"
+]
+],
+"rabida": [
+[
+"rabidus",
+"adjective"
+]
+],
+"rabidae": [
+[
+"rabidus",
+"adjective"
+]
+],
+"rabidam": [
+[
+"rabidus",
+"adjective"
+]
+],
+"rabido": [
+[
+"rabidus",
+"adjective"
+]
+],
+"rabidos": [
+[
+"rabidus",
+"adjective"
+]
+],
+"rabidum": [
+[
+"rabidus",
+"adjective"
+]
+],
+"rabidus": [
+[
+"rabidus",
+"adjective"
+]
+],
+"rabiem": [
+[
+"rabies",
+"noun"
+]
+],
+"rabies": [
+[
+"rabies",
+"noun"
+],
+[
+"rabio",
+"verb"
+]
+],
+"rabiosa": [
+[
+"rabiosus",
 "adjective"
 ]
 ],
@@ -13169,7 +21018,57 @@
 "verb"
 ]
 ],
+"rate": [
+[
+"ratis",
+"noun"
+],
+[
+"reor",
+"verb"
+]
+],
+"ratem": [
+[
+"ratis",
+"noun"
+]
+],
+"rates": [
+[
+"ratis",
+"noun"
+]
+],
 "rati": [
+[
+"ratis",
+"noun"
+],
+[
+"reor",
+"verb"
+]
+],
+"ratibus": [
+[
+"ratis",
+"noun"
+]
+],
+"ratio": [
+[
+"ratio",
+"noun"
+]
+],
+"ratione": [
+[
+"ratio",
+"noun"
+]
+],
+"ratis": [
 [
 "ratis",
 "noun"
@@ -13325,6 +21224,12 @@
 "noun"
 ]
 ],
+"regem": [
+[
+"rex",
+"noun"
+]
+],
 "regemne": [
 [
 "rex",
@@ -13349,6 +21254,16 @@
 "verb"
 ]
 ],
+"reges": [
+[
+"rego",
+"verb"
+],
+[
+"rex",
+"noun"
+]
+],
 "regi": [
 [
 "regius",
@@ -13364,6 +21279,16 @@
 ]
 ],
 "regia": [
+[
+"regia",
+"noun"
+],
+[
+"regius",
+"adjective"
+]
+],
+"regiae": [
 [
 "regia",
 "noun"
@@ -13393,11 +21318,53 @@
 "adjective"
 ]
 ],
+"regibus": [
+[
+"rex",
+"noun"
+]
+],
+"regii": [
+[
+"regius",
+"adjective"
+]
+],
+"regimen": [
+[
+"regimen",
+"noun"
+]
+],
+"regimur": [
+[
+"rego",
+"verb"
+]
+],
+"regina": [
+[
+"regina",
+"noun"
+]
+],
 "regio": [
 [
 "regio",
 "noun"
 ],
+[
+"regius",
+"adjective"
+]
+],
+"regione": [
+[
+"regio",
+"noun"
+]
+],
+"regios": [
 [
 "regius",
 "adjective"
@@ -13413,6 +21380,30 @@
 "noun"
 ]
 ],
+"regit": [
+[
+"rego",
+"verb"
+]
+],
+"regitur": [
+[
+"rego",
+"verb"
+]
+],
+"regium": [
+[
+"regius",
+"adjective"
+]
+],
+"regius": [
+[
+"regius",
+"adverb"
+]
+],
 "regna": [
 [
 "regno",
@@ -13423,9 +21414,147 @@
 "noun"
 ]
 ],
+"regnabas": [
+[
+"regno",
+"verb"
+]
+],
+"regnabit": [
+[
+"regno",
+"verb"
+]
+],
+"regnant": [
+[
+"regno",
+"verb"
+]
+],
+"regnante": [
+[
+"regno",
+"verb"
+]
+],
+"regnantem": [
+[
+"regno",
+"verb"
+]
+],
+"regnantis": [
+[
+"regno",
+"verb"
+]
+],
+"regnare": [
+[
+"regno",
+"verb"
+]
+],
+"regnas": [
+[
+"regno",
+"verb"
+]
+],
+"regnat": [
+[
+"regno",
+"verb"
+]
+],
 "regnator": [
 [
 "regnator",
+"noun"
+]
+],
+"regnatur": [
+[
+"regno",
+"verb"
+]
+],
+"regnauit": [
+[
+"regno",
+"verb"
+]
+],
+"regnent": [
+[
+"regno",
+"verb"
+]
+],
+"regnes": [
+[
+"regno",
+"verb"
+]
+],
+"regnet": [
+[
+"regno",
+"verb"
+]
+],
+"regni": [
+[
+"regnum",
+"noun"
+]
+],
+"regnis": [
+[
+"regnum",
+"noun"
+]
+],
+"regno": [
+[
+"regno",
+"verb"
+],
+[
+"regnum",
+"noun"
+]
+],
+"regnorum": [
+[
+"regnum",
+"noun"
+]
+],
+"regnum": [
+[
+"regnum",
+"noun"
+]
+],
+"regum": [
+[
+"rex",
+"noun"
+]
+],
+"reis": [
+[
+"rea",
+"noun"
+],
+[
+"redeo",
+"verb"
+],
+[
+"reus",
 "noun"
 ]
 ],
@@ -13511,6 +21640,12 @@
 "verb"
 ]
 ],
+"reos": [
+[
+"reus",
+"noun"
+]
+],
 "residentem": [
 [
 "resideo",
@@ -13560,13 +21695,297 @@
 ]
 ],
 "retineuda": [],
+"reuehi": [
+[
+"reveho",
+"verb"
+]
+],
+"reuelli": [
+[
+"revello",
+"verb"
+]
+],
+"reuersa": [
+[
+"reverso",
+"verb"
+],
+[
+"reverto",
+"verb"
+]
+],
+"reuerse": [
+[
+"reverto",
+"verb"
+]
+],
+"reuerso": [
+[
+"reverso",
+"verb"
+],
+[
+"reverto",
+"verb"
+]
+],
 "reuersus": [
 [
 "reverto",
 "verb"
 ]
 ],
+"reuertar": [
+[
+"reverto",
+"verb"
+]
+],
 "reuerter": [],
+"reuerti": [
+[
+"reverto",
+"verb"
+]
+],
+"reuertit": [
+[
+"reverto",
+"verb"
+]
+],
+"reuertor": [
+[
+"reverto",
+"verb"
+]
+],
+"reuexi": [
+[
+"reveho",
+"verb"
+]
+],
+"reuicturi": [
+[
+"revinco",
+"verb"
+]
+],
+"reuinctas": [
+[
+"revincio",
+"verb"
+]
+],
+"reuinctus": [
+[
+"revincio",
+"verb"
+]
+],
+"reuinxit": [
+[
+"revincio",
+"verb"
+]
+],
+"reuisat": [
+[
+"reviso",
+"verb"
+]
+],
+"reuixit": [
+[
+"re-vivo",
+"verb"
+]
+],
+"reum": [
+[
+"reus",
+"noun"
+]
+],
+"reuoca": [
+[
+"revoco",
+"verb"
+]
+],
+"reuocabiles": [
+[
+"revocabilis",
+"adjective"
+]
+],
+"reuocabit": [
+[
+"revoco",
+"verb"
+]
+],
+"reuocabo": [
+[
+"revoco",
+"verb"
+]
+],
+"reuocantem": [
+[
+"revoco",
+"verb"
+]
+],
+"reuocare": [
+[
+"revoco",
+"verb"
+]
+],
+"reuocari": [
+[
+"revoco",
+"verb"
+]
+],
+"reuocas": [
+[
+"revoco",
+"verb"
+]
+],
+"reuocat": [
+[
+"revoco",
+"verb"
+]
+],
+"reuocata": [
+[
+"revoco",
+"verb"
+]
+],
+"reuocauit": [
+[
+"revoco",
+"verb"
+]
+],
+"reuocet": [
+[
+"revoco",
+"verb"
+]
+],
+"reuocetur": [
+[
+"revoco",
+"verb"
+]
+],
+"reuoluat": [
+[
+"revolvo",
+"verb"
+]
+],
+"reuoluit": [
+[
+"revolvo",
+"verb"
+]
+],
+"reuoluo": [
+[
+"revolvo",
+"verb"
+]
+],
+"reuoluor": [
+[
+"revolvo",
+"verb"
+]
+],
+"reuoluta": [
+[
+"revolvo",
+"verb"
+]
+],
+"reuoluto": [
+[
+"revolvo",
+"verb"
+]
+],
+"reuolutus": [
+[
+"revolvo",
+"verb"
+]
+],
+"reuoluunt": [
+[
+"revolvo",
+"verb"
+]
+],
+"reuomit": [
+[
+"revomo",
+"verb"
+]
+],
+"reus": [
+[
+"reus",
+"noun"
+]
+],
+"reuulsam": [
+[
+"revello",
+"verb"
+]
+],
+"reuulsis": [
+[
+"revello",
+"verb"
+]
+],
+"reuulsit": [
+[
+"revello",
+"verb"
+]
+],
+"reuulso": [
+[
+"revello",
+"verb"
+]
+],
+"reuulsum": [
+[
+"revello",
+"verb"
+]
+],
+"reuulsus": [
+[
+"revello",
+"verb"
+]
+],
 "reversus": [
 [
 "reverto",
@@ -13597,6 +22016,18 @@
 "verb"
 ]
 ],
+"rex": [
+[
+"rex",
+"noun"
+]
+],
+"rexit": [
+[
+"rego",
+"verb"
+]
+],
 "rhodope": [],
 "rhodopes": [],
 "rigens": [
@@ -13622,6 +22053,26 @@
 ]
 ],
 "riphaea": [],
+"rogi": [
+[
+"rogum",
+"noun"
+],
+[
+"rogus",
+"noun"
+]
+],
+"rogis": [
+[
+"rogum",
+"noun"
+],
+[
+"rogus",
+"noun"
+]
+],
 "rogo": [
 [
 "rogo",
@@ -13631,6 +22082,28 @@
 "rogum",
 "noun"
 ],
+[
+"rogus",
+"noun"
+]
+],
+"rogos": [
+[
+"rogus",
+"noun"
+]
+],
+"rogum": [
+[
+"rogum",
+"noun"
+],
+[
+"rogus",
+"noun"
+]
+],
+"rogus": [
 [
 "rogus",
 "noun"
@@ -13794,6 +22267,108 @@
 "noun"
 ]
 ],
+"saeua": [
+[
+"saevus",
+"adjective"
+]
+],
+"saeuae": [
+[
+"saevus",
+"adjective"
+]
+],
+"saeuam": [
+[
+"saevus",
+"adjective"
+]
+],
+"saeuas": [
+[
+"saevus",
+"adjective"
+]
+],
+"saeue": [
+[
+"saevus",
+"adjective"
+]
+],
+"saeui": [
+[
+"saevio",
+"verb"
+],
+[
+"saevus",
+"adjective"
+]
+],
+"saeuior": [
+[
+"saevio",
+"verb"
+],
+[
+"saevus",
+"adjective"
+]
+],
+"saeuire": [
+[
+"saevio",
+"verb"
+]
+],
+"saeuis": [
+[
+"saevio",
+"verb"
+],
+[
+"saevus",
+"adjective"
+]
+],
+"saeuit": [
+[
+"saevio",
+"verb"
+]
+],
+"saeuite": [
+[
+"saevio",
+"verb"
+]
+],
+"saeuo": [
+[
+"saevus",
+"adjective"
+]
+],
+"saeuos": [
+[
+"saevus",
+"adjective"
+]
+],
+"saeuum": [
+[
+"saevus",
+"adjective"
+]
+],
+"saeuus": [
+[
+"saevus",
+"adjective"
+]
+],
 "saevae": [
 [
 "saevus",
@@ -13871,6 +22446,76 @@
 [
 "sancio",
 "verb"
+]
+],
+"sanguine": [
+[
+"sanguis",
+"noun"
+]
+],
+"sanguinea": [
+[
+"sanguineus",
+"adjective"
+]
+],
+"sanguineas": [
+[
+"sanguineus",
+"adjective"
+]
+],
+"sanguinem": [
+[
+"sanguino",
+"verb"
+],
+[
+"sanguis",
+"noun"
+]
+],
+"sanguineo": [
+[
+"sanguineus",
+"adjective"
+]
+],
+"sanguineos": [
+[
+"sanguineus",
+"adjective"
+]
+],
+"sanguineum": [
+[
+"sanguineus",
+"adjective"
+]
+],
+"sanguineus": [
+[
+"sanguineus",
+"adjective"
+]
+],
+"sanguinis": [
+[
+"sanguis",
+"noun"
+]
+],
+"sanguinolenta": [
+[
+"sanguinolentus",
+"adjective"
+]
+],
+"sanguis": [
+[
+"sanguis",
+"noun"
 ]
 ],
 "sapiens": [
@@ -13953,7 +22598,43 @@
 "adjective"
 ]
 ],
+"sceptra": [
+[
+"sceptrum",
+"noun"
+]
+],
+"sceptri": [
+[
+"sceptrum",
+"noun"
+]
+],
+"sceptriferis": [
+[
+"sceptrifer",
+"adjective"
+]
+],
+"sceptris": [
+[
+"sceptrum",
+"noun"
+]
+],
+"sceptro": [
+[
+"sceptrum",
+"noun"
+]
+],
 "sceptrone": [
+[
+"sceptrum",
+"noun"
+]
+],
+"sceptrum": [
 [
 "sceptrum",
 "noun"
@@ -14097,6 +22778,18 @@
 ]
 ],
 "securigeri": [],
+"sedit": [
+[
+"sedeo",
+"verb"
+]
+],
+"seditio": [
+[
+"seditio",
+"noun"
+]
+],
 "semanima": [],
 "semanimem": [
 [
@@ -14226,11 +22919,199 @@
 "noun"
 ]
 ],
+"serua": [
+[
+"serva",
+"noun"
+],
+[
+"servo",
+"verb"
+],
+[
+"servus1",
+"adjective"
+]
+],
+"seruam": [
+[
+"serva",
+"noun"
+],
+[
+"servus1",
+"adjective"
+]
+],
+"seruans": [
+[
+"servo",
+"verb"
+]
+],
+"seruant": [
+[
+"servo",
+"verb"
+]
+],
+"seruantur": [
+[
+"servo",
+"verb"
+]
+],
+"seruare": [
+[
+"servo",
+"verb"
+]
+],
+"seruas": [
+[
+"serva",
+"noun"
+],
+[
+"servo",
+"verb"
+],
+[
+"servus1",
+"adjective"
+]
+],
+"seruasse": [
+[
+"servo",
+"verb"
+]
+],
+"seruat": [
+[
+"servo",
+"verb"
+]
+],
+"seruata": [
+[
+"servo",
+"verb"
+]
+],
+"seruate": [
+[
+"servo",
+"verb"
+]
+],
+"seruatur": [
+[
+"servo",
+"verb"
+]
+],
+"serue": [
+[
+"servus1",
+"adjective"
+],
+[
+"servus2",
+"noun"
+]
+],
+"seruent": [
+[
+"servo",
+"verb"
+]
+],
+"serues": [
+[
+"servo",
+"verb"
+]
+],
+"seruet": [
+[
+"servo",
+"verb"
+]
+],
+"seruiat": [
+[
+"servio",
+"verb"
+]
+],
+"seruient": [
+[
+"servio",
+"verb"
+]
+],
+"seruire": [
+[
+"servio",
+"verb"
+]
+],
+"seruit": [
+[
+"servio",
+"verb"
+]
+],
+"seruitia": [
+[
+"servitium",
+"noun"
+]
+],
+"seruitium": [
+[
+"servitium",
+"noun"
+]
+],
+"seruitutem": [
+[
+"servitus",
+"noun"
+]
+],
+"seruitutis": [
+[
+"servitus",
+"noun"
+]
+],
 "serum": [
 [
 "serum",
 "noun"
 ],
+[
+"serus",
+"adjective"
+]
+],
+"seruo": [
+[
+"servo",
+"verb"
+],
+[
+"servus1",
+"adjective"
+],
+[
+"servus2",
+"noun"
+]
+],
+"serus": [
 [
 "serus",
 "adjective"
@@ -14281,7 +23162,47 @@
 "adjective"
 ]
 ],
+"sidera": [
+[
+"sidus",
+"noun"
+]
+],
+"sidere": [
+[
+"sido",
+"verb"
+],
+[
+"sidus",
+"noun"
+]
+],
+"sideribus": [
+[
+"sidus",
+"noun"
+]
+],
+"siderum": [
+[
+"sidus",
+"noun"
+]
+],
 "sidoniis": [],
+"sidunt": [
+[
+"sido",
+"verb"
+]
+],
+"sidus": [
+[
+"sidus",
+"noun"
+]
+],
 "sigea": [],
 "sigeon": [],
 "sile": [
@@ -14426,6 +23347,54 @@
 "adjective"
 ]
 ],
+"solibus": [
+[
+"sol",
+"noun"
+],
+[
+"solus",
+"noun"
+]
+],
+"solidam": [
+[
+"solidus",
+"adjective"
+]
+],
+"solidas": [
+[
+"solido",
+"verb"
+],
+[
+"solidus",
+"adjective"
+]
+],
+"solidum": [
+[
+"solidum",
+"noun"
+],
+[
+"solidus",
+"adjective"
+]
+],
+"soliferae": [
+[
+"solifer",
+"adjective"
+]
+],
+"solio": [
+[
+"solium",
+"noun"
+]
+],
 "solis": [
 [
 "sol",
@@ -14526,6 +23495,12 @@
 "noun"
 ]
 ],
+"solitos": [
+[
+"soleo",
+"verb"
+]
+],
 "solitum": [
 [
 "soleo",
@@ -14533,6 +23508,18 @@
 ],
 [
 "solitum",
+"noun"
+]
+],
+"solitus": [
+[
+"soleo",
+"verb"
+]
+],
+"solium": [
+[
+"solium",
 "noun"
 ]
 ],
@@ -14644,6 +23631,164 @@
 "verb"
 ]
 ],
+"sorbens": [
+[
+"sorbeo",
+"verb"
+]
+],
+"sorbet": [
+[
+"sorbeo",
+"verb"
+]
+],
+"sordida": [
+[
+"sordido",
+"verb"
+],
+[
+"sordidus",
+"adjective"
+]
+],
+"sordidae": [
+[
+"sordidus",
+"adjective"
+]
+],
+"sordidam": [
+[
+"sordidus",
+"adjective"
+]
+],
+"sordidior": [
+[
+"sordidus",
+"adjective"
+]
+],
+"sordido": [
+[
+"sordido",
+"verb"
+],
+[
+"sordidus",
+"adjective"
+]
+],
+"sordidum": [
+[
+"sordidus",
+"adjective"
+]
+],
+"sordidus": [
+[
+"sordidus",
+"adjective"
+]
+],
+"soror": [
+[
+"soror",
+"noun"
+]
+],
+"sororem": [
+[
+"soror",
+"noun"
+]
+],
+"sorores": [
+[
+"soror",
+"noun"
+]
+],
+"sororibus": [
+[
+"soror",
+"noun"
+]
+],
+"sororis": [
+[
+"soror",
+"noun"
+]
+],
+"sororum": [
+[
+"soror",
+"noun"
+]
+],
+"sors": [
+[
+"sors",
+"noun"
+]
+],
+"sorte": [
+[
+"sors",
+"noun"
+]
+],
+"sortem": [
+[
+"sors",
+"noun"
+]
+],
+"sorti": [
+[
+"sors",
+"noun"
+],
+[
+"sortio",
+"verb"
+],
+[
+"sortior",
+"verb"
+]
+],
+"sortis": [
+[
+"sors",
+"noun"
+],
+[
+"sortio",
+"verb"
+],
+[
+"sortior",
+"verb"
+]
+],
+"sortita": [
+[
+"sortio",
+"verb"
+],
+[
+"sortior",
+"verb"
+],
+[
+"sortitus",
+"adjective"
+]
+],
 "sortitor": [
 [
 "sortitor",
@@ -14666,6 +23811,16 @@
 [
 "sortitus2",
 "noun"
+]
+],
+"sortitur": [
+[
+"sortio",
+"verb"
+],
+[
+"sortior",
+"verb"
 ]
 ],
 "sortitus": [
@@ -14712,9 +23867,139 @@
 ],
 "spartam": [],
 "spartamne": [],
+"spe": [
+[
+"spes",
+"noun"
+]
+],
+"specie": [
+[
+"species",
+"noun"
+]
+],
+"speciem": [
+[
+"species",
+"noun"
+]
+],
+"species": [
+[
+"species",
+"noun"
+],
+[
+"specio",
+"verb"
+]
+],
+"specimen": [
+[
+"specimen",
+"noun"
+]
+],
+"speciosa": [
+[
+"speciosus",
+"adjective"
+]
+],
+"specta": [
+[
+"specto",
+"verb"
+]
+],
+"spectabilis": [
+[
+"spectabilis",
+"adjective"
+]
+],
+"spectabis": [
+[
+"specto",
+"verb"
+]
+],
+"spectans": [
+[
+"specto",
+"verb"
+]
+],
+"spectante": [
+[
+"specto",
+"verb"
+]
+],
+"spectare": [
+[
+"specto",
+"verb"
+]
+],
+"spectas": [
+[
+"specto",
+"verb"
+]
+],
+"spectat": [
+[
+"specto",
+"verb"
+]
+],
+"spectate": [
+[
+"specto",
+"verb"
+]
+],
 "spectator": [
 [
 "spectator",
+"noun"
+]
+],
+"spectatur": [
+[
+"specto",
+"verb"
+]
+],
+"spectauit": [
+[
+"specto",
+"verb"
+]
+],
+"spectemus": [
+[
+"specto",
+"verb"
+]
+],
+"spectet": [
+[
+"specto",
+"verb"
+]
+],
+"specto": [
+[
+"specto",
+"verb"
+]
+],
+"specu": [
+[
+"specus",
 "noun"
 ]
 ],
@@ -14726,6 +24011,118 @@
 [
 "speculor",
 "verb"
+]
+],
+"speculatur": [
+[
+"speculor",
+"verb"
+]
+],
+"specum": [
+[
+"specus",
+"noun"
+]
+],
+"specus": [
+[
+"specus",
+"noun"
+]
+],
+"spei": [
+[
+"spes",
+"noun"
+]
+],
+"spem": [
+[
+"spes",
+"noun"
+]
+],
+"sperare": [
+[
+"spero",
+"verb"
+]
+],
+"speras": [
+[
+"spero",
+"verb"
+]
+],
+"sperat": [
+[
+"spero",
+"verb"
+]
+],
+"speres": [
+[
+"spero",
+"verb"
+]
+],
+"speret": [
+[
+"spero",
+"verb"
+]
+],
+"spernat": [
+[
+"sperno",
+"verb"
+]
+],
+"sperne": [
+[
+"sperno",
+"verb"
+]
+],
+"spernere": [
+[
+"sperno",
+"verb"
+],
+[
+"spernor",
+"verb"
+]
+],
+"spernet": [
+[
+"sperno",
+"verb"
+]
+],
+"spernis": [
+[
+"sperno",
+"verb"
+]
+],
+"spernit": [
+[
+"sperno",
+"verb"
+]
+],
+"spernitur": [
+[
+"sperno",
+"verb"
+]
+],
+"spes": [
+[
+"spes",
+"noun"
 ]
 ],
 "spiciferae": [
@@ -14830,6 +24227,12 @@
 ]
 ],
 "stirpis": [
+[
+"stirps",
+"noun"
+]
+],
+"stirps": [
 [
 "stirps",
 "noun"
@@ -15095,6 +24498,22 @@
 "noun"
 ]
 ],
+"subolem": [
+[
+"suboles",
+"noun"
+]
+],
+"suboles": [
+[
+"suboleo",
+"verb"
+],
+[
+"suboles",
+"noun"
+]
+],
 "subrectis": [
 [
 "surgo",
@@ -15257,6 +24676,16 @@
 ]
 ],
 "suncini": [],
+"super": [
+[
+"super2",
+"adverb"
+],
+[
+"supo",
+"verb"
+]
+],
 "supera": [
 [
 "supera",
@@ -15271,6 +24700,12 @@
 "adjective"
 ]
 ],
+"superare": [
+[
+"supero",
+"verb"
+]
+],
 "superas": [
 [
 "supero",
@@ -15281,10 +24716,176 @@
 "adjective"
 ]
 ],
+"superasse": [
+[
+"supero",
+"verb"
+]
+],
+"superat": [
+[
+"supero",
+"verb"
+]
+],
+"superata": [
+[
+"supero",
+"verb"
+]
+],
+"superate": [
+[
+"supero",
+"verb"
+]
+],
+"superato": [
+[
+"supero",
+"verb"
+]
+],
+"superatus": [
+[
+"supero",
+"verb"
+]
+],
+"superaui": [
+[
+"supero",
+"verb"
+]
+],
+"superauit": [
+[
+"supero",
+"verb"
+]
+],
+"superba": [
+[
+"superbus",
+"adjective"
+]
+],
+"superbae": [
+[
+"superbus",
+"adjective"
+]
+],
+"superbam": [
+[
+"superbus",
+"adjective"
+]
+],
+"superbas": [
+[
+"superbus",
+"adjective"
+]
+],
+"superbe": [
+[
+"superbus",
+"adjective"
+]
+],
+"superbi": [
+[
+"superbio",
+"verb"
+],
+[
+"superbus",
+"adjective"
+]
+],
+"superbifica": [
+[
+"superbificus",
+"adjective"
+]
+],
+"superbis": [
+[
+"superbio",
+"verb"
+],
+[
+"superbus",
+"adjective"
+]
+],
+"superbo": [
+[
+"superbus",
+"adjective"
+]
+],
+"superbos": [
+[
+"superbus",
+"adjective"
+]
+],
+"superbum": [
+[
+"superbus",
+"adjective"
+]
+],
+"superbus": [
+[
+"superbus",
+"adjective"
+]
+],
 "supercili": [
 [
 "supercilium",
 "noun"
+]
+],
+"supererant": [
+[
+"supersum",
+"verb"
+]
+],
+"superesse": [
+[
+"supersum",
+"verb"
+]
+],
+"superest": [
+[
+"supersum",
+"verb"
+],
+[
+"superus",
+"adjective"
+],
+[
+"supo",
+"verb"
+]
+],
+"superet": [
+[
+"supero",
+"verb"
+]
+],
+"superfusis": [
+[
+"superfundo",
+"verb"
 ]
 ],
 "superi": [
@@ -15307,15 +24908,87 @@
 "verb"
 ]
 ],
+"superna": [
+[
+"supernas",
+"verb"
+],
+[
+"supernus",
+"adjective"
+]
+],
+"supernas": [
+[
+"supernas",
+"verb"
+],
+[
+"supernus",
+"adjective"
+]
+],
+"superni": [
+[
+"supernus",
+"adjective"
+]
+],
+"supernis": [
+[
+"supernus",
+"adjective"
+]
+],
+"superno": [
+[
+"supernas",
+"verb"
+],
+[
+"supernus",
+"adjective"
+]
+],
+"supernum": [
+[
+"supernus",
+"adjective"
+]
+],
 "superos": [
 [
 "superus",
 "adjective"
 ]
 ],
+"supersit": [
+[
+"supersum",
+"verb"
+]
+],
+"superstes": [
+[
+"supersto",
+"verb"
+]
+],
 "superstite": [
 [
 "super-sto",
+"verb"
+]
+],
+"superstitio": [
+[
+"superstitio",
+"noun"
+]
+],
+"supersum": [
+[
+"supersum",
 "verb"
 ]
 ],
@@ -15329,6 +25002,22 @@
 "adjective"
 ]
 ],
+"supplice": [
+[
+"supplex",
+"noun"
+]
+],
+"supplicem": [
+[
+"supplex",
+"noun"
+],
+[
+"supplico",
+"verb"
+]
+],
 "supplices": [
 [
 "supplex",
@@ -15337,6 +25026,70 @@
 [
 "supplico",
 "verb"
+]
+],
+"supplici": [
+[
+"supplex",
+"noun"
+],
+[
+"supplicium",
+"noun"
+]
+],
+"supplicia": [
+[
+"supplex",
+"adjective"
+],
+[
+"supplicium",
+"noun"
+]
+],
+"supplicibus": [
+[
+"supplex",
+"noun"
+]
+],
+"supplicii": [
+[
+"supplicium",
+"noun"
+]
+],
+"suppliciis": [
+[
+"supplicium",
+"noun"
+]
+],
+"supplicio": [
+[
+"supplicium",
+"noun"
+]
+],
+"supplicis": [
+[
+"supplex",
+"noun"
+],
+[
+"supplicium",
+"noun"
+]
+],
+"supplicium": [
+[
+"supplex",
+"adjective"
+],
+[
+"supplicium",
+"noun"
 ]
 ],
 "suprema": [
@@ -16261,10 +26014,140 @@
 "adjective"
 ]
 ],
+"turba": [
+[
+"turba",
+"noun"
+],
+[
+"turbo1",
+"verb"
+]
+],
+"turbae": [
+[
+"turba",
+"noun"
+]
+],
+"turbam": [
+[
+"turba",
+"noun"
+]
+],
+"turbat": [
+[
+"turbo1",
+"verb"
+]
+],
+"turbata": [
+[
+"turbo1",
+"verb"
+]
+],
+"turbatam": [
+[
+"turbo1",
+"verb"
+]
+],
+"turbati": [
+[
+"turbo1",
+"verb"
+]
+],
 "turbatum": [
 [
 "turbo1",
 "verb"
+]
+],
+"turbauit": [
+[
+"turbo1",
+"verb"
+]
+],
+"turbet": [
+[
+"turbo1",
+"verb"
+]
+],
+"turbida": [
+[
+"turbido",
+"verb"
+],
+[
+"turbidus",
+"adjective"
+]
+],
+"turbidam": [
+[
+"turbidus",
+"adjective"
+]
+],
+"turbido": [
+[
+"turbido",
+"verb"
+],
+[
+"turbidus",
+"adjective"
+]
+],
+"turbidum": [
+[
+"turbidus",
+"adjective"
+]
+],
+"turbidus": [
+[
+"turbidus",
+"adjective"
+]
+],
+"turbine": [
+[
+"turbo2",
+"noun"
+]
+],
+"turbinibus": [
+[
+"turbo2",
+"noun"
+]
+],
+"turbinis": [
+[
+"turbo2",
+"noun"
+]
+],
+"turbis": [
+[
+"turba",
+"noun"
+]
+],
+"turbo": [
+[
+"turbo1",
+"verb"
+],
+[
+"turbo2",
+"noun"
 ]
 ],
 "ture": [
@@ -16389,6 +26272,24 @@
 "noun"
 ]
 ],
+"tyranne": [
+[
+"tyrannus",
+"noun"
+]
+],
+"tyranni": [
+[
+"tyrannus",
+"noun"
+]
+],
+"tyrannica": [
+[
+"tyrannicus",
+"adjective"
+]
+],
 "tyrannidi": [
 [
 "tyrannis",
@@ -16401,7 +26302,59 @@
 "noun"
 ]
 ],
+"tyrannis": [
+[
+"tyranna",
+"noun"
+],
+[
+"tyrannis",
+"noun"
+],
+[
+"tyrannus",
+"noun"
+]
+],
+"tyranno": [
+[
+"tyrannus",
+"noun"
+]
+],
+"tyrannos": [
+[
+"tyrannus",
+"noun"
+]
+],
+"tyrannum": [
+[
+"tyrannus",
+"noun"
+]
+],
+"tyrannus": [
+[
+"tyrannus",
+"noun"
+]
+],
 "tyrii": [],
+"uada": [
+[
+"vado2",
+"verb"
+],
+[
+"vadum",
+"noun"
+],
+[
+"vas1",
+"noun"
+]
+],
 "uadis": [
 [
 "vado1",
@@ -16414,6 +26367,86 @@
 [
 "vas1",
 "noun"
+]
+],
+"uado": [
+[
+"vado1",
+"verb"
+],
+[
+"vado2",
+"verb"
+],
+[
+"vadum",
+"noun"
+]
+],
+"uadum": [
+[
+"vadum",
+"noun"
+],
+[
+"vas1",
+"noun"
+]
+],
+"uadunt": [
+[
+"vado1",
+"verb"
+]
+],
+"uela": [
+[
+"vela",
+"noun"
+],
+[
+"velo",
+"verb"
+],
+[
+"velum",
+"noun"
+]
+],
+"uelis": [
+[
+"vela",
+"noun"
+],
+[
+"velum",
+"noun"
+],
+[
+"volo1",
+"verb"
+]
+],
+"uelo": [
+[
+"velo",
+"verb"
+],
+[
+"velum",
+"noun"
+]
+],
+"uelut": [
+[
+"velut",
+"adverb"
+]
+],
+"ueluti": [
+[
+"velut",
+"adverb"
 ]
 ],
 "ueneranda": [
@@ -16483,6 +26516,86 @@
 "verb"
 ]
 ],
+"uindex": [
+[
+"vindex",
+"noun"
+]
+],
+"uindica": [
+[
+"vindico",
+"verb"
+]
+],
+"uindicas": [
+[
+"vindico",
+"verb"
+]
+],
+"uindicastis": [
+[
+"vindico",
+"verb"
+]
+],
+"uindicat": [
+[
+"vindico",
+"verb"
+]
+],
+"uindicato": [
+[
+"vindico",
+"verb"
+]
+],
+"uindice": [
+[
+"vindex",
+"noun"
+]
+],
+"uindicem": [
+[
+"vindex",
+"noun"
+],
+[
+"vindico",
+"verb"
+]
+],
+"uindices": [
+[
+"vindex",
+"noun"
+],
+[
+"vindico",
+"verb"
+]
+],
+"uindico": [
+[
+"vindico",
+"verb"
+]
+],
+"uindicta": [
+[
+"vindicta",
+"noun"
+]
+],
+"uindictae": [
+[
+"vindicta",
+"noun"
+]
+],
 "uine": [
 [
 "vinum",
@@ -16509,7 +26622,49 @@
 "verb"
 ]
 ],
+"uirtus": [
+[
+"virtus",
+"noun"
+]
+],
 "uirtusne": [
+[
+"virtus",
+"noun"
+]
+],
+"uirtute": [
+[
+"virtus",
+"noun"
+]
+],
+"uirtutem": [
+[
+"virtus",
+"noun"
+]
+],
+"uirtuti": [
+[
+"virtus",
+"noun"
+]
+],
+"uirtutibus": [
+[
+"virtus",
+"noun"
+]
+],
+"uirtutis": [
+[
+"virtus",
+"noun"
+]
+],
+"uirtutum": [
 [
 "virtus",
 "noun"
@@ -16526,10 +26681,72 @@
 ]
 ],
 "ulbl": [],
+"ulciscar": [
+[
+"ulciscor",
+"verb"
+]
+],
+"ulciscens": [
+[
+"ulciscor",
+"verb"
+]
+],
+"ulcisci": [
+[
+"ulciscor",
+"verb"
+]
+],
 "ulti": [
 [
 "ulciscor",
 "verb"
+]
+],
+"ultima": [
+[
+"ulter",
+"adjective"
+],
+[
+"ultima",
+"noun"
+],
+[
+"ultimo2",
+"verb"
+],
+[
+"ultimum",
+"noun"
+]
+],
+"ultimae": [
+[
+"ulter",
+"adjective"
+]
+],
+"ultimam": [
+[
+"ulter",
+"adjective"
+]
+],
+"ultimi": [
+[
+"ulter",
+"adjective"
+],
+[
+"ultimi",
+"noun"
+],
+[
+"ultimum",
+"noun"
 ]
 ],
 "ultimo": [
@@ -16547,6 +26764,64 @@
 ],
 [
 "ultimum",
+"noun"
+]
+],
+"ultimos": [
+[
+"ulter",
+"adjective"
+],
+[
+"ultimi",
+"noun"
+]
+],
+"ultimum": [
+[
+"ulter",
+"adjective"
+],
+[
+"ultima",
+"noun"
+],
+[
+"ultimi",
+"noun"
+],
+[
+"ultimum",
+"adverb"
+]
+],
+"ultimus": [
+[
+"ulter",
+"adjective"
+]
+],
+"ultio": [
+[
+"ultio",
+"noun"
+]
+],
+"ultiones": [
+[
+"ultio",
+"noun"
+]
+],
+"ultionis": [
+[
+"ultio",
+"noun"
+]
+],
+"ultionum": [
+[
+"ultio",
 "noun"
 ]
 ],
@@ -16578,7 +26853,75 @@
 "noun"
 ]
 ],
+"unda": [
+[
+"unda",
+"noun"
+],
+[
+"undo",
+"verb"
+]
+],
+"undae": [
+[
+"unda",
+"noun"
+]
+],
+"undante": [
+[
+"undo",
+"verb"
+]
+],
 "undarum": [
+[
+"unda",
+"noun"
+]
+],
+"undas": [
+[
+"unda",
+"noun"
+],
+[
+"undo",
+"verb"
+]
+],
+"undauit": [
+[
+"undo",
+"verb"
+]
+],
+"unde": [
+[
+"unde",
+"adverb"
+]
+],
+"undecim": [
+[
+"undecim",
+"numeral"
+]
+],
+"undecumque": [
+[
+"undecumque",
+"adverb"
+]
+],
+"undique": [
+[
+"undique",
+"adverb"
+]
+],
+"undis": [
 [
 "unda",
 "noun"
@@ -16598,6 +26941,66 @@
 [
 "volo1",
 "verb"
+]
+],
+"uolgus": [
+[
+"vulgus",
+"noun"
+]
+],
+"urbe": [
+[
+"urbs",
+"noun"
+]
+],
+"urbem": [
+[
+"urbs",
+"noun"
+]
+],
+"urbes": [
+[
+"urbs",
+"noun"
+]
+],
+"urbes/": [
+[
+"urbs",
+"noun"
+]
+],
+"urbi": [
+[
+"urbs",
+"noun"
+]
+],
+"urbibus": [
+[
+"urbs",
+"noun"
+]
+],
+"urbis": [
+[
+"urbs",
+"noun"
+]
+],
+"urbium": [
+[
+"urbs",
+"noun"
+]
+],
+"urbs": [
+[
+"urbs",
+"noun"
 ]
 ],
 "urguet": [
@@ -16641,6 +27044,72 @@
 "uterum": [
 [
 "uterus",
+"noun"
+]
+],
+"uulgare": [
+[
+"vulgaris",
+"adjective"
+],
+[
+"vulgo2",
+"verb"
+]
+],
+"uulgari": [
+[
+"vulgaris",
+"adjective"
+],
+[
+"vulgarius",
+"adjective"
+],
+[
+"vulgo2",
+"verb"
+]
+],
+"uulgaris": [
+[
+"vulgaris",
+"adjective"
+],
+[
+"vulgo2",
+"verb"
+]
+],
+"uulgi": [
+[
+"vulgus",
+"noun"
+]
+],
+"uulgo": [
+[
+"vulgo1",
+"adverb"
+],
+[
+"vulgo2",
+"verb"
+],
+[
+"vulgus",
+"noun"
+]
+],
+"uulgum": [
+[
+"vulgus",
+"noun"
+]
+],
+"uulgus": [
+[
+"vulgus",
 "noun"
 ]
 ],

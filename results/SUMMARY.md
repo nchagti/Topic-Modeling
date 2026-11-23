@@ -131,7 +131,7 @@ v2 lemmas, counted before the dictionary filter; the 225 lemmas with ≥3 occurr
 
 **The counts are small, so read the effect sizes (log ratio), not the p-values.**
 
-- **The keyness results now exclude *marchia*.** It is the March of Treviso (Ecerinis lines 155, 183 and 189: "in Marchia … Estensis Azo marchio"), so it is treated as a named entity (`data/v2/named_entities_additions.csv`).
+- **The keyness results now exclude *marchia*.** It is the March of Treviso (Ecerinis vv. 148, 174 and 180: "in Marchia … Estensis Azo marchio"), so it is treated as a named entity (`data/v2/named_entities_additions.csv`).
   - It was in the first keyness run (5th by log ratio, 3 occurrences against 0 in Seneca).
   - LiLa lists *marchia* only as a common noun, which is why the evidence rule had kept it as a word.
   - **Play-level LDA results are unaffected.** *marchia* occurs in one play only, so `no_below=2` already kept it out of the model; I checked that the play-level model input is identical before and after.
@@ -148,11 +148,69 @@ v2 lemmas, counted before the dictionary filter; the 225 lemmas with ≥3 occurr
 - **Overlap with Ecerinis's topic.** Of the top 40 over-used lemmas, 16 are in Ecerinis's topic's top 20 (v2 seeds 29 and 35). 22 never reach the model:
   - lemmas found in Ecerinis only (*annuo, tyrannis, crux* …) are removed by `no_below=2`;
   - common lemmas (*ordo, homo, finis, tollo*) are removed by `no_above=0.5`.
-- **Ecerinis contexts:** *ausibus* at lines 325, 454 and 466; *nocuos*, *nocuis* and *nocuum* at lines 326, 622 and 644.
+- **Ecerinis contexts:** *ausibus* at vv. 312, 431 and 443; *nocuos*, *nocuis* and *nocuum* at vv. 313, 597 and 619 (verse numbers of the NeoLatDraCor edition; `src/verses.py`).
 
-## 7. A5 part 2: theme word-family rates
+## 7. A5 part 2: theme word-family rates (author-chosen lexicon counts, not model output)
 
-The word lists are the author's (`data/theme_lexicon.json`); these are lexicon counts, not model output. Rates are per 1,000 tokens, with bootstrap 95% intervals from resampled 200-token chunks (50-token chunks for acts). Details: `a5_theme_rates/theme_rates_summary.md`.
+**Everything in this section is a count of author-chosen word lists, not model output.** The lexicon is `data/theme_lexicon.json` (v2: 17 families, `context/theme_lexicon_v2_brief.md` as revised by `context/lexicon_audit_decisions.md`). Counts use v2 tokens before the dictionary filter. Rates are per 1,000 tokens, with bootstrap 95% intervals from resampled 200-token chunks (50-token chunks for acts). Details: `a5_lexicon_v2/rates/lexicon_rates_summary.md`; audit: `a5_lexicon_v2/lexicon_audit.md` (step 1) and `lexicon_audit_revised.md`.
+
+**Lexicon-only rules** (`src/theme_lexicon.py`; the LDA input is unchanged):
+- *vadum* tokens that v2 lemmatizes as *uas* count as *uadum* (a known v2 lemma error; see Flags).
+- Not counted: *furabor* under *furor*; *diti*, *dites* under *deus*; the adjective *foedus* 'foul' (only nouns count); *summus*/*supremus* forms under *superus* (only *super-* forms count).
+- *prodo* and *uendo* count only for the tokens the author marked as betrayal (`data/lexicon_marks/`): 6 Seneca *prodo* tokens and Ecerinis *vendidere* (v. 227). *uendico* ('claim', Ecerinis vv. 83, 298) is not counted under *uindico*; *uindico* has both senses and the lexicon cannot separate them.
+- *fingo* is not in any family. 19 listed lemmas never occur in the corpus and are kept (they add 0).
+
+### Play level
+
+† = thin family: fewer than 5 Ecerinis tokens; read its rate with the raw count.
+
+| Family | Ecerinis [95% CI] | Ecerinis tokens | Seneca mean (range) | Rank of 11 | Seneca plays whose interval doesn't overlap Ecerinis's |
+|---|---|---|---|---|---|
+| invasion_conquest | 10.0 [5.5–16.4] | 22 | 7.8 (2.3–18.9) | 3 | Phaedra (lower), Oedipus (lower) |
+| deceit_betrayal | 8.7 [5.0–12.8] | 19 | 4.2 (0.8–6.1) | 1 | Hercules Furens (lower), Oedipus (lower) |
+| punishment_vengeance | 3.6 [1.4–5.9] | 8 | 5.1 (2.5–8.4) | 8 | none |
+| fate_fortune | 4.1 [1.4–7.3] | 9 | 6.6 (3.1–9.9) | 8 | none |
+| natural_cosmic_order | 17.3 [10.9–25.0] | 38 | 10.8 (3.6–22.1) | 2 | Phoenissae (lower), Troades (lower) |
+| providence_divine | 10.5 [4.6–17.7] | 23 | 8.3 (6.1–13.2) | 2 | none |
+| piety_virtue | 10.5 [5.0–16.8] | 23 | 8.0 (4.0–14.7) | 4 | none |
+| sea_water | 5.5 [0.9–10.9] | 12 | 15.8 (6.4–32.8) | 11 | Troades (higher), Agamemnon (higher), Medea (higher) |
+| grief_lament | 3.6 [0.9–6.8] | 8 | 7.8 (2.8–19.3) | 10 | Troades (higher), Octavia (higher), Hercules Oetaeus (higher) |
+| memory_report † | 1.4 [0.0–3.2] | 3 | 1.8 (0.0–3.3) | 7 | none |
+| community_commune | 15.0 [9.6–20.1] | 33 | 9.0 (5.6–16.2) | 2 | Phaedra (lower), Medea (lower) |
+| law_judgment | 14.6 [6.8–22.4] | 32 | 3.8 (1.3–5.6) | 1 | Troades (lower), Phaedra (lower), Agamemnon (lower), Hercules Furens (lower), Oedipus (lower), Thyestes (lower), Hercules Oetaeus (lower) |
+| rule_kingship | 10.0 [4.1–17.7] | 22 | 17.8 (11.7–24.6) | 11 | none |
+| tyranny_servitude | 7.7 [4.1–11.8] | 17 | 2.6 (1.0–4.4) | 1 | Phoenissae (lower), Phaedra (lower), Agamemnon (lower), Oedipus (lower), Thyestes (lower), Hercules Oetaeus (lower) |
+| lineage_kin | 31.9 [19.1–45.6] | 70 | 28.2 (19.5–54.4) | 2 | Phoenissae (higher) |
+| rage_fury | 15.0 [7.3–24.1] | 33 | 11.5 (7.9–20.3) | 3 | none |
+| discord_strife | 2.7 [0.9–4.6] | 6 | 0.6 (0.0–1.6) | 1 | Troades (lower), Agamemnon (lower), Medea (lower), Octavia (lower), Oedipus (lower), Hercules Oetaeus (lower) |
+
+- Ecerinis has 2,195 v2 tokens. Rank 1 = highest rate.
+- **The Ecerinis counts are small** (3–70 tokens per family), so the intervals are wide; most families overlap most Seneca plays.
+
+### Act level
+
+Percentile = mid-rank percentile of the act's rate among all 56 acts (50 = median). Full table: `a5_lexicon_v2/rates/lexicon_rates_summary.md`; all 56 acts with intervals: `rates_acts.csv`; heatmap: `fig_lexicon_v2_act_percentiles.png`.
+
+- **Acts are short** (Ece 4 has 271 tokens, Ece 5 has 350), so most act counts are 0–10 tokens and the act intervals are wide.
+- **Many acts tie at 0 for the smaller families,** and a tie at zero shares one mid-rank percentile (e.g. 21 for memory_report, 32 for discord_strife). A low-30s percentile can simply mean 'no tokens'.
+- **Ecerinis acts at or above the 90th percentile:** law_judgment in Ece 1, 2, 3 and 5 (94–99); tyranny_servitude in Ece 2, 3 and 4 (92–99); deceit_betrayal in Ece 1 and 2 (94, 96); discord_strife in Ece 1, 3 and 4 (90–94, 1–2 tokens each); piety_virtue in Ece 3 and 4 (99, 94); natural_cosmic_order and providence_divine in Ece 3 (94, 96); invasion_conquest in Ece 4 (94); community_commune in Ece 2 (92); lineage_kin in Ece 1 (92); rage_fury in Ece 2 (97).
+- **Ecerinis acts at or below the 10th percentile (all with 0 tokens):** sea_water in Ece 1, 2 and 5; rule_kingship in Ece 4 and 5; piety_virtue and fate_fortune in Ece 1; punishment_vengeance and grief_lament in Ece 4.
+
+### 'Broken faith' collocations (author-chosen collocation measure)
+
+A separate measure, not part of the theme rates. *fides* / *fidus* within ±5 tokens (same speech) of *rumpo, frango, uiolo, absum, neglego, nego, fallo, credo, iuro, sperno, laedo*, on the full v2 lemma sequence before stopword and part-of-speech filtering. Each automatic hit was classified by hand. Counts with passages, not rates; details: `a5_collocations/collocations_summary.md`.
+
+| | *fides*/*fidus* tokens | Automatic hits | broken | pledge | other |
+|---|---|---|---|---|---|
+| Ecerinis | 7 | 5 | 2 (vv. 320, 472) | 1 (v. 480) | 2 (vv. 202, 360) |
+| Seneca (10 plays) | 117 | 11 | 4 (Pho 280, 293, 588, 649) | 5 (Tro 611, Med 1003, Oct 352, Thy 294, 1099) | 2 (Pha 161, Oct 275) |
+
+- The four Ecerinis passages named in the decisions (vv. 202, 320, 472, 480–481) are all found.
+- Betrayal in Ecerinis is also expressed without *fides* (e.g. *transfugas*, v. 320; *vendidere*, v. 227; *creditus nullis*, v. 539), which this measure does not count.
+
+### Earlier four-family lexicon (v1)
+
+The rates reported before this revision used `data/theme_lexicon_v1.json` (`src/a5_theme_rates.py`, `a5_theme_rates/`; v2 tokens shown):
 
 | Theme (v2) | Ecerinis [95% CI] | Seneca mean (range) | Rank of 11 | Seneca plays whose interval doesn't overlap Ecerinis's |
 |---|---|---|---|---|
@@ -161,10 +219,8 @@ The word lists are the author's (`data/theme_lexicon.json`); these are lexicon c
 | Punishment | 5.5 [3.2–8.2] | 3.3 (1.8–5.0) | 1 | none |
 | Fate | 3.6 [1.8–5.5] | 5.4 (1.9–8.9) | 7 | Oedipus, Hercules Oetaeus (both higher) |
 
-- **The original tokens give the same ordering.** The per-word rates reproduce the brief's table.
-- **Removing *marchia* changes none of these rates** at the precision shown (Ecerinis now has 2,195 v2 tokens).
-- **Fate includes *fatum*,** because the brief lists it in that row. *fatum* is much rarer in Ecerinis (0.9 vs 3.5 per 1,000), and that lowers the family rate.
-- **The act intervals are wide,** and acts with zero hits have a degenerate [0–0] interval.
+The v1 families are not comparable one to one with v2 (e.g. v1 'Invasion' and v2 invasion_conquest have different word lists).
+
 ## 7b. A5 part 1: does relaxing `no_above` move Ecerinis's topic toward the shared vocabulary?
 
 v2 tokens; 50 seeds; k = 7–9; seed 42 for the single-model view. Details: `a5_no_above/no_above_summary.md`.
@@ -208,7 +264,7 @@ v2 tokens; 50 seeds; k = 7–9; seed 42 for the single-model view. Details: `a5_
 
 In every one of these models the contrastive next-best topic for Ecerinis is a topic no play is dominant in.
 
-**Answer to the brief's question.** Relaxing `no_above` to 0.8 brings shared words into Ecerinis's topic (*homo, ordo, tyrannus, iustus, fames*), but not the theme families in `data/theme_lexicon.json`, and not a stable link to Medea or Hercules Oetaeus. At 1.0 the shared vocabulary takes over the whole model rather than Ecerinis's topic in particular.
+**Answer to the brief's question.** Relaxing `no_above` to 0.8 brings shared words into Ecerinis's topic (*homo, ordo, tyrannus, iustus, fames*), but not the theme families in `data/theme_lexicon_v1.json` (the lexicon at the time), and not a stable link to Medea or Hercules Oetaeus. At 1.0 the shared vocabulary takes over the whole model rather than Ecerinis's topic in particular.
 
 ## 8. A4: heatmaps
 
@@ -229,6 +285,10 @@ In every one of these models the contrastive next-best topic for Ecerinis is a t
   - Because it occurs in every play, `no_above=0.5` removes it, so it never reaches the model.
   - It does count in that pipeline's token totals, for example the denominators of the original-token theme rates.
   - It was left unchanged.
+- **Known v2 lemma error, not yet fixed: *vadum* 'ford' is lemmatized as *uas* 'vessel'.** This affects all 5 *vadum* tokens: Ece 4, vv. 482 and 504; Oed 2, v. 285; Thy 2, v. 376; HO 2, v. 587 (edition verse numbers, `src/verses.py`).
+  - The theme lexicon counts them as *uadum* through a lexicon-only token rule (`_token_rules` in `data/theme_lexicon.json`).
+  - The LDA input still has *uas*, so every v2 model result (A2, A3, act level, keyness, `no_above`) includes the error.
+  - Fixing it means adding a v2 lemma fix and rerunning those analyses. Deferred.
 
 ## Figures
 
@@ -243,4 +303,6 @@ In every one of these models the contrastive next-best topic for Ecerinis is a t
 | `a4_heatmaps/fig_a4_play_topics_k8.png` | Conference play-level topic weights, empty topics labelled |
 | `a4_heatmaps/fig_a4_act_topics_k24.png` | Conference act-level topic weights, empty topics labelled |
 | `keyness/figures/fig_keyness_log_ratio.png` | Log ratio of the top 40 over-used and top 20 under-used lemmas in Ecerinis |
-| `a5_theme_rates/figures/fig_a5_theme_rates_{v2,original}.png` | Theme-family rates per play with bootstrap 95% intervals, Ecerinis highlighted |
+| `a5_theme_rates/figures/fig_a5_theme_rates_{v2,original}.png` | v1 (four-family) theme rates per play with bootstrap 95% intervals, Ecerinis highlighted |
+| `a5_lexicon_v2/rates/figures/fig_lexicon_v2_plays.png` | Lexicon v2: rate per play for each of the 17 families, bootstrap 95% intervals, Ecerinis highlighted (author-chosen lexicon counts) |
+| `a5_lexicon_v2/rates/figures/fig_lexicon_v2_act_percentiles.png` | Lexicon v2: families × 18 acts (Ece 1–5 and 13 Seneca acts), coloured by percentile among all 56 acts (author-chosen lexicon counts) |

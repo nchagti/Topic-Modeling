@@ -31,7 +31,8 @@ The original LatinCy build behind the conference lemmas can no longer be downloa
 | `models/play/`, `models/act/` | The conference LDA pickles and dictionaries (formerly `gensimvenv/corpus_pkl/` and `gensimvenv/acts_pkl/`). |
 | `data/original/` | Conference inputs: the stopword lists, `unique_named_entities.pkl`, `entities_info.pkl`, `topic_data.json`. `corpus/` and `acts/` hold the source JSON, DocBins and processed pickles. |
 | `data/v2/`, `data/sources/`, `data/lexicon_cache/` | v2 pipeline inputs: corrected sources, approved decisions, cached lexicon responses. |
-| `data/theme_lexicon.json` | Editable theme word families (A5). |
+| `data/theme_lexicon.json` | Theme lexicon v2: 17 author-chosen word families and the lexicon-only token rules (A5). The earlier four-family lexicon is `data/theme_lexicon_v1.json`. |
+| `data/lexicon_marks/` | The author's hand marks: *prodo* and *uendo* senses, and the classes of the collocation hits. |
 | `data/superseded/`, `src/superseded/` | The first-pass A1 proposals and scripts, kept for the record. |
 | `src/` | Robustness scripts (below). |
 | `results/` | Robustness outputs; `results/SUMMARY.md` gives the findings. |
@@ -107,7 +108,12 @@ Each script writes a markdown report next to its outputs. A trailing number is t
 
 **Keyness and A5**
 - `src/keyness.py`: Ecerinis vs Seneca keyness (G², log ratio) → `results/keyness/`.
-- `src/a5_theme_rates.py`: theme word-family rates with bootstrap intervals → `results/a5_theme_rates/`. The word lists are in `data/theme_lexicon.json`.
+- `src/a5_theme_rates.py`: theme word-family rates for the v1 four-family lexicon (`data/theme_lexicon_v1.json`) → `results/a5_theme_rates/`.
+- `src/theme_lexicon.py`: loads lexicon v2 and applies its lexicon-only token rules (the LDA input is unchanged).
+- `src/a5_lexicon_audit.py`, `src/a5_lexicon_revision.py`: audit of lexicon v2 (counts, zero lemmas, lemmatization checks; sense-check lists) → `results/a5_lexicon_v2/`.
+- `src/a5_lexicon_v2_rates.py`: lexicon v2 rates per play and per act, act percentiles, figures → `results/a5_lexicon_v2/rates/`.
+- `src/a5_collocations.py`: 'broken faith' collocations (*fides*/*fidus* near verbs of breaking), with hand classes → `results/a5_collocations/`.
+- `src/verses.py`: edition verse numbers, speeches and acts for every v2 token (TEI `<l n>` for Ecerinis, `<milestone unit="line">` for Seneca). All passages are cited by these verse numbers.
 - `src/a5_no_above.py 4`: `no_above` 0.5 / 0.8 / 1.0 / 1.0 with TF-IDF; 50-seed check at k = 7–9; Ecerinis's topic and attribution under each → `results/a5_no_above/`.
 
 **Shared and superseded modules**
@@ -147,12 +153,14 @@ Each script writes a markdown report next to its outputs. A trailing number is t
 | `results/a4_heatmaps/fig_a4_play_topics_k8.png` | Conference play-level topic weights, empty topics labelled |
 | `results/a4_heatmaps/fig_a4_act_topics_k24.png` | Conference act-level topic weights, empty topics labelled |
 | `results/keyness/figures/fig_keyness_log_ratio.png` | Keyness log ratio, top 40 over-used and top 20 under-used lemmas in Ecerinis |
-| `results/a5_theme_rates/figures/fig_a5_theme_rates_{v2,original}.png` | Theme word-family rates per play with bootstrap 95% intervals |
+| `results/a5_theme_rates/figures/fig_a5_theme_rates_{v2,original}.png` | v1 four-family theme rates per play with bootstrap 95% intervals |
+| `results/a5_lexicon_v2/rates/figures/fig_lexicon_v2_plays.png` | Lexicon v2: rates per play, one panel per family (author-chosen lexicon counts) |
+| `results/a5_lexicon_v2/rates/figures/fig_lexicon_v2_act_percentiles.png` | Lexicon v2: families × 18 acts, coloured by percentile among all 56 acts |
 
 ## Data and licences
 
 - **Code:** MIT (`LICENSE`).
-- **Seneca:** the RomDraCor (Roman Drama Corpus) TEI files, licensed CC BY-SA 3.0 US according to the DraCor API (`https://dracor.org/api/v1/corpora/rom`). Derived token files in this repo carry the same licence.
+- **Seneca:** the RomDraCor (Roman Drama Corpus) TEI files, licensed CC BY-SA 3.0 US according to the DraCor API (`https://dracor.org/api/v1/corpora/rom`). Derived token files in this repo carry the same licence, as do the copies of the Seneca TEI files in `data/sources/seneca_tei/` (used only for verse numbers and speech boundaries).
 - **Ecerinis (v2):** NeoLatDraCor `tei/mussatus-ecerinis.xml`, commit `3d4653db`, CC0. The text is the MQDQ edition after L. Padrin (ed.), *Ecerinide* (Bologna, 1900). Provenance and corrections are in `results/a1_v2/sources_report.md`.
 - **Lexical resources:** lemma checks use LiLa (`lila-erc.eu`) and Perseids Morpheus (`morph.perseids.org`). Their responses are cached in `data/lexicon_cache/`.
 - **Not in git:** `context/` (unpublished chapter material).

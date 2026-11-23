@@ -1,0 +1,418 @@
+# Theme lexicon v2: audit (step 1; no rates computed)
+
+Author-chosen word families (`data/theme_lexicon.json`; the earlier four-family lexicon is now `data/theme_lexicon_v1.json`). Counts are v2 tokens before the dictionary filter, by final lemma key (after lemma fixes, named-entity removal and the spelling map). Ecerinis / Seneca = the ten Seneca plays combined.
+
+## Summary
+
+- 185 lemmas in 18 families.
+- Zero occurrences in the corpus (19): expugno (invasion_conquest), proditor (betrayal_broken_faith), proditio (betrayal_broken_faith), perfidia (betrayal_broken_faith), periurus (betrayal_broken_faith), periurium (betrayal_broken_faith), parca (fate_fortune), prouidentia (providence_divine), lamentor (grief_lament), recordor (memory_report), sententia (law_judgment), aequitas (law_judgment), dominatio (tyranny_servitude), insania (rage_fury), discordia (discord_strife), dissidium (discord_strife), factio (discord_strife), rixa (discord_strife), contentio (discord_strife).
+- Absent from Ecerinis but present in Seneca: 58 lemmas; present in Ecerinis but absent from Seneca: 5.
+- Listed in two families: none.
+
+## Counts per family
+
+### invasion_conquest
+
+Family total: Ecerinis 22 / Seneca 301.
+
+| lemma | Ecerinis | Seneca | surface forms (top 8) | notes |
+|---|---|---|---|---|
+| inuado | 3 | 11 | inuasit 6; inuade 4; inuadam 2; inuadet 1; inuadere 1 |  |
+| occupo | 5 | 29 | occupat 9; occupa 5; occupet 4; occupandum 2; occupata 2; occupauit 1; occupato 1; occupas 1 |  |
+| expugno | 0 | 0 | — | **zero in corpus** |
+| obsideo | 0 | 8 | obsessa 2; obsidet 2; obsidens 1; obsedit 1; obsessae 1; obsidentem 1 |  |
+| hostis | 6 | 55 | hostis 23; hostes 11; hostem 9; hosti 7; hostium 6; hoste 4; hostibus 1 |  |
+| bellum | 7 | 93 | bella 52; bellum 23; belli 12; bello 10; bellis 2; bellorum 1 |  |
+| arma | 1 | 79 | arma 56; armis 21; armorum 3 |  |
+| armo | 0 | 26 | armata 4; armat 4; armauit 3; armatus 3; armatae 2; armetur 2; armemus 1; armasset 1 |  |
+
+### deceit
+
+Family total: Ecerinis 15 / Seneca 141.
+
+| lemma | Ecerinis | Seneca | surface forms (top 8) | notes |
+|---|---|---|---|---|
+| fraus | 3 | 34 | fraude 16; fraudis 6; fraudes 5; fraudi 3; fraus 3; fraudem 3; fraudibus 1 |  |
+| dolus | 4 | 40 | dolos 15; doli 10; dolus 7; dolis 6; dolo 6 |  |
+| fallo | 1 | 20 | fallor 4; falli 3; fallit 3; fallere 2; fallant 2; fefellissem 1; fallatur 1; fefellit 1 |  |
+| falsus | 5 | 26 | falsa 8; falsum 5; falso 4; falsis 4; falsi 3; falsus 3; falsos 2; falsas 1 | raw lemma lost: not kept by preprocessing (Seneca) 2 |
+| fallax | 1 | 16 | fallax 11; fallaci 2; fallacis 2; fallacem 1; fallaces 1 |  |
+| insidiae | 1 | 5 | insidias 3; insidiis 3 |  |
+
+### betrayal_broken_faith
+
+Family total: Ecerinis 1 / Seneca 38.
+
+| lemma | Ecerinis | Seneca | surface forms (top 8) | notes |
+|---|---|---|---|---|
+| prodo | 0 | 9 | prodidit 2; prodat 1; prodas 1; proditur 1; prodet 1; prodimus 1; proditus 1; produnt 1 |  |
+| proditor | 0 | 0 | — | **zero in corpus** |
+| proditio | 0 | 0 | — | **zero in corpus** |
+| perfidus | 0 | 9 | perfida 3; perfidi 2; perfido 2; perfide 1; perfidus 1 |  |
+| perfidia | 0 | 0 | — | **zero in corpus** |
+| periurus | 0 | 0 | — | **zero in corpus** |
+| periurium | 0 | 0 | — | **zero in corpus** |
+| foedus | 1 | 20 | foeda 7; foedus 5; foedera 4; foedo 3; foederis 1; foederi 1 |  |
+
+### punishment_vengeance
+
+Family total: Ecerinis 8 / Seneca 206.
+
+| lemma | Ecerinis | Seneca | surface forms (top 8) | notes |
+|---|---|---|---|---|
+| poena | 2 | 106 | poenas 52; poena 20; poenae 16; poenam 13; poenarum 4; poenis 3 |  |
+| punio | 0 | 6 | puniendum 2; punisti 1; puniri 1; punitur 1; punire 1 |  |
+| supplicium | 2 | 18 | supplicia 12; supplicium 5; suppliciis 1; supplicio 1; supplicii 1 |  |
+| ultio | 2 | 2 | ultio 1; ultionis 1; ultionum 1; ultiones 1 |  |
+| ulciscor | 1 | 9 | ulcisci 5; ulti 2; ulciscar 2; ulciscens 1 |  |
+| uindex | 1 | 15 | uindicem 7; uindex 6; uindice 3 |  |
+| uindicta | 0 | 6 | uindicta 5; uindictae 1 |  |
+| uindico | 0 | 12 | uindicat 3; uindices 3; uindica 2; uindicato 1; uindicas 1; uindicastis 1; uindico 1 |  |
+| cruciatus | 0 | 1 | cruciatu 1 |  |
+| rogus | 0 | 31 | rogos 8; rogis 7; rogum 6; rogus 5; rogo 3; rogi 2 |  |
+
+### fate_fortune
+
+Family total: Ecerinis 9 / Seneca 276.
+
+| lemma | Ecerinis | Seneca | surface forms (top 8) | notes |
+|---|---|---|---|---|
+| fatum | 2 | 153 | fata 89; fatum 20; fatis 18; fato 14; fati 8; fatorum 6 |  |
+| fatalis | 1 | 6 | fatale 4; fatalis 2; fatali 1 |  |
+| fortuna | 3 | 77 | fortuna 61; fortunae 15; fortunam 4 |  |
+| sors | 3 | 37 | sors 12; sorte 11; sortis 10; sortem 6; sorti 1 |  |
+| parca | 0 | 0 | — | raw lemma lost: removed as a name (Seneca) 1; **zero in corpus** |
+| destino | 0 | 3 | destino 1; destinamus 1; destinatas 1 |  |
+
+### natural_cosmic_order
+
+Family total: Ecerinis 38 / Seneca 501.
+
+| lemma | Ecerinis | Seneca | surface forms (top 8) | notes |
+|---|---|---|---|---|
+| natura | 3 | 24 | natura 22; naturae 3; naturam 2 |  |
+| ordo | 7 | 9 | ordo 10; ordine 3; ordinem 3 |  |
+| mundus | 6 | 88 | mundi 34; mundo 24; mundus 21; mundum 15 |  |
+| caelum | 10 | 146 | caelum 77; caelo 54; caeli 23; caelos 1; caelis 1 |  |
+| polus | 4 | 54 | poli 20; polus 12; polo 11; polum 9; polos 4; polis 2 |  |
+| aether | 2 | 29 | aether 12; aetheris 9; aethere 6; aethera 4 |  |
+| sidus | 3 | 46 | sidera 26; sidus 15; sideribus 3; sidere 3; siderum 2 |  |
+| astrum | 2 | 60 | astra 41; astris 18; astrorum 3 |  |
+| axis | 0 | 14 | axe 8; axis 3; axibus 2; axes 1 |  |
+| cursus | 1 | 31 | cursu 19; cursus 10; cursum 3 |  |
+
+### providence_divine
+
+Family total: Ecerinis 21 / Seneca 320.
+
+| lemma | Ecerinis | Seneca | surface forms (top 8) | notes |
+|---|---|---|---|---|
+| deus | 18 | 201 | deos 64; deus 61; deum 21; deorum 20; dei 17; deo 12; deis 12; di 8 |  |
+| numen | 2 | 47 | numen 28; numina 8; numinum 5; numinis 4; numine 4 |  |
+| superi | 0 | 64 | superos 35; superi 16; superis 12; superum 1 |  |
+| diuinus | 1 | 0 | diuinam 1 |  |
+| prouidentia | 0 | 0 | — | **zero in corpus** |
+| caelestis | 0 | 8 | caelestes 2; caelestis 2; caelestium 1; caelesti 1; caelestibus 1; caelestem 1 |  |
+
+### piety_virtue
+
+Family total: Ecerinis 23 / Seneca 314.
+
+| lemma | Ecerinis | Seneca | surface forms (top 8) | notes |
+|---|---|---|---|---|
+| pietas | 3 | 47 | pietas 37; pietatem 6; pietate 5; pietati 2 |  |
+| pius | 2 | 26 | pius 5; piae 4; pias 4; piis 3; pios 3; pii 2; pio 2; pium 2 |  |
+| impius | 1 | 67 | impia 16; impium 11; impio 11; impius 6; impiae 6; impiam 5; impios 5; impii 4 |  |
+| fides | 7 | 99 | fides 47; fidem 40; fide 16; fidei 3 |  |
+| spes | 6 | 28 | spes 23; spe 7; spei 3; spem 1 |  |
+| caritas | 2 | 0 | caritas 2 |  |
+| uirtus | 2 | 47 | uirtus 37; uirtute 5; uirtutis 3; uirtutibus 1; uirtutem 1; uirtutum 1; uirtuti 1 |  |
+
+### sea_water
+
+Family total: Ecerinis 10 / Seneca 658.
+
+| lemma | Ecerinis | Seneca | surface forms (top 8) | notes |
+|---|---|---|---|---|
+| mare | 3 | 128 | mare 66; maria 27; maris 21; mari 17 |  |
+| pelagus | 0 | 29 | pelagus 12; pelago 9; pelagi 8 |  |
+| pontus | 0 | 56 | pontum 17; pontus 16; ponto 15; ponti 8 | raw lemma lost: removed as a name (Seneca) 4 |
+| aequor | 0 | 19 | aequor 8; aequora 5; aequoris 3; aequore 2; aequorum 1 | folded in: aequo (Seneca) 4 |
+| fretum | 0 | 56 | freta 21; fretum 18; freto 10; fretis 5; freti 2 |  |
+| unda | 1 | 82 | unda 31; undas 28; undis 17; undae 6; undarum 1 | folded in: undo (Seneca) 1 |
+| fluctus | 0 | 48 | fluctus 23; fluctu 11; fluctibus 10; fluctum 4 |  |
+| ratis | 2 | 66 | rates 23; ratem 14; ratis 11; ratibus 10; rate 7; rati 3 |  |
+| nauis | 0 | 8 | nauibus 3; naues 2; nauem 2; nauis 1 |  |
+| classis | 0 | 25 | classis 14; classibus 3; classes 3; classi 2; classe 2; classem 1 |  |
+| prora | 0 | 4 | prora 3; prorae 1 |  |
+| puppis | 0 | 24 | puppis 13; puppes 5; puppem 3; puppe 2; puppibus 1 |  |
+| uelum | 0 | 20 | uela 14; uelis 5; uelo 1 | folded in: uelo (Seneca) 1 |
+| portus | 0 | 14 | portus 8; portu 3; portibus 2; portum 1 |  |
+| naufragium | 0 | 3 | naufragia 2; naufragium 1 |  |
+| procella | 1 | 11 | procellae 5; procella 4; procellis 2; procellas 1 |  |
+| flumen | 2 | 13 | fluminis 5; flumina 3; flumine 3; fluminibus 2; flumini 1; flumen 1 |  |
+| fluuius | 1 | 1 | fluuio 1; fluuius 1 |  |
+| amnis | 0 | 22 | amnis 8; amnes 8; amnem 4; amne 2 |  |
+| uadum | 0 | 29 | uada 12; uado 9; uadis 8 |  |
+
+### grief_lament
+
+Family total: Ecerinis 8 / Seneca 311.
+
+| lemma | Ecerinis | Seneca | surface forms (top 8) | notes |
+|---|---|---|---|---|
+| lacrima | 2 | 61 | lacrimas 30; lacrimis 19; lacrimae 13; lacrimam 1 |  |
+| lacrimo | 0 | 5 | lacrimat 2; lacrimare 2; lacrimandum 1 |  |
+| fleo | 0 | 43 | flere 9; flete 5; flemus 4; fleuit 4; flendi 3; fleat 3; flentem 3; fleo 2 |  |
+| luctus | 0 | 43 | luctus 28; luctu 9; luctum 5; luctibus 1 |  |
+| lugeo | 1 | 17 | lugere 7; luget 3; lugete 2; lugeat 2; lugebis 1; lugendus 1; lugendae 1; lugendo 1 |  |
+| maeror | 0 | 10 | maeror 5; maerore 3; maeroris 2 |  |
+| maereo | 0 | 15 | maeret 6; maerenti 2; maerens 2; maeres 2; maerere 2; maerentem 1 |  |
+| gemitus | 3 | 18 | gemitus 13; gemitu 6; gemitum 2 |  |
+| gemo | 0 | 40 | gemit 11; gemuit 5; gemunt 4; gemis 3; gemam 3; gemere 2; gemendus 2; gemeret 1 |  |
+| planctus | 0 | 21 | planctus 16; planctu 4; planctibus 1 | folded in: plango (Seneca) 17 |
+| plango | 0 | 7 | plangite 4; plangente 1; plangant 1; planxerunt 1 | raw lemma lost: lemma fix -> planctus (Seneca) 17 |
+| queror | 1 | 26 | questus 5; queritur 5; queror 4; querimur 3; querar 2; questibus 2; questum 1; querere 1 |  |
+| querela | 1 | 5 | querelas 3; querelis 2; querelae 1 |  |
+| lamentor | 0 | 0 | — | **zero in corpus** |
+
+### memory_report
+
+Family total: Ecerinis 3 / Seneca 78.
+
+| lemma | Ecerinis | Seneca | surface forms (top 8) | notes |
+|---|---|---|---|---|
+| memoria | 2 | 9 | memoria 7; memoriam 2; memoriae 2 |  |
+| memor | 0 | 13 | memor 10; memores 3 |  |
+| memini | 0 | 6 | meminisse 2; memento 1; meminimus 1; meminit 1; memini 1 |  |
+| recordor | 0 | 0 | — | **zero in corpus** |
+| obliuiscor | 0 | 11 | oblitus 5; oblita 3; oblitos 2; oblite 1 | folded in: oblino (Seneca) 3; oblite (Seneca) 1 |
+| narro | 0 | 6 | narrat 3; narrare 1; narratur 1; narrentur 1 |  |
+| nuntius | 1 | 7 | nuntius 5; nuntium 3 |  |
+| nuntio | 0 | 2 | nuntiet 1; nuntiat 1 |  |
+| fama | 0 | 24 | fama 18; famam 3; famae 3 |  |
+
+### community_commune
+
+Family total: Ecerinis 33 / Seneca 370.
+
+| lemma | Ecerinis | Seneca | surface forms (top 8) | notes |
+|---|---|---|---|---|
+| ciuis | 3 | 28 | ciues 14; ciuium 10; ciuibus 5; ciuis 2 |  |
+| ciuitas | 2 | 1 | ciuitas 3 |  |
+| populus | 7 | 91 | populi 27; populos 20; populis 19; populus 18; populo 10; populorum 2; populum 2 |  |
+| plebs | 4 | 4 | plebis 4; plebe 3; plebs 1 |  |
+| uulgus | 3 | 19 | uulgus 16; uulgi 3; uolgus 2; uulgum 1 |  |
+| turba | 2 | 69 | turba 59; turbae 6; turbam 5; turbis 1 |  |
+| grex | 1 | 44 | greges 15; gregem 9; gregis 9; grege 6; gregibus 3; gregi 2; gregum 1 |  |
+| patria | 0 | 50 | patriae 20; patriam 16; patria 14 |  |
+| urbs | 7 | 61 | urbes 30; urbe 12; urbis 10; urbem 7; urbibus 4; urbs 2; urbi 2; urbium 1 |  |
+| forum | 4 | 3 | foro 5; fori 1; forum 1 | raw lemma lost: removed as a name (Ecerinis) 1 |
+
+### law_judgment
+
+Family total: Ecerinis 32 / Seneca 151.
+
+| lemma | Ecerinis | Seneca | surface forms (top 8) | notes |
+|---|---|---|---|---|
+| lex | 4 | 33 | leges 14; lege 9; lex 4; legibus 4; legem 3; legum 2; legis 1 |  |
+| ius | 3 | 38 | iura 20; ius 10; iuris 9; iure 2 |  |
+| iustitia | 2 | 2 | iustitia 3; iustitiae 1 |  |
+| iustus | 5 | 13 | iusta 6; iustus 3; iustior 2; iustae 2; iustum 2; iusto 1; iusti 1; iustos 1 |  |
+| iniustus | 0 | 1 | iniustus 1 |  |
+| iudex | 3 | 6 | iudex 3; iudice 2; iudices 2; iudicis 1; iudicem 1 |  |
+| iudico | 0 | 1 | iudicas 1 |  |
+| iudicium | 2 | 3 | iudicii 2; iudici 1; iudicia 1; iudicio 1 |  |
+| lis | 6 | 1 | litis 2; litibus 2; lites 1; lis 1; litem 1 |  |
+| reus | 0 | 6 | reos 2; reus 2; reum 1; reis 1 |  |
+| crimen | 5 | 32 | crimen 21; crimine 8; crimina 4; criminis 3; criminum 1 |  |
+| sententia | 0 | 0 | — | **zero in corpus** |
+| aequus | 2 | 15 | aequa 7; aequo 3; aequi 2; aequum 2; aequus 2; aequior 1 |  |
+| aequitas | 0 | 0 | — | **zero in corpus** |
+
+### rule_kingship
+
+Family total: Ecerinis 22 / Seneca 716.
+
+| lemma | Ecerinis | Seneca | surface forms (top 8) | notes |
+|---|---|---|---|---|
+| rex | 2 | 138 | reges 29; regis 25; regum 22; rex 21; regem 13; regi 12; regibus 9; rege 9 |  |
+| regnum | 4 | 211 | regna 87; regnum 45; regno 38; regni 36; regnis 5; regnorum 4 |  |
+| regno | 2 | 26 | regnat 9; regnare 6; regnas 2; regnabit 1; regnante 1; regnantem 1; regnet 1; regnent 1 |  |
+| regius | 0 | 53 | regium 12; regia 9; regiae 9; regii 6; regio 4; regius 4; regios 4; regias 3 |  |
+| sceptrum | 1 | 50 | sceptra 35; sceptrum 8; sceptro 5; sceptri 2; sceptris 1 |  |
+| solium | 1 | 8 | solio 8; solium 1 |  |
+| diadema | 0 | 1 | diadema 1 |  |
+| imperium | 3 | 45 | imperio 14; imperi 10; imperia 10; imperium 10; imperii 4 |  |
+| impero | 0 | 20 | imperat 6; imperas 3; impera 2; imperata 2; imperari 1; impero 1; imperasse 1; imperando 1 |  |
+| iubeo | 3 | 104 | iubet 20; iubes 17; iussus 12; iussit 11; iussa 10; iussi 6; iubente 5; iube 5 |  |
+| dominus | 4 | 41 | dominus 15; dominum 13; domini 8; dominos 5; domino 2; dominis 1; domine 1 |  |
+| princeps | 2 | 19 | principis 12; princeps 4; principem 2; principi 2; principes 1 |  |
+
+### tyranny_servitude
+
+Family total: Ecerinis 17 / Seneca 109.
+
+| lemma | Ecerinis | Seneca | surface forms (top 8) | notes |
+|---|---|---|---|---|
+| tyrannus | 8 | 29 | tyrannus 12; tyranni 11; tyranno 6; tyrannos 4; tyrannum 2; tyranne 1; tyrannis 1 | raw lemma lost: lemma fix -> tyrannis (Ecerinis) 5 |
+| tyrannis | 5 | 0 | tyrannidi 2; tyrannis 2; tyrannidis 1 | folded in: tyrannus (Ecerinis) 5 |
+| tyrannicus | 1 | 0 | tyrannica 1 |  |
+| dominatio | 0 | 0 | — | **zero in corpus** |
+| seruitus | 0 | 2 | seruitutem 1; seruitutis 1 |  |
+| seruio | 0 | 10 | seruit 6; seruire 2; seruient 1; seruiat 1 |  |
+| iugum | 3 | 68 | iugo 21; iuga 19; iugis 18; iugum 13 |  |
+
+### lineage_kin
+
+Family total: Ecerinis 66 / Seneca 919.
+
+| lemma | Ecerinis | Seneca | surface forms (top 8) | notes |
+|---|---|---|---|---|
+| pater | 18 | 189 | pater 89; patrem 34; patris 32; patri 28; patre 15; patres 6; patrum 3 |  |
+| paternus | 1 | 31 | paternis 7; paterna 5; paterno 5; paternae 4; paternus 4; paternum 3; paterni 3; paternos 1 |  |
+| mater | 8 | 173 | mater 63; matris 44; matrem 22; matri 22; matres 19; matre 9; matrum 1; matribus 1 |  |
+| auus | 0 | 13 | auo 4; aui 3; auum 3; auos 1; auiis 1; auus 1 |  |
+| proles | 6 | 28 | proles 18; prolis 7; prolem 6; prole 3 |  |
+| suboles | 1 | 5 | suboles 3; sobolis 2; subolem 1 |  |
+| stirps | 1 | 21 | stirpem 9; stirpe 6; stirpis 5; stirps 1; stirpi 1 |  |
+| genus | 13 | 80 | genus 69; generis 15; genere 6; generi 2; genera 1 |  |
+| sanguis | 6 | 80 | sanguine 33; sanguis 22; sanguinem 21; sanguinis 10 |  |
+| nepos | 1 | 18 | nepotes 6; nepos 6; nepotem 4; nepotibus 2; nepotis 1 |  |
+| progenies | 1 | 5 | progenies 6 |  |
+| heres | 0 | 3 | heres 3 |  |
+| frater | 7 | 124 | frater 40; fratris 23; fratrem 22; fratri 13; fratrum 12; fratres 10; fratre 7; fratribus 4 |  |
+| germanus | 0 | 9 | germani 3; germane 3; germanos 2; germanum 1 |  |
+| parens | 3 | 140 | parens 73; parentis 25; parentem 19; parenti 11; parentes 8; parentum 3; parente 3; parentibus 1 |  |
+
+### rage_fury
+
+Family total: Ecerinis 33 / Seneca 465.
+
+| lemma | Ecerinis | Seneca | surface forms (top 8) | notes |
+|---|---|---|---|---|
+| ira | 5 | 93 | ira 53; iras 22; irae 12; iram 7; irarum 4 |  |
+| irascor | 0 | 13 | irata 7; irato 2; irasci 2; iratus 1; iratis 1 |  |
+| furor | 7 | 77 | furor 57; furore 9; furoris 7; furorem 6; furori 2; furabor 2; furores 1 |  |
+| furo | 3 | 58 | furit 21; furens 20; furentes 5; furentem 4; furentis 3; furis 2; furente 2; fureret 2 |  |
+| furiosus | 0 | 4 | furiosa 2; furiose 1; furiosus 1 |  |
+| rabies | 4 | 4 | rabies 6; rabiem 2 |  |
+| rabidus | 0 | 14 | rabidus 4; rabidos 3; rabida 2; rabido 2; rabidum 1; rabidam 1; rabidae 1 |  |
+| saeuio | 1 | 14 | saeuit 9; saeuire 5; saeuite 1 |  |
+| saeuus | 8 | 141 | saeua 52; saeui 18; saeuus 16; saeuo 11; saeuum 10; saeuis 10; saeuos 8; saeuae 8 |  |
+| insania | 0 | 0 | — | **zero in corpus** |
+| exardesco | 1 | 1 | exarsit 2 |  |
+| odium | 4 | 46 | odia 27; odium 11; odio 11; odiis 1 |  |
+
+### discord_strife
+
+Family total: Ecerinis 4 / Seneca 25.
+
+| lemma | Ecerinis | Seneca | surface forms (top 8) | notes |
+|---|---|---|---|---|
+| discordia | 0 | 0 | — | **zero in corpus** |
+| discors | 0 | 5 | discors 4; discordem 1 |  |
+| dissidium | 0 | 0 | — | **zero in corpus** |
+| seditio | 1 | 0 | seditio 1 |  |
+| factio | 0 | 0 | — | **zero in corpus** |
+| rixa | 0 | 0 | — | **zero in corpus** |
+| certamen | 1 | 1 | certaminis 1; certamina 1 |  |
+| contentio | 0 | 0 | — | **zero in corpus** |
+| pugna | 0 | 3 | pugnam 2; pugnas 1 |  |
+| pugno | 1 | 5 | pugnat 3; pugnanti 2; pugnandi 1 |  |
+| inimicus | 1 | 11 | inimica 6; inimicum 4; inimici 1; inimicos 1 |  |
+
+## Lemmatized differently
+
+### Forms Morpheus assigns to a listed lemma that v2 keys elsewhere
+
+Candidates are corpus forms that share the lemma's first letters; Morpheus confirms that the form can belong to the listed lemma. Many are homographs that v2 assigns correctly to the other lemma (e.g. *fata* from *for*); the reading is the author's call. Rows with 2 or more tokens (all rows in `audit_forms_elsewhere.csv`).
+
+| listed lemma | form | v2 key | Ecerinis | Seneca | Morpheus lemmas |
+|---|---|---|---|---|---|
+| armo | arma | arma | 0 | 56 | arma; armo |
+| cursus | cursibus | curro | 0 | 2 | cursus |
+| fleo | fletus | fletus | 0 | 17 | fleo; fletus |
+| fleo | fletu | fletus | 0 | 12 | fleo; fletus |
+| fleo | fletum | fletus | 0 | 4 | fleo; fletus |
+| furo | furor | furor | 6 | 51 | furo; furor |
+| furo | furenti | furens | 0 | 3 | furo |
+| gemo | gemitus | gemitus | 3 | 10 | gemitus; gemo |
+| gemo | gemitu | gemitus | 0 | 6 | gemitus; gemo |
+| gemo | gemitum | gemitus | 0 | 2 | gemitus; gemo |
+| impius | impie | (removed) | 0 | 4 | impie; impius |
+| iudico | iudices | iudex | 1 | 1 | iudex; iudico |
+| lacrimo | lacrimas | lacrima | 0 | 30 | lacrima; lacrimo |
+| memor | memoria | memoria | 0 | 7 | memor; memoria |
+| patria | patriis | patrius | 0 | 5 | patria; patrium; patrius |
+| patria | patrias | patrius | 0 | 2 | patria; patrius |
+| plango | planctus | planctus | 0 | 16 | planctus; plango |
+| plango | planctu | planctus | 0 | 4 | planctus; plango |
+| prodo | prodest | prosum | 0 | 5 | prodo; prosum |
+| regius | regi | rex | 0 | 12 | regius; rego; rex |
+| regius | regi | rego | 0 | 8 | regius; rego; rex |
+| regno | regna | regnum | 0 | 87 | regno; regnum |
+| regno | regno | regnum | 0 | 38 | regno; regnum |
+| saeuio | saeui | saeuus | 1 | 17 | saeuio; saeus |
+| saeuio | saeuis | saeuus | 0 | 10 | saeuio; saeus |
+| saeuio | saeuior | saeuus | 0 | 2 | saeuio; saeus |
+| solium | soli | (removed) | 0 | 7 | sol; solium; solum; solus |
+| solium | solis | sol | 0 | 7 | sol; solium; solum; solus |
+| solium | solis | (removed) | 0 | 5 | sol; solium; solum; solus |
+| solium | soli | solus | 1 | 3 | sol; solium; solum; solus |
+| solium | solis | solus | 0 | 3 | sol; solium; solum; solus |
+| suboles | subole | suboleo | 0 | 3 | suboleo; suboles |
+| supplicium | supplici | supplex | 0 | 3 | suplex; suplicium |
+| supplicium | supplicis | supplex | 1 | 2 | suplex; suplicium |
+| uadum | uadum | uas | 2 | 3 | uadum; uas |
+| uindex | uindices | uindico | 0 | 3 | uindex; uindico |
+| uindico | uindicem | uindex | 0 | 7 | uindex; uindico |
+| uulgus | uulgo | (removed) | 1 | 1 | ulgo; ulgus |
+
+### Forms keyed to a listed lemma that Morpheus does not assign to it
+
+Possible wrong lemma or a LatinCy convention; all rows (`audit_forms_not_in_morpheus.csv`).
+
+| listed lemma | form | tokens | of which Ecerinis | Morpheus lemmas |
+|---|---|---|---|---|
+| auus | auiis | 1 | 0 | auia; auium; auius |
+| caelum | caelos | 1 | 1 | caelus |
+| deus | diti | 1 | 0 | diues |
+| deus | dites | 1 | 0 | dito; diues |
+| deus | diis | 1 | 1 | dius |
+| discors | discordem | 1 | 0 | discordo |
+| exardesco | exarsit | 2 | 1 | ex-ardeo |
+| punio | puniendum | 2 | 0 | punior |
+| punio | puniri | 1 | 0 | punior |
+| punio | punitur | 1 | 0 | punior |
+| punio | punire | 1 | 0 | punior |
+| queror | questibus | 2 | 0 | questus |
+| superi | superos | 35 | 0 | superus |
+| superi | superi | 16 | 0 | superus |
+| superi | superis | 12 | 0 | supera; superus; supo |
+| superi | superum | 1 | 0 | supera; superus |
+
+### Cases named in the brief and related conventions
+
+- **iussus / iubeo.** Forms in *iuss-*: iubeo (Ecerinis) 1; iubeo (Seneca) 44; iussum (Seneca) 7; iussus (Seneca) 2. Keys: iubeo 3 / 104; iussum 0 / 7; iussus 0 / 2 (Ecerinis / Seneca).
+- **natus / nascor.** Keys: natus 4 / 176; nata 0 / 26; nascor 4 / 62. Forms in *nat-* (excluding natura, nato, nat(at)o): natus (Seneca) 91; nascor (Seneca) 32; nata (Seneca) 21; natalis (Seneca) 4; nascor (Ecerinis) 3; natiuus (Seneca) 2; natus (Ecerinis) 2; natales (Seneca) 1; natalis (Ecerinis) 1; natis (Seneca) 1. *natus* is not in any family.
+- **Furiae / furia.** kept as furia (Seneca) 4. Forms: kept as furia: Furiarum 4.
+- **Erinys.** removed as a name (Seneca) 12. Forms: removed as a name: Erinys 12.
+- **Parca.** removed as a name (Seneca) 1. Forms: removed as a name: Parcae 1.
+- **Fortuna.** kept as fortuna (Ecerinis) 3; kept as fortuna (Seneca) 77. Forms: kept as fortuna: fortuna 32, Fortuna 29, Fortunae 8, fortunae 7, fortunam 3.
+- **Pontus.** kept as pontus (Seneca) 56; removed as a name (Seneca) 4. Forms: kept as pontus: pontum 17, pontus 16, ponto 15, ponti 7, Ponti 1; removed as a name: Pontus 2, Ponti 1, Pontum 1.
+- **Nemesis.** No token with this raw lemma.
+- **Fama.** kept as fama (Seneca) 24. Forms: kept as fama: fama 18, famam 3, famae 3.
+- **Ira.** kept as ira (Ecerinis) 5; kept as ira (Seneca) 93. Forms: kept as ira: ira 53, iras 22, irae 12, iram 7, irarum 4.
+- **superi.** Keys: superi 0 / 64; superus 3 / 59; supernus 3 / 3. 3.9.8 keeps some substantive plurals (superi, inferi, manes) as their own lemmas.
+- **aequus.** Keys: aequus 2 / 15; aequum 2 / 6; aequo 0 / 8; iniquus 2 / 9.
+- **falsus.** Keys: falsus 5 / 26; falsum 1 / 1; fallo 1 / 20.
+- **arma / armo.** Keys: arma 1 / 79; armo 0 / 26; armatus 0 / 1; armum 0 / 0.
+- **insidiae.** Keys: insidiae 1 / 5; insidia 0 / 0; insidior 0 / 0.
+- **uindex / uindico / uindicta.** Keys: uindex 1 / 15; uindico 0 / 12; uindicta 0 / 6; uendico 2 / 0.
+- **planctus / plango.** Keys: planctus 0 / 21; plango 0 / 7 (approved lemma fixes moved noun forms to planctus).
+- **tyrannus / tyrannis.** Keys: tyrannus 8 / 29; tyrannis 5 / 0.
+- **furor / furo / furia.** Keys: furor 7 / 77; furo 3 / 58; furia 0 / 6; furiae 0 / 0.
+- **diuinus / diuus.** Keys: diuinus 1 / 0; diuus 1 / 19; diua 1 / 3.
+- **caelum / caelestis / caelicola.** Keys: caelum 10 / 146; caelestis 0 / 8; caelicola 0 / 2.
+

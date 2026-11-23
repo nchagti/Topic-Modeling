@@ -1,6 +1,6 @@
 """A5 part 2: theme word-family rates per play and per act, with bootstrap intervals.
 
-The word families are a lexicon chosen by the author (data/theme_lexicon.json),
+The word families are a lexicon chosen by the author (data/theme_lexicon_v1.json),
 not model output. Rate = family tokens per 1,000 tokens.
 
 Tokens:
@@ -43,7 +43,7 @@ FOCUS, OTHER = "#eb6834", "#2a78d6"
 
 
 def lexicon():
-    lex = json.loads((P.DATA / "theme_lexicon.json").read_text(encoding="utf-8"))
+    lex = json.loads((P.DATA / "theme_lexicon_v1.json").read_text(encoding="utf-8"))
     return {k: v for k, v in lex.items() if not k.startswith("_")}
 
 
@@ -111,7 +111,7 @@ def figure(df, pipe, lex, path):
         if lbl.get_text() == "Ecerinis":
             lbl.set_color(FOCUS)
             lbl.set_fontweight("bold")
-    note = ("Lexicon counts from author-chosen word lists (data/theme_lexicon.json), not model output. "
+    note = ("Lexicon counts from author-chosen word lists (data/theme_lexicon_v1.json), not model output. "
             "Dots: rate; bars: bootstrap 95% interval (200-token chunks); dashed: mean of the ten Seneca plays. "
             f"Tokens: {'v2 (A1-normalized)' if pipe == 'v2' else 'original pipeline (processed tokens)'}.")
     fig.suptitle(note, fontsize=8.5, color=INK2, x=0.01, ha="left", wrap=True)
@@ -126,7 +126,7 @@ def main():
     rng = np.random.default_rng(0)
     plays_all, acts_all, words_all = [], [], []
     md = ["# A5 part 2: theme word-family rates", "",
-          "**These are lexicon counts from word lists chosen by the author (`data/theme_lexicon.json`), not model output.** "
+          "**These are lexicon counts from word lists chosen by the author (`data/theme_lexicon_v1.json`), not model output.** "
           "Rate = family tokens per 1,000 tokens, counted before the dictionary filter. Interval = bootstrap 95% "
           f"percentile interval from resampling consecutive {CHUNK}-token chunks within each play ({ACT_CHUNK}-token chunks within each act) ({B} replicates). "
           "Seneca mean = mean of the ten Seneca plays' rates (this definition reproduces the brief's figures). "
