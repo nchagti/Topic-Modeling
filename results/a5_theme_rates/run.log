@@ -8,10 +8,10 @@ Families: **Invasion**: hostis, urbs, occupo, inuado; **Deceit**: falsus, dolus,
 
 | theme | Ecerinis rate [95% CI] (count / tokens) | Seneca mean | Seneca plays: range | Ecerinis rank of 11 | Seneca plays whose interval does not overlap Ecerinis's |
 |---|---|---|---|---|---|
-| Invasion | 9.6 [4.6–15.0] (21 / 2198) | 3.7 | 1.7–6.2 | 1 | 2: Phaedra, Oedipus |
-| Deceit | 5.5 [3.2–8.2] (12 / 2198) | 2.4 | 0.6–3.6 | 1 | 2: Hercules Furens, Oedipus |
-| Punishment | 5.5 [3.2–8.2] (12 / 2198) | 3.3 | 1.8–5.0 | 1 | 0: — |
-| Fate | 3.6 [1.8–5.5] (8 / 2198) | 5.4 | 1.9–8.9 | 7 | 2: Oedipus, Hercules Oetaeus |
+| Invasion | 9.6 [4.6–15.0] (21 / 2195) | 3.7 | 1.7–6.2 | 1 | 2: Phaedra, Oedipus |
+| Deceit | 5.5 [3.2–8.2] (12 / 2195) | 2.4 | 0.6–3.6 | 1 | 2: Hercules Furens, Oedipus |
+| Punishment | 5.5 [3.2–8.2] (12 / 2195) | 3.3 | 1.8–5.0 | 1 | 0: — |
+| Fate | 3.6 [1.8–5.5] (8 / 2195) | 5.4 | 1.9–8.9 | 7 | 2: Oedipus, Hercules Oetaeus |
 
 Per play (rate [95% CI]):
 
@@ -33,8 +33,8 @@ Ecerinis acts (rate [95% CI], count; act length in tokens). Seneca acts: median 
 
 | act | tokens | Invasion | Deceit | Punishment | Fate |
 |---|---|---|---|---|---|
-| Ece 1 | 552 (11 chunks) | 7.2 [0.0–14.5], n=4 | 9.1 [0.0–18.2], n=5 | 3.6 [0.0–9.1], n=2 | 1.8 [0.0–5.5], n=1 |
-| Ece 2 | 411 (8 chunks) | 4.9 [0.0–10.0], n=2 | 7.3 [0.0–19.5], n=3 | 7.3 [0.0–19.0], n=3 | 0.0 [0.0–0.0], n=0 |
+| Ece 1 | 551 (11 chunks) | 7.3 [0.0–14.5], n=4 | 9.1 [0.0–18.2], n=5 | 3.6 [0.0–9.1], n=2 | 1.8 [0.0–5.5], n=1 |
+| Ece 2 | 409 (8 chunks) | 4.9 [0.0–10.0], n=2 | 7.3 [0.0–19.6], n=3 | 7.3 [0.0–19.1], n=3 | 0.0 [0.0–0.0], n=0 |
 | Ece 3 | 614 (12 chunks) | 11.4 [3.3–20.0], n=7 | 3.3 [0.0–8.1], n=2 | 4.9 [0.0–10.0], n=3 | 6.5 [1.6–11.7], n=4 |
 | Ece 4 | 271 (5 chunks) | 22.1 [6.4–44.0], n=6 | 3.7 [0.0–12.0], n=1 | 0.0 [0.0–0.0], n=0 | 3.7 [0.0–12.0], n=1 |
 | Ece 5 | 350 (7 chunks) | 5.7 [0.0–17.1], n=2 | 2.9 [0.0–8.6], n=1 | 11.4 [2.9–22.9], n=4 | 5.7 [0.0–11.4], n=2 |
@@ -85,17 +85,17 @@ Figure: `figures/fig_a5_theme_rates_original.png`.
 | pipeline | theme | word | Ecerinis rate (count) | Seneca mean |
 |---|---|---|---|---|
 | v2 | Invasion | hostis | 2.73 (6) | 1.41 |
-| v2 | Invasion | urbs | 3.18 (7) | 1.42 |
-| v2 | Invasion | occupo | 2.27 (5) | 0.67 |
-| v2 | Invasion | inuado | 1.36 (3) | 0.20 |
-| v2 | Deceit | falsus | 2.27 (5) | 0.58 |
+| v2 | Invasion | urbs | 3.19 (7) | 1.42 |
+| v2 | Invasion | occupo | 2.28 (5) | 0.67 |
+| v2 | Invasion | inuado | 1.37 (3) | 0.20 |
+| v2 | Deceit | falsus | 2.28 (5) | 0.58 |
 | v2 | Deceit | dolus | 1.82 (4) | 0.98 |
-| v2 | Deceit | fraus | 1.36 (3) | 0.84 |
+| v2 | Deceit | fraus | 1.37 (3) | 0.84 |
 | v2 | Punishment | supplicium | 0.91 (2) | 0.46 |
 | v2 | Punishment | ultio | 0.91 (2) | 0.06 |
 | v2 | Punishment | ignis | 3.64 (8) | 2.81 |
-| v2 | Fate | sors | 1.36 (3) | 0.89 |
-| v2 | Fate | sidus | 1.36 (3) | 1.00 |
+| v2 | Fate | sors | 1.37 (3) | 0.89 |
+| v2 | Fate | sidus | 1.37 (3) | 1.00 |
 | v2 | Fate | fatum | 0.91 (2) | 3.50 |
 | original | Invasion | hostis | 2.58 (6) | 1.34 |
 | original | Invasion | urbs | 3.00 (7) | 1.31 |

@@ -1,0 +1,114 @@
+﻿# A5 part 1: no_above and Ecerinis's topic (v2 tokens)
+
+Settings: no_above = 0.5 (baseline), 0.8, 1.0, and 1.0 with TF-IDF weighting (count × log2(11 / plays containing the word), no length normalization). **TF-IDF was added because at 1.0 a few very frequent words (manus, scelus, magnus, deus, regnum) dominate every topic.** keep_n was not used: it keeps the most frequent words. Under TF-IDF a word in all 11 plays gets weight 0, so it acts like no_above just below 1.0 plus down-weighting of the other common words.
+
+Seeds 0–49; k = 7–9 scored. The 0.5 baseline reproduces the A2 v2 trade-offs (largest difference 3.1e-04).
+
+| setting | vocabulary | Ecerinis tokens (or weight) in the model input |
+|---|---|---|
+| 0.5 | 1,600 | 416 |
+| 0.8 | 2,179 | 788 |
+| 1.0 | 2,728 | 1,990 |
+| 1.0+tfidf | 2,523 | 1,046 |
+
+## Seed check: k selection within k = 7–9
+
+| setting | mean trade-off k=7 / 8 / 9 (SE) | rule-selected k | tied within 1 SE | wins k=7 / 8 / 9 |
+|---|---|---|---|---|
+| 0.5 | 0.286 (0.004) / 0.285 (0.003) / 0.290 (0.003) | 9 | no tie | 14 / 13 / 23 |
+| 0.8 | 0.110 (0.007) / 0.094 (0.006) / 0.088 (0.006) | 7 | no tie | 25 / 13 / 12 |
+| 1.0 | -0.107 (0.009) / -0.114 (0.008) / -0.121 (0.007) | 7 | 7, 8 | 22 / 13 / 15 |
+| 1.0+tfidf | 0.296 (0.004) / 0.289 (0.004) / 0.289 (0.004) | 7 | no tie | 21 / 11 / 18 |
+
+## Ecerinis's dominant topic across the 50 seeds
+
+Shared vocabulary = the topic's top-20 relevance words that occur in more than 5 of the 11 plays (the words no_above = 0.5 removes). Plays per word = mean number of plays containing each top-20 word.
+
+| setting | k | Ecerinis alone | most frequent partners (share of seeds) | mean weight | top-20 words in >5 plays (mean) | plays per word (mean) | theme-lexicon words in the top 20 (share of seeds) | plays alone in their topic (mean of 11) |
+|---|---|---|---|---|---|---|---|---|
+| 0.5 | 7 | 26% | Octavia 26%, Phaedra 18%, Medea 16% | 0.99 | 0.0 | 3.5 | ultio 6% | 2.5 |
+| 0.5 | 8 | 40% | Medea 18%, Oedipus 16%, Thyestes 16% | 1.00 | 0.0 | 3.4 | ultio 12% | 3.2 |
+| 0.5 | 9 | 44% | Hercules Oetaeus 16%, Oedipus 14%, Phaedra 14% | 0.98 | 0.0 | 3.4 | ultio 6% | 3.4 |
+| 0.8 | 7 | 42% | Thyestes 24%, Octavia 24%, Phaedra 16% | 0.96 | 10.5 | 5.3 | inuado 4% | 2.3 |
+| 0.8 | 8 | 32% | Octavia 28%, Thyestes 24%, Hercules Furens 18% | 0.97 | 11.7 | 5.7 | ultio 4%, inuado 2% | 2.2 |
+| 0.8 | 9 | 34% | Octavia 22%, Thyestes 20%, Hercules Oetaeus 18% | 0.98 | 10.8 | 5.5 | inuado 4%, ultio 4% | 2.1 |
+| 1.0 | 7 | 18% | Hercules Furens 52%, Oedipus 52%, Thyestes 50% | 0.94 | 18.2 | 10.0 | fatum 24%, ignis 22%, hostis 6% | 1.5 |
+| 1.0 | 8 | 24% | Medea 58%, Hercules Furens 52%, Phaedra 50% | 0.97 | 17.8 | 9.8 | fatum 18%, ignis 12%, hostis 4% | 1.7 |
+| 1.0 | 9 | 26% | Thyestes 50%, Medea 48%, Oedipus 48% | 0.95 | 17.4 | 9.6 | fatum 14%, hostis 8%, ignis 8%, ultio 2% | 1.5 |
+| 1.0+tfidf | 7 | 26% | Octavia 22%, Agamemnon 22%, Phoenissae 16% | 1.00 | 1.5 | 3.0 | ultio 12%, inuado 2% | 2.7 |
+| 1.0+tfidf | 8 | 34% | Octavia 16%, Thyestes 16%, Troades 14% | 0.99 | 1.3 | 2.9 | ultio 4%, inuado 2% | 2.9 |
+| 1.0+tfidf | 9 | 34% | Octavia 20%, Agamemnon 16%, Thyestes 16% | 0.99 | 1.3 | 2.9 | ultio 10%, inuado 8% | 3.2 |
+
+Words in Ecerinis's topic's top 20 in at least 50% of seeds:
+
+- **0.5, k = 7**: lis 92%, atrox 90%, actus 76%, rabies 62%, forum 56%, plebs 56%
+- **0.5, k = 8**: lis 92%, atrox 90%, actus 86%, rabies 70%, adulter 68%, forum 62%, plebs 60%, deuoueo 56%, desino 54%, anxius 52%, pons 52%, triplex 52%, supernus 50%
+- **0.5, k = 9**: lis 96%, atrox 94%, actus 82%, rabies 74%, forum 72%, adulter 66%, plebs 66%, supernus 58%, triplex 58%, desino 52%, pons 52%, deuoueo 50%
+- **0.8, k = 7**: homo 84%, tyrannus 80%, ordo 78%, lis 76%, atrox 70%, actus 64%, fames 58%, deuoueo 52%, plebs 50%, rabies 50%
+- **0.8, k = 8**: homo 80%, ordo 70%, tyrannus 68%, lis 64%, atrox 62%, actus 54%, fames 54%, iustus 54%
+- **0.8, k = 9**: homo 80%, tyrannus 76%, ordo 74%, atrox 72%, lis 70%, actus 58%, iustus 50%
+- **1.0, k = 7**: deus 100%, pater 98%, manus 76%, peto 72%, scelus 72%, magnus 66%, regnum 62%, natus 52%
+- **1.0, k = 8**: deus 100%, pater 92%, scelus 76%, manus 68%, magnus 62%, regnum 62%, peto 60%, animus 52%, natus 52%, mater 50%
+- **1.0, k = 9**: deus 100%, pater 88%, scelus 68%, magnus 60%, manus 60%, peto 60%, regnum 58%
+- **1.0+tfidf, k = 7**: lis 100%, atrox 82%, triplex 74%, actus 68%, pons 68%, forum 64%, plebs 60%, deuoueo 54%
+- **1.0+tfidf, k = 8**: lis 100%, atrox 84%, actus 74%, forum 72%, triplex 70%, deuoueo 68%, pons 66%, plebs 60%, ciuitas 50%, excludo 50%
+- **1.0+tfidf, k = 9**: lis 100%, atrox 88%, forum 80%, actus 74%, pons 70%, triplex 70%, deuoueo 62%, plebs 56%, recolo 50%
+
+## Seed 42: Ecerinis's topic and the A3 attribution under each setting
+
+#### setting 0.5, k = 9, seed 42
+
+- Ecerinis's topic weights: T2 1.00. Dominant: Topic 2, shared with: Agamemnon.
+- Top 20 by relevance (λ = 0.6; bold = theme-lexicon word; number = plays containing the word): lis (2), actus (4), adulter (4), atrox (4), triplex (2), consors (4), amicus (3), forum (3), rabies (4), plebs (3), secedo (3), pons (2), pelopius (2), classis (5), mendax (3), superstes (3), desino (3), deuoueo (2), epulae (2), regimen (4).
+- Words carrying Ecerinis into Topic 2 (phi, expected tokens): lis 6.0, atrox 6.0, actus 5.0, adulter 4.0, forum 4.0, rabies 4.0, plebs 4.0, triplex 3.0, iudex 3.0, desino 3.0, patulus 3.0, supernus 3.0, pons 3.0, series 3.0, largus 3.0.
+- Contrastive pull vs the next-best topic, Topic 8 (dominant in: no play): lis 14.1, atrox 14.1, actus 11.7, adulter 9.3, forum 7.9, plebs 7.8, rabies 7.8, triplex 5.9, iudex 5.7, desino 5.0, series 5.0, pons 5.0, supernus 5.0, potior 5.0, patulus 5.0.
+
+#### setting 0.8, k = 9, seed 42
+
+- Ecerinis's topic weights: T4 1.00. Dominant: Topic 4, shared with: Agamemnon, Medea, Thyestes.
+- Top 20 by relevance (λ = 0.6; bold = theme-lexicon word; number = plays containing the word): festus (8), daps (7), exsul (8), consilium (7), fames (8), liberi (7), nolo (7), classis (5), uelum (7), atrox (4), exitium (8), actus (4), mensa (2), tyrannus (8), diuido (8), amputo (3), patruus (6), piger (8), impono (8), adulter (4).
+- Words carrying Ecerinis into Topic 4 (phi, expected tokens): tyrannus 8.0, homo 8.0, ordo 7.0, atrox 6.0, lis 6.0, fames 5.0, iustus 5.0, actus 5.0, exitium 4.0, carcer 4.0, adulter 4.0, subdo 4.0, mortalis 4.0, rabies 4.0, forum 4.0.
+- Contrastive pull vs the next-best topic, Topic 5 (dominant in: no play): tyrannus 15.8, homo 12.9, ordo 10.6, fames 10.0, atrox 9.1, lis 7.4, iustus 7.3, actus 6.9, exitium 6.6, carcer 6.4, exsul 6.2, adulter 5.4, subdo 4.8, mortalis 4.2, rabies 4.2.
+
+#### setting 1.0, k = 9, seed 42
+
+- Ecerinis's topic weights: T1 1.00. Dominant: Topic 1, shared with: Phoenissae, Troades, Phaedra, Agamemnon, Hercules Furens, Octavia, Oedipus, Thyestes, Hercules Oetaeus.
+- Top 20 by relevance (λ = 0.6; bold = theme-lexicon word; number = plays containing the word): manus (11), scelus (11), deus (11), magnus (11), regnum (11), pater (11), peto (11), uinco (11), dies (11), malum (11), natus (11), domus (11), mors (11), caelum (11), mater (11), terra (11), animus (11), teneo (11), grauis (10), saeuus (11).
+- Words carrying Ecerinis into Topic 1 (phi, expected tokens): deus 18.0, pater 18.0, genus 13.0, manus 12.0, altus 11.0, pars 11.0, mors 10.0, caelum 10.0, scelus 9.0, peto 9.0, teneo 9.0, os 9.0, uenio 9.0, uis 9.0, finis 9.0.
+- Contrastive pull vs the next-best topic, Topic 9 (dominant in: no play): deus 43.6, pater 42.9, manus 33.2, scelus 23.2, genus 22.8, mors 22.4, altus 21.9, caelum 21.2, peto 20.7, pars 20.4, magnus 19.9, teneo 19.5, mater 17.5, os 17.5, saeuus 17.3.
+
+#### setting 1.0+tfidf, k = 9, seed 42
+
+- Ecerinis's topic weights: T2 1.00. Dominant: Topic 2, shared with: Agamemnon.
+- Top 20 by relevance (λ = 0.6; bold = theme-lexicon word; number = plays containing the word): lis (2), triplex (2), actus (4), danai (2), adulter (4), amicus (3), atrox (4), classis (5), prora (2), pons (2), pelopius (2), consors (4), iliacus (2), deuoueo (2), epulae (2), forum (3), corono (2), certamen (2), filia (2), dubium (2).
+- Words carrying Ecerinis into Topic 2 (phi, expected tokens): lis 14.8, atrox 8.8, plebs 7.5, forum 7.5, triplex 7.4, deuoueo 7.4, pons 7.4, actus 7.3, ordo 6.1, adulter 5.8, rabies 5.8, supernus 5.6, desino 5.6, continuus 4.9, fulgur 4.9.
+- Contrastive pull vs the next-best topic, Topic 7 (dominant in: no play): lis 37.6, atrox 17.8, triplex 15.9, actus 14.8, forum 14.1, plebs 14.1, pons 13.8, deuoueo 13.8, adulter 11.9, ordo 10.3, rabies 9.6, desino 9.0, supernus 9.0, ciuitas 7.2, frendo 7.2.
+
+#### setting 0.5, k = 8, seed 42
+
+- Ecerinis's topic weights: T2 1.00. Dominant: Topic 2, shared with: no other play.
+- Top 20 by relevance (λ = 0.6; bold = theme-lexicon word; number = plays containing the word): lis (2), actus (4), atrox (4), forum (3), triplex (2), rabies (4), plebs (3), pons (2), adulter (4), desino (3), deuoueo (2), patulus (4), potior (4), supernus (3), series (5), anxius (4), praepotens (2), allido (2), sinister (2), recolo (2).
+- Words carrying Ecerinis into Topic 2 (phi, expected tokens): lis 6.0, atrox 6.0, actus 5.0, adulter 4.0, forum 4.0, plebs 4.0, rabies 4.0, triplex 3.0, pons 3.0, supernus 3.0, series 3.0, patulus 3.0, desino 3.0, largus 3.0, potior 3.0.
+- Contrastive pull vs the next-best topic, Topic 8 (dominant in: no play): lis 16.6, atrox 16.5, actus 13.8, adulter 9.5, forum 9.5, plebs 9.5, rabies 9.5, triplex 6.3, iudex 6.3, pons 6.3, desino 6.3, supernus 6.3, series 6.3, potior 6.3, patulus 6.3.
+
+#### setting 0.8, k = 8, seed 42
+
+- Ecerinis's topic weights: T4 1.00. Dominant: Topic 4, shared with: no other play.
+- Top 20 by relevance (λ = 0.6; bold = theme-lexicon word; number = plays containing the word): lis (2), atrox (4), ordo (6), homo (8), actus (4), tyrannus (8), forum (3), rabies (4), plebs (3), pons (2), triplex (2), adulter (4), deuoueo (2), desino (3), iustus (8), potior (4), supernus (3), patulus (4), fames (8), anxius (4).
+- Words carrying Ecerinis into Topic 4 (phi, expected tokens): homo 8.0, tyrannus 8.0, ordo 7.0, lis 6.0, atrox 6.0, actus 5.0, iustus 5.0, fames 5.0, rabies 4.0, adulter 4.0, forum 4.0, subdo 4.0, plebs 4.0, exitium 4.0, carcer 4.0.
+- Contrastive pull vs the next-best topic, Topic 8 (dominant in: no play): homo 22.4, tyrannus 22.4, ordo 18.8, lis 15.2, atrox 15.2, actus 11.8, iustus 11.7, fames 11.7, plebs 8.5, rabies 8.5, forum 8.5, adulter 8.5, exitium 8.5, carcer 8.5, subdo 8.5.
+
+#### setting 1.0, k = 8, seed 42
+
+- Ecerinis's topic weights: T1 1.00. Dominant: Topic 1, shared with: Phoenissae, Troades, Phaedra, Hercules Furens, Medea, Octavia, Oedipus, Thyestes, Hercules Oetaeus.
+- Top 20 by relevance (λ = 0.6; bold = theme-lexicon word; number = plays containing the word): manus (11), peto (11), scelus (11), deus (11), regnum (11), magnus (11), pater (11), mater (11), natus (11), dies (11), mors (11), saeuus (11), terra (11), uinco (11), caelum (11), **fatum** (11), parens (11), malum (11), teneo (11), uultus (11).
+- Words carrying Ecerinis into Topic 1 (phi, expected tokens): deus 18.0, pater 18.0, genus 13.0, manus 12.0, altus 11.0, pars 11.0, mors 10.0, caelum 10.0, scelus 9.0, peto 9.0, teneo 9.0, os 9.0, uenio 9.0, uis 9.0, finis 9.0.
+- Contrastive pull vs the next-best topic, Topic 2 (dominant in: no play): deus 45.0, pater 44.2, manus 36.1, mors 23.2, scelus 23.1, genus 23.0, peto 22.8, caelum 22.7, altus 21.7, pars 21.4, magnus 20.2, teneo 19.7, mater 19.6, os 18.0, saeuus 18.0.
+
+#### setting 1.0+tfidf, k = 8, seed 42
+
+- Ecerinis's topic weights: T2 1.00. Dominant: Topic 2, shared with: Agamemnon, Oedipus.
+- Top 20 by relevance (λ = 0.6; bold = theme-lexicon word; number = plays containing the word): lis (2), uates (4), triplex (2), edoceo (2), redimio (2), prora (2), strages (4), consors (4), mendax (3), allido (2), aduncus (2), sacratus (2), fatigo (2), decimus (2), laurus (5), actus (4), danai (2), adulter (4), amicus (3), desino (3).
+- Words carrying Ecerinis into Topic 2 (phi, expected tokens): lis 14.8, atrox 8.8, forum 7.5, plebs 7.5, triplex 7.4, pons 7.4, deuoueo 7.4, actus 7.3, ordo 6.1, adulter 5.8, rabies 5.8, desino 5.6, supernus 5.6, edoceo 4.9, allido 4.9.
+- Contrastive pull vs the next-best topic, Topic 7 (dominant in: no play): lis 30.1, atrox 13.3, triplex 12.1, actus 11.1, plebs 10.3, forum 10.3, pons 10.0, deuoueo 10.0, ordo 9.3, adulter 8.9, edoceo 8.1, desino 7.7, supernus 7.7, allido 6.7, rabies 6.6.
+

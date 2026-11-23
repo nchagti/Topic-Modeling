@@ -20,15 +20,33 @@ python -m venv .venv
 
 `requirements.txt` pins every package. It includes the LatinCy model `la_core_web_lg` 3.9.8, pinned by Hugging Face commit and sha256.
 
-The original LatinCy build behind the conference lemmas can no longer be downloaded. Its output survives as the saved DocBins and pickles in `Corpus/` and `Acts/`, and the original pipeline reads those. Only the v2 pipeline runs LatinCy.
+The original LatinCy build behind the conference lemmas can no longer be downloaded. Its output survives as the saved DocBins and pickles in `data/original/`, and the original pipeline reads those. Only the v2 pipeline runs LatinCy.
+
+## Repository layout
+
+| Folder | Contents |
+|---|---|
+| `notebooks/` | Conference notebooks. Top level: NER, POS, lemma notebooks. `play_lda/`: play-level LDA. `act_lda/`: act-level LDA. |
+| `Corpus/`, `Acts/` | Conference notebooks for cosine similarity and act extraction (`Acts/get_acts.py`), and the keyword CSVs (`Corpus/corpus_csv/`, `Acts/acts_csvs/`). |
+| `models/play/`, `models/act/` | The conference LDA pickles and dictionaries (formerly `gensimvenv/corpus_pkl/` and `gensimvenv/acts_pkl/`). |
+| `data/original/` | Conference inputs: the stopword lists, `unique_named_entities.pkl`, `entities_info.pkl`, `topic_data.json`. `corpus/` and `acts/` hold the source JSON, DocBins and processed pickles. |
+| `data/v2/`, `data/sources/`, `data/lexicon_cache/` | v2 pipeline inputs: corrected sources, approved decisions, cached lexicon responses. |
+| `data/theme_lexicon.json` | Editable theme word families (A5). |
+| `data/superseded/`, `src/superseded/` | The first-pass A1 proposals and scripts, kept for the record. |
+| `src/` | Robustness scripts (below). |
+| `results/` | Robustness outputs; `results/SUMMARY.md` gives the findings. |
+| `figures/` | Conference figures (unchanged). |
+| `gensimvenv/` | The old virtual environment, plus `raw_corpus/`, `ner_*.pkl` and `test_topic_modeling.ipynb` from early experiments (not moved). |
+
+The notebooks' file paths were rewritten for this layout by static analysis; none was re-executed. Several notebooks write pickles and figures, so running them overwrites the conference outputs.
 
 ## Two pipelines
 
 | | original (conference) | v2 (robustness) |
 |---|---|---|
-| Lemmas | saved output of the earlier LatinCy build (`Corpus/processed_corpus.pkl`, `Acts/processed_acts.pkl`) | LatinCy 3.9.8 with context-checked fixes (`data/v2/`) |
-| Named entities | `unique_named_entities.pkl` | `data/v2/named_entities_final.json` |
-| Ecerinis text | `Corpus/latin_tragedies_corpus.json` | NeoLatDraCor TEI, pinned commit, 3 corrections (`data/sources/`) |
+| Lemmas | saved output of the earlier LatinCy build (`data/original/corpus/processed_corpus.pkl`, `data/original/acts/processed_acts.pkl`) | LatinCy 3.9.8 with context-checked fixes (`data/v2/`) |
+| Named entities | `data/original/unique_named_entities.pkl` | `data/v2/named_entities_final.json` |
+| Ecerinis text | `data/original/corpus/latin_tragedies_corpus.json` | NeoLatDraCor TEI, pinned commit, 3 corrections (`data/sources/`) |
 | Entry point in `src/` | `pipeline.load_docs`, `pipeline.remove_named_entities` | `v2_corpus.token_lists` |
 
 **Known issue, left unchanged:** the original pipeline contains an empty lemma (the empty string).
@@ -40,16 +58,20 @@ The original LatinCy build behind the conference lemmas can no longer be downloa
 
 ### Conference pipeline (notebooks; order follows what each one reads and writes)
 
+Each notebook's paths are relative to its own folder, which is the working directory Jupyter uses.
+
 | Step | Notebook or script | Reads | Writes |
 |---|---|---|---|
-| 1 | `Acts/get_acts.py` | DraCor API | `Acts/latin_tragedies_acts.json` |
-| 2 | `NER_Mussato_Seneca.ipynb` | `Corpus/latin_tragedies_corpus.json` | `unique_named_entities.pkl` |
-| 3 | `Corpus/Cosine_Sim_Mussato_Seneca.ipynb` | `Corpus/latin_tragedies_corpus.json` | `Corpus/processed_tragedies_corpus.json`, `Corpus/processed_corpus.pkl`, cosine heatmaps |
-| 4 | `Acts/process_acts.ipynb`, then `Acts/cosine_sim_acts.ipynb` | `Acts/latin_tragedies_acts.json` | `Acts/processed_acts.pkl`, act cosine heatmap |
-| 5 | `gensimvenv/corpus_pkl/LDA_Coherence_Values.ipynb` | steps 2–3 | `gensimvenv/corpus_pkl/filtered_*.pkl` (incl. `filtered_ideal_model.pkl`), `figures/corpus_figures/` |
-| 6 | `gensimvenv/corpus_pkl/corpus_gensim_relevance_sort.ipynb`, `pyLDAvis_corpus.ipynb` | step 5 | keyword tables, pyLDAvis |
-| 7 | `gensimvenv/acts_pkl/Acts_LDA_Coherence_Values.ipynb` | steps 2 and 4 | `gensimvenv/acts_pkl/acts_filtered_*.pkl`, `figures/act_figures/` |
-| 8 | `gensimvenv/acts_pkl/acts_gensim_relevance_sort.ipynb`, `ideal_keywords.ipynb`, `extract_pyldavis_for_webpage.ipynb` | step 7 | keyword tables, pyLDAvis |
+| 1 | `Acts/get_acts.py` (run from `Acts/`) | DraCor API | `data/original/acts/latin_tragedies_acts.json` |
+| 2 | `notebooks/NER_Mussato_Seneca.ipynb` | `data/original/corpus/latin_tragedies_corpus.json` | `data/original/unique_named_entities.pkl` |
+| 3 | `Corpus/Cosine_Sim_Mussato_Seneca.ipynb` | `data/original/corpus/latin_tragedies_corpus.json` | `data/original/corpus/processed_tragedies_corpus.json`, `processed_corpus.pkl`, cosine heatmaps |
+| 4 | `Acts/process_acts.ipynb`, then `Acts/cosine_sim_acts.ipynb` | `data/original/acts/latin_tragedies_acts.json` | `data/original/acts/processed_acts.pkl`, act cosine heatmap |
+| 5 | `notebooks/play_lda/LDA_Coherence_Values.ipynb` | steps 2–3 | `models/play/filtered_*.pkl` (incl. `filtered_ideal_model.pkl`), `figures/corpus_figures/` |
+| 6 | `notebooks/play_lda/corpus_gensim_relevance_sort.ipynb`, `pyLDAvis_corpus.ipynb` | step 5 | `Corpus/corpus_csv/`, pyLDAvis |
+| 7 | `notebooks/act_lda/Acts_LDA_Coherence_Values.ipynb` | steps 2 and 4 | `models/act/acts_filtered_*.pkl`, `figures/act_figures/` |
+| 8 | `notebooks/act_lda/acts_gensim_relevance_sort.ipynb`, `ideal_keywords.ipynb`, `extract_pyldavis_for_webpage.ipynb` | step 7 | `Acts/acts_csvs/`, pyLDAvis |
+
+Other notebooks: `notebooks/POS_Ecerinis_NLP.ipynb`, `lemmas.ipynb`, `topic_lemma_search.ipynb` and `remove_integers_ecerinis.ipynb` (exploratory). The last reads `Ecerinis_spoken_text.txt`, which is not in the repo. `notebooks/play_lda/LDA_w-o_NE_TFIDF.ipynb` is an earlier TF-IDF experiment.
 
 ### Robustness pipeline (`src/`, run from the repo root with the `.venv` Python)
 
@@ -86,10 +108,15 @@ Each script writes a markdown report next to its outputs. A trailing number is t
 **Keyness and A5**
 - `src/keyness.py`: Ecerinis vs Seneca keyness (G², log ratio) → `results/keyness/`.
 - `src/a5_theme_rates.py`: theme word-family rates with bootstrap intervals → `results/a5_theme_rates/`. The word lists are in `data/theme_lexicon.json`.
+- `src/a5_no_above.py 4`: `no_above` 0.5 / 0.8 / 1.0 / 1.0 with TF-IDF; 50-seed check at k = 7–9; Ecerinis's topic and attribution under each → `results/a5_no_above/`.
 
 **Shared and superseded modules**
-- Shared: `src/pipeline.py` (the notebook settings ported to functions), `src/normalize.py`, `src/spacy_docs.py`, `src/lexicon.py`.
-- Superseded first pass, kept for the record: `src/a1_build_check.py`, `src/a1_scan.py`, `src/a1_proposals.py`, `src/latincy_compare.py`, `results/a1_normalization/`, and `data/*_proposed.csv` / `data/variant_map_proposed.json`.
+- Shared: `src/pipeline.py` (the notebook settings ported to functions, and the path constants), `src/normalize.py`, `src/spacy_docs.py`, `src/lexicon.py`.
+- Superseded first pass, kept for the record:
+  - scripts in `src/superseded/` (`a1_build_check.py`, `a1_scan.py`, `a1_proposals.py`, `latincy_compare.py`). `src/a1_v2_scan.py` still imports its rule tables from `superseded/a1_scan.py`.
+  - data in `data/superseded/`;
+  - reports in `results/a1_normalization/`.
+- Reports written before the reorganization (`results/a0_*`, `results/a1_*`) cite the old paths (`Corpus/`, `Acts/`, `gensimvenv/corpus_pkl/`).
 
 ## Figure index
 

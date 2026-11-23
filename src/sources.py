@@ -5,8 +5,8 @@ Ecerinis: extracted from the NeoLatDraCor TEI pinned at commit
 CC0), all 654 verse lines including the 5 inside <stage> ("Sic fatus ..."),
 with the corrections in data/sources/ecerinis_patches.json. Act boundaries come
 from the TEI's <div type="act">.
-Seneca: the text the analysis already uses (Corpus/latin_tragedies_corpus.json)
-is kept unchanged; act lines come from Acts/latin_tragedies_acts.json (acts_v2.py
+Seneca: the text the analysis already uses (data/original/corpus/latin_tragedies_corpus.json)
+is kept unchanged; act lines come from data/original/acts/latin_tragedies_acts.json (acts_v2.py
 aligns them and assigns Phaedra's prelude to act 1). This script records how the
 Seneca text compares with DraCor's current TEI and with the local TEI copies.
 
@@ -82,8 +82,8 @@ def compare(a_lines, b_lines):
 def main():
     V2.mkdir(parents=True, exist_ok=True)
     OUT.mkdir(parents=True, exist_ok=True)
-    corpus = json.loads((P.ROOT / "Corpus" / "latin_tragedies_corpus.json").read_text(encoding="utf-8"))
-    acts_old = json.loads((P.ROOT / "Acts" / "latin_tragedies_acts.json").read_text(encoding="utf-8"))
+    corpus = json.loads((P.ORIGINAL / "corpus" / "latin_tragedies_corpus.json").read_text(encoding="utf-8"))
+    acts_old = json.loads((P.ORIGINAL / "acts" / "latin_tragedies_acts.json").read_text(encoding="utf-8"))
 
     ece_acts, applied, stage = ecerinis()
     old_ece = next(c for c in corpus if c["title"] == "Ecerinis")
@@ -96,7 +96,7 @@ def main():
                               "source": f"NeoLatDraCor tei/mussatus-ecerinis.xml @ {ECERINIS_COMMIT}, patched"})
             act_lines_v2[c["title"]] = ece_acts
         else:
-            corpus_v2.append({**c, "source": "Corpus/latin_tragedies_corpus.json (unchanged)"})
+            corpus_v2.append({**c, "source": "data/original/corpus/latin_tragedies_corpus.json (unchanged)"})
             act_lines_v2[c["title"]] = [(a["act"], l) for a in acts_old if a["title"] == c["title"]
                                         for l in a["text"].split("\n") if l.strip()]
     (V2 / "corpus_v2.json").write_text(json.dumps(corpus_v2, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -110,7 +110,7 @@ def main():
           f"- {len(ece_acts)} verse lines in {len({a for a, _ in ece_acts})} acts, including {stage} lines "
           "encoded inside `<stage>` (\"Sic fatus ima parte secessit domus …\").",
           "- Corrections applied (`data/sources/ecerinis_patches.json`):"] + [f"  - {x}" for x in applied]
-    md += [f"- Compared with the text used so far (`Corpus/latin_tragedies_corpus.json`): "
+    md += [f"- Compared with the text used so far (`data/original/corpus/latin_tragedies_corpus.json`): "
            f"{compare(old_lines, [l for _, l in ece_acts])} of {len(old_lines)} lines match ignoring case and "
            "punctuation; the old text capitalizes every line and reads 'Quadnam' for Quodnam.", ""]
 

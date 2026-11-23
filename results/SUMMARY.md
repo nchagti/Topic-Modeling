@@ -12,13 +12,13 @@ Details: `a1_v2/REVIEW_v2.md`, `a1_v2/validation.md`, `a1_v2/token_lists_v2.md`.
 
 - **The original named-entity list removed a large share of Ecerinis.** The list adds a lemma after a single proper-noun tag, and Ecerinis's source capitalizes the first word of every verse line.
   - In the original pipeline, Ecerinis's 2,330 content tokens fall to **1,660 after named-entity removal**: 29% of the play.
-  - In v2 they fall to **2,198**; only 124 tokens are removed as names.
+  - In v2 they fall to **2,195**; only 127 tokens are removed as names. This count includes *marchia*, the March of Treviso, added as a name on 2026-11-22 (section 6).
   - 284 of the 285 wrongly listed lemmas came from capitalized tokens.
 - **v2 changes:**
   - Ecerinis text from the pinned NeoLatDraCor TEI, with 3 logged corrections.
   - Line-initial lowercasing, applied by the same rule to every play.
   - LatinCy 3.9.8, pinned by commit and sha256.
-  - 650 context-checked names (7 lemmas decided token by token).
+  - 651 context-checked names (7 lemmas decided token by token).
   - A 29-entry spelling map.
   - 136 lemma fixes, each checked against LiLa and Morpheus.
 - **Lemma coverage in LiLa** rises from 88.7% of kept lemma types to 92.3% (97.6% → 98.5% of tokens).
@@ -127,17 +127,24 @@ Details: `a2_seeds/acts_summary.md` (21 seeds) and `a2_seeds/acts_pairs_summary.
 
 ## 6. Keyness: Ecerinis vs the ten Seneca plays combined
 
-v2 lemmas, counted before the dictionary filter; the 226 lemmas with ≥3 occurrences in Ecerinis. Details: `keyness/keyness_summary.md`.
+v2 lemmas, counted before the dictionary filter; the 225 lemmas with ≥3 occurrences in Ecerinis. Details: `keyness/keyness_summary.md`.
 
 **The counts are small, so read the effect sizes (log ratio), not the p-values.**
 
-- **17 lemmas pass Bonferroni p < 0.05, all over-used:** *annuo, tyrannis, crux, lis, marchia, patro, progredior, ausus, nocuus, inspecto, actus, atrox, forum, ordo, homo, finis, tollo*.
+- **The keyness results now exclude *marchia*.** It is the March of Treviso (Ecerinis lines 155, 183 and 189: "in Marchia … Estensis Azo marchio"), so it is treated as a named entity (`data/v2/named_entities_additions.csv`).
+  - It was in the first keyness run (5th by log ratio, 3 occurrences against 0 in Seneca).
+  - LiLa lists *marchia* only as a common noun, which is why the evidence rule had kept it as a word.
+  - **Play-level LDA results are unaffected.** *marchia* occurs in one play only, so `no_below=2` already kept it out of the model; I checked that the play-level model input is identical before and after.
+  - **The v2 act-level results predate the change.** *marchia* occurs in two Ecerinis acts, so it was in the act-level vocabulary of `a2_seeds/acts_summary.md` and `acts_pairs_summary.md`. It appears among Ece 2's seed-42 keywords. Those runs have not been redone.
+- **16 lemmas pass Bonferroni p < 0.05, all over-used:** *annuo, tyrannis, crux, lis, patro, progredior, ausus, nocuus, inspecto, actus, atrox, forum, ordo, homo, finis, tollo*.
 - **No lemma with ≥3 Ecerinis occurrences is significantly under-used.** The largest under-use is *dies* (log ratio −1.65).
 - **Common Seneca words Ecerinis barely uses** (fewer than 3 times; supplementary, uncorrected): *grauis* 0 vs 148, *malum* 1/164, *coniux* 1/137, *fatum* 2/153, *rex* 2/138.
 - **Overlap with Ecerinis's topic.** Of the top 40 over-used lemmas, 16 are in Ecerinis's topic's top 20 (v2 seeds 29 and 35). 22 never reach the model:
-  - lemmas found in Ecerinis only (*annuo, tyrannis, crux, marchia* …) are removed by `no_below=2`;
+  - lemmas found in Ecerinis only (*annuo, tyrannis, crux* …) are removed by `no_below=2`;
   - common lemmas (*ordo, homo, finis, tollo*) are removed by `no_above=0.5`.
-- **To check:** *marchia* (possibly the place name, the March), *ausus* and *nocuus* are unusual lemmas.
+- ***ausus* and *nocuus* are left for the author to judge.** Their contexts:
+  - *ausus*: *ausibus*, lines 325, 454, 466;
+  - *nocuus*: *nocuos*, *nocuis*, *nocuum*, lines 326, 622, 644.
 
 ## 7. A5 part 2: theme word-family rates
 
@@ -151,9 +158,53 @@ The word lists are the author's (`data/theme_lexicon.json`); these are lexicon c
 | Fate | 3.6 [1.8–5.5] | 5.4 (1.9–8.9) | 7 | Oedipus, Hercules Oetaeus (both higher) |
 
 - **The original tokens give the same ordering.** The per-word rates reproduce the brief's table.
+- **Removing *marchia* changes none of these rates** at the precision shown (Ecerinis now has 2,195 v2 tokens).
 - **Fate includes *fatum*,** because the brief lists it in that row. *fatum* is much rarer in Ecerinis (0.9 vs 3.5 per 1,000), and that lowers the family rate.
 - **The act intervals are wide,** and acts with zero hits have a degenerate [0–0] interval.
-- **The `no_above` comparison (A5 part 1) was not run.**
+## 7b. A5 part 1: does relaxing `no_above` move Ecerinis's topic toward the shared vocabulary?
+
+v2 tokens; 50 seeds; k = 7–9; seed 42 for the single-model view. Details: `a5_no_above/no_above_summary.md`.
+
+**Settings:**
+- `no_above` = 0.5 (baseline), 0.8 and 1.0.
+- **1.0 with TF-IDF weighting:** counts × log2(11 / plays containing the word). This is needed because at 1.0 a few very frequent words (*manus, scelus, magnus, deus, regnum*) dominate every topic. TF-IDF gives a word in all 11 plays weight 0.
+- `keep_n` was not used: it keeps the most frequent words, which are the problem.
+
+"Shared words" means the topic's top-20 words that occur in more than 5 of the 11 plays, i.e. the words `no_above=0.5` removes.
+
+| Setting | Rule-selected k (within 7–9) | Ecerinis alone (k = 8 / 9) | Shared words in Ecerinis's top 20 (k = 8) | Brief's theme words in its top 20 | Most frequent partners (k = 8) |
+|---|---|---|---|---|---|
+| 0.5 | 9 (no tie) | 40% / 44% | 0 | *ultio* in 6–12% of seeds | Medea 18%, Oedipus 16%, Thyestes 16% |
+| 0.8 | 7 (no tie) | 32% / 34% | 11.7 | *inuado*, *ultio* ≤ 4% | Octavia 28%, Thyestes 24%, Hercules Furens 18% |
+| 1.0 | 7 (tied with 8) | 24% / 26% | 17.8 | *fatum* 14–24%, *ignis* 8–22%, *hostis* 4–8% | Medea 58%, Hercules Furens 52%, Phaedra 50% |
+| 1.0 + TF-IDF | 7 (no tie) | 34% / 34% | 1.3 | *ultio* 4–12%, *inuado* 2–8% | Octavia 16%, Thyestes 16%, Troades 14% |
+
+**At 0.8:**
+- **Shared words do enter Ecerinis's topic.** The most stable are *homo* (80% of seeds at k = 8), *ordo* (70%), *tyrannus* (68%), *iustus* and *fames* (54%).
+- **Its own words remain:** *lis, atrox, actus*.
+- **The brief's theme words still almost never appear,** and neither do the plays that shared Topic 7. Medea and Hercules Oetaeus are not among the top partners at k = 8; Hercules Oetaeus reaches 18% at k = 9.
+
+**At 1.0:**
+- **The model degenerates.** Most plays share one topic of corpus-wide common words (*deus* 100%, *pater* 88–98%, *manus, scelus, magnus, regnum*).
+- **Ecerinis falls into that topic with half or more of the Seneca plays.** *fatum, ignis* and *hostis* appear only as part of it.
+- **The trade-off is negative at every k.**
+
+**With TF-IDF at 1.0,** Ecerinis's topic returns to its own vocabulary: *lis* 100%, *atrox, actus, forum, triplex, pons, plebs*. On average only 1.3–1.5 of its top 20 are shared words.
+
+**The rule-selected k changes** from 9 to 7 under every relaxed setting.
+
+**Seed 42:**
+
+| Setting | k = 8 | k = 9 |
+|---|---|---|
+| 0.5 | alone | with Agamemnon |
+| 0.8 | alone; carried by *homo, tyrannus, ordo, lis, atrox* | with Agamemnon, Medea, Thyestes |
+| 1.0 | with 9 of the 10 Seneca plays | with 9 of the 10 Seneca plays |
+| 1.0 + TF-IDF | with Agamemnon, Oedipus | with Agamemnon |
+
+In every one of these models the contrastive next-best topic for Ecerinis is a topic no play is dominant in.
+
+**Answer to the brief's question.** Relaxing `no_above` to 0.8 brings shared words into Ecerinis's topic (*homo, ordo, tyrannus, iustus, fames*), but not the theme families in `data/theme_lexicon.json`, and not a stable link to Medea or Hercules Oetaeus. At 1.0 the shared vocabulary takes over the whole model rather than Ecerinis's topic in particular.
 
 ## 8. A4: heatmaps
 
@@ -169,7 +220,8 @@ The word lists are the author's (`data/theme_lexicon.json`); these are lexicon c
 - **Topic 7's triad is a single-seed result** (1/50). In seed 42, Phaedra's two largest topic weights are almost equal (0.334 vs 0.328).
 - **The representative seeds are atypical for Ecerinis's next-best topic** (sections 3–4).
 - **The act-level seed-42 pairings are at or below chance** (section 5).
-- **The dictionary filter removes both Ecerinis-only words (`no_below`) and shared theme words (`no_above`).** The model sees neither the strongest keyness words nor most of the theme lexicon.
+- **The dictionary filter removes both Ecerinis-only words (`no_below`) and shared theme words (`no_above`).** The model sees neither the strongest keyness words nor most of the theme lexicon. Relaxing `no_above` does not bring the theme lexicon into Ecerinis's topic (section 7b).
+- **The v2 act-level runs predate *marchia*'s reclassification** (section 6).
 - **The original pipeline contains an empty lemma (the empty string).** It is one lemma type carried by 64 tokens across all 11 plays (11 in Ecerinis, including the medieval spelling *vendico*; see `a1_normalization/REVIEW.md`).
   - Because it occurs in every play, `no_above=0.5` removes it, so it never reaches the model.
   - It does count in that pipeline's token totals, for example the denominators of the original-token theme rates.

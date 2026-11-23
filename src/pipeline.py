@@ -1,7 +1,7 @@
 """Shared play- and act-level LDA pipeline.
 
-A faithful port of gensimvenv/corpus_pkl/LDA_Coherence_Values.ipynb and
-gensimvenv/acts_pkl/Acts_LDA_Coherence_Values.ipynb. Settings, the c_v
+A faithful port of notebooks/play_lda/LDA_Coherence_Values.ipynb and
+notebooks/act_lda/Acts_LDA_Coherence_Values.ipynb. Settings, the c_v
 coherence call, the adjacent-model overlap and the trade-off score match the
 notebooks; only names are updated ("stability" -> "adjacent-model overlap").
 """
@@ -17,11 +17,13 @@ from gensim.models import CoherenceModel, LdaModel
 ROOT = Path(__file__).resolve().parents[1]
 RESULTS = ROOT / "results"
 DATA = ROOT / "data"
+ORIGINAL = DATA / "original"
+MODELS = ROOT / "models"
 
-PLAY_PKL = ROOT / "Corpus" / "processed_corpus.pkl"
-ACT_PKL = ROOT / "Acts" / "processed_acts.pkl"
-NE_PKL = ROOT / "unique_named_entities.pkl"
-STOPWORDS_JSON = ROOT / "stopwords_latin.json"
+PLAY_PKL = ORIGINAL / "corpus" / "processed_corpus.pkl"
+ACT_PKL = ORIGINAL / "acts" / "processed_acts.pkl"
+NE_PKL = ORIGINAL / "unique_named_entities.pkl"
+STOPWORDS_JSON = ORIGINAL / "stopwords_latin.json"
 
 NO_BELOW = 2
 NO_ABOVE = 0.5

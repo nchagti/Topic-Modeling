@@ -12,8 +12,8 @@
 | Oedipus | 4,030 | 714 |
 | Thyestes | 3,958 | 621 |
 | Hercules Oetaeus | 6,753 | 973 |
-| Ecerinis | 2,198 | 416 |
+| Ecerinis | 2,195 | 416 |
 
 - Dictionary (no_below=2, no_above=0.5): 1,600 types.
-- Ecerinis: 2,198 tokens, 416 after the dictionary filter.
+- Ecerinis: 2,195 tokens, 416 after the dictionary filter.
 - Act-level token lists add up to the play-level lists for every play.

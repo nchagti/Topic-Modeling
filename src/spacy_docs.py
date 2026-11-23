@@ -1,7 +1,7 @@
 """Read the saved LatinCy DocBins and re-derive the processed tokens from them.
 
-The DocBins (Corpus/latin_tragedies_corpus.spacy: play level, earlier
-la_core_web_lg build; Acts/latin_tragedies_acts.spacy: act level, 3.8.0) keep
+The DocBins (data/original/corpus/latin_tragedies_corpus.spacy: play level, earlier
+la_core_web_lg build; data/original/acts/latin_tragedies_acts.spacy: act level, 3.8.0) keep
 each token's text, lemma and POS, so no model is needed to read them.
 """
 from __future__ import annotations
@@ -13,8 +13,8 @@ from spacy.tokens import DocBin
 
 import pipeline as P
 
-PLAY_DOCBIN = P.ROOT / "Corpus" / "latin_tragedies_corpus.spacy"
-ACT_DOCBIN = P.ROOT / "Acts" / "latin_tragedies_acts.spacy"
+PLAY_DOCBIN = P.ORIGINAL / "corpus" / "latin_tragedies_corpus.spacy"
+ACT_DOCBIN = P.ORIGINAL / "acts" / "latin_tragedies_acts.spacy"
 KEEP_POS = {"PROPN", "NOUN", "VERB", "ADJ"}
 CUSTOM_LOOKUPS = {"inquit": "inquam", "ablatus": "aufero"}
 

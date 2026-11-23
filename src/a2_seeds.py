@@ -3,7 +3,7 @@
 For each pipeline and seed: LDA for k = 1..10 (passes=20, alpha='symmetric',
 chunksize=len(corpus)), c_v coherence and adjacent-model overlap for k = 1..9,
 trade-off = coherence - overlap. Exactly the calculation in
-gensimvenv/corpus_pkl/LDA_Coherence_Values.ipynb (see src/pipeline.py).
+notebooks/play_lda/LDA_Coherence_Values.ipynb (see src/pipeline.py).
 
 Pipelines:
   original  saved LatinCy lemmas, original named-entity list, no normalization
@@ -123,7 +123,7 @@ def main():
     pd.DataFrame(tws, columns=["pipeline", "seed", "k", "topic", "rank", "word", "prob"]).to_csv(
         OUT / "top_words.csv.gz", index=False)
 
-    with open(P.ROOT / "gensimvenv" / "corpus_pkl" / "filtered_coh_sta_diffs.pkl", "rb") as f:
+    with open(P.MODELS / "play" / "filtered_coh_sta_diffs.pkl", "rb") as f:
         saved = pickle.load(f)
     s42 = sc[(sc.pipeline == "original") & (sc.seed == 42)].sort_values("k").tradeoff.to_numpy()
     diff = np.abs(np.array(saved) - s42)

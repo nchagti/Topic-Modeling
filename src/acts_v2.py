@@ -4,7 +4,7 @@ Inputs from sources.py: data/v2/corpus_v2.json (play texts) and
 data/v2/act_lines_v2.json (Ecerinis: the pinned TEI's act divisions; Seneca:
 the old act files' lines).
 
-The original act files (Acts/latin_tragedies_acts.json) were extracted
+The original act files (data/original/acts/latin_tragedies_acts.json) were extracted
 separately from the play texts and differ from them: Phaedra's 90-line
 <div type="prelude"> ("Ite, umbrosas cingite silvas ...") is missing because
 get_acts.py keeps only <div type="act">, and Ecerinis' acts come from a different
@@ -41,7 +41,7 @@ def line_key(s: str) -> str:
 def main():
     corpus = json.loads((V2 / "corpus_v2.json").read_text(encoding="utf-8"))  # built by sources.py
     act_lines_v2 = json.loads((V2 / "act_lines_v2.json").read_text(encoding="utf-8"))
-    acts = json.loads((P.ROOT / "Acts" / "latin_tragedies_acts.json").read_text(encoding="utf-8"))
+    acts = json.loads((P.ORIGINAL / "acts" / "latin_tragedies_acts.json").read_text(encoding="utf-8"))
     plays_tok = json.loads((V2 / "plays_tokens.json").read_text(encoding="utf-8"))
     docs = list(DocBin().from_disk(V2 / "plays_latincy398.spacy").get_docs(spacy.blank("la").vocab))
 

@@ -27,7 +27,7 @@ import pandas as pd
 import lexicon as L
 import normalize as N
 import pipeline as P
-from a1_scan import RISKY, RULES
+from superseded.a1_scan import RISKY, RULES
 
 V2 = P.DATA / "v2"
 OUT = P.RESULTS / "a1_v2"

@@ -1,10 +1,11 @@
 """A4: the conference topic heatmaps redrawn with empty topics labelled.
 
 Uses the saved models unchanged (no retraining):
-  play level  gensimvenv/corpus_pkl/filtered_ideal_model.pkl (k = 8) + filtered_corpus.pkl
-  act level   gensimvenv/acts_pkl/acts_filtered_LDA_models.pkl[24] + acts_filtered_corpus.pkl
+  play level  models/play/filtered_ideal_model.pkl (k = 8) + filtered_corpus.pkl
+  act level   models/act/acts_filtered_LDA_models.pkl[24] + acts_filtered_corpus.pkl
 Topic labels are the author's, copied from the notebooks
-(LDA_Coherence_Values.ipynb cell 53, Acts_LDA_Coherence_Values.ipynb cell 34);
+(notebooks/play_lda/LDA_Coherence_Values.ipynb cell 53,
+notebooks/act_lda/Acts_LDA_Coherence_Values.ipynb cell 34);
 each is prefixed with its topic number, which also separates the two topics that
 share the label "Restraint & Ethical Reflection" (Topics 3 and 8).
 
@@ -29,7 +30,6 @@ from a2_acts import ABBR
 from a2_analyze import BLUES, INK, INK2, SURFACE
 
 OUT = P.RESULTS / "a4_heatmaps"
-G = P.ROOT / "gensimvenv"
 EMPTY_MAX = 0.05
 MUTED = "#8a897f"
 PLAY_LABELS = ["Grotesque Pleasure & Familial Betrayal", "Concealed Sin & Homecoming", "Restraint & Ethical Reflection",
@@ -100,8 +100,8 @@ def main():
           f"Saved conference models, unchanged. Empty topic = no document has a weight of {EMPTY_MAX} or more in it. "
           "Each label is prefixed with its topic number, which also separates the two topics that carry the same label.", ""]
     # play level
-    model = load(G / "corpus_pkl" / "filtered_ideal_model.pkl")
-    corpus = load(G / "corpus_pkl" / "filtered_corpus.pkl")
+    model = load(P.MODELS / "play" / "filtered_ideal_model.pkl")
+    corpus = load(P.MODELS / "play" / "filtered_corpus.pkl")
     titles = [d["title"] for d in P.load_docs("play")]
     M = P.doc_topic_matrix(model, corpus)
     e1 = draw(M, titles, PLAY_LABELS, "Topic weights per play (conference model, k = 8, seed 42)",
@@ -114,8 +114,8 @@ def main():
            "as written in the notebook; relabelling is left to the author.", "",
            "Figure: `fig_a4_play_topics_k8.png`.", ""]
     # act level
-    model = load(G / "acts_pkl" / "acts_filtered_LDA_models.pkl")[24]
-    corpus = load(G / "acts_pkl" / "acts_filtered_corpus.pkl")
+    model = load(P.MODELS / "act" / "acts_filtered_LDA_models.pkl")[24]
+    corpus = load(P.MODELS / "act" / "acts_filtered_corpus.pkl")
     acts = P.load_docs("act")
     rows = [f"{ABBR[d['title']]} {d['act']}" for d in acts]
     M = P.doc_topic_matrix(model, corpus)

@@ -1,6 +1,6 @@
 """Check that the new environment reproduces the saved seed-42 play-level results.
 
-Reads (never writes) the pickles in gensimvenv/corpus_pkl/.
+Reads (never writes) the pickles in models/play/.
 Writes results/a0_reproduction/reproduction_check.md.
 """
 import pickle
@@ -9,7 +9,7 @@ import numpy as np
 
 import pipeline as P
 
-OLD = P.ROOT / "gensimvenv" / "corpus_pkl"
+OLD = P.MODELS / "play"
 OUT = P.RESULTS / "a0_reproduction"
 
 

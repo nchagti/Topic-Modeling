@@ -102,7 +102,7 @@ def main():
     dt_all = pd.read_csv(OUT / "doc_topics.csv.gz")
     tw_all = pd.read_csv(OUT / "top_words.csv.gz")
     rv_all = pd.read_csv(OUT / "top_words_relevance.csv.gz")
-    with open(P.ROOT / "gensimvenv" / "corpus_pkl" / "filtered_LDA_topics.pkl", "rb") as f:
+    with open(P.MODELS / "play" / "filtered_LDA_topics.pkl", "rb") as f:
         ref_topic7 = set(pickle.load(f)[8][6])  # seed 42, k=8, Topic 7 (top 10 by probability)
     # same model retrained (identical to the saved one): Topic 7 = index 6, top 20 by relevance
     ref_topic7_rel = set(rv_all[(rv_all.pipeline == "original") & (rv_all.seed == 42) & (rv_all.k == 8)

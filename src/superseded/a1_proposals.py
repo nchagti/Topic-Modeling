@@ -1,14 +1,17 @@
 ﻿"""Generate the two optional A1 proposal lists (for approval; nothing applied).
 
-data/lemma_policy_proposed.csv
+data/superseded/lemma_policy_proposed.csv
     Gerundive lemmas (timendus) -> verb, and regular comparative/superlative
     lemmas (leuior) -> positive. LatinCy is inconsistent here: most comparatives
     are already lemmatized to the positive, a few are not. Suppletive and
     lexicalized forms (maior, melior, summus, supremus ...) are left out.
-data/named_entities_proposed.csv
+data/superseded/named_entities_proposed.csv
     Lemmas tagged PROPN in most of their occurrences, or hand-identified as
     names, that are not in unique_named_entities.pkl.
 """
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))  # src/ on the path
 from collections import Counter, defaultdict
 
 import pandas as pd
@@ -72,7 +75,7 @@ def main():
                      "surface_forms": ", ".join(f"{s} {c}" for s, c in surf[l].most_common(6)),
                      "approve": ""})
     pd.DataFrame(rows).sort_values(["category", "n_total"], ascending=[True, False]).to_csv(
-        P.DATA / "lemma_policy_proposed.csv", index=False, encoding="utf-8-sig")
+        P.DATA / "superseded" / "lemma_policy_proposed.csv", index=False, encoding="utf-8-sig")
 
     ne_rows = []
     for l in surf:
@@ -88,14 +91,14 @@ def main():
                             "plays": ", ".join(f"{t} {c}" for t, c in per_play[l].items()),
                             "approve": ""})
     pd.DataFrame(ne_rows).sort_values(["basis", "n_total"], ascending=[True, False]).to_csv(
-        P.DATA / "named_entities_proposed.csv", index=False, encoding="utf-8-sig")
+        P.DATA / "superseded" / "named_entities_proposed.csv", index=False, encoding="utf-8-sig")
     print(f"policy rows: {len(rows)}; named-entity candidates: {len(ne_rows)}")
 
 
 def named_entity_share():
     """How often each lemma on unique_named_entities.pkl was actually tagged
     PERSON/LOC/NORP (the NER notebook adds a lemma after a single tag, then the
-    pipeline removes every occurrence). Writes data/named_entities_share.csv."""
+    pipeline removes every occurrence). Writes data/superseded/named_entities_share.csv."""
     sw = S.load_stopwords()
     ne = P.load_named_entities()
     plays = P.load_docs("play")
@@ -119,7 +122,7 @@ def named_entity_share():
              "keep_as_named_entity_if_share>=0.5": tagged[l] / total[l] >= 0.5}
             for l in total]
     df = pd.DataFrame(rows).sort_values("content_tokens_removed", ascending=False)
-    df.to_csv(P.DATA / "named_entities_share.csv", index=False, encoding="utf-8-sig")
+    df.to_csv(P.DATA / "superseded" / "named_entities_share.csv", index=False, encoding="utf-8-sig")
     off = df[~df["keep_as_named_entity_if_share>=0.5"]]
     print(f"listed lemmas found: {len(df)}; tagged <50% of the time: {len(off)} lemmas, "
           f"{off.content_tokens_removed.sum()} content tokens removed "

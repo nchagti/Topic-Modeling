@@ -1,6 +1,6 @@
 """Does LatinCy 3.9.8 fix the lemma and NER errors found in the saved (old-build) lemmas?
 
-Runs la_core_web_lg 3.9.8 on Corpus/latin_tragedies_corpus.json, aligns its tokens
+Runs la_core_web_lg 3.9.8 on data/original/corpus/latin_tragedies_corpus.json, aligns its tokens
 to the saved play-level DocBin (earlier build) by normalized surface text, and
 reports:
   1. known lemma errors, scored against expected lemmas;
@@ -12,6 +12,9 @@ uses the saved lemmas; nothing here changes them.
 """
 from __future__ import annotations
 
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))  # src/ on the path
 import json
 from collections import Counter, defaultdict
 from difflib import SequenceMatcher
@@ -86,7 +89,7 @@ def main():
     OUT.mkdir(parents=True, exist_ok=True)
     nlp = spacy.load("la_core_web_lg")
     version = nlp.meta["version"]
-    corpus = json.loads((P.ROOT / "Corpus" / "latin_tragedies_corpus.json").read_text(encoding="utf-8"))
+    corpus = json.loads((P.ORIGINAL / "corpus" / "latin_tragedies_corpus.json").read_text(encoding="utf-8"))
     titles = [c["title"] for c in corpus]
     new_docs = list(nlp.pipe([c["text"] for c in corpus], batch_size=1))
     db = DocBin(store_user_data=False)
@@ -155,7 +158,7 @@ def main():
     md += ["## 2. Entity tagging", "", "### Ordinary words tagged as entities (tokens tagged / occurrences)", "",
            "| lemma | occurrences | old build | 3.9.8 |", "|---|---|---|---|"]
     md += [f"| {w} | {tot[w]} | {old[w]} | {new[w]} |" for w in ORDINARY]
-    share = pd.read_csv(P.DATA / "named_entities_share.csv")
+    share = pd.read_csv(P.DATA / "superseded" / "named_entities_share.csv")
     low = set(share.loc[~share["keep_as_named_entity_if_share>=0.5"], "lemma"])
     high = set(share.loc[share["keep_as_named_entity_if_share>=0.5"], "lemma"])
     o_low, n_low, t_low = ent_counts(all_pairs, low)

@@ -1,0 +1,601 @@
+﻿setting,seed,k,topic,weight,partners,n_plays_alone,top20
+0.5,0,7,5,0.9979411363601685,Oedipus,3,largus;supernus;bos;curuus;lis;ratio;citus;cauus;uomo;atrox;uireo;adulter;edoceo;diua;perplexus;fretus;strages;corniger;ritus;uates
+0.5,0,8,5,0.9979006052017212,Oedipus,3,atrox;lis;strages;deuoueo;actus;curuus;gratia;edoceo;uestigium;expauesco;ululo;uates;anxius;desino;sacerdos;largus;cognatus;liquor;dependeo;uas
+0.5,0,9,5,0.9978675842285156,Oedipus,4,lis;atrox;edoceo;strages;uates;actus;desino;largus;curuus;cognatus;supernus;cauus;uireo;ambitus;allido;aduncus;serpo;series;forum;plebs
+0.5,1,7,3,0.9979404211044312,Oedipus,4,lis;atrox;edoceo;strages;uates;actus;desino;cognatus;curuus;largus;aduncus;allido;cauus;uireo;ambitus;supernus;serpo;series;forum;redimio
+0.5,1,8,3,0.9979002475738525,Oedipus;Hercules Oetaeus,2,axis;colus;serpo;discutio;uirus;paelex;penso;maereo;palla;siccus;promo;foris;intrepidus;lis;gigas;serpens;abrumpo;irascor;rabies;decurro
+0.5,1,9,5,0.9978675246238708,Phaedra,2,sanus;citus;largus;ritus;supernus;forum;lis;promitto;senium;atrox;excio;uerum;actus;proprius;porta;reditus;niueus;adulter;saltus;ratio
+0.5,2,7,5,0.9979407787322998,Phoenissae;Troades;Medea;Octavia,2,princeps;danai;plebs;eruo;crudelis;captiuus;bustum;osculum;ultrix;classis;lis;carina;sumo;pelasgus;iudex;atrox;accido;condio;dedo;hymenaeus
+0.5,2,8,5,0.9978997111320496,Phoenissae;Troades;Medea;Octavia,4,princeps;danai;plebs;eruo;crudelis;captiuus;ultrix;carina;osculum;bustum;classis;lis;sumo;pelasgus;iudex;ingratus;atrox;colchus;accido;constituo
+0.5,2,9,5,0.9978673458099365,Phoenissae;Troades;Agamemnon;Medea;Octavia,5,danai;princeps;classis;captiuus;plebs;pelasgi;eruo;crudelis;ultrix;carina;osculum;bustum;iudex;lis;sumo;domina;pelasgus;suboles;atrox;ingratus
+0.5,3,7,3,0.9979414939880371,Phoenissae,4,lis;atrox;actus;aequum;desino;forum;accedo;remissus;pons;triplex;mensis;plebs;rabies;gladius;thebanus;adulter;iudex;cerebrum;deuoueo;uenter
+0.5,3,8,3,0.9979008436203003,,4,lis;atrox;actus;forum;rabies;plebs;pons;triplex;adulter;desino;deuoueo;potior;supernus;patulus;anxius;series;frendo;praepotens;fulgur;ciuitas
+0.5,3,9,3,0.9978680610656738,,6,lis;atrox;actus;forum;plebs;rabies;triplex;pons;adulter;desino;deuoueo;supernus;patulus;potior;anxius;series;praepotens;ciuitas;fulgur;allido
+0.5,4,7,6,0.9979404807090759,Troades;Octavia,4,princeps;danai;plebs;bustum;classis;lis;crudelis;captiuus;atrox;iudex;astus;suboles;sumo;series;praesens;forum;accido;nutus;iussum;lacero
+0.5,4,8,6,0.9978992938995361,Troades;Phaedra;Hercules Oetaeus,3,danai;axis;captiuus;maereo;tepidus;bustum;lis;altrix;irascor;palla;rigidus;astus;mugitus;largus;colus;foris;atrox;abrumpo;misereor;radio
+0.5,4,9,6,0.9978672862052917,Troades;Oedipus;Hercules Oetaeus,5,danai;captiuus;maereo;axis;uates;siccus;serpo;bustum;colus;irascor;lis;abrumpo;penso;intrepidus;palla;discutio;necto;cognatus;foris;atrox
+0.5,5,7,5,0.9979422688484192,Octavia,2,princeps;plebs;lis;atrox;nutus;forum;actus;rabies;polluo;interimo;ultrix;praepotens;recolo;romanus;castra;constituo;crudelis;lacero;neglego;series
+0.5,5,8,5,0.9979008436203003,,5,lis;atrox;actus;forum;plebs;rabies;pons;triplex;adulter;deuoueo;desino;potior;supernus;patulus;series;anxius;praepotens;recolo;ciuitas;frendo
+0.5,5,9,8,0.9978678226470947,Octavia,1,princeps;plebs;lis;atrox;nutus;forum;rabies;actus;polluo;interimo;ultrix;castra;recolo;praepotens;romanus;constituo;crudelis;lacero;neglego;uxor
+0.5,6,7,3,0.9979422688484192,Octavia,2,princeps;plebs;lis;atrox;forum;nutus;rabies;polluo;actus;interimo;ultrix;praepotens;romanus;recolo;castra;constituo;crudelis;lacero;uxor;series
+0.5,6,8,7,0.9979009032249451,,4,lis;atrox;pons;ultio;actus;fulgur;forum;adulter;rabies;plebs;triplex;iustitia;deuoueo;desino;confligo;praeuius;incoho;ducto;puellaris;patulus
+0.5,6,9,7,0.9978676438331604,Medea,3,lis;atrox;ultio;pons;colchus;actus;peruro;adulter;ultrix;serpens;paeniteo;fulgur;serpo;forum;flatus;rabies;plebs;iustitia;furiosus;triplex
+0.5,7,7,0,0.997943103313446,Octavia,0,princeps;plebs;lis;atrox;nutus;forum;rabies;actus;polluo;interimo;ultrix;praepotens;recolo;romanus;castra;constituo;crudelis;lacero;series;neglego
+0.5,7,8,0,0.9979009032249451,Octavia,0,princeps;plebs;atrox;lis;nutus;series;bustum;interimo;deuoueo;claro;crudelis;ueru;actus;anxius;rabies;polluo;cohors;exprimo;paruulus;prodo
+0.5,7,9,0,0.9978678822517395,Octavia,0,princeps;plebs;lis;atrox;nutus;forum;rabies;actus;polluo;interimo;ultrix;castra;praepotens;romanus;recolo;constituo;crudelis;lacero;series;neglego
+0.5,8,7,0,0.9979411363601685,Thyestes,4,atrox;mensa;lis;deuoueo;cibus;actus;anxius;rabies;uinum;exagito;assuetus;excludo;ciuitas;cupidus;uoluptas;culmen;amputo;patulus;potior;detego
+0.5,8,8,7,0.9979003667831421,Oedipus,2,lis;atrox;edoceo;strages;uates;actus;desino;curuus;largus;cognatus;cauus;supernus;uireo;ambitus;allido;aduncus;serpo;series;forum;plebs
+0.5,8,9,4,0.9978675842285156,Hercules Oetaeus,1,axis;serpens;colus;irascor;maereo;abrumpo;foris;lis;rabies;caelestis;procedo;atrox;gigas;forum;paelex;coepi;fulmino;conspicio;centaurus;palla
+0.5,9,7,6,0.997940182685852,Phaedra;Hercules Furens;Octavia;Oedipus;Hercules Oetaeus,3,princeps;inferi;uolucer;maereo;foris;purus;axis;serpens;colus;incestus;largus;turbidus;remeo;abrumpo;morbus;irascor;sanus;immitis;porto;caelestis
+0.5,9,8,7,0.9979003667831421,Oedipus,3,lis;atrox;edoceo;strages;uates;actus;desino;cognatus;curuus;largus;cauus;uireo;supernus;ambitus;allido;aduncus;serpo;series;forum;redimio
+0.5,9,9,6,0.9978674054145813,Phaedra;Agamemnon;Hercules Furens;Octavia;Oedipus;Hercules Oetaeus,2,princeps;inferi;remeo;uolucer;maereo;lacero;foris;femineus;axis;serpens;colus;madeo;largus;turbidus;incestus;immitis;inuictus;porto;abrumpo;irascor
+0.5,10,7,2,0.9979413747787476,Troades;Oedipus,1,danai;uates;bustum;lis;captiuus;atrox;classis;cultus;iudex;cognatus;astus;cauus;edoceo;accido;series;strages;eruo;serpo;plebs;actus
+0.5,10,8,2,0.9979007244110107,Troades,2,danai;classis;captiuus;bustum;lis;iudex;atrox;hectoreus;iliacus;actus;astus;triplex;consors;accido;plebs;spons;adulter;condio;continuus;sinister
+0.5,10,9,7,0.9978679418563843,,2,lis;atrox;actus;forum;plebs;rabies;pons;triplex;adulter;desino;deuoueo;potior;supernus;patulus;anxius;series;fulgur;sinister;continuus;ciuitas
+0.5,11,7,2,0.9979411959648132,Oedipus,3,lis;atrox;edoceo;strages;uates;actus;desino;largus;cognatus;curuus;allido;aduncus;supernus;ambitus;uireo;cauus;serpo;series;forum;pons
+0.5,11,8,2,0.9979000091552734,Oedipus,3,lis;atrox;edoceo;strages;uates;actus;desino;largus;cognatus;curuus;supernus;ambitus;uireo;cauus;allido;aduncus;serpo;series;forum;rabies
+0.5,11,9,2,0.9978676438331604,Oedipus,1,lis;atrox;edoceo;strages;uates;actus;desino;largus;cognatus;curuus;supernus;ambitus;uireo;cauus;allido;aduncus;serpo;series;forum;rabies
+0.5,12,7,2,0.997939944267273,Medea;Hercules Oetaeus,3,serpens;axis;paelex;uirus;nubo;maereo;serpo;coepi;colus;irascor;palla;lis;langueo;rabies;rigidus;siccus;femineus;foris;thracius;inhibeo
+0.5,12,8,2,0.9978993535041809,Medea;Hercules Oetaeus,4,serpens;axis;paelex;uirus;nubo;maereo;serpo;colus;coepi;irascor;palla;lis;langueo;rabies;rigidus;siccus;foris;femineus;thracius;inhibeo
+0.5,12,9,2,0.9978672862052917,Medea;Hercules Oetaeus,4,serpens;axis;paelex;uirus;nubo;maereo;serpo;colus;coepi;irascor;palla;lis;langueo;rigidus;rabies;siccus;femineus;foris;thracius;inhibeo
+0.5,13,7,4,0.9979405403137207,Phaedra;Medea,2,adulter;lis;colchus;perpetuus;largus;supernus;abstraho;atrox;candidus;sanus;rubesco;pons;ultio;affero;actus;rigidus;frigus;torreo;coeptum;uigor
+0.5,13,8,3,0.9979006052017212,Thyestes,1,atrox;mensa;lis;deuoueo;cibus;actus;anxius;rabies;exagito;uinum;amputo;potior;uoluptas;culmen;patulus;assuetus;cupidus;ciuitas;excludo;forum
+0.5,13,9,0,0.997868001461029,,3,lis;atrox;actus;forum;rabies;plebs;triplex;pons;adulter;deuoueo;desino;patulus;potior;supernus;series;anxius;sinister;fulgur;recolo;continuus
+0.5,14,7,3,0.9979404211044312,Phoenissae;Troades;Phaedra;Agamemnon,0,danai;classis;captiuus;bustum;iudex;adulter;lis;maculo;eruo;repono;nuntius;collis;occulo;remeo;astus;incito;saltus;ratio;affectus;atrox
+0.5,14,8,3,0.9979000091552734,Troades;Phaedra;Thyestes,2,danai;classis;bustum;atrox;captiuus;saltus;adulter;lis;anxius;nuntius;fatalis;actus;collis;mensa;astus;iudex;ratio;incubo;cibus;misereor
+0.5,14,9,8,0.9978679418563843,,4,lis;atrox;actus;forum;rabies;plebs;triplex;pons;adulter;desino;deuoueo;potior;supernus;patulus;series;anxius;recolo;fulgur;frendo;ciuitas
+0.5,15,7,5,0.9979406595230103,Hercules Oetaeus,1,axis;maereo;colus;lis;rabies;foris;irascor;paelex;gigas;atrox;palla;abrumpo;serpens;sufficio;uirus;actus;procedo;rigidus;caelestis;superstes
+0.5,15,8,5,0.9979007840156555,,4,lis;actus;atrox;triplex;forum;adulter;rabies;plebs;pons;deuoueo;desino;filia;certamen;corono;dubium;patulus;potior;supernus;superstes;series
+0.5,15,9,5,0.9978673458099365,Hercules Oetaeus,5,axis;maereo;colus;lis;rabies;foris;irascor;paelex;gigas;abrumpo;palla;atrox;serpens;sufficio;uirus;procedo;caelestis;actus;rigidus;superstes
+0.5,16,7,0,0.9979401230812073,Phaedra;Agamemnon;Oedipus,1,niueus;largus;adulter;ratio;remeo;uates;laurus;collis;nuntius;occulo;supernus;ambiguus;bos;curuus;saltus;candidus;strages;lis;consors;extremus
+0.5,16,8,0,0.9978991150856018,Phaedra;Agamemnon;Hercules Furens;Oedipus,6,niueus;sospes;remeo;laurus;adulter;ratio;citus;largus;uates;reditus;collis;actus;occulo;nuntius;classis;supernus;ambiguus;recessus;memini;filum
+0.5,16,9,0,0.9978675246238708,Agamemnon;Oedipus,2,uates;laurus;consors;lis;strages;classis;actus;adulter;atrox;prora;mendax;redimio;triplex;edoceo;damnum;inops;periculum;augeo;niueus;desino
+0.5,17,7,6,0.9979407787322998,Medea,4,serpo;lis;paeniteo;mortifer;ambitus;uireo;atrox;candidus;pons;ultio;edoceo;flatus;colchus;suadeo;strages;actus;cohors;peruro;sanies;occultus
+0.5,17,8,6,0.9978997111320496,Medea;Oedipus,6,cognatus;lis;serpo;ambitus;uireo;mortifer;paeniteo;atrox;candidus;edoceo;pons;ultio;strages;flatus;suadeo;colchus;uates;purus;actus;cohors
+0.5,17,9,6,0.9978675246238708,Medea,5,lis;atrox;pons;ultio;colchus;actus;peruro;adulter;ultrix;serpens;paeniteo;fulgur;serpo;flatus;forum;plebs;rabies;triplex;iustitia;furiosus
+0.5,18,7,2,0.9979398250579834,Troades;Phaedra;Hercules Oetaeus,3,danai;axis;captiuus;maereo;tepidus;bustum;lis;irascor;altrix;palla;astus;mugitus;colus;rigidus;foris;atrox;abrumpo;sepulcrum;classis;accido
+0.5,18,8,7,0.9979002475738525,Medea,4,lis;atrox;ultio;pons;colchus;actus;peruro;adulter;ultrix;serpens;paeniteo;fulgur;serpo;flatus;forum;rabies;plebs;furiosus;triplex;iustitia
+0.5,18,9,6,0.997868001461029,,3,lis;atrox;actus;forum;plebs;rabies;triplex;pons;adulter;desino;deuoueo;patulus;supernus;potior;anxius;series;allido;praepotens;continuus;fulgur
+0.5,19,7,1,0.9979429244995117,,3,lis;atrox;actus;forum;pons;triplex;rabies;plebs;adulter;desino;deuoueo;supernus;potior;patulus;series;anxius;allido;sinister;continuus;excludo
+0.5,19,8,0,0.9979008436203003,,5,lis;atrox;actus;forum;triplex;plebs;rabies;pons;adulter;deuoueo;desino;potior;patulus;supernus;series;anxius;sinister;frendo;fulgur;ciuitas
+0.5,19,9,5,0.7510598301887512,Phaedra;Thyestes,5,mensa;cibus;atrox;incubo;adulter;gracilis;anxius;lis;coeptum;deuoueo;lorum;uindico;obsto;perpetuus;saltus;largus;uoluptas;amputo;orno;supernus
+0.5,20,7,4,0.9979413747787476,Agamemnon;Octavia,1,princeps;classis;lacero;plebs;lis;nutus;consors;interimo;actus;alumnus;adulter;iugalis;atrox;triplex;extruo;prora;mendax;uxor;neglego;forum
+0.5,20,8,7,0.9978998899459839,Phoenissae;Medea,4,lis;aequum;serpens;atrox;ultio;pons;colchus;externus;actus;peruro;redimo;desino;ultrix;adulter;paeniteo;eludo;fulgur;serpo;angustus;accedo
+0.5,20,9,4,0.9978675246238708,Agamemnon;Octavia,4,princeps;classis;plebs;lis;nutus;actus;lacero;adulter;atrox;triplex;consors;forum;alumnus;neglego;uxor;iugalis;rabies;amicus;interimo;domina
+0.5,21,7,3,0.9979427456855774,,4,lis;atrox;actus;forum;triplex;pons;rabies;plebs;adulter;deuoueo;desino;potior;patulus;supernus;anxius;series;fulgur;sinister;allido;ciuitas
+0.5,21,8,3,0.9979010820388794,,3,lis;atrox;actus;forum;plebs;rabies;triplex;pons;adulter;deuoueo;desino;potior;patulus;supernus;anxius;series;allido;praepotens;ciuitas;excludo
+0.5,21,9,3,0.9978679418563843,,5,lis;atrox;actus;forum;plebs;rabies;triplex;pons;adulter;deuoueo;desino;potior;patulus;supernus;anxius;series;excludo;allido;praepotens;ciuitas
+0.5,22,7,0,0.997941792011261,Phoenissae;Hercules Furens;Octavia,2,princeps;inferi;uolucer;thebanus;ualeo;forum;aspectus;polluo;plebs;pertinax;rabies;castra;species;madeo;atrox;lis;constituo;mano;uictus;aequum
+0.5,22,8,5,0.9979000687599182,Troades;Phaedra;Thyestes,3,danai;bustum;atrox;classis;lis;anxius;captiuus;cibus;astus;obsto;accido;misereor;deuoueo;coeptum;repono;libido;actus;saltus;iudex;adulter
+0.5,22,9,1,0.9756318926811218,Phaedra;Medea,2,largus;candidus;purus;supernus;agilis;uireo;adulter;serpo;colchus;lis;perpetuus;frigus;atrox;abstraho;uomo;ritus;rigor;extremus;sidereus;paeniteo
+0.5,23,7,1,0.9979429841041565,,3,lis;atrox;actus;forum;pons;triplex;plebs;rabies;adulter;deuoueo;desino;supernus;potior;patulus;series;anxius;allido;recolo;frendo;praepotens
+0.5,23,8,1,0.9979011416435242,,1,lis;atrox;actus;forum;plebs;rabies;pons;triplex;adulter;deuoueo;desino;supernus;potior;patulus;series;anxius;recolo;praepotens;frendo;allido
+0.5,23,9,1,0.997868001461029,,4,lis;atrox;actus;forum;plebs;rabies;pons;triplex;adulter;deuoueo;desino;supernus;potior;patulus;series;anxius;recolo;praepotens;frendo;allido
+0.5,24,7,4,0.9979408383369446,Agamemnon;Thyestes,1,classis;atrox;actus;mensa;consors;lis;epulae;uinum;deuoueo;cibus;adulter;amputo;pelopius;triplex;secedo;fatalis;anxius;nuntius;rabies;amicus
+0.5,24,8,7,0.9979001879692078,Phoenissae;Thyestes,3,atrox;mensa;lis;deuoueo;actus;cibus;compono;mensis;anxius;aequum;rabies;gladius;obsto;exagito;desino;uenter;uinum;potior;culmen;patulus
+0.5,24,9,1,0.9978675842285156,Medea,3,lis;atrox;ultio;pons;colchus;actus;peruro;ultrix;adulter;serpens;paeniteo;fulgur;serpo;flatus;forum;plebs;rabies;furiosus;iustitia;triplex
+0.5,25,7,4,0.9979397058486938,Phaedra;Hercules Furens;Medea;Hercules Oetaeus,3,serpens;inferi;axis;sanus;uindico;foris;irascor;glacialis;harundo;rigidus;torreo;nubo;purus;uolucer;tepidus;paelex;coepi;colus;ursa;remeo
+0.5,25,8,4,0.9978997707366943,Phaedra;Medea;Hercules Oetaeus,3,axis;serpens;rigidus;tepidus;paelex;altrix;uirus;palla;nubo;maereo;femineus;descendo;torreo;serpo;colus;largus;foris;coepi;adulter;irascor
+0.5,25,9,4,0.9978671669960022,Phoenissae;Phaedra;Hercules Furens;Medea;Hercules Oetaeus,3,serpens;axis;sanus;thebanus;uindico;uolucer;irascor;inferi;foris;descendo;rigidus;aequum;torreo;glacialis;nubo;harundo;tepidus;reditus;aspectus;paelex
+0.5,26,7,3,0.997940719127655,Agamemnon;Thyestes,2,classis;atrox;actus;mensa;lis;consors;deuoueo;uinum;epulae;cibus;adulter;amputo;secedo;triplex;pelopius;anxius;fatalis;rabies;nuntius;exagito
+0.5,26,8,3,0.9979000687599182,Agamemnon;Thyestes,3,classis;atrox;actus;mensa;lis;consors;deuoueo;uinum;epulae;cibus;adulter;amputo;secedo;triplex;pelopius;anxius;fatalis;rabies;nuntius;exagito
+0.5,26,9,3,0.9978680610656738,,4,lis;atrox;actus;forum;rabies;plebs;triplex;pons;adulter;deuoueo;desino;potior;supernus;patulus;anxius;series;allido;excludo;ciuitas;frendo
+0.5,27,7,6,0.9979429244995117,,2,lis;atrox;actus;forum;triplex;pons;plebs;rabies;adulter;desino;deuoueo;supernus;potior;patulus;series;anxius;recolo;praepotens;ciuitas;fulgur
+0.5,27,8,4,0.9979008436203003,,5,lis;atrox;actus;forum;plebs;rabies;triplex;pons;adulter;deuoueo;desino;potior;patulus;supernus;anxius;series;continuus;frendo;sinister;excludo
+0.5,27,9,1,0.9978676438331604,Oedipus,3,lis;atrox;edoceo;strages;uates;actus;desino;largus;cognatus;curuus;supernus;ambitus;cauus;uireo;allido;aduncus;serpo;forum;series;plebs
+0.5,28,7,2,0.5694261789321899,Phoenissae;Phaedra;Thyestes,2,incubo;obsto;mensa;cibus;atrox;abscondo;compono;anxius;coeptum;uenter;deuoueo;repono;aequum;saltus;affectus;citus;orno;culmen;dirigo;uomo
+0.5,28,8,3,0.99789959192276,Agamemnon;Thyestes;Hercules Oetaeus,3,axis;foris;cibus;femineus;remeo;classis;sufficio;eurus;gigas;atrox;rictus;mensa;rabies;actus;fugax;maereo;patulus;cancer;colus;adulter
+0.5,28,9,8,0.9978678226470947,Phaedra,2,atrox;lis;coeptum;deuoueo;anxius;incubo;actus;largus;adulter;supernus;potior;saltus;patulus;sagax;intactus;abscondo;proprius;culmen;uenter;inscius
+0.5,29,7,5,0.9979414939880371,Thyestes,2,atrox;mensa;lis;deuoueo;actus;cibus;anxius;rabies;exagito;uinum;ciuitas;excludo;assuetus;cupidus;potior;patulus;culmen;uoluptas;amputo;forum
+0.5,29,8,5,0.9979007244110107,,6,lis;atrox;actus;forum;plebs;rabies;pons;triplex;adulter;desino;deuoueo;potior;patulus;supernus;anxius;series;allido;frendo;sinister;ciuitas
+0.5,29,9,5,0.99786776304245,Thyestes,3,atrox;mensa;lis;deuoueo;cibus;actus;anxius;rabies;exagito;uinum;potior;patulus;uoluptas;culmen;amputo;ciuitas;assuetus;cupidus;excludo;detego
+0.5,30,7,0,0.9979425072669983,,6,lis;atrox;actus;forum;triplex;pons;rabies;plebs;adulter;desino;deuoueo;patulus;supernus;potior;series;anxius;continuus;allido;fulgur;ciuitas
+0.5,30,8,0,0.9979008436203003,,6,lis;atrox;actus;forum;rabies;plebs;triplex;pons;adulter;desino;deuoueo;patulus;supernus;potior;series;anxius;allido;continuus;sinister;fulgur
+0.5,30,9,7,0.9978679418563843,,5,lis;atrox;actus;forum;plebs;rabies;pons;triplex;adulter;desino;deuoueo;potior;supernus;patulus;anxius;series;praepotens;recolo;excludo;ciuitas
+0.5,31,7,2,0.9979414939880371,Hercules Furens,2,inferi;atrox;lis;forum;mano;actus;requies;innocuus;ferax;antrum;frendo;potior;grandis;aspectus;promitto;binus;triplex;pons;remissus;terribilis
+0.5,31,8,2,0.9979009032249451,,3,lis;atrox;actus;forum;rabies;plebs;triplex;pons;adulter;desino;deuoueo;potior;supernus;patulus;anxius;series;frendo;allido;excludo;continuus
+0.5,31,9,2,0.9978677034378052,Phoenissae,3,lis;atrox;actus;desino;aequum;forum;accedo;rabies;plebs;triplex;pons;remissus;mensis;gladius;adulter;iudex;thebanus;deuoueo;cerebrum;uenter
+0.5,32,7,1,0.9979421496391296,Octavia,0,princeps;plebs;lis;atrox;nutus;forum;actus;polluo;rabies;interimo;ultrix;romanus;praepotens;recolo;castra;crudelis;constituo;lacero;series;uxor
+0.5,32,8,1,0.9979004859924316,Octavia,4,princeps;plebs;lis;atrox;nutus;forum;iussum;polluo;actus;rabies;interimo;ultrix;lacero;perennis;castra;romanus;recolo;praepotens;constituo;fascis
+0.5,32,9,1,0.5964406132698059,Octavia,3,princeps;plebs;lis;atrox;nutus;polluo;forum;actus;interimo;rabies;ultrix;romanus;recolo;praepotens;castra;constituo;crudelis;lacero;iussum;uxor
+0.5,33,7,3,0.9979397058486938,Phaedra;Octavia;Hercules Oetaeus,4,princeps;maereo;axis;constituo;rigidus;nubo;alumna;paelex;uolucris;perpetuus;altrix;tepidus;uolucer;immitis;ualeo;rabies;plebs;colligo;caelestis;torreo
+0.5,33,8,4,0.9979007840156555,,5,lis;atrox;actus;forum;rabies;plebs;pons;triplex;adulter;deuoueo;desino;potior;patulus;supernus;anxius;series;ciuitas;continuus;frendo;excludo
+0.5,33,9,3,0.9978675842285156,Hercules Oetaeus,1,axis;maereo;colus;lis;rabies;foris;irascor;paelex;atrox;gigas;palla;abrumpo;serpens;sufficio;uirus;actus;rigidus;procedo;caelestis;superstes
+0.5,34,7,0,0.9979410171508789,Medea;Octavia,3,princeps;ultrix;plebs;lis;constituo;carina;nubo;atrox;perpetuus;pons;ultio;iustitia;colchus;flatus;forum;uxor;nutus;actus;cohors;rabies
+0.5,34,8,0,0.9979003071784973,Medea,3,lis;atrox;pons;ultio;colchus;actus;peruro;ultrix;adulter;serpens;paeniteo;fulgur;serpo;forum;flatus;plebs;rabies;triplex;iustitia;furiosus
+0.5,34,9,8,0.997868001461029,,2,lis;supernus;atrox;adulter;largus;actus;coeptum;abstraho;patulus;potior;anxius;forum;rabies;plebs;triplex;murmuro;pons;perennis;diua;sagax
+0.5,35,7,6,0.9979418516159058,Octavia,2,princeps;plebs;lis;atrox;nutus;forum;polluo;rabies;actus;interimo;ultrix;romanus;praepotens;recolo;castra;crudelis;constituo;lacero;uxor;iussum
+0.5,35,8,4,0.997900128364563,Agamemnon,3,lis;classis;actus;adulter;atrox;triplex;consors;amicus;danai;forum;plebs;rabies;nuntius;pons;secedo;mendax;prora;pelopius;iudex;remeo
+0.5,35,9,2,0.9978679418563843,,7,lis;atrox;actus;forum;plebs;rabies;triplex;pons;adulter;deuoueo;desino;potior;patulus;supernus;anxius;series;praepotens;fulgur;recolo;ciuitas
+0.5,36,7,0,0.9979425072669983,Oedipus,1,atrox;lis;strages;actus;deuoueo;edoceo;uestigium;uates;curuus;desino;sacerdos;largus;cognatus;aduncus;allido;cauus;uireo;ambitus;supernus;permuto
+0.5,36,8,7,0.9979006052017212,Thyestes,1,atrox;mensa;lis;deuoueo;actus;cibus;anxius;rabies;exagito;uinum;potior;patulus;culmen;amputo;uoluptas;excludo;ciuitas;assuetus;cupidus;forum
+0.5,36,9,8,0.997868001461029,,4,lis;atrox;actus;forum;plebs;rabies;triplex;pons;adulter;desino;deuoueo;supernus;patulus;potior;series;anxius;sinister;frendo;recolo;ciuitas
+0.5,37,7,0,0.9979420304298401,Thyestes,2,atrox;mensa;lis;deuoueo;actus;cibus;anxius;rabies;exagito;uinum;assuetus;ciuitas;excludo;cupidus;culmen;potior;patulus;amputo;uoluptas;detego
+0.5,37,8,7,0.9979008436203003,,3,lis;atrox;actus;forum;plebs;rabies;triplex;pons;adulter;desino;deuoueo;supernus;patulus;potior;series;anxius;recolo;allido;fulgur;sinister
+0.5,37,9,7,0.997868001461029,,4,lis;atrox;actus;forum;plebs;rabies;triplex;pons;adulter;desino;deuoueo;supernus;patulus;potior;series;anxius;recolo;allido;fulgur;sinister
+0.5,38,7,5,0.9979429841041565,,3,lis;atrox;actus;forum;pons;triplex;rabies;plebs;adulter;desino;deuoueo;potior;supernus;patulus;anxius;series;allido;sinister;praepotens;excludo
+0.5,38,8,5,0.9979010224342346,,4,lis;atrox;actus;forum;rabies;plebs;pons;triplex;adulter;desino;deuoueo;potior;supernus;patulus;anxius;series;allido;praepotens;ciuitas;sinister
+0.5,38,9,0,0.997868001461029,,5,lis;atrox;actus;forum;plebs;rabies;pons;triplex;adulter;deuoueo;desino;patulus;supernus;potior;anxius;series;fulgur;recolo;frendo;excludo
+0.5,39,7,1,0.9979416728019714,Octavia,2,princeps;plebs;lis;atrox;nutus;forum;polluo;rabies;actus;interimo;ultrix;recolo;romanus;praepotens;castra;constituo;crudelis;lacero;uxor;iussum
+0.5,39,8,1,0.9978999495506287,Phaedra;Agamemnon,2,adulter;nuntius;collis;occulo;ratio;supernus;ambiguus;saltus;remeo;largus;lis;classis;consors;amicus;actus;citus;memini;filum;recessus;uomo
+0.5,39,9,1,0.99786776304245,,3,adulter;collis;supernus;ambiguus;lis;largus;ratio;saltus;nuntius;amicus;citus;strages;uomo;actus;atrox;triplex;pudicus;edoceo;diua;occulo
+0.5,40,7,6,0.9979403018951416,Agamemnon;Medea;Thyestes,3,perfidus;classis;atrox;actus;mensa;cibus;rabies;amputo;aenus;adulter;miseria;lis;consors;detego;libycus;peruro;deuoueo;uinum;epulae;freno
+0.5,40,8,6,0.9978994131088257,Medea;Thyestes;Hercules Oetaeus,5,serpens;axis;paelex;uirus;foris;gigas;atrox;nubo;mensa;cibus;arcanus;rabies;maereo;serpo;aenus;thracius;coepi;colus;irascor;miseria
+0.5,40,9,8,0.997868001461029,,4,lis;atrox;actus;forum;plebs;rabies;triplex;pons;adulter;desino;deuoueo;supernus;patulus;potior;series;anxius;praepotens;allido;ciuitas;continuus
+0.5,41,7,3,0.9979426264762878,,2,lis;atrox;actus;forum;triplex;pons;plebs;rabies;adulter;desino;deuoueo;potior;patulus;supernus;series;anxius;recolo;allido;continuus;praepotens
+0.5,41,8,3,0.9979008436203003,,4,lis;atrox;actus;forum;plebs;rabies;triplex;pons;adulter;desino;deuoueo;potior;patulus;supernus;series;anxius;recolo;continuus;allido;praepotens
+0.5,41,9,3,0.9978679418563843,,2,lis;atrox;actus;forum;plebs;rabies;triplex;pons;adulter;desino;deuoueo;supernus;potior;patulus;series;anxius;allido;recolo;continuus;praepotens
+0.5,42,7,1,0.9979428648948669,,2,lis;atrox;actus;forum;triplex;pons;rabies;plebs;adulter;desino;deuoueo;patulus;potior;supernus;series;anxius;frendo;allido;praepotens;sinister
+0.5,42,8,1,0.9979010224342346,,2,lis;actus;atrox;forum;triplex;rabies;plebs;pons;adulter;desino;deuoueo;patulus;potior;supernus;series;anxius;praepotens;allido;sinister;recolo
+0.5,42,9,1,0.9978677034378052,Agamemnon,2,lis;actus;adulter;atrox;triplex;consors;amicus;forum;rabies;plebs;secedo;pons;pelopius;classis;mendax;superstes;desino;deuoueo;epulae;regimen
+0.5,43,7,4,0.9979425668716431,,3,lis;atrox;actus;forum;pons;triplex;plebs;rabies;adulter;deuoueo;desino;patulus;supernus;potior;anxius;series;praepotens;continuus;ciuitas;frendo
+0.5,43,8,4,0.9979009032249451,,3,lis;atrox;actus;forum;plebs;rabies;triplex;pons;adulter;deuoueo;desino;patulus;potior;supernus;anxius;series;ciuitas;continuus;praepotens;frendo
+0.5,43,9,0,0.9978673458099365,Phaedra;Hercules Furens;Oedipus,2,torpeo;antrum;largus;sanus;purus;citus;bos;lis;innocuus;senium;opimus;uiuax;niueus;celo;senectus;sospes;reditus;misereor;immitis;atrox
+0.5,44,7,1,0.9979410767555237,Phaedra;Medea,0,adulter;perpetuus;candidus;lis;barbarus;colchus;niueus;nuntius;actus;largus;supernus;abstraho;filum;ambiguus;caelebs;amicus;atrox;sanus;paeniteo;pons
+0.5,44,8,1,0.9979003071784973,Medea,1,lis;atrox;ultio;pons;colchus;actus;peruro;adulter;ultrix;serpens;paeniteo;fulgur;serpo;flatus;forum;rabies;plebs;triplex;furiosus;iustitia
+0.5,44,9,1,0.9978679418563843,,5,lis;atrox;actus;forum;rabies;plebs;pons;triplex;adulter;deuoueo;desino;patulus;supernus;potior;series;anxius;fulgur;frendo;ciuitas;continuus
+0.5,45,7,2,0.9979424476623535,,4,lis;atrox;actus;forum;triplex;pons;rabies;plebs;adulter;deuoueo;desino;patulus;potior;supernus;series;anxius;continuus;excludo;sinister;ciuitas
+0.5,45,8,2,0.9979008436203003,,2,lis;atrox;actus;forum;rabies;plebs;triplex;pons;adulter;deuoueo;desino;patulus;potior;supernus;series;anxius;ciuitas;excludo;allido;sinister
+0.5,45,9,2,0.9978679418563843,,6,lis;atrox;actus;forum;rabies;plebs;triplex;pons;adulter;deuoueo;desino;patulus;potior;supernus;series;anxius;praepotens;excludo;allido;ciuitas
+0.5,46,7,1,0.9979427456855774,,4,lis;atrox;actus;forum;pons;triplex;plebs;rabies;adulter;desino;deuoueo;supernus;potior;patulus;series;anxius;allido;continuus;frendo;sinister
+0.5,46,8,1,0.9979003071784973,Oedipus,3,lis;atrox;edoceo;strages;uates;actus;desino;largus;curuus;cognatus;ambitus;uireo;supernus;cauus;allido;aduncus;serpo;forum;series;plebs
+0.5,46,9,3,0.9978680610656738,,3,lis;atrox;actus;forum;rabies;plebs;triplex;pons;adulter;desino;deuoueo;patulus;supernus;potior;series;anxius;praepotens;recolo;fulgur;excludo
+0.5,47,7,5,0.9979425072669983,,3,lis;atrox;actus;forum;triplex;pons;plebs;rabies;adulter;desino;deuoueo;potior;patulus;supernus;anxius;series;allido;recolo;ciuitas;fulgur
+0.5,47,8,5,0.9979010224342346,,2,lis;atrox;actus;forum;adulter;plebs;rabies;triplex;pons;supernus;potior;desino;deuoueo;patulus;refundo;exosus;uenor;domito;dego;transitus
+0.5,47,9,5,0.997868001461029,,4,lis;atrox;actus;forum;plebs;rabies;pons;triplex;adulter;desino;deuoueo;potior;supernus;patulus;anxius;series;allido;recolo;continuus;ciuitas
+0.5,48,7,0,0.9979400634765625,Troades;Agamemnon,4,danai;classis;captiuus;bustum;lis;iudex;atrox;hectoreus;iliacus;actus;adulter;astus;triplex;accido;cultus;uates;consors;plebs;pelasgi;condio
+0.5,48,8,0,0.9979000687599182,Troades;Phaedra,1,danai;bustum;atrox;lis;anxius;captiuus;classis;astus;obsto;misereor;saltus;accido;incubo;coeptum;deuoueo;repono;libido;largus;iudex;adulter
+0.5,48,9,8,0.9978674650192261,Hercules Oetaeus,3,axis;colus;irascor;abrumpo;maereo;serpens;foris;lis;forum;rabies;caelestis;atrox;gigas;paelex;coepi;procedo;conspicio;palla;actus;glacialis
+0.5,49,7,2,0.9979425072669983,,3,lis;atrox;actus;forum;pons;triplex;plebs;rabies;adulter;desino;deuoueo;supernus;patulus;potior;series;anxius;allido;sinister;ciuitas;continuus
+0.5,49,8,2,0.9979007840156555,,4,lis;atrox;actus;forum;plebs;rabies;pons;triplex;adulter;deuoueo;desino;supernus;patulus;potior;anxius;series;allido;sinister;ciuitas;praepotens
+0.5,49,9,2,0.9978679418563843,,4,lis;atrox;actus;forum;plebs;rabies;pons;triplex;adulter;deuoueo;desino;supernus;patulus;potior;anxius;series;allido;sinister;ciuitas;continuus
+0.8,0,7,2,0.998911440372467,Thyestes,3,fames;atrox;mensa;patruus;daps;tyrannus;actus;nolo;homo;ordo;inimicus;carcer;lis;forum;aspectus;tumultus;deuoueo;exagito;mano;cibus
+0.8,0,8,2,0.9988903403282166,,2,lis;atrox;ordo;homo;actus;tyrannus;forum;rabies;plebs;pons;triplex;adulter;deuoueo;desino;iustus;potior;patulus;supernus;fames;anxius
+0.8,0,9,3,0.9988729357719421,Hercules Oetaeus,2,herculeus;nouerca;inuado;tyrannus;axis;gigno;mortalis;maereo;arcus;homo;colus;lis;uindex;damno;subdo;nupta;aerumna;specto;rabies;triumphus
+0.8,1,7,1,0.998912513256073,Phoenissae;Octavia,0,princeps;tyrannus;fauor;homo;subicio;extinguo;aula;fames;plebs;atrox;natura;pareo;lis;error;nutus;deuoueo;gigno;iustus;inuitus;exilium
+0.8,1,8,7,0.9988900423049927,Hercules Furens;Medea;Octavia;Thyestes,2,tyrannus;princeps;fauor;exsul;inferi;iustus;extinguo;exilium;uictima;homo;uictrix;agito;sol;pareo;motus;fames;foedus;queror;consilium;subicio
+0.8,1,9,7,0.9988727569580078,Agamemnon;Medea;Octavia;Hercules Oetaeus,1,herculeus;tyrannus;gigno;nouerca;princeps;pontus;femina;cantus;serpens;stygius;nurus;arcus;mereo;puppis;miserandus;queror;maritus;sol;mortalis;aula
+0.8,2,7,2,0.9989122152328491,,2,lis;atrox;ordo;homo;actus;tyrannus;forum;pons;triplex;plebs;rabies;adulter;desino;deuoueo;iustus;supernus;potior;patulus;fames;series
+0.8,2,8,2,0.9988900423049927,Octavia;Thyestes,3,princeps;tyrannus;fames;fauor;funestus;ultrix;homo;daps;extinguo;aula;cohors;subicio;nolo;pareo;ordo;bonum;sanctus;consilium;iustus;atrox
+0.8,2,9,2,0.9988728165626526,Hercules Furens;Octavia;Oedipus,3,princeps;tyrannus;salus;fauor;turpis;extinguo;sanctus;humanus;homo;canis;ordo;for;iustus;memoro;stygius;inferi;subicio;absum;infans;aula
+0.8,3,7,0,0.9989122152328491,,3,lis;atrox;forum;ordo;homo;actus;tyrannus;frendo;triplex;pons;rabies;plebs;iustus;adulter;potior;desino;deuoueo;fluuius;inicio;supernus
+0.8,3,8,0,0.9988903999328613,,3,lis;atrox;ordo;homo;actus;tyrannus;forum;rabies;plebs;triplex;pons;adulter;desino;deuoueo;iustus;supernus;potior;patulus;fames;anxius
+0.8,3,9,4,0.9988731741905212,,2,lis;atrox;ordo;homo;actus;tyrannus;forum;rabies;plebs;pons;triplex;adulter;deuoueo;desino;iustus;patulus;potior;supernus;fames;series
+0.8,4,7,2,0.9989120364189148,,3,atrox;lis;deuoueo;actus;ordo;homo;rabies;tyrannus;excludo;ciuitas;fames;assuetus;forum;anxius;cupidus;pons;triplex;plebs;secedo;patulus
+0.8,4,8,2,0.9988903999328613,,4,lis;atrox;ordo;homo;actus;tyrannus;forum;rabies;plebs;triplex;pons;adulter;desino;deuoueo;iustus;patulus;supernus;potior;fames;anxius
+0.8,4,9,8,0.9988728165626526,Phoenissae;Agamemnon;Oedipus;Thyestes,1,ordo;exsul;celer;natura;muto;mollis;for;infaustus;bonum;tento;alternus;salus;festus;sacrum;iustus;ramus;gelidus;color;foedus;obuius
+0.8,5,7,4,0.9989116191864014,Octavia,3,princeps;tyrannus;fauor;subicio;homo;extinguo;aula;plebs;lis;iustus;pareo;miserandus;atrox;forum;nutus;ordo;sanctus;actus;rabies;polluo
+0.8,5,8,4,0.9988900423049927,Octavia,2,princeps;tyrannus;fauor;subicio;homo;extinguo;aula;plebs;lis;iustus;pareo;miserandus;atrox;gigno;forum;nutus;ordo;sanctus;castra;actus
+0.8,5,9,4,0.9988730549812317,,4,lis;atrox;ordo;homo;actus;tyrannus;forum;plebs;rabies;pons;triplex;adulter;desino;deuoueo;iustus;patulus;supernus;potior;fames;series
+0.8,6,7,4,0.9989119172096252,,4,lis;atrox;ordo;homo;actus;tyrannus;forum;triplex;pons;rabies;plebs;adulter;deuoueo;desino;iustus;patulus;supernus;potior;fames;anxius
+0.8,6,8,2,0.998890221118927,,4,lis;atrox;ordo;homo;actus;tyrannus;forum;rabies;plebs;triplex;pons;adulter;desino;deuoueo;iustus;supernus;patulus;potior;fames;series
+0.8,6,9,4,0.9988730549812317,,3,lis;atrox;ordo;homo;actus;tyrannus;forum;rabies;plebs;triplex;pons;adulter;deuoueo;desino;iustus;supernus;patulus;potior;fames;anxius
+0.8,7,7,3,0.9989126920700073,,2,lis;atrox;ordo;homo;actus;tyrannus;forum;pons;triplex;rabies;plebs;adulter;desino;deuoueo;iustus;patulus;supernus;potior;fames;series
+0.8,7,8,3,0.9988905787467957,,3,lis;actus;atrox;ordo;triplex;homo;adulter;desino;tyrannus;mendax;consors;amicus;allido;forum;rabies;plebs;pons;iustus;secedo;deuoueo
+0.8,7,9,3,0.9988730549812317,Agamemnon,2,lis;classis;ordo;consors;actus;tyrannus;uelum;adulter;socius;atrox;triplex;prora;mendax;edoceo;iugulum;homo;laurus;festus;strages;moneo
+0.8,8,7,4,0.9989110231399536,Phaedra,0,castus;ordo;uanus;frenum;fingo;forma;homo;iustus;lis;natura;celer;adulter;largus;supernus;dea;atrox;amo;actus;pontus;canis
+0.8,8,8,4,0.9988901615142822,Medea,1,exitium;lis;exsul;pario;atrox;ultio;pons;colchus;ordo;cantus;homo;actus;profugio;queror;peruro;adulter;ultrix;serpens;socer;adicio
+0.8,8,9,4,0.9988731741905212,,2,lis;atrox;ordo;homo;actus;tyrannus;forum;rabies;plebs;pons;triplex;adulter;deuoueo;desino;iustus;supernus;potior;patulus;fames;series
+0.8,9,7,4,0.9989122152328491,,4,fames;ordo;atrox;lis;mensa;deuoueo;actus;homo;patruus;fumus;strages;daps;edoceo;ululo;uestigium;expauesco;nolo;anxius;cibus;desino
+0.8,9,8,4,0.9988899230957031,Oedipus;Thyestes,2,ordo;daps;for;atrox;fames;muto;patruus;focus;lis;strages;salus;sacrum;deuoueo;gemitus;actus;capax;homo;cibus;fas;curuus
+0.8,9,9,3,0.9283468723297119,Octavia,4,princeps;tyrannus;fauor;subicio;homo;extinguo;aula;plebs;lis;iustus;pareo;miserandus;atrox;forum;nutus;sanctus;ordo;polluo;rabies;actus
+0.8,10,7,5,0.9989122152328491,,4,lis;atrox;ordo;homo;actus;tyrannus;forum;pons;triplex;rabies;plebs;adulter;deuoueo;desino;iustus;patulus;potior;supernus;fames;series
+0.8,10,8,5,0.9988905191421509,Octavia;Thyestes,0,princeps;fauor;tyrannus;fames;extinguo;homo;aula;ultrix;subicio;pareo;iustus;nolo;consilium;bonum;atrox;daps;funestus;patruus;queror;plebs
+0.8,10,9,5,0.9988729953765869,Medea;Hercules Oetaeus,1,herculeus;cantus;nouerca;pontus;serpens;gigno;queror;axis;inuado;specto;nupta;arcus;socer;tyrannus;flagro;sterno;sol;supersum;nurus;mortalis
+0.8,11,7,4,0.9989113807678223,Phaedra;Agamemnon;Medea;Octavia;Thyestes;Hercules Oetaeus,2,pontus;nouerca;femina;tyrannus;forma;gigno;princeps;herculeus;maritus;queror;specto;mereo;cantus;amo;ultimus;consilium;aula;dea;stygius;natura
+0.8,11,8,4,0.998889684677124,Phaedra;Agamemnon;Medea;Octavia;Hercules Oetaeus,3,nouerca;pontus;femina;forma;gigno;tyrannus;herculeus;princeps;maritus;stygius;dea;cantus;turpis;mereo;ultimus;arcus;mortalis;aula;nupta;canis
+0.8,11,9,4,0.6762310266494751,,2,lis;atrox;ordo;homo;actus;forum;pons;triplex;plebs;rabies;tyrannus;desino;adulter;deuoueo;supernus;patulus;potior;iustus;series;anxius
+0.8,12,7,2,0.9989108443260193,Agamemnon;Medea,2,exsul;exitium;festus;pario;adulter;lis;classis;uelum;actus;remus;tyrannus;profugio;perfidus;paeniteo;inclutus;atrox;pontus;consilium;exilium;ultimus
+0.8,12,8,2,0.9988900423049927,Agamemnon;Medea,1,adulter;exitium;celer;frenum;exsul;festus;ordo;nuntius;pario;audax;lis;iustus;pontus;colchus;profugio;amicus;ripa;actus;remus;prosper
+0.8,12,9,8,0.9988728165626526,Troades,3,danai;tumulus;cinis;bustum;lis;homo;captiuus;atrox;turris;classis;annus;sterno;celsus;ordo;euerto;iudex;astus;accido;fumus;for
+0.8,13,7,2,0.9989111423492432,Phoenissae;Troades,4,danai;tumulus;cinis;bustum;homo;lis;eruo;turris;captiuus;campus;iudex;atrox;sterno;acies;condio;ordo;gladius;fumus;astus;admoueo
+0.8,13,8,2,0.9988903999328613,Troades,1,danai;tumulus;cinis;bustum;homo;captiuus;lis;turris;sterno;iudex;atrox;eruo;classis;annus;euerto;celsus;condio;ordo;campus;fumus
+0.8,13,9,2,0.9988729953765869,Phoenissae;Troades,2,danai;tumulus;cinis;homo;captiuus;bustum;sterno;lis;turris;eruo;campus;iudex;euerto;acies;atrox;maternus;classis;annus;celsus;condio
+0.8,14,7,4,0.9989108443260193,Phaedra;Agamemnon;Medea;Octavia;Thyestes;Hercules Oetaeus,4,pontus;nouerca;femina;tyrannus;forma;amo;gigno;herculeus;princeps;maritus;mereo;queror;specto;ultimus;cantus;aula;consilium;dea;extinguo;stygius
+0.8,14,8,4,0.9988899230957031,Troades;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes;Hercules Oetaeus,3,pontus;herculeus;ultimus;for;tumulus;danai;sol;nouerca;canis;queror;cinis;fateor;pondus;annus;leo;sacrum;classis;nurus;cantus;gigno
+0.8,14,9,4,0.9988729357719421,Agamemnon;Octavia;Hercules Oetaeus,2,nouerca;tyrannus;princeps;femina;gigno;turpis;herculeus;forma;aula;natura;stygius;mortalis;extinguo;famula;mereo;arcus;pontus;maritus;puppis;canis
+0.8,15,7,6,0.9989117383956909,Octavia;Hercules Oetaeus,0,princeps;tyrannus;gigno;nouerca;herculeus;aula;miserandus;mortalis;stygius;maereo;turpis;extinguo;homo;uindex;femina;nupta;arcus;mereo;inuado;forma
+0.8,15,8,6,0.9988899230957031,Octavia;Thyestes;Hercules Oetaeus,2,princeps;tyrannus;gigno;herculeus;nouerca;aula;miserandus;stygius;mortalis;impono;fauor;homo;pareo;damno;extinguo;fames;maereo;uindex;mereo;intro
+0.8,15,9,6,0.998872697353363,Octavia;Hercules Oetaeus,4,princeps;tyrannus;herculeus;nouerca;gigno;aula;miserandus;mortalis;stygius;maereo;homo;uindex;extinguo;fauor;femina;mereo;forma;arcus;axis;damno
+0.8,16,7,5,0.9989109635353088,Agamemnon,3,festus;classis;consors;moneo;uelum;atrox;impono;actus;daps;consilium;tyrannus;iugulum;fames;lis;ordo;epulae;deuoueo;uinum;carcer;adulter
+0.8,16,8,4,0.9988899230957031,Thyestes,2,fames;atrox;lis;daps;mensa;patruus;nolo;ordo;deuoueo;homo;cibus;actus;anxius;tyrannus;impono;detego;carcer;stabilis;rabies;plebs
+0.8,16,9,5,0.9988731741905212,,3,lis;atrox;ordo;homo;actus;tyrannus;forum;plebs;rabies;triplex;pons;adulter;desino;deuoueo;iustus;patulus;supernus;potior;fames;series
+0.8,17,7,5,0.9989114999771118,Phaedra;Octavia,1,princeps;forma;castus;fauor;tyrannus;extinguo;sanctus;iustus;homo;subicio;aula;mitis;natura;dea;gratus;perpetuus;ordo;ultrix;frenum;fingo
+0.8,17,8,5,0.998889684677124,Agamemnon;Medea;Octavia,3,princeps;tyrannus;euerto;classis;uictrix;exsul;uelum;homo;extinguo;uictima;subicio;fauor;exilium;aula;nata;maritus;exitium;acies;consilium;festus
+0.8,17,9,0,0.8251436352729797,Hercules Furens,2,tyrannus;atrox;lis;forum;inferi;homo;mano;actus;ordo;humanus;requies;reuertor;infans;fames;innocuus;error;ferax;carcer;memoro;iustus
+0.8,18,7,2,0.9989116191864014,,6,lis;atrox;ordo;homo;actus;tyrannus;forum;pons;triplex;plebs;rabies;adulter;desino;deuoueo;iustus;potior;patulus;supernus;fames;anxius
+0.8,18,8,4,0.9988900423049927,Phoenissae;Phaedra;Agamemnon;Hercules Furens;Octavia;Thyestes,2,tyrannus;fames;princeps;castus;extinguo;homo;fauor;natura;inferi;acies;consilium;forma;facilis;iustus;bonum;uictrix;aula;pareo;dea;subicio
+0.8,18,9,8,0.9988729953765869,Thyestes,1,fames;atrox;daps;mensa;nolo;patruus;lis;deuoueo;ordo;actus;cibus;homo;tyrannus;anxius;carcer;stabilis;rabies;exagito;uinum;impono
+0.8,19,7,6,0.9989125728607178,Phoenissae;Troades;Hercules Furens;Oedipus;Thyestes,0,cinis;tumulus;fames;admoueo;for;danai;liberi;infans;ordo;exsul;campus;sacrum;infaustus;salus;daps;nolo;auis;sterno;homo;occurro
+0.8,19,8,6,0.9988898634910583,Phoenissae;Troades;Hercules Furens;Medea;Hercules Oetaeus,2,herculeus;cinis;serpens;pontus;tumulus;nurus;sterno;socer;sol;gigno;cantus;nouerca;danai;ultimus;specto;planctus;arcus;queror;canis;scindo
+0.8,19,9,6,0.9988729357719421,Phoenissae;Troades;Hercules Furens;Medea;Hercules Oetaeus,1,herculeus;cinis;tumulus;serpens;gigno;socer;for;nurus;sterno;cantus;pontus;sol;scindo;infans;error;danai;latebra;supersum;exsul;laxo
+0.8,20,7,6,0.9989119172096252,Thyestes,0,fames;atrox;mensa;daps;nolo;patruus;lis;deuoueo;ordo;actus;cibus;homo;anxius;tyrannus;rabies;carcer;stabilis;uinum;exagito;excludo
+0.8,20,8,6,0.9988903403282166,,4,lis;atrox;ordo;homo;actus;tyrannus;forum;rabies;plebs;pons;triplex;adulter;deuoueo;desino;iustus;patulus;potior;supernus;fames;anxius
+0.8,20,9,6,0.9988731741905212,,3,lis;atrox;ordo;homo;actus;tyrannus;forum;plebs;rabies;pons;triplex;adulter;desino;deuoueo;iustus;patulus;supernus;potior;fames;series
+0.8,21,7,5,0.7866133451461792,Troades;Octavia;Thyestes,3,danai;princeps;tyrannus;tumulus;fames;fauor;homo;classis;extinguo;euerto;aula;cinis;turris;annus;consilium;affligo;subicio;bustum;pareo;fateor
+0.8,21,8,5,0.6387922763824463,Octavia;Thyestes,1,princeps;tyrannus;fames;fauor;extinguo;homo;subicio;aula;atrox;consilium;plebs;pareo;nolo;funestus;patruus;lis;mensa;daps;stabilis;uictima
+0.8,21,9,5,0.9988729357719421,Troades;Thyestes,2,danai;tumulus;fames;cinis;bustum;atrox;sterno;homo;turris;patruus;lis;annus;classis;admoueo;mensa;captiuus;ordo;fumus;gemitus;impleo
+0.8,22,7,3,0.9989115595817566,Agamemnon;Octavia;Oedipus;Thyestes,2,princeps;tyrannus;daps;consilium;fames;festus;exsul;sacrum;funestus;fauor;agito;uelum;sanctus;for;salus;maritus;extinguo;iugulum;nolo;impono
+0.8,22,8,3,0.9988903403282166,Phaedra;Agamemnon;Octavia;Thyestes,0,princeps;tyrannus;fauor;bonum;consilium;castus;fames;iustus;extinguo;daps;natura;ordo;aula;pareo;homo;mitis;lacero;funestus;festus;uictrix
+0.8,22,9,8,0.9988730549812317,,2,fames;atrox;lis;patruus;deuoueo;ordo;actus;homo;anxius;cibus;mensa;exagito;rabies;tyrannus;excludo;ciuitas;cupidus;assuetus;potior;patulus
+0.8,23,7,1,0.9989110231399536,Octavia;Oedipus,2,princeps;sacrum;for;sanctus;tyrannus;salus;homo;fauor;exitium;status;subicio;funestus;affligo;extinguo;aula;ordo;plebs;uates;turpis;miserandus
+0.8,23,8,1,0.998890221118927,Troades;Octavia,2,princeps;sanctus;fauor;homo;tyrannus;mitis;ordo;for;salus;sacrum;extinguo;aula;iustus;subicio;profundus;funestus;status;exitium;turpis;uanus
+0.8,23,9,1,0.9988730549812317,Octavia,2,princeps;tyrannus;fauor;fames;homo;extinguo;aula;subicio;pareo;atrox;plebs;stabilis;mensa;iustus;lis;nutus;uxor;ultrix;consilium;uictima
+0.8,24,7,3,0.9989111423492432,Phoenissae;Phaedra;Octavia,2,princeps;castus;fauor;extinguo;tyrannus;forma;homo;natura;subicio;aula;iustus;sanctus;gratus;inuoco;bonum;mitis;ordo;plebs;pareo;uanus
+0.8,24,8,3,0.9988896250724792,Phaedra;Hercules Furens;Oedipus;Thyestes,4,fames;muto;ordo;canis;castus;pontus;daps;plaga;uanus;leo;for;gelidus;mobilis;amnis;reuoco;humanus;iustus;natura;nolo;memoro
+0.8,24,9,3,0.9988729953765869,Phoenissae;Phaedra;Thyestes,1,fames;castus;amo;natura;ordo;iustus;insanus;celer;frenum;compono;abscondo;homo;patruus;atrox;uanus;mensa;nolo;bonum;incubo;appeto
+0.8,25,7,0,0.9989115595817566,Hercules Oetaeus,1,herculeus;nouerca;axis;inuado;gigno;tyrannus;maereo;mortalis;colus;nupta;homo;uindex;damno;lis;sterno;rabies;subigo;cantus;subdo;paelex
+0.8,25,8,6,0.9988903403282166,,3,lis;atrox;ordo;homo;actus;tyrannus;forum;plebs;rabies;triplex;pons;adulter;desino;deuoueo;iustus;supernus;potior;patulus;fames;series
+0.8,25,9,0,0.998873233795166,,2,lis;atrox;ordo;homo;actus;tyrannus;forum;rabies;plebs;pons;triplex;adulter;deuoueo;desino;iustus;patulus;supernus;potior;fames;anxius
+0.8,26,7,2,0.5286411046981812,Troades;Octavia,3,danai;princeps;tumulus;tyrannus;cinis;euerto;homo;extinguo;aula;fauor;classis;subicio;captiuus;annus;plebs;bustum;affligo;turris;crudelis;lis
+0.8,26,8,4,0.9988903999328613,,1,lis;atrox;ordo;homo;actus;tyrannus;forum;plebs;rabies;pons;triplex;adulter;deuoueo;desino;iustus;potior;patulus;supernus;fames;anxius
+0.8,26,9,4,0.9988730549812317,Thyestes,0,fames;atrox;daps;mensa;nolo;patruus;lis;deuoueo;ordo;actus;cibus;homo;tyrannus;anxius;carcer;stabilis;rabies;exagito;uinum;impono
+0.8,27,7,5,0.9989107251167297,Troades;Phaedra,2,danai;tumulus;cinis;castus;uanus;annus;celsus;homo;ordo;dea;bustum;celer;lis;fingo;frenum;turris;forma;facilis;tener;captiuus
+0.8,27,8,7,0.9988901019096375,Phoenissae,1,aspectus;thebanus;acies;homo;atrox;error;lis;forum;mano;ordo;aequum;actus;tyrannus;exsul;agmen;fames;remissus;pestifer;requies;succurro
+0.8,27,9,5,0.9988728165626526,Phaedra,2,castus;ordo;uanus;frenum;fingo;forma;homo;iustus;lis;natura;celer;largus;adulter;supernus;dea;atrox;amo;actus;pontus;canis
+0.8,28,7,5,0.9989109635353088,Thyestes,4,fames;atrox;daps;mensa;nolo;patruus;lis;deuoueo;ordo;actus;cibus;homo;tyrannus;anxius;carcer;stabilis;rabies;exagito;uinum;impono
+0.8,28,8,2,0.9988904595375061,,3,ordo;lis;atrox;edoceo;homo;actus;desino;allido;aduncus;tyrannus;forum;supernus;rabies;plebs;triplex;pons;adulter;iustus;series;deuoueo
+0.8,28,9,3,0.9988731741905212,,4,lis;homo;atrox;ordo;actus;desino;tyrannus;forum;plebs;rabies;pons;mensis;triplex;adulter;deuoueo;remissus;iustus;coepio;ostento;propago
+0.8,29,7,4,0.5169154405593872,Agamemnon;Hercules Furens;Oedipus;Thyestes,1,daps;muto;mollis;gelidus;fames;tento;leo;ramus;piger;reuoco;canis;mico;mobilis;color;nolo;for;arbor;laurus;grauo;densus
+0.8,29,8,4,0.9988897442817688,Phaedra;Agamemnon;Hercules Furens;Thyestes,2,castus;fames;daps;frenum;pontus;celer;iustus;tyrannus;nolo;ordo;carcer;consilium;insanus;tento;festus;uerso;uanus;natura;piger;patruus
+0.8,29,9,5,0.9988731741905212,,3,lis;atrox;ordo;homo;actus;tyrannus;forum;rabies;plebs;pons;triplex;adulter;desino;deuoueo;iustus;supernus;patulus;potior;fames;anxius
+0.8,30,7,6,0.9989122748374939,,2,lis;atrox;ordo;homo;actus;tyrannus;forum;triplex;pons;plebs;rabies;adulter;desino;deuoueo;iustus;potior;patulus;supernus;fames;series
+0.8,30,8,2,0.9988905787467957,,3,fames;atrox;mensa;lis;deuoueo;actus;patruus;ordo;homo;cibus;rabies;exagito;anxius;tyrannus;excludo;ciuitas;assuetus;cupidus;patulus;potior
+0.8,30,9,1,0.998873233795166,Troades,2,danai;tumulus;cinis;bustum;captiuus;lis;homo;sterno;turris;atrox;iudex;condio;ordo;eruo;astus;gladius;fumus;celsus;crudelis;accedo
+0.8,31,7,2,0.9989124536514282,,2,lis;atrox;ordo;homo;actus;tyrannus;forum;pons;triplex;rabies;plebs;adulter;desino;deuoueo;iustus;supernus;potior;patulus;fames;anxius
+0.8,31,8,4,0.9452451467514038,Agamemnon;Hercules Furens;Medea;Oedipus,3,for;sacrum;canis;sol;mollis;exsul;audax;gelidus;tendo;exitium;pontus;aruum;profugio;reuertor;memoro;tyrannus;foedus;motus;ramus;carmen
+0.8,31,9,2,0.998873233795166,,2,lis;atrox;ordo;homo;actus;tyrannus;forum;rabies;plebs;pons;triplex;adulter;desino;deuoueo;iustus;supernus;potior;patulus;fames;anxius
+0.8,32,7,3,0.998911440372467,,3,lis;atrox;ordo;homo;actus;tyrannus;forum;triplex;pons;plebs;rabies;adulter;deuoueo;desino;iustus;patulus;supernus;potior;fames;anxius
+0.8,32,8,3,0.9988898038864136,Troades,5,danai;tumulus;cinis;bustum;lis;homo;captiuus;atrox;turris;classis;ordo;sterno;celsus;astus;iudex;annus;euerto;fumus;actus;plebs
+0.8,32,9,8,0.998872697353363,Hercules Furens;Oedipus;Thyestes;Hercules Oetaeus,4,herculeus;nouerca;canis;plaga;leo;pontus;pondus;arcus;for;lassus;gigno;focus;tyrannus;tendo;amitto;humanus;ordo;turpis;inferi;mortalis
+0.8,33,7,0,0.9989122748374939,,1,lis;atrox;ordo;homo;actus;tyrannus;forum;pons;triplex;rabies;plebs;adulter;desino;deuoueo;iustus;supernus;potior;patulus;fames;anxius
+0.8,33,8,1,0.9988904595375061,,3,lis;atrox;ordo;homo;actus;tyrannus;forum;plebs;rabies;pons;triplex;adulter;deuoueo;desino;iustus;patulus;potior;supernus;fames;anxius
+0.8,33,9,7,0.9988728165626526,Phaedra;Agamemnon;Hercules Furens;Octavia;Oedipus;Hercules Oetaeus,1,nouerca;herculeus;tyrannus;canis;turpis;leo;plaga;gigno;pontus;stygius;inferi;arcus;forma;princeps;ultimus;femina;humanus;mortalis;puppis;for
+0.8,34,7,0,0.9989118576049805,,4,lis;atrox;ordo;homo;actus;tyrannus;forum;pons;triplex;rabies;plebs;adulter;desino;deuoueo;iustus;patulus;supernus;potior;fames;series
+0.8,34,8,7,0.9988901615142822,,5,lis;atrox;ordo;homo;actus;tyrannus;forum;rabies;plebs;pons;triplex;adulter;deuoueo;desino;iustus;patulus;potior;supernus;fames;anxius
+0.8,34,9,7,0.9988730549812317,,5,lis;atrox;ordo;homo;actus;tyrannus;forum;rabies;plebs;pons;triplex;adulter;desino;deuoueo;iustus;patulus;supernus;potior;fames;anxius
+0.8,35,7,5,0.9989116191864014,,5,lis;atrox;ordo;homo;actus;tyrannus;forum;triplex;pons;plebs;rabies;adulter;desino;deuoueo;iustus;supernus;potior;patulus;fames;anxius
+0.8,35,8,5,0.9988905787467957,,2,lis;atrox;ordo;homo;actus;tyrannus;forum;plebs;rabies;triplex;pons;adulter;desino;deuoueo;iustus;potior;patulus;supernus;fames;anxius
+0.8,35,9,1,0.9988733530044556,,2,lis;atrox;ordo;homo;actus;tyrannus;forum;rabies;plebs;pons;triplex;adulter;desino;deuoueo;iustus;supernus;patulus;potior;fames;series
+0.8,36,7,4,0.9989126920700073,,1,lis;atrox;ordo;homo;actus;tyrannus;forum;pons;triplex;rabies;plebs;adulter;deuoueo;desino;iustus;potior;supernus;patulus;fames;anxius
+0.8,36,8,1,0.8464950919151306,Phoenissae;Troades;Phaedra;Octavia;Oedipus;Hercules Oetaeus,2,nouerca;turpis;forma;tumulus;herculeus;cinis;pontus;gigno;princeps;natura;tyrannus;homo;planctus;aula;extinguo;castus;plaga;canis;femina;scindo
+0.8,36,9,3,0.9988731741905212,Medea,1,exsul;exitium;serpens;pario;exilium;thebanus;sol;aequum;socer;uado;homo;lis;alienus;reuertor;atrox;profugio;forum;mano;innocuus;amplector
+0.8,37,7,5,0.9989117980003357,,4,lis;tyrannus;forum;atrox;mano;homo;actus;ordo;requies;frendo;iustus;grandis;fames;error;potior;innocuus;humanus;carcer;cremo;pons
+0.8,37,8,7,0.5407421588897705,Phaedra;Agamemnon;Hercules Furens;Oedipus,1,canis;castus;mollis;natura;tento;pontus;muto;gelidus;leo;turpis;plaga;for;audax;mobilis;tendo;celer;ordo;abscondo;alternus;ramus
+0.8,37,9,3,0.9988729357719421,Troades;Phaedra;Octavia,1,princeps;tumulus;danai;forma;cinis;fauor;homo;extinguo;castus;tyrannus;uanus;sanctus;dea;aula;mitis;turpis;natura;annus;subicio;celsus
+0.8,38,7,1,0.7046509981155396,Thyestes,2,fames;atrox;daps;mensa;nolo;patruus;lis;deuoueo;actus;cibus;ordo;anxius;homo;carcer;uinum;exagito;stabilis;impono;rabies;cupidus
+0.8,38,8,5,0.9988899230957031,Hercules Oetaeus,2,herculeus;nouerca;gigno;inuado;nupta;uro;plaga;pontus;axis;for;supersum;canis;arcus;siccus;specto;cantus;serpo;mortalis;laxo;latebra
+0.8,38,9,5,0.5611422657966614,Phaedra;Oedipus,1,castus;ordo;for;uanus;largus;plaga;natura;canis;muto;fingo;forma;sanctus;turpis;salus;pontus;supernus;bos;curuus;caeruleus;frenum
+0.8,39,7,2,0.9989117383956909,Oedipus,0,for;ordo;lis;strages;salus;actus;memoria;uates;atrox;edoceo;redimio;triplex;status;dirimo;sacrum;homo;adulter;mollis;desino;sacerdos
+0.8,39,8,2,0.9988900423049927,Oedipus,1,ordo;for;lis;salus;atrox;edoceo;strages;memoria;homo;uates;status;actus;sacrum;desino;infans;curuus;cognatus;largus;capax;exitium
+0.8,39,9,2,0.998873233795166,,2,ordo;supernus;lis;largus;atrox;homo;edoceo;strages;actus;desino;iustus;allido;aduncus;naris;cunctor;potior;dependeo;tyrannus;adulter;fumus
+0.8,40,7,2,0.9989117980003357,Phoenissae;Thyestes,1,fames;atrox;mensa;nolo;arceo;homo;patruus;lis;daps;deuoueo;actus;ordo;exsul;cibus;compono;mensis;tyrannus;liberi;anxius;occurro
+0.8,40,8,2,0.9988901615142822,Phoenissae,1,exsul;pario;liberi;exilium;atrox;exitium;fames;lis;externus;homo;arceo;peruro;deuoueo;actus;inuitus;aequum;ultrix;ordo;pons;ultio
+0.8,40,9,2,0.9988731741905212,,3,lis;atrox;pons;ultio;ordo;homo;actus;fulgur;adulter;tyrannus;forum;plebs;rabies;triplex;iustitia;exitium;iustus;desino;deuoueo;ducto
+0.8,41,7,0,0.9989107251167297,Phaedra;Hercules Furens;Oedipus,2,canis;plaga;leo;castus;tendo;for;pontus;ordo;turpis;amnis;infans;nouerca;mollis;natura;uanus;humanus;sagitta;tyrannus;gelidus;muto
+0.8,41,8,7,0.7048084735870361,Phoenissae;Troades,1,danai;tumulus;cinis;captiuus;turris;bustum;iudex;campus;homo;lis;sterno;acies;euerto;maternus;eruo;annus;classis;celsus;fumus;nata
+0.8,41,9,2,0.9988731145858765,Thyestes,0,fames;atrox;mensa;daps;patruus;tyrannus;actus;carcer;homo;nolo;ordo;inimicus;lis;forum;deuoueo;exagito;mano;cibus;piger;tumultus
+0.8,42,7,3,0.9989119172096252,,2,atrox;lis;deuoueo;ordo;actus;homo;anxius;excludo;ciuitas;tyrannus;rabies;forum;fames;triplex;pons;plebs;secedo;patulus;adulter;potior
+0.8,42,8,3,0.9988903403282166,,2,lis;atrox;ordo;homo;actus;tyrannus;forum;rabies;plebs;pons;triplex;adulter;deuoueo;desino;iustus;potior;supernus;patulus;fames;anxius
+0.8,42,9,3,0.9988727569580078,Agamemnon;Medea;Thyestes,5,festus;daps;exsul;consilium;fames;liberi;nolo;classis;uelum;atrox;exitium;actus;mensa;tyrannus;diuido;amputo;patruus;piger;impono;adulter
+0.8,43,7,3,0.99891197681427,,3,lis;actus;adulter;atrox;triplex;ordo;tyrannus;homo;consors;amicus;forum;iugulum;iustus;pons;secedo;pelopius;plebs;rabies;nuntius;carcer
+0.8,43,8,3,0.9988904595375061,,4,lis;atrox;ordo;homo;actus;tyrannus;forum;rabies;plebs;pons;triplex;adulter;desino;deuoueo;iustus;patulus;supernus;potior;fames;anxius
+0.8,43,9,2,0.998873233795166,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes;Hercules Oetaeus,0,pontus;herculeus;nouerca;turpis;tyrannus;ultimus;gigno;canis;for;annus;leo;sol;cinis;plaga;forma;tumulus;femina;fateor;pondus;amo
+0.8,44,7,6,0.8860040307044983,Octavia,1,princeps;tyrannus;fauor;subicio;homo;extinguo;aula;plebs;lis;iustus;pareo;miserandus;atrox;nutus;forum;ordo;sanctus;polluo;rabies;actus
+0.8,44,8,6,0.9988901019096375,Octavia,1,princeps;tyrannus;fauor;subicio;homo;extinguo;aula;forum;plebs;lis;iustus;pareo;polluo;atrox;miserandus;castra;ordo;actus;terribilis;illustris
+0.8,44,9,6,0.9988729953765869,Octavia,1,princeps;tyrannus;fauor;subicio;homo;extinguo;aula;plebs;lis;iustus;pareo;miserandus;atrox;nutus;forum;ordo;sanctus;actus;polluo;rabies
+0.8,45,7,6,0.9989122152328491,,3,plebs;lis;homo;atrox;ordo;actus;tyrannus;forum;praepotens;recolo;rabies;iustus;triplex;pons;perennis;adulter;series;desino;deuoueo;irrumpo
+0.8,45,8,6,0.9988901615142822,Oedipus,0,ordo;for;lis;salus;atrox;edoceo;strages;homo;memoria;status;actus;uates;desino;infans;largus;curuus;cognatus;sacrum;capax;allido
+0.8,45,9,6,0.9988731741905212,,3,lis;atrox;ordo;homo;actus;tyrannus;forum;rabies;plebs;triplex;pons;adulter;desino;deuoueo;iustus;patulus;supernus;potior;fames;anxius
+0.8,46,7,0,0.9989115595817566,Troades;Phaedra;Hercules Furens;Oedipus;Thyestes;Hercules Oetaeus,2,herculeus;pontus;nouerca;canis;plaga;for;leo;pondus;sterno;sol;ultimus;arcus;turpis;laxo;gigno;humerus;tendo;fateor;supersum;fames
+0.8,46,8,0,0.9988899230957031,Phaedra;Hercules Furens;Medea;Oedipus;Hercules Oetaeus,2,herculeus;pontus;nouerca;canis;plaga;sol;for;gigno;leo;tendo;arcus;cantus;serpens;turpis;ultimus;forma;sagitta;laxo;pecus;latebra
+0.8,46,9,7,0.9988726377487183,Phoenissae,2,lis;homo;atrox;ordo;aequum;actus;desino;error;acies;exsul;tyrannus;accedo;forum;gladius;plebs;mensis;triplex;remissus;pons;rabies
+0.8,47,7,1,0.9989120364189148,,3,lis;actus;adulter;atrox;triplex;ordo;homo;tyrannus;forum;pons;secedo;plebs;rabies;iustus;desino;deuoueo;hasta;amicus;corono;dubium
+0.8,47,8,7,0.9988899827003479,Phaedra,2,castus;ordo;frenum;forma;iustus;uanus;adulter;fingo;celer;homo;lis;natura;dea;largus;amo;supernus;abstraho;atrox;perpetuus;pontus
+0.8,47,9,8,0.9988729357719421,Phoenissae;Troades;Thyestes,1,fames;tumulus;cinis;danai;admoueo;ordo;campus;homo;nolo;uanus;aspectus;cieo;sterno;sollicitus;turris;inimicus;annus;salus;daps;infans
+0.8,48,7,6,0.7362328171730042,,3,lis;atrox;ordo;homo;actus;forum;pons;triplex;rabies;plebs;tyrannus;deuoueo;desino;adulter;potior;patulus;supernus;iustus;anxius;fames
+0.8,48,8,6,0.9988903403282166,,4,lis;atrox;ordo;homo;actus;tyrannus;forum;rabies;plebs;triplex;pons;adulter;desino;deuoueo;iustus;supernus;patulus;potior;fames;series
+0.8,48,9,5,0.9988729357719421,Octavia,4,princeps;tyrannus;fauor;subicio;homo;extinguo;aula;plebs;lis;iustus;pareo;miserandus;atrox;forum;nutus;ordo;sanctus;actus;rabies;polluo
+0.8,49,7,1,0.9989117980003357,Troades,1,tumulus;danai;cinis;for;bustum;ordo;homo;lis;captiuus;uates;fumus;turris;celsus;atrox;status;classis;annus;sterno;campus;gemitus
+0.8,49,8,1,0.9988904595375061,Troades;Octavia,0,princeps;danai;tumulus;tyrannus;homo;cinis;subicio;extinguo;fauor;aula;euerto;plebs;crudelis;bustum;lis;classis;captiuus;affligo;eruo;miserandus
+0.8,49,9,8,0.9988728761672974,Medea,0,exitium;exsul;atrox;lis;forum;profugio;pario;mano;ordo;actus;homo;innocuus;serpens;queror;cantus;ultio;pons;sol;requies;colchus
+1.0,0,7,2,0.9995690584182739,Phoenissae;Troades;Agamemnon;Hercules Furens;Medea;Octavia;Thyestes,0,magnus;scelus;manus;frater;regnum;pater;deus;animus;peto;bellum;domus;saeuus;mare;altus;grauis;natus;mater;metus;ira;fides
+1.0,0,8,2,0.9957021474838257,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes,2,manus;magnus;regnum;scelus;deus;pater;animus;peto;domus;mater;caput;mare;altus;rex;natus;frater;timeo;os;grauis;locus
+1.0,0,9,2,0.9995534420013428,Phoenissae;Troades;Agamemnon;Hercules Furens;Medea;Octavia;Thyestes,0,scelus;magnus;frater;manus;regnum;pater;deus;animus;bellum;peto;domus;saeuus;mare;fides;ira;grauis;natus;altus;metus;poena
+1.0,1,7,2,0.9995690584182739,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes,1,manus;magnus;scelus;regnum;deus;animus;pater;peto;domus;frater;grauis;saeuus;mare;altus;mater;parens;caput;natus;pectus;os
+1.0,1,8,1,0.9995600581169128,,2,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;plebs;rabies;pons;triplex;pars;dignus;adulter;inferus
+1.0,1,9,1,0.999553382396698,,2,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;plebs;rabies;pons;triplex;pars;dignus;adulter;inferus
+1.0,2,7,3,0.999568521976471,Hercules Furens;Medea;Oedipus;Thyestes,1,manus;regnum;scelus;deus;magnus;caput;frater;pater;peto;altus;rex;domus;ira;nouus;caelum;uia;os;mare;animus;sto
+1.0,2,8,3,0.9995601177215576,Phoenissae;Troades;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes,2,manus;magnus;scelus;deus;regnum;pater;peto;frater;animus;domus;grauis;rex;saeuus;caput;mare;bellum;altus;natus;timeo;fides
+1.0,2,9,3,0.9974631071090698,Phoenissae;Troades;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes;Hercules Oetaeus,2,manus;pater;regnum;magnus;scelus;deus;peto;mater;timeo;dies;natus;rex;uinco;animus;malum;terra;locus;mors;domus;caelum
+1.0,3,7,6,0.9220824241638184,Phoenissae;Hercules Furens;Octavia,1,manus;saeuus;scelus;peto;frater;pater;deus;magnus;regnum;parens;bellum;grauis;ira;coniux;caedes;domus;poena;tristis;altus;caput
+1.0,3,8,4,0.9995601773262024,,2,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;rabies;triplex;plebs;pons;pars;dignus;adulter;inferus
+1.0,3,9,8,0.9838176369667053,Octavia,3,princeps;saeuus;coniux;ciuis;thalamus;tyrannus;deus;caedes;uis;genus;dirus;genetrix;tristis;fauor;orbis;scelus;subicio;torus;hostis;homo
+1.0,4,7,3,0.9893237948417664,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes;Hercules Oetaeus,1,manus;magnus;scelus;regnum;pater;deus;peto;mater;dies;natus;uinco;animus;malum;terra;mors;timeo;domus;caelum;rex;locus
+1.0,4,8,3,0.9858577847480774,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes;Hercules Oetaeus,1,manus;magnus;scelus;regnum;pater;deus;peto;mater;dies;natus;uinco;animus;malum;terra;mors;timeo;domus;caelum;rex;locus
+1.0,4,9,3,0.9995533227920532,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes,1,manus;magnus;scelus;regnum;deus;pater;animus;peto;domus;frater;grauis;saeuus;altus;mare;parens;caput;natus;mater;pectus;os
+1.0,5,7,5,0.5409566760063171,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes,1,manus;magnus;scelus;regnum;deus;animus;peto;pater;domus;grauis;mare;frater;saeuus;natus;parens;mater;caput;altus;rex;dies
+1.0,5,8,5,0.9995600581169128,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus,2,manus;magnus;peto;deus;pater;mater;scelus;animus;saeuus;regnum;parens;grauis;coniux;mare;mors;altus;fatum;uinco;rex;caput
+1.0,5,9,5,0.9838258028030396,Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes;Hercules Oetaeus,2,manus;magnus;deus;pater;dies;scelus;regnum;uinco;terra;peto;animus;natus;caelum;timeo;malum;mors;locus;fatum;mater;rex
+1.0,6,7,4,0.9995686411857605,Phoenissae,1,pater;mater;frater;bellum;scelus;deus;peto;regnum;manus;mors;arma;pars;altus;uolo;parens;lis;pax;teneo;nego;saeuus
+1.0,6,8,7,0.9972783923149109,Hercules Furens;Medea;Thyestes;Hercules Oetaeus,2,manus;dies;uinco;terra;pater;natus;deus;caelum;scelus;regnum;sto;malum;locus;teneo;magnus;fera;timeo;mors;mundus;peto
+1.0,6,9,8,0.9995532631874084,Troades;Phaedra;Agamemnon;Medea;Octavia;Oedipus;Thyestes;Hercules Oetaeus,2,manus;magnus;scelus;deus;peto;dies;regnum;uinco;animus;fatum;pater;natus;malum;terra;mater;caelum;timeo;mors;domus;uultus
+1.0,7,7,5,0.990013837814331,Phoenissae;Agamemnon;Hercules Furens;Oedipus;Thyestes;Hercules Oetaeus,0,manus;pater;deus;regnum;scelus;peto;uinco;magnus;dies;malum;mater;mors;timeo;caelum;natus;caput;teneo;rex;fatum;terra
+1.0,7,8,2,0.9995599985122681,,3,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;plebs;rabies;pons;triplex;pars;dignus;adulter;inferus
+1.0,7,9,2,0.5157939195632935,Oedipus,1,manus;deus;caput;fatum;peto;uia;caelum;nouus;for;salus;certus;magnus;altus;sanguis;moueo;grauis;rex;senex;ordo;parens
+1.0,8,7,5,0.8547831773757935,Phoenissae;Troades;Agamemnon;Hercules Furens;Medea;Thyestes;Hercules Oetaeus,0,manus;pater;uinco;dies;magnus;mater;peto;deus;timeo;mors;natus;terra;regnum;locus;rex;miser;malum;caelum;scelus;sto
+1.0,8,8,5,0.9988515973091125,Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Thyestes;Hercules Oetaeus,1,manus;uinco;magnus;dies;deus;malum;scelus;terra;natus;pater;miser;animus;mors;teneo;regnum;timeo;mater;caelum;iaceo;domus
+1.0,8,9,5,0.9995532631874084,Phoenissae;Troades;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes,3,manus;magnus;regnum;pater;deus;scelus;frater;peto;bellum;rex;mater;timeo;domus;animus;natus;caput;arma;altus;sto;cado
+1.0,9,7,2,0.9995664358139038,Phoenissae;Phaedra;Oedipus;Thyestes,1,scelus;regnum;frater;magnus;deus;manus;pater;altus;peto;mater;os;pars;ignis;animus;caput;nouus;domus;corpus;uia;fugio
+1.0,9,8,0,0.5625302791595459,Phoenissae;Troades;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes,2,manus;magnus;scelus;regnum;deus;peto;pater;frater;animus;domus;grauis;saeuus;rex;mare;caput;parens;natus;bellum;mater;altus
+1.0,9,9,2,0.999553382396698,,3,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;plebs;pons;rabies;triplex;pars;dignus;adulter;inferus
+1.0,10,7,5,0.9021569490432739,Troades;Phaedra;Hercules Furens;Medea;Oedipus;Hercules Oetaeus,0,manus;terra;caelum;peto;magnus;deus;mors;mater;uinco;locus;fatum;dies;pater;scelus;regnum;natus;uultus;timeo;malum;ignis
+1.0,10,8,5,0.9752334952354431,Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Hercules Oetaeus,1,manus;magnus;deus;uinco;terra;peto;pater;mors;caelum;mater;fatum;dies;animus;scelus;regnum;natus;locus;malum;timeo;rex
+1.0,10,9,0,0.5433713793754578,Phoenissae;Troades;Agamemnon;Medea;Octavia;Oedipus;Thyestes,0,magnus;scelus;regnum;frater;manus;animus;deus;pater;peto;mare;domus;grauis;saeuus;metus;bellum;fides;mater;parens;altus;ira
+1.0,11,7,0,0.9995691776275635,Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes;Hercules Oetaeus,1,manus;magnus;scelus;deus;regnum;dies;peto;uinco;pater;animus;natus;terra;caelum;malum;domus;fatum;mors;timeo;grauis;coniux
+1.0,11,8,0,0.9995602369308472,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes,1,manus;scelus;magnus;regnum;deus;animus;domus;pater;frater;peto;grauis;altus;mare;caput;saeuus;parens;os;pectus;natus;fides
+1.0,11,9,0,0.9995533227920532,Phoenissae;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes,2,manus;scelus;magnus;regnum;deus;frater;domus;pater;animus;peto;caput;grauis;altus;mare;saeuus;parens;caelum;pectus;natus;dies
+1.0,12,7,2,0.7198929190635681,Octavia;Hercules Oetaeus,0,manus;uinco;coniux;fera;orbis;dies;mors;caelum;fatum;astrum;terra;deus;malum;peto;saeuus;dirus;natus;pater;uultus;mater
+1.0,12,8,3,0.9995601773262024,,1,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;rabies;plebs;pons;triplex;pars;dignus;adulter;inferus
+1.0,12,9,2,0.9813238978385925,Octavia,0,princeps;saeuus;coniux;ciuis;thalamus;tyrannus;deus;uis;caedes;genus;tristis;dirus;fauor;genetrix;scelus;orbis;torus;uir;hostis;subicio
+1.0,13,7,2,0.9995683431625366,,4,lis;atrox;ordo;homo;finis;actus;plebs;pater;genus;deus;tollo;sinister;continuus;tyrannus;forum;anxius;triplex;pons;rabies;pars
+1.0,13,8,2,0.9995600581169128,,3,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;plebs;rabies;triplex;pons;pars;dignus;adulter;inferus
+1.0,13,9,2,0.9995534420013428,,2,lis;atrox;ordo;homo;finis;actus;genus;pater;deus;tollo;tyrannus;forum;plebs;rabies;triplex;pons;adulter;perennis;pars;dignus
+1.0,14,7,3,0.9930174946784973,Octavia,2,coniux;princeps;saeuus;thalamus;ira;caedes;uis;deus;dux;scelus;ciuis;genus;tyrannus;dirus;hostis;cedo;tristis;pater;peto;frater
+1.0,14,8,0,0.9995601177215576,,4,frater;fames;deus;atrox;pater;mensa;patruus;finis;lis;pars;deuoueo;sto;actus;nobilis;ordo;cibus;homo;genus;scelus;fides
+1.0,14,9,0,0.9995534420013428,,2,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;rabies;plebs;triplex;pons;pars;dignus;adulter;inferus
+1.0,15,7,5,0.9944261908531189,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Oedipus;Thyestes;Hercules Oetaeus,0,manus;magnus;deus;regnum;pater;scelus;peto;mater;mors;uinco;natus;malum;dies;timeo;terra;locus;teneo;animus;fatum;caelum
+1.0,15,8,5,0.9987380504608154,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes,0,manus;magnus;regnum;scelus;deus;pater;animus;peto;domus;altus;caput;frater;mare;mater;rex;os;timeo;bellum;grauis;natus
+1.0,15,9,5,0.6856939196586609,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes,0,magnus;manus;regnum;scelus;deus;pater;animus;domus;altus;caput;peto;frater;mare;mater;rex;os;timeo;grauis;bellum;parens
+1.0,16,7,4,0.606024444103241,Phaedra;Hercules Furens;Medea;Oedipus;Hercules Oetaeus,1,manus;caelum;terra;peto;dies;uinco;mors;locus;deus;pater;mater;regnum;scelus;natus;mundus;fatum;malum;fera;uultus;magnus
+1.0,16,8,7,0.9655826687812805,Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Hercules Oetaeus,1,manus;magnus;uinco;terra;deus;pater;dies;peto;caelum;mors;animus;locus;mater;natus;scelus;malum;fatum;timeo;regnum;rex
+1.0,16,9,7,0.6043969988822937,Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes;Hercules Oetaeus,1,manus;magnus;uinco;deus;dies;terra;peto;fatum;caelum;animus;scelus;natus;malum;coniux;uultus;regnum;pater;mors;grauis;timeo
+1.0,17,7,2,0.99956876039505,Phoenissae;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes,2,manus;scelus;magnus;regnum;deus;pater;frater;domus;animus;peto;caput;grauis;altus;saeuus;mare;parens;natus;pectus;caelum;os
+1.0,17,8,2,0.9995602369308472,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes,1,manus;magnus;scelus;regnum;deus;pater;animus;peto;domus;frater;grauis;saeuus;mare;altus;mater;parens;caput;natus;rex;pectus
+1.0,17,9,2,0.9995533227920532,Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes,1,manus;scelus;magnus;deus;regnum;domus;caput;animus;pater;grauis;frater;peto;mare;altus;caelum;saeuus;dies;os;coniux;natus
+1.0,18,7,1,0.9888807535171509,Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes,2,manus;magnus;scelus;regnum;deus;domus;caput;animus;pater;mare;altus;os;rex;ignis;peto;caelum;frater;grauis;nox;dies
+1.0,18,8,4,0.6895235180854797,Hercules Oetaeus,1,manus;fera;uinco;mors;terra;caelum;mundus;dies;orbis;astrum;herculeus;malum;teneo;mater;pater;natus;nouerca;fatum;miser;deus
+1.0,18,9,1,0.7599479556083679,Phoenissae;Troades;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes,3,manus;regnum;magnus;scelus;deus;pater;rex;caput;domus;animus;peto;mare;frater;timeo;altus;locus;dies;sto;natus;grauis
+1.0,19,7,3,0.9995690584182739,Phoenissae;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes;Hercules Oetaeus,1,manus;scelus;regnum;deus;magnus;pater;peto;dies;uinco;natus;malum;caelum;domus;animus;mater;terra;mors;grauis;caput;teneo
+1.0,19,8,3,0.9909380078315735,Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes;Hercules Oetaeus,2,manus;magnus;deus;scelus;regnum;pater;dies;peto;uinco;terra;natus;animus;malum;timeo;caelum;domus;mors;locus;rex;fatum
+1.0,19,9,3,0.999553382396698,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes;Hercules Oetaeus,0,manus;magnus;scelus;deus;regnum;pater;peto;dies;uinco;mater;natus;animus;malum;mors;terra;domus;caelum;fatum;timeo;saeuus
+1.0,20,7,6,0.9995681643486023,,4,deus;plebs;ordo;homo;lis;genus;caedes;finis;salus;pater;dignus;tyrannus;atrox;tollo;edoceo;altus;uis;iustus;strages;actus
+1.0,20,8,7,0.9995599985122681,Phoenissae;Phaedra;Agamemnon;Medea;Thyestes,3,scelus;frater;regnum;magnus;domus;pater;deus;animus;manus;mare;altus;ignis;malum;caput;fides;fugio;os;pectus;pars;teneo
+1.0,20,9,7,0.9995533227920532,Phoenissae;Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes;Hercules Oetaeus,0,manus;regnum;scelus;pater;magnus;deus;peto;mater;locus;natus;caput;domus;dies;caelum;animus;terra;teneo;frater;malum;mors
+1.0,21,7,1,0.9916369318962097,Phoenissae;Troades;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes;Hercules Oetaeus,2,manus;pater;magnus;regnum;scelus;deus;peto;mater;dies;natus;uinco;timeo;rex;malum;mors;terra;animus;fatum;caelum;locus
+1.0,21,8,1,0.9995601177215576,Phoenissae;Troades;Agamemnon;Hercules Furens;Medea;Octavia;Thyestes,1,manus;scelus;magnus;pater;frater;deus;regnum;animus;peto;domus;mare;bellum;saeuus;uinco;coniux;natus;mater;dies;ira;fides
+1.0,21,9,1,0.9995532631874084,Phoenissae;Troades;Agamemnon;Hercules Furens;Medea;Thyestes,2,manus;magnus;pater;scelus;regnum;deus;animus;frater;domus;mare;bellum;peto;natus;altus;uinco;mater;rex;dies;caput;timeo
+1.0,22,7,2,0.98403000831604,Octavia,0,princeps;saeuus;coniux;ciuis;thalamus;caedes;deus;uis;tyrannus;genetrix;dirus;hostis;genus;subicio;scelus;tristis;fauor;homo;dux;orbis
+1.0,22,8,2,0.9632461667060852,Octavia,0,princeps;saeuus;coniux;ciuis;thalamus;tyrannus;deus;uis;caedes;genus;dirus;genetrix;tristis;orbis;fauor;scelus;torus;subicio;hostis;homo
+1.0,22,9,2,0.9183923602104187,Octavia,1,princeps;saeuus;coniux;ciuis;thalamus;tyrannus;uis;deus;caedes;genus;dirus;genetrix;tristis;orbis;fauor;scelus;subicio;torus;hostis;homo
+1.0,23,7,1,0.9990067481994629,Phoenissae;Troades;Octavia,1,mater;saeuus;magnus;peto;pater;deus;bellum;manus;scelus;parens;frater;thalamus;metus;mors;poena;coniux;hostis;animus;dux;caedes
+1.0,23,8,1,0.9995601773262024,Octavia;Oedipus,0,saeuus;deus;parens;grauis;magnus;peto;scelus;thalamus;ciuis;manus;tristis;metus;altus;fatum;caedes;uis;nefandus;princeps;genus;coniux
+1.0,23,9,1,0.9995533227920532,Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus,1,manus;deus;scelus;magnus;saeuus;grauis;peto;parens;caput;altus;tristis;nouus;caelum;coniux;genus;pater;thalamus;domus;animus;regnum
+1.0,24,7,4,0.9995687007904053,Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Thyestes;Hercules Oetaeus,2,manus;magnus;scelus;uinco;dies;deus;pater;natus;regnum;animus;peto;terra;malum;domus;coniux;mors;caelum;teneo;miser;saeuus
+1.0,24,8,4,0.9995599985122681,Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia,2,manus;magnus;animus;scelus;deus;uinco;pater;coniux;peto;mare;domus;saeuus;regnum;dies;natus;grauis;terra;caelum;altus;mors
+1.0,24,9,4,0.9995533227920532,Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Thyestes;Hercules Oetaeus,2,manus;magnus;scelus;uinco;deus;animus;pater;domus;dies;regnum;natus;coniux;teneo;malum;peto;saeuus;mare;mors;terra;capio
+1.0,25,7,1,0.9967278242111206,Octavia,2,princeps;saeuus;coniux;tyrannus;caedes;deus;thalamus;uis;genus;tristis;ciuis;orbis;dirus;scelus;fauor;torus;grauis;fides;pater;genetrix
+1.0,25,8,1,0.9995598793029785,,4,lis;atrox;ordo;homo;finis;actus;plebs;pater;genus;deus;tollo;continuus;tyrannus;forum;series;rabies;triplex;pons;pars;dignus
+1.0,25,9,3,0.9995532631874084,Medea;Oedipus,3,manus;deus;caput;caelum;peto;nouus;genus;altus;pater;uia;rex;regnum;magnus;scelus;ira;certus;os;ignis;proles;moueo
+1.0,26,7,4,0.9995685815811157,,2,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;pons;triplex;rabies;plebs;adulter;pars;dignus;inferus
+1.0,26,8,3,0.9995599985122681,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Thyestes,2,magnus;scelus;manus;regnum;animus;deus;pater;frater;domus;peto;mare;saeuus;natus;mater;altus;grauis;uinco;dies;pectus;bellum
+1.0,26,9,3,0.9995531439781189,Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Hercules Oetaeus,0,manus;magnus;deus;uinco;peto;scelus;terra;pater;dies;caelum;fatum;animus;coniux;mors;natus;mater;regnum;uultus;malum;saeuus
+1.0,27,7,0,0.9995406866073608,Troades;Phaedra;Agamemnon;Thyestes;Hercules Oetaeus,2,manus;malum;dies;uinco;scelus;deus;teneo;terra;pater;magnus;mors;natus;regnum;fera;miser;timeo;caelum;locus;ignis;sto
+1.0,27,8,0,0.9995600581169128,Oedipus;Thyestes,2,deus;frater;magnus;altus;os;scelus;caput;pars;regnum;ignis;certus;moueo;nefas;ordo;pater;corpus;manus;sanguis;sto;uia
+1.0,27,9,0,0.9969945549964905,Octavia,1,princeps;saeuus;coniux;thalamus;deus;ciuis;caedes;uis;genus;tyrannus;orbis;tristis;dirus;genetrix;scelus;peto;grauis;parens;torus;fauor
+1.0,28,7,4,0.711033821105957,,2,lis;atrox;ordo;actus;finis;homo;tollo;pater;forum;triplex;pons;genus;adulter;rabies;inferus;deuoueo;desino;deus;pars;expeto
+1.0,28,8,2,0.9995601177215576,,3,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;plebs;rabies;triplex;pons;pars;dignus;adulter;inferus
+1.0,28,9,1,0.9995533227920532,Phoenissae;Troades;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes,2,manus;magnus;scelus;regnum;deus;pater;peto;frater;animus;domus;grauis;saeuus;caput;rex;mater;natus;mare;parens;altus;bellum
+1.0,29,7,0,0.9995689392089844,,2,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;triplex;pons;plebs;rabies;pars;adulter;dignus;inferus
+1.0,29,8,1,0.9122684597969055,Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes;Hercules Oetaeus,1,manus;magnus;scelus;deus;regnum;dies;peto;uinco;pater;animus;natus;terra;caelum;malum;domus;fatum;timeo;grauis;coniux;mors
+1.0,29,9,0,0.9995534420013428,,2,princeps;tyrannus;ciuis;subicio;homo;fauor;plebs;genus;uis;lis;finis;deus;genetrix;tollo;caedes;saeuus;pater;atrox;forum;ordo
+1.0,30,7,6,0.9995690584182739,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes,1,manus;magnus;scelus;regnum;deus;pater;animus;peto;domus;frater;grauis;saeuus;altus;mare;parens;caput;mater;natus;rex;pectus
+1.0,30,8,6,0.9995602965354919,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes,1,manus;magnus;scelus;regnum;deus;pater;peto;animus;domus;grauis;saeuus;natus;mater;parens;caput;frater;mare;dies;rex;altus
+1.0,30,9,6,0.9995533227920532,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Thyestes;Hercules Oetaeus,1,manus;scelus;magnus;pater;regnum;deus;uinco;dies;peto;natus;animus;mater;malum;mors;domus;terra;teneo;coniux;caelum;saeuus
+1.0,31,7,3,0.6095194220542908,Hercules Oetaeus,2,manus;uinco;fera;mors;mater;dies;terra;pater;astrum;caelum;malum;herculeus;teneo;fatum;mundus;miser;natus;orbis;peto;deus
+1.0,31,8,7,0.9995599389076233,,4,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;rabies;plebs;pons;triplex;pars;dignus;adulter;inferus
+1.0,31,9,6,0.999553382396698,,3,princeps;plebs;homo;lis;tyrannus;finis;genus;atrox;pons;iustitia;ultio;ordo;tollo;deus;pater;actus;forum;rabies;uis;recolo
+1.0,32,7,0,0.5826588869094849,Phoenissae;Medea;Oedipus;Thyestes,2,regnum;scelus;frater;magnus;manus;pater;deus;peto;mater;animus;rex;timeo;altus;ira;domus;nouus;natus;mare;bellum;ignis
+1.0,32,8,0,0.6864573955535889,Phoenissae;Medea;Octavia;Oedipus;Thyestes,1,scelus;frater;regnum;magnus;manus;deus;peto;saeuus;pater;ira;animus;poena;domus;grauis;fides;ferrum;mater;parens;natus;nouus
+1.0,32,9,2,0.9995533227920532,,2,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;rabies;plebs;pons;triplex;pars;dignus;adulter;inferus
+1.0,33,7,3,0.9936730861663818,Troades;Phaedra;Hercules Furens;Oedipus;Thyestes;Hercules Oetaeus,1,manus;deus;magnus;regnum;scelus;dies;terra;mors;natus;pater;teneo;malum;caelum;peto;locus;uinco;uultus;sto;os;fatum
+1.0,33,8,3,0.9495602250099182,Phaedra;Hercules Oetaeus,1,manus;fera;uinco;terra;mors;dies;caelum;teneo;malum;mundus;natus;deus;pater;orbis;astrum;scelus;uultus;mater;locus;genus
+1.0,33,9,3,0.9995534420013428,Thyestes,1,frater;deus;scelus;fames;pater;regnum;fides;pars;magnus;sto;domus;atrox;lis;teneo;nobilis;patruus;altus;rabies;mensa;os
+1.0,34,7,2,0.9928902387619019,Phaedra;Agamemnon;Medea;Oedipus;Thyestes,2,manus;deus;scelus;magnus;caput;regnum;domus;altus;ignis;mare;pater;animus;os;corpus;nouus;caelum;rex;nox;malus;regius
+1.0,34,8,2,0.9969072341918945,Phoenissae;Troades;Phaedra;Agamemnon;Medea;Oedipus;Thyestes,1,magnus;manus;scelus;regnum;deus;animus;pater;mare;altus;domus;peto;caput;ignis;frater;rex;os;mater;timeo;cado;grauis
+1.0,34,9,2,0.9995532631874084,Medea;Oedipus;Thyestes,2,frater;scelus;deus;regnum;magnus;manus;fides;altus;caput;pater;domus;nouus;ignis;peto;grauis;animus;metus;caedes;ira;ferrum
+1.0,35,7,6,0.9810154438018799,Phaedra;Hercules Furens;Medea;Oedipus;Hercules Oetaeus,2,manus;uinco;terra;caelum;mors;dies;pater;mater;peto;scelus;deus;locus;natus;malum;mundus;fera;magnus;coniux;uultus;genus
+1.0,35,8,6,0.9637693166732788,Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes;Hercules Oetaeus,1,manus;scelus;deus;pater;caelum;magnus;regnum;uinco;terra;peto;dies;malum;locus;caput;natus;mors;animus;domus;rex;mater
+1.0,35,9,0,0.9995533227920532,Thyestes,1,frater;scelus;deus;pater;fames;regnum;fides;pars;magnus;sto;domus;teneo;atrox;nefas;altus;nobilis;mensa;nolo;daps;finis
+1.0,36,7,2,0.9995686411857605,Phaedra,1,altus;magnus;furor;deus;os;genus;corpus;animus;uir;pars;scelus;pater;castus;ignis;mors;cura;manus;nefandus;teneo;ratis
+1.0,36,8,2,0.9995600581169128,Octavia,1,princeps;saeuus;coniux;uis;tyrannus;ciuis;genus;thalamus;deus;fauor;orbis;tristis;caedes;dirus;scelus;torus;subicio;extinguo;homo;frater
+1.0,36,9,2,0.9995534420013428,,1,lis;atrox;pons;ordo;homo;finis;actus;pater;genus;deus;tollo;fulgur;tyrannus;forum;plebs;rabies;triplex;adulter;pars;dignus
+1.0,37,7,4,0.995072066783905,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes,2,manus;magnus;regnum;scelus;deus;animus;pater;domus;caput;peto;mare;altus;rex;os;timeo;natus;locus;grauis;dies;ignis
+1.0,37,8,4,0.9966204166412354,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus,3,manus;magnus;deus;animus;pater;regnum;scelus;peto;mater;altus;mare;caput;rex;domus;os;grauis;mors;ignis;locus;timeo
+1.0,37,9,8,0.9995533227920532,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes,1,manus;magnus;scelus;regnum;deus;pater;animus;peto;domus;frater;grauis;saeuus;mare;altus;mater;natus;parens;caput;rex;dies
+1.0,38,7,4,0.9982172250747681,Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes;Hercules Oetaeus,0,manus;dies;scelus;deus;caelum;terra;regnum;magnus;uinco;pater;peto;natus;malum;locus;caput;domus;uultus;timeo;rex;mors
+1.0,38,8,4,0.999559760093689,Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Hercules Oetaeus,4,manus;caelum;deus;uinco;terra;peto;scelus;dies;pater;regnum;mors;magnus;natus;malum;mater;caput;fatum;uultus;locus;mundus
+1.0,38,9,4,0.8776477575302124,Hercules Furens;Hercules Oetaeus,2,manus;caelum;uinco;terra;dies;fera;mundus;mors;locus;pater;natus;teneo;malum;orbis;deus;tellus;astrum;telum;peto;labor
+1.0,39,7,5,0.999568521976471,Oedipus,2,deus;manus;fatum;ordo;peto;caput;altus;caelum;os;for;magnus;certus;genus;moueo;nouus;pater;ignis;pars;mater;senex
+1.0,39,8,7,0.9995600581169128,,3,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;plebs;rabies;pons;triplex;pars;dignus;adulter;inferus
+1.0,39,9,5,0.999553382396698,Oedipus,2,deus;manus;caput;certus;ordo;altus;peto;caelum;pater;fatum;moueo;os;nouus;pars;sanguis;sto;genus;for;ignis;atrox
+1.0,40,7,3,0.9995686411857605,,1,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;triplex;pons;plebs;rabies;pars;adulter;dignus;inferus
+1.0,40,8,5,0.9651481509208679,Phoenissae;Octavia,0,frater;saeuus;princeps;scelus;pater;ciuis;bellum;deus;parens;peto;mater;thalamus;uis;dux;coniux;tyrannus;pietas;poena;dirus;patria
+1.0,40,9,3,0.999553382396698,,3,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;plebs;rabies;triplex;pons;pars;dignus;adulter;inferus
+1.0,41,7,4,0.9995686411857605,,3,atrox;lis;deuoueo;actus;ordo;finis;deus;homo;fames;pater;genus;rabies;tollo;tyrannus;pars;ciuitas;excludo;cupidus;assuetus;anxius
+1.0,41,8,4,0.9691289067268372,Octavia,0,princeps;saeuus;coniux;thalamus;ciuis;caedes;tyrannus;deus;uis;genus;dirus;genetrix;fauor;tristis;orbis;hostis;scelus;subicio;homo;torus
+1.0,41,9,1,0.9755788445472717,Phoenissae;Phaedra;Agamemnon;Hercules Furens;Medea;Octavia;Oedipus;Thyestes,2,manus;scelus;magnus;regnum;deus;pater;frater;domus;peto;animus;caput;grauis;altus;saeuus;mare;parens;natus;dies;pectus;caelum
+1.0,42,7,0,0.975864827632904,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes,2,manus;magnus;regnum;scelus;deus;pater;animus;peto;domus;altus;caput;mare;mater;frater;rex;natus;timeo;os;grauis;locus
+1.0,42,8,0,0.9995601177215576,Phoenissae;Troades;Phaedra;Hercules Furens;Medea;Octavia;Oedipus;Thyestes;Hercules Oetaeus,1,manus;peto;scelus;deus;regnum;magnus;pater;mater;natus;dies;mors;saeuus;terra;uinco;caelum;fatum;parens;malum;teneo;uultus
+1.0,42,9,0,0.9995533227920532,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Octavia;Oedipus;Thyestes;Hercules Oetaeus,1,manus;scelus;deus;magnus;regnum;pater;peto;uinco;dies;malum;natus;domus;mors;caelum;mater;terra;animus;teneo;grauis;saeuus
+1.0,43,7,6,0.998969316482544,Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes,3,magnus;manus;deus;animus;altus;mare;regnum;scelus;caput;pater;domus;peto;os;grauis;rex;cado;ignis;mater;metus;iaceo
+1.0,43,8,7,0.9995600581169128,Phoenissae;Phaedra;Hercules Furens;Medea;Oedipus;Thyestes,2,manus;regnum;scelus;magnus;deus;pater;peto;frater;mater;caput;natus;altus;domus;os;locus;pars;saeuus;pectus;parens;animus
+1.0,43,9,6,0.999553382396698,,2,lis;atrox;actus;triplex;ordo;homo;finis;pater;genus;deus;tollo;tyrannus;adulter;forum;plebs;rabies;pons;inferus;pars;dignus
+1.0,44,7,0,0.9995685815811157,Phoenissae,2,frater;pater;mater;bellum;scelus;deus;peto;regnum;pars;manus;mors;arma;lis;altus;uolo;atrox;pax;teneo;nefas;parens
+1.0,44,8,7,0.9995601773262024,Phoenissae,2,pater;mater;frater;bellum;scelus;deus;peto;regnum;mors;manus;pars;arma;altus;lis;uolo;parens;pax;nego;teneo;homo
+1.0,44,9,7,0.999553382396698,,1,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;rabies;plebs;triplex;pons;pars;dignus;adulter;inferus
+1.0,45,7,5,0.9995470643043518,Oedipus,3,deus;ordo;caput;altus;certus;pater;manus;nouus;for;peto;moueo;genus;caelum;lis;pars;os;senex;sanguis;fatum;ignis
+1.0,45,8,5,0.9964095950126648,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Thyestes,0,manus;magnus;deus;regnum;pater;scelus;animus;caput;peto;mare;locus;rex;altus;domus;caelum;os;ignis;terra;mater;corpus
+1.0,45,9,5,0.999553382396698,,1,ordo;lis;deus;atrox;pater;finis;edoceo;genus;homo;actus;desino;tollo;strages;certus;dignus;pars;allido;aduncus;nego;inferus
+1.0,46,7,5,0.9995683431625366,,3,lis;homo;atrox;finis;ordo;forum;genus;actus;pater;deus;tollo;tyrannus;rabies;recolo;praepotens;plebs;pons;dignus;triplex;iustus
+1.0,46,8,5,0.9995601177215576,,1,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;rabies;plebs;pons;triplex;pars;dignus;adulter;inferus
+1.0,46,9,1,0.5183091163635254,Phoenissae,1,frater;pater;bellum;mater;scelus;regnum;peto;arma;deus;manus;uolo;nefas;mors;magnus;parens;pars;pax;ago;teneo;arceo
+1.0,47,7,4,0.8393467664718628,Phoenissae;Troades;Phaedra;Agamemnon;Hercules Furens;Medea;Oedipus;Hercules Oetaeus,0,manus;mater;magnus;peto;pater;mors;deus;regnum;uinco;scelus;terra;natus;fatum;caelum;locus;dies;timeo;animus;malum;rex
+1.0,47,8,4,0.9995601177215576,Phoenissae;Troades;Phaedra;Hercules Furens;Medea;Octavia;Oedipus,1,manus;magnus;scelus;deus;peto;mater;pater;animus;saeuus;regnum;parens;altus;grauis;mors;bellum;coniux;mare;natus;domus;pectus
+1.0,47,9,4,0.9729918241500854,Octavia,0,princeps;saeuus;coniux;ciuis;thalamus;tyrannus;deus;uis;caedes;genus;dirus;genetrix;tristis;scelus;orbis;fauor;subicio;frater;torus;hostis
+1.0,48,7,5,0.9977920651435852,Hercules Furens;Thyestes;Hercules Oetaeus,1,manus;dies;uinco;pater;deus;natus;terra;mors;sto;teneo;caelum;locus;malum;fera;miser;peto;timeo;magnus;mundus;regnum
+1.0,48,8,5,0.9811416268348694,Phaedra;Hercules Furens;Medea;Octavia;Oedipus;Thyestes,2,manus;scelus;magnus;deus;regnum;peto;saeuus;domus;animus;caelum;dies;grauis;pater;os;caput;natus;coniux;ira;ignis;uultus
+1.0,48,9,8,0.9995532631874084,Hercules Furens;Oedipus;Thyestes,2,deus;regnum;scelus;caput;frater;magnus;manus;domus;os;altus;pater;sto;pars;uia;labor;certus;locus;caelum;ignis;teneo
+1.0,49,7,2,0.9995688796043396,,2,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;pons;triplex;plebs;rabies;adulter;pars;dignus;inferus
+1.0,49,8,5,0.9995602369308472,,2,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;rabies;plebs;pons;triplex;pars;dignus;adulter;inferus
+1.0,49,9,8,0.999553382396698,,2,lis;atrox;ordo;homo;finis;actus;pater;genus;deus;tollo;tyrannus;forum;plebs;rabies;pons;triplex;pars;dignus;adulter;inferus
+1.0+tfidf,0,7,1,0.9991794228553772,Troades,1,danai;lis;bustum;tumulus;hectoreus;astus;atrox;pelasgus;accido;continuus;sinister;tundo;captiuus;plebs;spons;condio;classis;triplex;pons;actus
+1.0+tfidf,0,8,1,0.9991627931594849,Troades;Phaedra,4,danai;lis;bustum;tumulus;astus;accido;modero;hectoreus;supernus;atrox;misereor;murmuro;pelasgus;ordo;continuus;tundo;fastigium;sinister;auspicium;acuo
+1.0+tfidf,0,9,8,0.9991500973701477,Phaedra,4,lis;supernus;castus;largus;adulter;coeptum;ordo;atrox;fretus;pulcher;modero;pudicus;iuuenta;corniger;triplex;pons;ambiguus;ritus;filum;actus
+1.0+tfidf,1,7,0,0.9991790652275085,Phoenissae;Troades,2,danai;lis;bustum;tumulus;eruo;condio;captiuus;hectoreus;astus;atrox;pelasgus;accido;continuus;tundo;interpres;sinister;plebs;iudex;desino;graii
+1.0+tfidf,1,8,6,0.9991632103919983,,6,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;ciuitas;praepotens;excludo;sinister;continuus;fulgur;allido;frendo;recolo;rabies;supernus
+1.0+tfidf,1,9,8,0.9991501569747925,,5,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;fulgur;allido;excludo;ciuitas;praepotens;sinister;frendo;recolo;continuus;rabies;supernus
+1.0+tfidf,2,7,6,0.9991790652275085,Octavia,1,princeps;lis;plebs;interimo;fauor;forum;romanus;praepotens;recolo;subicio;aula;atrox;extruo;consensus;pons;triplex;nutus;polluo;rabies;actus
+1.0+tfidf,2,8,6,0.9991629719734192,Octavia,3,princeps;lis;plebs;interimo;fauor;forum;romanus;praepotens;recolo;subicio;aula;atrox;extruo;consensus;pons;triplex;nutus;polluo;rabies;actus
+1.0+tfidf,2,9,1,0.9645973443984985,,7,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;allido;excludo;frendo;fulgur;sinister;ciuitas;continuus;recolo;praepotens;rabies;supernus
+1.0+tfidf,3,7,0,0.999178946018219,Troades;Medea,2,danai;lis;tumulus;pelasgus;bustum;accido;colchus;pons;ultio;pelasgi;hectoreus;peruro;astus;atrox;sinister;continuus;tundo;fulgur;captiuus;plebs
+1.0+tfidf,3,8,0,0.9991629719734192,,3,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;recolo;praepotens;sinister;continuus;excludo;frendo;allido;ciuitas;fulgur;rabies;supernus
+1.0+tfidf,3,9,0,0.9991498589515686,Troades;Octavia,6,princeps;danai;lis;plebs;bustum;tumulus;fauor;hectoreus;interimo;classis;astus;aula;subicio;atrox;pelasgus;accido;forum;recolo;sinister;continuus
+1.0+tfidf,4,7,1,0.9991790652275085,Medea;Oedipus,2,lis;edoceo;pons;ultio;mortifer;paeniteo;cognatus;aduncus;allido;fulgur;uireo;ambitus;desino;ordo;atrox;candidus;redimio;uestigium;triplex;strages
+1.0+tfidf,4,8,4,0.9991630911827087,,6,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;sinister;fulgur;allido;frendo;praepotens;excludo;continuus;recolo;ciuitas;rabies;supernus
+1.0+tfidf,4,9,4,0.9991500973701477,Agamemnon,3,lis;triplex;actus;danai;adulter;amicus;atrox;classis;pons;prora;pelopius;consors;deuoueo;epulae;iliacus;forum;filia;certamen;dubium;corono
+1.0+tfidf,5,7,3,0.9991793036460876,Phoenissae,1,lis;desino;atrox;pons;triplex;actus;deuoueo;forum;coepio;propago;ostento;exulo;plebs;remissus;mensis;thebanus;aequum;hasta;sinister;continuus
+1.0+tfidf,5,8,3,0.9991630911827087,Phoenissae;Thyestes,2,mensa;lis;deuoueo;atrox;uinum;mensis;excludo;ciuitas;cupidus;assuetus;aequalis;actus;cibus;compono;desino;exagito;pons;triplex;anxius;uoluptas
+1.0+tfidf,5,9,3,0.9991500377655029,Phoenissae;Octavia,4,princeps;lis;plebs;interimo;subicio;fauor;forum;recolo;praepotens;romanus;castra;desino;aula;atrox;triplex;pons;consensus;extruo;nutus;actus
+1.0+tfidf,6,7,6,0.9991791844367981,,5,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;ciuitas;frendo;excludo;fulgur;allido;recolo;sinister;continuus;praepotens;rabies;supernus
+1.0+tfidf,6,8,7,0.9991630911827087,Troades;Thyestes,2,danai;lis;bustum;mensa;tumulus;deuoueo;atrox;demitto;hectoreus;uinum;classis;astus;anxius;pelasgus;accido;continuus;sinister;tundo;excludo;ciuitas
+1.0+tfidf,6,9,7,0.9991500973701477,Phoenissae;Hercules Furens;Medea,2,serpens;lis;mano;thebanus;forum;pons;requies;ultio;succurro;aspectus;inferi;ferax;peruro;pestifer;atrox;innocuus;amplector;remissus;spolio;frendo
+1.0+tfidf,7,7,6,0.9991790652275085,Agamemnon;Octavia,3,princeps;lis;plebs;triplex;interimo;classis;nutus;fauor;forum;resido;romanus;recolo;praepotens;actus;aula;subicio;uictrix;danai;adulter;tyrannus
+1.0+tfidf,7,8,3,0.9991630911827087,,2,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;fulgur;excludo;ciuitas;praepotens;continuus;recolo;sinister;allido;frendo;rabies;supernus
+1.0+tfidf,7,9,6,0.9991501569747925,Octavia;Thyestes,3,princeps;mensa;lis;deuoueo;plebs;atrox;fauor;consensus;renouo;interimo;uinum;uoluptas;nutus;forum;romanus;recolo;praepotens;firmo;posteritas;ciuitas
+1.0+tfidf,8,7,5,0.999178946018219,Thyestes,4,mensa;lis;deuoueo;atrox;uinum;ciuitas;excludo;assuetus;cupidus;actus;cibus;exagito;pons;triplex;anxius;uoluptas;amputo;patruus;rabies;stagnum
+1.0+tfidf,8,8,5,0.9991632103919983,Octavia;Thyestes,1,princeps;mensa;lis;deuoueo;plebs;atrox;fauor;renouo;consensus;uinum;interimo;uoluptas;nutus;forum;ciuitas;excludo;recolo;egestas;assuetus;praepotens
+1.0+tfidf,8,9,5,0.9991501569747925,,1,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;ciuitas;excludo;allido;recolo;fulgur;frendo;praepotens;sinister;continuus;rabies;supernus
+1.0+tfidf,9,7,3,0.9991791844367981,Phaedra;Thyestes,3,lis;mensa;deuoueo;atrox;anxius;intactus;astus;demitto;coeptum;cibus;ordo;supernus;patruus;sagax;murmuro;uinum;ciuitas;excludo;continuus;sinister
+1.0+tfidf,9,8,3,0.9991629719734192,Phaedra;Thyestes,4,mensa;lis;deuoueo;atrox;intactus;coeptum;cibus;uinum;supernus;anxius;sagax;ordo;ciuitas;excludo;assuetus;cupidus;ebur;splendidus;peruerto;actus
+1.0+tfidf,9,9,3,0.9991500377655029,Hercules Furens;Thyestes,4,mensa;lis;deuoueo;mano;atrox;forum;fundus;requies;inferi;exagito;actus;cibus;aspectus;potior;compono;culmen;uinum;ferax;neruus;anxius
+1.0+tfidf,10,7,0,0.9991795420646667,,4,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;recolo;praepotens;allido;fulgur;sinister;continuus;excludo;frendo;ciuitas;rabies;supernus
+1.0+tfidf,10,8,0,0.9991630911827087,Phoenissae,2,lis;desino;atrox;pons;triplex;actus;deuoueo;forum;ostento;exulo;coepio;propago;plebs;mensis;remissus;aequum;hasta;thebanus;fulgur;recolo
+1.0+tfidf,10,9,0,0.9991501569747925,,4,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;fulgur;recolo;allido;praepotens;sinister;continuus;frendo;excludo;ciuitas;rabies;supernus
+1.0+tfidf,11,7,0,0.999178946018219,Medea,4,lis;ultio;pons;peruro;colchus;fulgur;atrox;furiosus;triplex;paeniteo;actus;deuoueo;forum;confligo;ducto;praeuius;incoho;puellaris;ultrix;adulter
+1.0+tfidf,11,8,7,0.999163031578064,Phaedra;Octavia;Hercules Oetaeus,2,princeps;maereo;altrix;nouerca;lis;aula;orbis;plebs;caelestis;herculeus;fauor;uindex;colus;paelex;castus;axis;femina;amo;famula;iuuenta
+1.0+tfidf,11,9,0,0.4889855682849884,Agamemnon;Medea,2,lis;furiosus;ultio;pons;triplex;peruro;paeniteo;adulter;colchus;nequitia;auspicor;fulgur;danai;pelasgi;latro;freno;classis;pelopius;prora;amicus
+1.0+tfidf,12,7,4,0.999178946018219,Phaedra;Agamemnon;Oedipus;Thyestes,4,mensa;lis;largus;curuus;uates;deuoueo;epulae;uinum;incubo;nuntius;cibus;castus;daps;supernus;ambiguus;ordo;adulter;ratio;bos;frenum
+1.0+tfidf,12,8,4,0.999163031578064,Phaedra;Agamemnon;Oedipus;Thyestes,3,mensa;lis;deuoueo;uinum;epulae;incubo;nuntius;supernus;ambiguus;ordo;largus;curuus;adulter;ratio;bos;frenum;castus;daps;strages;consors
+1.0+tfidf,12,9,4,0.9991502165794373,Phoenissae;Phaedra;Thyestes,2,mensa;lis;deuoueo;uinum;castus;atrox;intactus;adulter;frenum;amo;pudicus;insanus;coeptum;cibus;actus;triplex;compono;incubo;dirigo;supernus
+1.0+tfidf,13,7,3,0.9991790652275085,Phoenissae;Octavia,2,princeps;lis;plebs;interimo;subicio;fauor;forum;romanus;praepotens;recolo;castra;desino;aula;atrox;pons;consensus;extruo;triplex;nutus;actus
+1.0+tfidf,13,8,3,0.9991631507873535,Phaedra;Octavia,2,princeps;lis;plebs;fauor;iuuenta;pulcher;subicio;castus;interimo;aula;laqueus;supernus;incestus;perennis;funebris;forum;romanus;praepotens;fascis;recolo
+1.0+tfidf,13,9,8,0.9991501569747925,,5,lis;atrox;sinister;continuus;plebs;triplex;pons;actus;deuoueo;forum;prorumpo;reuiuo;extollo;seduco;dolosus;maleficus;murmuro;ordo;anxius;desino
+1.0+tfidf,14,7,0,0.9991791844367981,Octavia,2,princeps;lis;plebs;interimo;fauor;forum;romanus;praepotens;recolo;subicio;aula;atrox;pons;triplex;consensus;extruo;nutus;polluo;actus;rabies
+1.0+tfidf,14,8,0,0.9991630911827087,Octavia,1,princeps;lis;plebs;interimo;fauor;forum;romanus;praepotens;recolo;subicio;aula;atrox;triplex;pons;consensus;extruo;nutus;actus;rabies;polluo
+1.0+tfidf,14,9,0,0.9991502165794373,Octavia,2,princeps;lis;plebs;interimo;fauor;forum;romanus;praepotens;recolo;subicio;aula;atrox;consensus;extruo;triplex;pons;nutus;polluo;rabies;actus
+1.0+tfidf,15,7,4,0.9991794228553772,,5,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;praepotens;recolo;excludo;ciuitas;sinister;allido;continuus;fulgur;frendo;rabies;supernus
+1.0+tfidf,15,8,7,0.9991632103919983,,2,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;ciuitas;fulgur;praepotens;frendo;continuus;recolo;allido;sinister;excludo;rabies;supernus
+1.0+tfidf,15,9,7,0.999150276184082,,3,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;ciuitas;excludo;praepotens;fulgur;continuus;recolo;sinister;allido;frendo;rabies;supernus
+1.0+tfidf,16,7,4,0.9991794228553772,,3,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;continuus;sinister;excludo;frendo;allido;ciuitas;fulgur;recolo;praepotens;rabies;supernus
+1.0+tfidf,16,8,5,0.8170621395111084,,3,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;allido;frendo;sinister;continuus;ciuitas;excludo;fulgur;praepotens;recolo;rabies;ordo
+1.0+tfidf,16,9,5,0.9991501569747925,,5,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;allido;sinister;frendo;continuus;praepotens;fulgur;ciuitas;recolo;excludo;rabies;supernus
+1.0+tfidf,17,7,5,0.9991791844367981,,5,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;frendo;allido;fulgur;continuus;ciuitas;excludo;recolo;praepotens;sinister;rabies;supernus
+1.0+tfidf,17,8,2,0.7387276887893677,Troades;Oedipus,3,danai;lis;tumulus;bustum;uates;edoceo;hectoreus;cauus;astus;pelasgus;accido;atrox;ueritas;aduncus;tundo;continuus;sinister;allido;ordo;captiuus
+1.0+tfidf,17,9,5,0.9991500973701477,Thyestes,4,mensa;lis;deuoueo;atrox;uinum;ciuitas;excludo;assuetus;cupidus;actus;cibus;exagito;pons;triplex;anxius;amputo;uoluptas;patruus;rabies;stagnum
+1.0+tfidf,18,7,0,0.9991790056228638,Phaedra;Medea;Hercules Oetaeus,2,altrix;uirus;serpens;nouerca;amo;herculeus;paelex;lis;langueo;axis;maereo;pontus;rigidus;tepidus;colus;cantus;colchus;pons;uago;ultio
+1.0+tfidf,18,8,0,0.9991630911827087,,2,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;fulgur;excludo;allido;recolo;frendo;praepotens;continuus;sinister;ciuitas;rabies;supernus
+1.0+tfidf,18,9,0,0.9991502165794373,Phaedra;Hercules Oetaeus,0,altrix;uirus;nouerca;amo;lis;herculeus;paelex;axis;langueo;maereo;rigidus;tepidus;colus;serpens;uago;pons;pontus;ultio;cantus;inuado
+1.0+tfidf,19,7,0,0.9991794228553772,,3,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;frendo;fulgur;praepotens;recolo;ciuitas;excludo;allido;continuus;sinister;rabies;supernus
+1.0+tfidf,19,8,7,0.9991632103919983,,2,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;recolo;praepotens;excludo;continuus;sinister;frendo;fulgur;allido;ciuitas;rabies;supernus
+1.0+tfidf,19,9,8,0.9991501569747925,,4,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;fulgur;allido;frendo;sinister;continuus;praepotens;recolo;ciuitas;excludo;rabies;supernus
+1.0+tfidf,20,7,6,0.9991793036460876,,3,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;ciuitas;excludo;frendo;continuus;fulgur;allido;recolo;sinister;praepotens;rabies;supernus
+1.0+tfidf,20,8,6,0.9991629719734192,Thyestes,3,mensa;lis;deuoueo;atrox;uinum;ciuitas;excludo;cupidus;assuetus;actus;cibus;exagito;pons;triplex;anxius;amputo;uoluptas;rabies;patruus;stagnum
+1.0+tfidf,20,9,6,0.9991500973701477,Troades;Oedipus;Thyestes,5,lis;bustum;mensa;deuoueo;atrox;tumulus;uates;edoceo;expauesco;uestigium;demitto;ueru;ordo;uinum;cauus;astus;strages;anxius;regio;ululo
+1.0+tfidf,21,7,0,0.9991798996925354,,2,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;continuus;excludo;frendo;praepotens;ciuitas;sinister;fulgur;recolo;allido;rabies;supernus
+1.0+tfidf,21,8,6,0.9991633296012878,,4,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;allido;praepotens;recolo;ciuitas;fulgur;sinister;excludo;frendo;continuus;rabies;supernus
+1.0+tfidf,21,9,0,0.9991504549980164,Octavia,1,princeps;lis;plebs;interimo;fauor;forum;praepotens;romanus;recolo;subicio;aula;atrox;extruo;consensus;triplex;pons;nutus;polluo;rabies;actus
+1.0+tfidf,22,7,2,0.9991787075996399,Hercules Furens;Thyestes,2,mensa;lis;deuoueo;mano;atrox;inferi;forum;requies;fundus;exagito;actus;ferax;uinum;aspectus;excludo;frendo;ciuitas;assuetus;cupidus;flammifer
+1.0+tfidf,22,8,2,0.9991629719734192,Hercules Furens,3,lis;mano;forum;requies;inferi;ferax;atrox;frendo;actus;fundus;pons;triplex;ternus;succurro;innocuus;deuoueo;inicio;fluuius;harundo;plebs
+1.0+tfidf,22,9,2,0.9991499781608582,Hercules Furens;Thyestes,3,mensa;lis;deuoueo;mano;atrox;inferi;forum;requies;fundus;exagito;actus;uinum;ferax;excludo;ciuitas;frendo;cupidus;assuetus;flammifer;cibus
+1.0+tfidf,23,7,1,0.9991795420646667,,3,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;sinister;continuus;allido;praepotens;recolo;excludo;fulgur;ciuitas;frendo;rabies;supernus
+1.0+tfidf,23,8,1,0.9991630911827087,,4,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;excludo;recolo;allido;ciuitas;praepotens;continuus;sinister;fulgur;frendo;rabies;supernus
+1.0+tfidf,23,9,1,0.9991501569747925,,3,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;excludo;ciuitas;continuus;allido;sinister;praepotens;fulgur;recolo;frendo;rabies;supernus
+1.0+tfidf,24,7,3,0.9991793036460876,Phoenissae;Agamemnon;Octavia,1,princeps;lis;plebs;triplex;hasta;interimo;classis;subicio;nutus;fauor;forum;resido;romanus;recolo;praepotens;actus;aula;danai;uictrix;acies
+1.0+tfidf,24,8,3,0.9991629719734192,Octavia,3,princeps;lis;plebs;interimo;fauor;forum;romanus;recolo;praepotens;subicio;aula;atrox;extruo;consensus;pons;triplex;nutus;rabies;polluo;actus
+1.0+tfidf,24,9,3,0.9991499781608582,Agamemnon;Octavia,2,princeps;lis;plebs;triplex;interimo;classis;nutus;fauor;forum;resido;romanus;recolo;praepotens;actus;aula;subicio;danai;uictrix;adulter;tyrannus
+1.0+tfidf,25,7,0,0.9991790652275085,Octavia;Oedipus,3,princeps;lis;interimo;plebs;incestus;extruo;edoceo;fauor;forum;praepotens;romanus;recolo;allido;aduncus;subicio;desino;ordo;salus;aula;atrox
+1.0+tfidf,25,8,0,0.9991629123687744,Troades;Agamemnon;Hercules Furens,3,danai;classis;lis;bustum;tumulus;iliacus;hectoreus;ferax;mano;captiuus;forum;atrox;triplex;argiuus;requies;actus;iudex;astus;laetor;decorus
+1.0+tfidf,25,9,1,0.9991500377655029,,2,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;frendo;allido;fulgur;ciuitas;excludo;continuus;sinister;recolo;praepotens;rabies;supernus
+1.0+tfidf,26,7,2,0.9991793632507324,Phaedra;Hercules Furens;Oedipus;Thyestes,0,mensa;lis;ordo;deuoueo;mano;atrox;abscondo;incubo;reditus;supernus;ritus;inferi;bos;aspectus;largus;citus;forum;curuus;sanus;requies
+1.0+tfidf,26,8,2,0.9991632699966431,Phoenissae;Hercules Furens;Thyestes,0,mensa;thebanus;aspectus;lis;deuoueo;mano;atrox;inferi;compono;forum;requies;succurro;pestifer;fundus;exagito;actus;ferax;uinum;remissus;mensis
+1.0+tfidf,26,9,2,0.9991500377655029,Hercules Furens;Thyestes,4,mensa;aspectus;lis;compono;deuoueo;mano;atrox;forum;requies;fundus;ternus;abscondo;succurro;exagito;actus;cibus;neruus;antrum;potior;culmen
+1.0+tfidf,27,7,6,0.9991794228553772,,3,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;allido;continuus;recolo;fulgur;sinister;praepotens;excludo;ciuitas;frendo;rabies;supernus
+1.0+tfidf,27,8,6,0.9991632103919983,,3,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;ciuitas;excludo;continuus;allido;sinister;recolo;fulgur;praepotens;frendo;rabies;supernus
+1.0+tfidf,27,9,6,0.9991501569747925,,3,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;excludo;ciuitas;allido;continuus;fulgur;recolo;sinister;praepotens;frendo;rabies;supernus
+1.0+tfidf,28,7,5,0.999178409576416,Hercules Furens;Medea;Hercules Oetaeus,3,serpens;herculeus;uirus;inferi;claua;paelex;colus;lis;nouerca;langueo;mano;centaurus;fulmino;harundo;glacialis;maereo;lernaeus;cantus;axis;forum
+1.0+tfidf,28,8,5,0.9991627931594849,Medea;Hercules Oetaeus,3,uirus;serpens;paelex;lis;herculeus;langueo;maereo;colus;axis;cantus;pons;ultio;nouerca;peruro;succido;promo;inhibeo;inuado;nupta;nubo
+1.0+tfidf,28,9,5,0.9991502165794373,Medea,3,lis;ultio;pons;peruro;colchus;fulgur;atrox;furiosus;triplex;paeniteo;actus;deuoueo;forum;puellaris;ducto;confligo;praeuius;incoho;ultrix;adulter
+1.0+tfidf,29,7,6,0.9991785883903503,Phaedra;Thyestes,4,mensa;lis;deuoueo;atrox;intactus;coeptum;cibus;uinum;supernus;frenum;castus;anxius;sagax;ordo;ciuitas;excludo;splendidus;peruerto;ebur;assuetus
+1.0+tfidf,29,8,6,0.9991632103919983,Thyestes,0,mensa;lis;deuoueo;atrox;uinum;ciuitas;excludo;cupidus;assuetus;actus;cibus;exagito;pons;triplex;anxius;patruus;rabies;stagnum;forum;exardesco
+1.0+tfidf,29,9,3,0.9991502165794373,Octavia,2,princeps;lis;plebs;interimo;fauor;forum;praepotens;recolo;romanus;subicio;aula;atrox;triplex;pons;consensus;extruo;nutus;rabies;actus;polluo
+1.0+tfidf,30,7,1,0.9991794228553772,,2,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;sinister;allido;continuus;ciuitas;praepotens;frendo;recolo;excludo;fulgur;rabies;supernus
+1.0+tfidf,30,8,1,0.9991630911827087,,5,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;allido;sinister;ciuitas;continuus;praepotens;frendo;excludo;recolo;fulgur;rabies;supernus
+1.0+tfidf,30,9,5,0.9991500973701477,Phoenissae;Hercules Oetaeus,1,lis;reposco;herculeus;maereo;colus;proicio;uirus;axis;serpens;paelex;inhibeo;anus;nouerca;defigo;semifer;deprecor;resilio;rabies;damno;inuado
+1.0+tfidf,31,7,6,0.9991794228553772,Hercules Furens;Octavia,1,princeps;lis;forum;mano;plebs;inferi;requies;polluo;fauor;interimo;ferax;subicio;atrox;tyrannus;terribilis;illustris;recolo;frendo;praepotens;romanus
+1.0+tfidf,31,8,6,0.9991629123687744,Octavia;Hercules Oetaeus,3,princeps;maereo;lis;plebs;caelestis;herculeus;paelex;colus;nouerca;aula;orbis;uirus;rabies;axis;uindex;uolucris;interimo;tyrannus;fauor;forum
+1.0+tfidf,31,9,6,0.9991502165794373,Hercules Oetaeus,2,maereo;lis;herculeus;colus;paelex;uirus;rabies;nouerca;axis;caelestis;plebs;uindex;resilio;recolo;praepotens;inuado;damno;altrix;nupta;superstes
+1.0+tfidf,32,7,2,0.9991793036460876,Troades;Agamemnon,2,danai;classis;lis;tumulus;pelasgus;pelasgi;bustum;hectoreus;iliacus;captiuus;accido;triplex;pons;ultio;adulter;astus;atrox;sinister;continuus;tundo
+1.0+tfidf,32,8,2,0.9991630911827087,Troades;Octavia,3,princeps;danai;lis;plebs;bustum;tumulus;fauor;interimo;hectoreus;classis;astus;aula;subicio;atrox;pelasgus;forum;accido;praepotens;sinister;continuus
+1.0+tfidf,32,9,2,0.9991499781608582,Troades;Octavia,3,princeps;danai;lis;plebs;bustum;tumulus;fauor;interimo;hectoreus;classis;astus;aula;subicio;atrox;pelasgus;forum;accido;praepotens;recolo;romanus
+1.0+tfidf,33,7,2,0.9991788268089294,Agamemnon,3,lis;triplex;danai;atrox;actus;classis;plebs;adulter;amicus;furtiuus;iliacus;pelopius;prora;pons;consors;epulae;deuoueo;forum;corono;filia
+1.0+tfidf,33,8,2,0.9991628527641296,,5,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;recolo;sinister;praepotens;fulgur;ciuitas;frendo;excludo;continuus;allido;rabies;supernus
+1.0+tfidf,33,9,2,0.9991500973701477,Agamemnon,3,lis;triplex;actus;danai;adulter;amicus;atrox;classis;pons;pelopius;prora;consors;iliacus;deuoueo;epulae;forum;corono;certamen;dubium;filia
+1.0+tfidf,34,7,6,0.999178946018219,Troades;Agamemnon;Octavia,3,danai;princeps;classis;lis;bustum;plebs;tumulus;hectoreus;iliacus;atrox;fauor;captiuus;turris;aula;nutus;triplex;subicio;condio;actus;claro
+1.0+tfidf,34,8,6,0.9991628527641296,Troades,5,danai;lis;bustum;tumulus;hectoreus;astus;atrox;pelasgus;accido;continuus;sinister;tundo;captiuus;plebs;spons;condio;classis;triplex;pons;actus
+1.0+tfidf,34,9,6,0.9991502165794373,,2,lis;triplex;actus;atrox;pons;prora;pelopius;consors;adulter;amicus;deuoueo;forum;filia;corono;certamen;dubium;epulae;plebs;secedo;mendax
+1.0+tfidf,35,7,2,0.9991790652275085,Agamemnon,3,lis;triplex;actus;danai;adulter;amicus;atrox;classis;prora;pelopius;pons;consors;deuoueo;iliacus;epulae;forum;certamen;filia;dubium;corono
+1.0+tfidf,35,8,2,0.9991629719734192,Agamemnon,3,lis;triplex;actus;danai;adulter;amicus;atrox;classis;prora;pelopius;pons;consors;iliacus;epulae;deuoueo;forum;certamen;dubium;filia;corono
+1.0+tfidf,35,9,2,0.9991500973701477,Agamemnon,2,lis;triplex;prora;mendax;allido;fatigo;decimus;actus;danai;consors;adulter;amicus;desino;atrox;classis;pelopius;pons;supernus;adduco;edoceo
+1.0+tfidf,36,7,1,0.9991790652275085,Phoenissae;Thyestes,3,mensa;lis;deuoueo;atrox;mensis;excludo;ciuitas;assuetus;aequalis;cupidus;cibus;actus;uinum;desino;pons;triplex;exagito;anxius;compono;uoluptas
+1.0+tfidf,36,8,1,0.9991629719734192,,4,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;sinister;continuus;praepotens;recolo;excludo;fulgur;allido;ciuitas;frendo;rabies;supernus
+1.0+tfidf,36,9,2,0.9991500973701477,Agamemnon;Hercules Furens,1,lis;mano;inferi;forum;triplex;requies;actus;ferax;atrox;frendo;emo;classis;danai;adulter;amicus;draco;pelopius;prora;pons;fundus
+1.0+tfidf,37,7,1,0.9991792440414429,,5,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;allido;excludo;ciuitas;frendo;fulgur;continuus;praepotens;sinister;recolo;rabies;supernus
+1.0+tfidf,37,8,7,0.9991630911827087,Medea,1,lis;pons;ultio;peruro;colchus;fulgur;atrox;triplex;furiosus;paeniteo;actus;deuoueo;forum;confligo;praeuius;incoho;puellaris;ducto;adulter;ultrix
+1.0+tfidf,37,9,8,0.9991500973701477,Octavia,3,princeps;lis;plebs;interimo;fauor;forum;romanus;praepotens;recolo;subicio;aula;atrox;extruo;consensus;triplex;pons;nutus;polluo;rabies;actus
+1.0+tfidf,38,7,3,0.9991787075996399,Phoenissae;Oedipus,3,lis;edoceo;desino;aduncus;allido;parricida;ordo;atrox;redimio;pons;triplex;uestigium;strages;supernus;cauus;uates;actus;deuoueo;forum;publicus
+1.0+tfidf,38,8,7,0.9991630911827087,Phoenissae,3,lis;desino;atrox;pons;triplex;actus;deuoueo;forum;ostento;exulo;propago;coepio;plebs;remissus;mensis;thebanus;aequum;hasta;frendo;allido
+1.0+tfidf,38,9,7,0.9991500973701477,Hercules Oetaeus,2,lis;maereo;herculeus;colus;uirus;axis;rabies;paelex;nouerca;sufficio;resilio;quiesco;inuado;atrox;chalybs;praecludo;caelestis;cancer;altrix;quercus
+1.0+tfidf,39,7,1,0.9991788268089294,Agamemnon,2,lis;triplex;actus;danai;atrox;adulter;amicus;classis;pons;prora;pelopius;consors;iliacus;plebs;deuoueo;epulae;forum;certamen;corono;dubium
+1.0+tfidf,39,8,1,0.9991630911827087,Agamemnon,2,lis;triplex;danai;classis;actus;iliacus;sinister;continuus;plebs;adulter;atrox;amicus;furtiuus;troicus;pons;pelopius;prora;consors;deuoueo;epulae
+1.0+tfidf,39,9,1,0.999150276184082,,3,lis;plebs;sinister;continuus;recolo;praepotens;atrox;crudelis;spons;triplex;pons;forum;interitus;actus;rabies;deuoueo;dolosus;seduco;reuiuo;maleficus
+1.0+tfidf,40,7,6,0.999178946018219,Phaedra;Octavia;Oedipus,3,princeps;incestus;lis;interimo;plebs;supernus;fauor;largus;ordo;perplexus;fretus;corniger;pulcher;iuuenta;edoceo;extruo;castus;rigor;curuus;bos
+1.0+tfidf,40,8,6,0.9991630911827087,,5,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;recolo;praepotens;excludo;ciuitas;continuus;sinister;allido;fulgur;frendo;rabies;supernus
+1.0+tfidf,40,9,2,0.9991500377655029,,7,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;recolo;excludo;praepotens;sinister;allido;fulgur;continuus;frendo;ciuitas;rabies;supernus
+1.0+tfidf,41,7,1,0.9991795420646667,,2,lis;mano;forum;requies;ferax;innocuus;atrox;frendo;ternus;actus;potior;pons;triplex;succurro;pestilens;scando;deuoueo;ordo;fluuius;inicio
+1.0+tfidf,41,8,6,0.9991632103919983,,3,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;sinister;excludo;allido;frendo;fulgur;praepotens;continuus;recolo;ciuitas;rabies;supernus
+1.0+tfidf,41,9,7,0.9991502165794373,Oedipus,2,lis;edoceo;allido;aduncus;desino;ordo;atrox;pons;triplex;redimio;supernus;cauus;strages;uestigium;actus;deuoueo;forum;innascor;peremptor;feritas
+1.0+tfidf,42,7,1,0.999178946018219,Agamemnon;Oedipus,3,lis;uates;triplex;prora;edoceo;redimio;consors;strages;mendax;allido;decimus;fatigo;aduncus;sacratus;laurus;actus;danai;adulter;amicus;desino
+1.0+tfidf,42,8,1,0.9991630911827087,Agamemnon;Oedipus,3,lis;uates;triplex;edoceo;redimio;prora;strages;consors;mendax;allido;aduncus;sacratus;fatigo;decimus;laurus;actus;danai;adulter;amicus;desino
+1.0+tfidf,42,9,1,0.9991498589515686,Agamemnon,4,lis;triplex;actus;danai;adulter;amicus;atrox;classis;prora;pons;pelopius;consors;iliacus;deuoueo;epulae;forum;corono;certamen;filia;dubium
+1.0+tfidf,43,7,5,0.9991790652275085,Octavia,1,princeps;lis;plebs;interimo;fauor;forum;romanus;praepotens;recolo;subicio;aula;atrox;consensus;extruo;pons;triplex;nutus;polluo;rabies;actus
+1.0+tfidf,43,8,1,0.999163031578064,Hercules Furens;Hercules Oetaeus,1,serpens;herculeus;uirus;inferi;claua;colus;paelex;lis;mano;centaurus;fulmino;nouerca;langueo;harundo;glacialis;maereo;lernaeus;axis;inhibeo;forum
+1.0+tfidf,43,9,1,0.9991500973701477,Hercules Furens;Hercules Oetaeus,1,herculeus;inferi;serpens;claua;thebanus;colus;lis;mano;centaurus;fulmino;glacialis;harundo;maereo;nouerca;reposco;forum;abrumpo;hiberus;requies;triumpho
+1.0+tfidf,44,7,5,0.8106569647789001,Agamemnon;Thyestes,3,mensa;uinum;epulae;deuoueo;lis;pelopius;atrox;triplex;actus;amputo;classis;consors;secedo;cogito;insulto;assuetus;cupidus;excludo;ciuitas;cibus
+1.0+tfidf,44,8,0,0.9991630911827087,Agamemnon,2,lis;triplex;pelopius;atrox;actus;consors;secedo;epulae;deuoueo;danai;classis;adulter;amicus;pons;prora;ciuitas;excludo;nuntius;iliacus;forum
+1.0+tfidf,44,9,5,0.9991500377655029,Octavia;Thyestes,6,princeps;mensa;lis;deuoueo;plebs;atrox;fauor;consensus;renouo;interimo;uinum;uoluptas;nutus;forum;excludo;praepotens;recolo;ciuitas;assuetus;cupidus
+1.0+tfidf,45,7,2,0.9991785883903503,Phoenissae;Phaedra;Oedipus,5,lis;supernus;largus;ordo;edoceo;corniger;fretus;perplexus;desino;uomo;bos;curuus;cauus;dirigo;ambiguus;ritus;agilis;reditus;castus;diua
+1.0+tfidf,45,8,7,0.9991632103919983,Oedipus,0,lis;edoceo;allido;aduncus;desino;ordo;atrox;triplex;pons;uestigium;redimio;strages;supernus;actus;cauus;deuoueo;forum;peremptor;imus;falsum
+1.0+tfidf,45,9,7,0.999150276184082,,2,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;praepotens;recolo;allido;continuus;sinister;excludo;fulgur;ciuitas;frendo;rabies;supernus
+1.0+tfidf,46,7,0,0.9991792440414429,Phaedra;Agamemnon;Hercules Furens;Medea,1,lis;adulter;mano;sanus;serpens;filum;memini;inferi;prosper;innocuus;forum;colchus;triplex;pons;pudicus;ultio;requies;ternus;furiosus;remeo
+1.0+tfidf,46,8,0,0.9991627931594849,Phaedra;Agamemnon;Hercules Furens,5,lis;adulter;mano;sanus;filum;memini;remeo;supernus;ambiguus;ritus;inferi;ordo;forum;largus;reditus;mollis;ratio;triplex;pudicus;requies
+1.0+tfidf,46,9,0,0.9991498589515686,Agamemnon,4,lis;triplex;actus;danai;adulter;amicus;atrox;classis;pons;prora;pelopius;consors;epulae;iliacus;deuoueo;forum;corono;dubium;certamen;filia
+1.0+tfidf,47,7,5,0.9991786479949951,Hercules Oetaeus,2,lis;maereo;herculeus;colus;uirus;axis;paelex;nouerca;resilio;rabies;inuado;caelestis;altrix;superstes;atrox;abrumpo;pons;triplex;euboicus;uago
+1.0+tfidf,47,8,5,0.9991630911827087,,4,lis;atrox;triplex;pons;actus;deuoueo;forum;plebs;desino;recolo;fulgur;allido;frendo;excludo;praepotens;ciuitas;sinister;continuus;rabies;supernus
+1.0+tfidf,47,9,7,0.9991500973701477,Phoenissae;Troades,3,danai;lis;bustum;tumulus;thebanus;forum;atrox;argiuus;pestifer;eruo;ferax;condio;acies;aspectus;captiuus;requies;hectoreus;iudex;astus;remissus
+1.0+tfidf,48,7,0,0.9991791844367981,Phoenissae;Octavia,3,princeps;lis;plebs;interimo;subicio;fauor;forum;praepotens;recolo;romanus;castra;desino;aula;atrox;triplex;pons;consensus;extruo;nutus;actus
+1.0+tfidf,48,8,0,0.9991629719734192,Oedipus,4,lis;deuoueo;edoceo;uestigium;atrox;expauesco;strages;allido;aduncus;excludo;ciuitas;consisto;permuto;exta;ordo;ululo;actus;curuus;desino;dependeo
+1.0+tfidf,48,9,8,0.9907520413398743,,4,lis;atrox;pons;triplex;actus;deuoueo;forum;plebs;desino;ciuitas;fulgur;allido;frendo;excludo;continuus;sinister;recolo;praepotens;rabies;supernus
+1.0+tfidf,49,7,5,0.9991790652275085,Troades,1,danai;lis;bustum;tumulus;hectoreus;astus;atrox;pelasgus;accido;sinister;continuus;tundo;captiuus;plebs;spons;condio;classis;triplex;pons;actus
+1.0+tfidf,49,8,5,0.9991629719734192,Troades;Oedipus,4,danai;lis;tumulus;bustum;uates;edoceo;hectoreus;cauus;astus;atrox;pelasgus;ordo;accido;allido;aduncus;ueritas;sinister;continuus;tundo;captiuus
+1.0+tfidf,49,9,2,0.999150276184082,,5,lis;pons;ultio;fulgur;atrox;triplex;actus;deuoueo;forum;ducto;puellaris;incoho;praeuius;confligo;adulter;plebs;iustitia;desino;excludo;ciuitas

@@ -12,7 +12,7 @@ ecerinis_title = "Ecerinis"
 ecerinis_author = "Albertino Mussato"
 ecerinis_slug = "mussato-ecerinis"
 
-output_json = "latin_tragedies_acts.json"
+output_json = "../data/original/acts/latin_tragedies_acts.json"  # run from Acts/
 
 # --- helpers  ---
 

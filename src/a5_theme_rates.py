@@ -6,7 +6,7 @@ not model output. Rate = family tokens per 1,000 tokens.
 Tokens:
   v2        A1-normalized content tokens (src/v2_corpus.token_lists: LatinCy
             3.9.8, stopwords, named entities, lemma fixes and spelling map applied)
-  original  the processed tokens of the conference pipeline (Corpus/Acts pickles,
+  original  the processed tokens of the conference pipeline (data/original/corpus and acts pickles,
             'tokens' field, before named-entity removal), the basis of the rates
             quoted in the brief
 Both are counted before the dictionary filter, which would remove most of

@@ -1,7 +1,7 @@
 """A2 act-level check: k = 24 fixed (alpha='auto', passes=20, as in
-gensimvenv/acts_pkl/Acts_LDA_Coherence_Values.ipynb), seeds 0-19 plus 42.
+notebooks/act_lda/Acts_LDA_Coherence_Values.ipynb), seeds 0-19 plus 42.
 
-Pipelines: original (Acts/processed_acts.pkl, original named-entity list) and
+Pipelines: original (data/original/acts/processed_acts.pkl, original named-entity list) and
 v2 (acts cut from the v2 play parse, src/v2_corpus.py).
 
 Reports how often each Ecerinis act shares a dominant topic with each Seneca act,
