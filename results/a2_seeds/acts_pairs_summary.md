@@ -34,21 +34,21 @@ Lemmas present in both acts in the model input (after named-entity removal and t
 
 ## v2
 
-Baseline over 1540 act pairs: median 0.158, 95th percentile 0.436, max 0.614; 0 pairs never share a topic.
+Baseline over 1540 act pairs: median 0.158, 95th percentile 0.406, max 0.564; 3 pairs never share a topic.
 
 | pairing | source | share of seeds | baseline median | baseline 95th pct | percentile rank |
 |---|---|---|---|---|---|
-| Ece 1 – Aga 1 | seed-42 pairing | 0.079 (8/101) | 0.158 | 0.436 | 23.4 |
-| Ece 1 – Pho 1 | seed-42 pairing | 0.149 (15/101) | 0.158 | 0.436 | 49.9 |
-| Ece 2 – Thy 1 | seed-42 pairing | 0.010 (1/101) | 0.158 | 0.436 | 0.3 |
-| Ece 5 – Thy 1 | seed-42 pairing | 0.129 (13/101) | 0.158 | 0.436 | 44.0 |
-| Ece 2 – Ece 5 | seed-42 pairing | 0.030 (3/101) | 0.158 | 0.436 | 3.5 |
-| Ece 4 – Oed 4 | seed-42 pairing | 0.089 (9/101) | 0.158 | 0.436 | 28.5 |
-| Ece 4 – Tro 4 | seed-42 pairing | 0.050 (5/101) | 0.158 | 0.436 | 9.5 |
-| Ece 1 – HF 2 | 21-seed run: most frequent | 0.188 (19/101) | 0.158 | 0.436 | 59.9 |
-| Ece 3 – HF 2 | 21-seed run: most frequent | 0.297 (30/101) | 0.158 | 0.436 | 79.9 |
+| Ece 1 – Aga 1 | seed-42 pairing | 0.099 (10/101) | 0.158 | 0.406 | 32.4 |
+| Ece 1 – Pho 1 | seed-42 pairing | 0.149 (15/101) | 0.158 | 0.406 | 49.5 |
+| Ece 2 – Thy 1 | seed-42 pairing | 0.079 (8/101) | 0.158 | 0.406 | 25.1 |
+| Ece 5 – Thy 1 | seed-42 pairing | 0.099 (10/101) | 0.158 | 0.406 | 32.4 |
+| Ece 2 – Ece 5 | seed-42 pairing | 0.099 (10/101) | 0.158 | 0.406 | 32.4 |
+| Ece 4 – Oed 4 | seed-42 pairing | 0.050 (5/101) | 0.158 | 0.406 | 13.6 |
+| Ece 4 – Tro 4 | seed-42 pairing | 0.069 (7/101) | 0.158 | 0.406 | 21.1 |
+| Ece 1 – HF 2 | 21-seed run: most frequent | 0.178 (18/101) | 0.158 | 0.406 | 58.6 |
+| Ece 3 – HF 2 | 21-seed run: most frequent | 0.267 (27/101) | 0.158 | 0.406 | 79.1 |
 
-This pipeline's own seed-42 pairings involving Ecerinis: Aga 2–Ece 3, Aga 5–Ece 3, Ece 1–Ece 4, Ece 3–HF 2, Ece 3–HF 4, Ece 3–HF 5, Ece 3–HO 2, Ece 3–HO 3, Ece 3–HO 4, Ece 3–Med 2, Ece 3–Med 3, Ece 3–Med 4, Ece 3–Med 5, Ece 3–Oct 1, Ece 3–Oct 2, Ece 3–Oct 3, Ece 3–Oed 1, Ece 3–Oed 2, Ece 3–Oed 3, Ece 3–Pha 1, Ece 3–Pha 2, Ece 3–Pha 3, Ece 3–Pha 5, Ece 3–Pho 1, Ece 3–Pho 3, Ece 3–Thy 2, Ece 3–Thy 3, Ece 3–Tro 2, Ece 3–Tro 3, Ece 5–Oed 5, Ece 5–Pho 2, Ece 5–Thy 4
+This pipeline's own seed-42 pairings involving Ecerinis: Aga 2–Ece 1, Aga 2–Ece 3, Aga 2–Ece 5, Ece 1–Ece 3, Ece 1–Ece 5, Ece 1–HF 2, Ece 1–HF 4, Ece 1–HO 1, Ece 1–HO 2, Ece 1–HO 4, Ece 1–HO 5, Ece 1–Med 3, Ece 1–Med 4, Ece 1–Oct 1, Ece 1–Oct 2, Ece 1–Oed 1, Ece 1–Pha 1, Ece 1–Pha 2, Ece 1–Pho 1, Ece 1–Pho 4, Ece 1–Thy 2, Ece 1–Thy 4, Ece 1–Tro 2, Ece 1–Tro 3, Ece 2–Oed 4, Ece 3–Ece 5, Ece 3–HF 2, Ece 3–HF 4, Ece 3–HO 1, Ece 3–HO 2, Ece 3–HO 4, Ece 3–HO 5, Ece 3–Med 3, Ece 3–Med 4, Ece 3–Oct 1, Ece 3–Oct 2, Ece 3–Oed 1, Ece 3–Pha 1, Ece 3–Pha 2, Ece 3–Pho 1, Ece 3–Pho 4, Ece 3–Thy 2, Ece 3–Thy 4, Ece 3–Tro 2, Ece 3–Tro 3, Ece 4–Pho 2, Ece 5–HF 2, Ece 5–HF 4, Ece 5–HO 1, Ece 5–HO 2, Ece 5–HO 4, Ece 5–HO 5, Ece 5–Med 3, Ece 5–Med 4, Ece 5–Oct 1, Ece 5–Oct 2, Ece 5–Oed 1, Ece 5–Pha 1, Ece 5–Pha 2, Ece 5–Pho 1, Ece 5–Pho 4, Ece 5–Thy 2, Ece 5–Thy 4, Ece 5–Tro 2, Ece 5–Tro 3
 
 ### Shared content lemmas (v2)
 

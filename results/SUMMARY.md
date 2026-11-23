@@ -106,21 +106,21 @@ Details: `a2_seeds/acts_summary.md` (21 seeds) and `a2_seeds/acts_pairs_summary.
 | Ece 4 | T4, "Fate, Grief, and the Sea" | Oed 4, Tro 4 |
 
 **How stable these assignments are:**
-- **The act-level topic vocabularies barely recur across seeds.** The mean Jaccard of each Ecerinis act's topic to its version in the representative seed is 0.02–0.18 (original) and 0.03–0.22 (v2).
+- **The act-level topic vocabularies barely recur across seeds.** The mean Jaccard of each Ecerinis act's topic to its version in the representative seed is 0.02–0.18 (original) and 0.02–0.11 (v2).
 - **Chance test (101 seeds, 0–99 and 42).** For each pairing: the share of seeds in which the two acts share a dominant topic, against the same share for all 1,540 act pairs.
 
 | Pairing | original: share (percentile rank) | v2: share (percentile rank) |
 |---|---|---|
-| Ece 1 – Aga 1 | 0.119 (48th) | 0.079 (23rd) |
+| Ece 1 – Aga 1 | 0.119 (48th) | 0.099 (32nd) |
 | Ece 1 – Pho 1 | 0.149 (59th) | 0.149 (50th) |
-| Ece 2 – Thy 1 | 0.059 (16th) | 0.010 (0.3rd) |
-| Ece 5 – Thy 1 | 0.079 (28th) | 0.129 (44th) |
-| Ece 2 – Ece 5 | 0.059 (16th) | 0.030 (3.5th) |
-| Ece 4 – Oed 4 | 0.059 (16th) | 0.089 (28th) |
-| Ece 4 – Tro 4 | 0.040 (7th) | 0.050 (9.5th) |
-| Ece 1 – HF 2 (most frequent in the 21-seed run) | 0.178 (68th) | 0.188 (60th) |
-| Ece 3 – HF 2 (most frequent in the 21-seed run) | 0.208 (73rd) | 0.297 (80th) |
-| **All act pairs** | median 0.129, 95th percentile 0.386 | median 0.158, 95th percentile 0.436 |
+| Ece 2 – Thy 1 | 0.059 (16th) | 0.079 (25th) |
+| Ece 5 – Thy 1 | 0.079 (28th) | 0.099 (32nd) |
+| Ece 2 – Ece 5 | 0.059 (16th) | 0.099 (32nd) |
+| Ece 4 – Oed 4 | 0.059 (16th) | 0.050 (14th) |
+| Ece 4 – Tro 4 | 0.040 (7th) | 0.069 (21st) |
+| Ece 1 – HF 2 (most frequent in the 21-seed run) | 0.178 (68th) | 0.178 (59th) |
+| Ece 3 – HF 2 (most frequent in the 21-seed run) | 0.208 (73rd) | 0.267 (79th) |
+| **All act pairs** | median 0.129, 95th percentile 0.386 | median 0.158, 95th percentile 0.406 |
 
 - **No seed-42 pairing reaches the 95th percentile of the all-pairs baseline,** and most sit below its median.
 - **The pairs share little vocabulary.** The words that pass the dictionary filter and occur in both acts number 15–51 per pair (original) and 17–72 (v2), most only once or twice in each act. Frequent shared words (*pater, regnum, deus, scelus, manus*) are removed by `no_above=0.5`.
@@ -135,16 +135,20 @@ v2 lemmas, counted before the dictionary filter; the 225 lemmas with ≥3 occurr
   - It was in the first keyness run (5th by log ratio, 3 occurrences against 0 in Seneca).
   - LiLa lists *marchia* only as a common noun, which is why the evidence rule had kept it as a word.
   - **Play-level LDA results are unaffected.** *marchia* occurs in one play only, so `no_below=2` already kept it out of the model; I checked that the play-level model input is identical before and after.
-  - **The v2 act-level results predate the change.** *marchia* occurs in two Ecerinis acts, so it was in the act-level vocabulary of `a2_seeds/acts_summary.md` and `acts_pairs_summary.md`. It appears among Ece 2's seed-42 keywords. Those runs have not been redone.
-- **16 lemmas pass Bonferroni p < 0.05, all over-used:** *annuo, tyrannis, crux, lis, patro, progredior, ausus, nocuus, inspecto, actus, atrox, forum, ordo, homo, finis, tollo*.
+  - **The v2 act-level analyses were rerun after the change** (`a2_seeds/acts_summary.md`, `acts_pairs_summary.md`; section 5 shows the rerun). *marchia* occurs in two Ecerinis acts, so it had been in the act-level vocabulary. The original-pipeline act results are unchanged.
+- **For keyness only, *ausus* is now counted as *audeo* (author's decision).**
+  - Ecerinis's *ausibus* (3 tokens) is the noun *ausus, -ūs*, and its lemma is correct.
+  - But v2 lemmatizes all 23 of Seneca's *aus-* participle tokens as *audeo* (*ausa* 8, *ausus* 8, *ausae* 2, *ausos* 2, *ausas* 1, *ausi* 1, *ausurus* 1). *ausum* and *ausis* do not occur, and no Seneca token is lemmatized *ausus*.
+  - Mapped, *audeo* is Ecerinis 4 vs Seneca 51: log ratio +0.58, G² 0.5, Bonferroni p = 1. It is not a keyword.
+  - The LDA input is unchanged.
+- ***nocuus* is marked as a lexical keyword** (lemma checked, kept). Related lemmas, Ecerinis / Seneca combined: *nocuus* 3 / 0, *noxius* 1 / 8, *nocens* 0 / 32, *noceo* 0 / 28.
+- **15 lemmas pass Bonferroni p < 0.05, all over-used:** *annuo, tyrannis, crux, lis, patro, progredior, nocuus, inspecto, actus, atrox, forum, ordo, homo, finis, tollo*.
 - **No lemma with ≥3 Ecerinis occurrences is significantly under-used.** The largest under-use is *dies* (log ratio −1.65).
 - **Common Seneca words Ecerinis barely uses** (fewer than 3 times; supplementary, uncorrected): *grauis* 0 vs 148, *malum* 1/164, *coniux* 1/137, *fatum* 2/153, *rex* 2/138.
 - **Overlap with Ecerinis's topic.** Of the top 40 over-used lemmas, 16 are in Ecerinis's topic's top 20 (v2 seeds 29 and 35). 22 never reach the model:
   - lemmas found in Ecerinis only (*annuo, tyrannis, crux* …) are removed by `no_below=2`;
   - common lemmas (*ordo, homo, finis, tollo*) are removed by `no_above=0.5`.
-- ***ausus* and *nocuus* are left for the author to judge.** Their contexts:
-  - *ausus*: *ausibus*, lines 325, 454, 466;
-  - *nocuus*: *nocuos*, *nocuis*, *nocuum*, lines 326, 622, 644.
+- **Ecerinis contexts:** *ausibus* at lines 325, 454 and 466; *nocuos*, *nocuis* and *nocuum* at lines 326, 622 and 644.
 
 ## 7. A5 part 2: theme word-family rates
 
@@ -221,7 +225,6 @@ In every one of these models the contrastive next-best topic for Ecerinis is a t
 - **The representative seeds are atypical for Ecerinis's next-best topic** (sections 3–4).
 - **The act-level seed-42 pairings are at or below chance** (section 5).
 - **The dictionary filter removes both Ecerinis-only words (`no_below`) and shared theme words (`no_above`).** The model sees neither the strongest keyness words nor most of the theme lexicon. Relaxing `no_above` does not bring the theme lexicon into Ecerinis's topic (section 7b).
-- **The v2 act-level runs predate *marchia*'s reclassification** (section 6).
 - **The original pipeline contains an empty lemma (the empty string).** It is one lemma type carried by 64 tokens across all 11 plays (11 in Ecerinis, including the medieval spelling *vendico*; see `a1_normalization/REVIEW.md`).
   - Because it occurs in every play, `no_above=0.5` removes it, so it never reaches the model.
   - It does count in that pipeline's token totals, for example the denominators of the original-token theme rates.

@@ -4,10 +4,27 @@ v2 tokens (A1-normalized content lemmas), before the dictionary filter. Ecerinis
 
 **The counts are small (most tested lemmas occur 3–6 times in Ecerinis), so the effect sizes (log ratio) matter more than the p-values.** Bonferroni is conservative: few lemmas pass it.
 
-- Lemmas passing Bonferroni p < 0.05: 16 (16 over-used, 0 under-used): annuo, tyrannis, crux, lis, patro, progredior, ausus, nocuus, inspecto, actus, atrox, forum, ordo, homo, finis, tollo.
+- Lemmas passing Bonferroni p < 0.05: 15 (15 over-used, 0 under-used): annuo, tyrannis, crux, lis, patro, progredior, nocuus, inspecto, actus, atrox, forum, ordo, homo, finis, tollo.
 - Over-used lemmas (log ratio > 0): 189; under-used: 36.
 - Of the top 40 over-used, 16 are in Ecerinis's topic's top 20 (v2 seed 29, k = 8), 16 at seed 35, k = 9; 22 are removed by the dictionary filter.
 - Topic columns: in the top 20 by relevance (λ = 0.6) of Ecerinis's dominant topic in the v2 representative models (seed 29, k = 8; seed 35, k = 9), and the share of the 50 seeds (v2, k = 8) in which the lemma is in that topic's top 20. 'In model vocab' = kept by no_below=2 / no_above=0.5.
+
+## Lemma notes
+
+- **ausus → audeo (keyness only).** Ecerinis's *ausibus* is the noun *ausus, -ūs* and its lemma is correct, but LatinCy 3.9.8 lemmatizes all of Seneca's *aus-* participle forms as *audeo*, so the two would be counted apart. For keyness only, *ausus* is counted as *audeo* in both corpora (the LDA input is unchanged).
+  - Before the mapping: *ausus* Ecerinis 3 / Seneca 0; *audeo* Ecerinis 1 / Seneca 51.
+  - Seneca's *aus-* forms in v2 (23 tokens), all lemmatized *audeo*: ausa 8, ausus 8, ausae 2, ausos 2, ausas 1, ausi 1, ausurus 1. *ausum* and *ausis* do not occur. No Seneca token is lemmatized *ausus*.
+  - Ecerinis's forms: *ausus* ← ausibus 3; *audeo* ← audes 1.
+  - After the mapping: *audeo* Ecerinis 4 / Seneca 51.
+  - *audeo* keyness: log ratio +0.58, G² 0.5, Bonferroni p 1.
+- **nocuus: lexical keyword.** The lemma was checked against its contexts and kept as it is. Counts of related lemmas (v2, before the dictionary filter):
+
+  | lemma | Ecerinis | Seneca combined |
+  |---|---|---|
+  | nocuus | 3 | 0 |
+  | noxius | 1 | 8 |
+  | nocens | 0 | 32 |
+  | noceo | 0 | 28 |
 
 ## Top 40 over-used in Ecerinis (ranked by log ratio)
 
@@ -19,40 +36,40 @@ v2 tokens (A1-normalized content lemmas), before the dictionary filter. Ecerinis
 | 4 | lis | 6 | 1 | 2.73 / 0.02 | +6.84 | 30.4 | 8.0e-06 | ✓ | ✓ | 92% | yes |
 | 5 | patro | 3 | 0 | 1.37 / 0.00 | +6.84* | 18.0 | 0.005 |  |  | 0% | no |
 | 6 | progredior | 3 | 0 | 1.37 / 0.00 | +6.84* | 18.0 | 0.005 |  |  | 0% | no |
-| 7 | ausus | 3 | 0 | 1.37 / 0.00 | +6.84* | 18.0 | 0.005 |  |  | 0% | no |
-| 8 | nocuus | 3 | 0 | 1.37 / 0.00 | +6.84* | 18.0 | 0.005 |  |  | 0% | no |
-| 9 | inspecto | 3 | 0 | 1.37 / 0.00 | +6.84* | 18.0 | 0.005 |  |  | 0% | no |
-| 10 | triplex | 3 | 1 | 1.37 / 0.02 | +5.84 | 13.6 | 0.051 | ✓ | ✓ | 52% | yes |
-| 11 | pons | 3 | 1 | 1.37 / 0.02 | +5.84 | 13.6 | 0.051 | ✓ | ✓ | 52% | yes |
-| 12 | actus | 5 | 3 | 2.28 / 0.07 | +4.99 | 19.7 | 0.002 | ✓ | ✓ | 86% | yes |
-| 13 | atrox | 6 | 4 | 2.73 / 0.10 | +4.84 | 23.0 | 3.7e-04 | ✓ | ✓ | 90% | yes |
-| 14 | deuoueo | 3 | 2 | 1.37 / 0.05 | +4.84 | 11.5 | 0.158 | ✓ | ✓ | 56% | yes |
-| 15 | desino | 3 | 2 | 1.37 / 0.05 | +4.84 | 11.5 | 0.158 | ✓ | ✓ | 54% | yes |
-| 16 | forum | 4 | 3 | 1.82 / 0.07 | +4.67 | 14.8 | 0.028 | ✓ | ✓ | 62% | yes |
-| 17 | plebs | 4 | 4 | 1.82 / 0.10 | +4.26 | 13.3 | 0.059 | ✓ | ✓ | 60% | yes |
-| 18 | rabies | 4 | 4 | 1.82 / 0.10 | +4.26 | 13.3 | 0.059 | ✓ | ✓ | 70% | yes |
-| 19 | patulus | 3 | 3 | 1.37 / 0.07 | +4.26 | 10.0 | 0.353 | ✓ | ✓ | 48% | yes |
-| 20 | potior | 3 | 3 | 1.37 / 0.07 | +4.26 | 10.0 | 0.353 | ✓ | ✓ | 44% | yes |
-| 21 | supernus | 3 | 3 | 1.37 / 0.07 | +4.26 | 10.0 | 0.353 | ✓ | ✓ | 50% | yes |
-| 22 | adulter | 4 | 5 | 1.82 / 0.12 | +3.93 | 12.2 | 0.110 | ✓ | ✓ | 68% | yes |
-| 23 | ordo | 7 | 9 | 3.19 / 0.21 | +3.89 | 21.0 | 0.001 |  |  | 0% | no |
-| 24 | anxius | 3 | 4 | 1.37 / 0.10 | +3.84 | 8.9 | 0.658 | ✓ | ✓ | 52% | yes |
-| 25 | series | 3 | 4 | 1.37 / 0.10 | +3.84 | 8.9 | 0.658 | ✓ | ✓ | 46% | yes |
-| 26 | homo | 8 | 15 | 3.64 / 0.36 | +3.35 | 19.8 | 0.002 |  |  | 0% | no |
-| 27 | iudex | 3 | 6 | 1.37 / 0.14 | +3.26 | 7.2 | 1 |  |  | 12% | yes |
-| 28 | largus | 3 | 6 | 1.37 / 0.14 | +3.26 | 7.2 | 1 |  |  | 20% | yes |
-| 29 | conuerto | 3 | 7 | 1.37 / 0.17 | +3.03 | 6.5 | 1 |  |  | 0% | no |
-| 30 | finis | 9 | 23 | 4.10 / 0.55 | +2.90 | 18.3 | 0.004 |  |  | 0% | no |
-| 31 | iustus | 5 | 13 | 2.28 / 0.31 | +2.88 | 10.1 | 0.340 |  |  | 0% | no |
-| 32 | duro | 3 | 8 | 1.37 / 0.19 | +2.84 | 5.9 | 1 |  |  | 0% | no |
-| 33 | subigo | 3 | 8 | 1.37 / 0.19 | +2.84 | 5.9 | 1 |  |  | 0% | no |
-| 34 | subdo | 4 | 11 | 1.82 / 0.26 | +2.80 | 7.7 | 1 |  |  | 0% | no |
-| 35 | tollo | 8 | 23 | 3.64 / 0.55 | +2.73 | 15.0 | 0.025 |  |  | 0% | no |
-| 36 | exitium | 4 | 12 | 1.82 / 0.29 | +2.67 | 7.2 | 1 |  |  | 0% | no |
-| 37 | aperio | 3 | 9 | 1.37 / 0.21 | +2.67 | 5.4 | 1 |  |  | 0% | no |
-| 38 | consto | 3 | 9 | 1.37 / 0.21 | +2.67 | 5.4 | 1 |  |  | 0% | no |
-| 39 | fumus | 3 | 9 | 1.37 / 0.21 | +2.67 | 5.4 | 1 |  |  | 0% | no |
-| 40 | stabilis | 3 | 9 | 1.37 / 0.21 | +2.67 | 5.4 | 1 |  |  | 0% | no |
+| 7 | nocuus (lexical keyword) | 3 | 0 | 1.37 / 0.00 | +6.84* | 18.0 | 0.005 |  |  | 0% | no |
+| 8 | inspecto | 3 | 0 | 1.37 / 0.00 | +6.84* | 18.0 | 0.005 |  |  | 0% | no |
+| 9 | triplex | 3 | 1 | 1.37 / 0.02 | +5.84 | 13.6 | 0.051 | ✓ | ✓ | 52% | yes |
+| 10 | pons | 3 | 1 | 1.37 / 0.02 | +5.84 | 13.6 | 0.051 | ✓ | ✓ | 52% | yes |
+| 11 | actus | 5 | 3 | 2.28 / 0.07 | +4.99 | 19.7 | 0.002 | ✓ | ✓ | 86% | yes |
+| 12 | atrox | 6 | 4 | 2.73 / 0.10 | +4.84 | 23.0 | 3.7e-04 | ✓ | ✓ | 90% | yes |
+| 13 | deuoueo | 3 | 2 | 1.37 / 0.05 | +4.84 | 11.5 | 0.158 | ✓ | ✓ | 56% | yes |
+| 14 | desino | 3 | 2 | 1.37 / 0.05 | +4.84 | 11.5 | 0.158 | ✓ | ✓ | 54% | yes |
+| 15 | forum | 4 | 3 | 1.82 / 0.07 | +4.67 | 14.8 | 0.028 | ✓ | ✓ | 62% | yes |
+| 16 | plebs | 4 | 4 | 1.82 / 0.10 | +4.26 | 13.3 | 0.059 | ✓ | ✓ | 60% | yes |
+| 17 | rabies | 4 | 4 | 1.82 / 0.10 | +4.26 | 13.3 | 0.059 | ✓ | ✓ | 70% | yes |
+| 18 | patulus | 3 | 3 | 1.37 / 0.07 | +4.26 | 10.0 | 0.353 | ✓ | ✓ | 48% | yes |
+| 19 | potior | 3 | 3 | 1.37 / 0.07 | +4.26 | 10.0 | 0.353 | ✓ | ✓ | 44% | yes |
+| 20 | supernus | 3 | 3 | 1.37 / 0.07 | +4.26 | 10.0 | 0.353 | ✓ | ✓ | 50% | yes |
+| 21 | adulter | 4 | 5 | 1.82 / 0.12 | +3.93 | 12.2 | 0.110 | ✓ | ✓ | 68% | yes |
+| 22 | ordo | 7 | 9 | 3.19 / 0.21 | +3.89 | 21.0 | 0.001 |  |  | 0% | no |
+| 23 | anxius | 3 | 4 | 1.37 / 0.10 | +3.84 | 8.9 | 0.658 | ✓ | ✓ | 52% | yes |
+| 24 | series | 3 | 4 | 1.37 / 0.10 | +3.84 | 8.9 | 0.658 | ✓ | ✓ | 46% | yes |
+| 25 | homo | 8 | 15 | 3.64 / 0.36 | +3.35 | 19.8 | 0.002 |  |  | 0% | no |
+| 26 | iudex | 3 | 6 | 1.37 / 0.14 | +3.26 | 7.2 | 1 |  |  | 12% | yes |
+| 27 | largus | 3 | 6 | 1.37 / 0.14 | +3.26 | 7.2 | 1 |  |  | 20% | yes |
+| 28 | conuerto | 3 | 7 | 1.37 / 0.17 | +3.03 | 6.5 | 1 |  |  | 0% | no |
+| 29 | finis | 9 | 23 | 4.10 / 0.55 | +2.90 | 18.3 | 0.004 |  |  | 0% | no |
+| 30 | iustus | 5 | 13 | 2.28 / 0.31 | +2.88 | 10.1 | 0.340 |  |  | 0% | no |
+| 31 | duro | 3 | 8 | 1.37 / 0.19 | +2.84 | 5.9 | 1 |  |  | 0% | no |
+| 32 | subigo | 3 | 8 | 1.37 / 0.19 | +2.84 | 5.9 | 1 |  |  | 0% | no |
+| 33 | subdo | 4 | 11 | 1.82 / 0.26 | +2.80 | 7.7 | 1 |  |  | 0% | no |
+| 34 | tollo | 8 | 23 | 3.64 / 0.55 | +2.73 | 15.0 | 0.025 |  |  | 0% | no |
+| 35 | exitium | 4 | 12 | 1.82 / 0.29 | +2.67 | 7.2 | 1 |  |  | 0% | no |
+| 36 | aperio | 3 | 9 | 1.37 / 0.21 | +2.67 | 5.4 | 1 |  |  | 0% | no |
+| 37 | consto | 3 | 9 | 1.37 / 0.21 | +2.67 | 5.4 | 1 |  |  | 0% | no |
+| 38 | fumus | 3 | 9 | 1.37 / 0.21 | +2.67 | 5.4 | 1 |  |  | 0% | no |
+| 39 | stabilis | 3 | 9 | 1.37 / 0.21 | +2.67 | 5.4 | 1 |  |  | 0% | no |
+| 40 | expeto | 5 | 15 | 2.28 / 0.36 | +2.67 | 9.0 | 0.592 |  |  | 0% | no |
 
 ## Top 20 under-used in Ecerinis (lemmas with frequency ≥ 3 in Ecerinis; ranked by log ratio)
 

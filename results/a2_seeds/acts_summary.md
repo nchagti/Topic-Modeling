@@ -54,55 +54,55 @@ Mean Jaccard similarity (top 20 by relevance) between the act's dominant topic i
 
 ## v2
 
-Representative seed (rule 3): 3.
+Representative seed (rule 3): 9.
 
 ### Seneca acts sharing each Ecerinis act's dominant topic (share of seeds; ≥ 0.25 shown)
 
-- **Ece 1**: Oed 1 33%
+- **Ece 1**: Pho 1 29%, Tro 2 29%, Med 5 29%
 - **Ece 2**: none in ≥ 25% of seeds
-- **Ece 3**: HF 2 33%, HO 3 33%, Tro 2 33%, HO 1 33%, HF 5 33%, HO 4 29%
-- **Ece 4**: HF 1 29%
-- **Ece 5**: none in ≥ 25% of seeds
+- **Ece 3**: none in ≥ 25% of seeds
+- **Ece 4**: none in ≥ 25% of seeds
+- **Ece 5**: Oed 1 29%
 
 ### Ecerinis acts sharing a topic with each other (share of seeds)
 
 |       |   Ece 1 |   Ece 2 |   Ece 3 |   Ece 4 |   Ece 5 |
 |:------|--------:|--------:|--------:|--------:|--------:|
-| Ece 1 |    1    |    0.19 |    0.1  |    0.1  |    0.1  |
-| Ece 2 |    0.19 |    1    |    0.1  |    0.14 |    0.1  |
-| Ece 3 |    0.1  |    0.1  |    1    |    0.14 |    0.05 |
-| Ece 4 |    0.1  |    0.14 |    0.14 |    1    |    0    |
-| Ece 5 |    0.1  |    0.1  |    0.05 |    0    |    1    |
+| Ece 1 |    1    |    0.1  |    0.1  |    0.1  |    0.14 |
+| Ece 2 |    0.1  |    1    |    0.05 |    0    |    0.05 |
+| Ece 3 |    0.1  |    0.05 |    1    |    0.05 |    0.14 |
+| Ece 4 |    0.1  |    0    |    0.05 |    1    |    0.05 |
+| Ece 5 |    0.14 |    0.05 |    0.14 |    0.05 |    1    |
 
 ### Ecerinis acts' dominant topics, seed 42 (conference)
 
 | act | topic | weight | shares it with | top 20 by relevance (λ = 0.6) |
 |---|---|---|---|---|
-| Ece 1 | 9 | 1.00 | Ece 4 | annuo, forum, actus, excludo, progredior, recolo, potior, atrox, plebs, pons, crux, anxius, adulter, uenter, commilito, uendico, classicus, ambitio, inspecto, domito |
-| Ece 2 | 8 | 1.00 | - | lis, tyrannis, marchia, finis, tyrannus, neglego, rabies, homo, coepi, peremptor, exulo, feritas, seduco, aspero, coepio, marchio, maleficus, illecebra, omnipotens, christus |
-| Ece 3 | 5 | 0.46 | Pho 1, Pho 3, Tro 2, Tro 3, Pha 1, Pha 2, Pha 3, Pha 5, Aga 2, Aga 5, HF 2, HF 4, HF 5, Med 2, Med 3, Med 4, Med 5, Oct 1, Oct 2, Oct 3, Oed 1, Oed 2, Oed 3, Thy 2, Thy 3, HO 2, HO 3, HO 4 | amor, uis, parco, orbis, nex, nouerca, rego, perimo, iungo, pietas, clarus, uastus, careo, eripio, uirtus, dolus, cogo, facinus, uerbum, pestis |
-| Ece 4 | 9 | 1.00 | Ece 1 | annuo, forum, actus, excludo, progredior, recolo, potior, atrox, plebs, pons, crux, anxius, adulter, uenter, commilito, uendico, classicus, ambitio, inspecto, domito |
-| Ece 5 | 1 | 0.87 | Pho 2, Oed 5, Thy 4 | deformis, rigidus, fumus, conscius, murmuro, rubesco, penetralis, hostia, curro, lucus, largus, perfundo, lumen, nocuus, speculor, latratus, coruscus, amans, uena, currus |
+| Ece 1 | 11 | 1.00 | Pho 1, Pho 4, Tro 2, Tro 3, Pha 1, Pha 2, Aga 2, HF 2, HF 4, Med 3, Med 4, Oct 1, Oct 2, Oed 1, Thy 2, Thy 4, HO 1, HO 2, HO 4, HO 5, Ece 3, Ece 5 | uis, amor, astrum, orbis, silua, ardeo, uirtus, gigno, fortis, nouerca, herculeus, paruus, nobilis, iungo, uictor, iter, bonus, erro, monstrum, spes |
+| Ece 2 | 15 | 1.00 | Oed 4 | lis, regius, ueritas, paeniteo, memoria, nequitia, status, fido, grex, tyrannis, pulsus, metior, agamemnonius, seduco, flagitium, maleficus, tropaeum, largior, indocilis, exsoluo |
+| Ece 3 | 11 | 0.51 | Pho 1, Pho 4, Tro 2, Tro 3, Pha 1, Pha 2, Aga 2, HF 2, HF 4, Med 3, Med 4, Oct 1, Oct 2, Oed 1, Thy 2, Thy 4, HO 1, HO 2, HO 4, HO 5, Ece 1, Ece 5 | uis, amor, astrum, orbis, silua, ardeo, uirtus, gigno, fortis, nouerca, herculeus, paruus, nobilis, iungo, uictor, iter, bonus, erro, monstrum, spes |
+| Ece 4 | 12 | 1.00 | Pho 2 | amans, pons, transitus, domito, dego, confligo, agricola, stipo, fluuius, nobilitas, deludo, exoro, defungor, populor, ponticus, usitor, uas, appeto, meto, spons |
+| Ece 5 | 11 | 0.59 | Pho 1, Pho 4, Tro 2, Tro 3, Pha 1, Pha 2, Aga 2, HF 2, HF 4, Med 3, Med 4, Oct 1, Oct 2, Oed 1, Thy 2, Thy 4, HO 1, HO 2, HO 4, HO 5, Ece 1, Ece 3 | uis, amor, astrum, orbis, silua, ardeo, uirtus, gigno, fortis, nouerca, herculeus, paruus, nobilis, iungo, uictor, iter, bonus, erro, monstrum, spes |
 
-### Ecerinis acts' dominant topics, representative seed 3
+### Ecerinis acts' dominant topics, representative seed 9
 
 | act | topic | weight | shares it with | top 20 by relevance (λ = 0.6) |
 |---|---|---|---|---|
-| Ece 1 | 11 | 1.00 | - | adulter, recolo, terribilis, uenter, exagito, potior, grandis, detego, forum, luo, atrox, classicus, corono, certamen, imus, incalesco, lympha, falsum, christus, prorumpo |
-| Ece 2 | 15 | 1.00 | Aga 5, Med 5 | lis, tyrannis, affero, exitium, iuuo, amicus, epulae, exacuo, coepio, omnipotens, tondeo, uirgo, peremptor, nata, carcer, occulo, perago, marchia, praepotens, pietas |
-| Ece 3 | 19 | 0.97 | Pho 1, Pha 1, Pha 5, HF 1, Thy 3, Thy 4 | monstrum, nex, castus, mergo, amor, aufero, discedo, eripio, recipio, facinus, puto, nitor, haereo, certus, rego, cupio, sidus, durus, foedus, sino |
-| Ece 4 | 3 | 1.00 | - | pons, spons, uas, concito, dego, dubium, deludo, traicio, commilito, inspicio, domito, reuiuo, transitus, aluus, confligo, fluuius, stipo, incoho, paupertas, firmus |
-| Ece 5 | 4 | 1.00 | Aga 2 | nequitia, neco, reueho, consors, prosper, colchus, proles, consilium, profundum, murmuro, crimen, marmor, exilium, uenia, spes, lyra, filum, thessalicus, filia, iussus |
+| Ece 1 | 23 | 1.00 | Pha 5 | adulter, biformis, mucro, recipio, recolo, laeuus, crimen, luo, terribilis, perennis, insero, duro, uenter, exagito, potior, respergo, falsus, officium, mugitus, grandis |
+| Ece 2 | 11 | 0.90 | Med 1, Ece 3 | rubesco, lis, homo, tyrannis, constringo, caespes, tollo, amitto, pario, ultrix, semen, dominus, crux, ostrum, frenum, aptus, resto, subigo, annuo, uigor |
+| Ece 3 | 11 | 0.74 | Med 1, Ece 2 | rubesco, lis, homo, tyrannis, constringo, caespes, tollo, amitto, pario, ultrix, semen, dominus, crux, ostrum, frenum, aptus, resto, subigo, annuo, uigor |
+| Ece 4 | 12 | 1.00 | Oct 1, Oct 2, HO 4 | orbis, gigno, astrum, nouerca, pestis, femina, axis, princeps, uis, misero, tyrannus, stygius, laus, opprimo, polus, nex, uirtus, trux, conspicio, subicio |
+| Ece 5 | 16 | 1.00 | - | marchio, illecebra, coepio, nocuus, patro, murmuro, triplex, deuoueo, ambitus, supernus, atrox, consors, arx, aequum, gladius, uulgus, pando, procedo, iudex, ducto |
 
 ### Stability of each Ecerinis act's topic vocabulary
 
 Mean Jaccard similarity (top 20 by relevance) between the act's dominant topic in each seed and in the representative seed.
 
-- Ece 1: 0.08 (min 0.00, max 0.54)
-- Ece 2: 0.10 (min 0.00, max 0.33)
-- Ece 3: 0.04 (min 0.00, max 0.18)
-- Ece 4: 0.22 (min 0.00, max 0.82)
-- Ece 5: 0.03 (min 0.00, max 0.08)
+- Ece 1: 0.09 (min 0.00, max 0.29)
+- Ece 2: 0.05 (min 0.00, max 0.11)
+- Ece 3: 0.08 (min 0.00, max 0.21)
+- Ece 4: 0.02 (min 0.00, max 0.11)
+- Ece 5: 0.11 (min 0.00, max 0.33)
 
 ## Figures
 
