@@ -1,0 +1,287 @@
+﻿pipeline,play,theme,word,count,rate
+v2,Phoenissae,Invasion,hostis,4,1.6109544905356423
+v2,Phoenissae,Invasion,urbs,3,1.2082158679017319
+v2,Phoenissae,Invasion,occupo,3,1.2082158679017319
+v2,Phoenissae,Invasion,inuado,0,0.0
+v2,Phoenissae,Deceit,falsus,0,0.0
+v2,Phoenissae,Deceit,dolus,3,1.2082158679017319
+v2,Phoenissae,Deceit,fraus,2,0.8054772452678212
+v2,Phoenissae,Punishment,supplicium,3,1.2082158679017319
+v2,Phoenissae,Punishment,ultio,0,0.0
+v2,Phoenissae,Punishment,ignis,6,2.4164317358034637
+v2,Phoenissae,Fate,sors,2,0.8054772452678212
+v2,Phoenissae,Fate,sidus,0,0.0
+v2,Phoenissae,Fate,fatum,6,2.4164317358034637
+v2,Troades,Invasion,hostis,11,2.653159671972986
+v2,Troades,Invasion,urbs,6,1.447178002894356
+v2,Troades,Invasion,occupo,3,0.723589001447178
+v2,Troades,Invasion,inuado,0,0.0
+v2,Troades,Deceit,falsus,3,0.723589001447178
+v2,Troades,Deceit,dolus,6,1.447178002894356
+v2,Troades,Deceit,fraus,5,1.20598166907863
+v2,Troades,Punishment,supplicium,0,0.0
+v2,Troades,Punishment,ultio,0,0.0
+v2,Troades,Punishment,ignis,9,2.170767004341534
+v2,Troades,Fate,sors,9,2.170767004341534
+v2,Troades,Fate,sidus,1,0.241196333815726
+v2,Troades,Fate,fatum,24,5.788712011577424
+v2,Phaedra,Invasion,hostis,2,0.4097520999795124
+v2,Phaedra,Invasion,urbs,7,1.4341323499282934
+v2,Phaedra,Invasion,occupo,0,0.0
+v2,Phaedra,Invasion,inuado,1,0.2048760499897562
+v2,Phaedra,Deceit,falsus,6,1.2292562999385372
+v2,Phaedra,Deceit,dolus,4,0.8195041999590248
+v2,Phaedra,Deceit,fraus,3,0.6146281499692686
+v2,Phaedra,Punishment,supplicium,2,0.4097520999795124
+v2,Phaedra,Punishment,ultio,0,0.0
+v2,Phaedra,Punishment,ignis,18,3.6877688998156115
+v2,Phaedra,Fate,sors,5,1.024380249948781
+v2,Phaedra,Fate,sidus,10,2.048760499897562
+v2,Phaedra,Fate,fatum,8,1.6390083999180496
+v2,Agamemnon,Invasion,hostis,6,1.639792292976223
+v2,Agamemnon,Invasion,urbs,2,0.5465974309920744
+v2,Agamemnon,Invasion,occupo,4,1.0931948619841487
+v2,Agamemnon,Invasion,inuado,0,0.0
+v2,Agamemnon,Deceit,falsus,3,0.8198961464881115
+v2,Agamemnon,Deceit,dolus,5,1.3664935774801859
+v2,Agamemnon,Deceit,fraus,3,0.8198961464881115
+v2,Agamemnon,Punishment,supplicium,1,0.2732987154960372
+v2,Agamemnon,Punishment,ultio,0,0.0
+v2,Agamemnon,Punishment,ignis,10,2.7329871549603717
+v2,Agamemnon,Fate,sors,3,0.8198961464881115
+v2,Agamemnon,Fate,sidus,1,0.2732987154960372
+v2,Agamemnon,Fate,fatum,12,3.279584585952446
+v2,Hercules Furens,Invasion,hostis,4,0.7957032027053909
+v2,Hercules Furens,Invasion,urbs,9,1.7903322060871294
+v2,Hercules Furens,Invasion,occupo,2,0.3978516013526954
+v2,Hercules Furens,Invasion,inuado,1,0.1989258006763477
+v2,Hercules Furens,Deceit,falsus,3,0.5967774020290432
+v2,Hercules Furens,Deceit,dolus,0,0.0
+v2,Hercules Furens,Deceit,fraus,0,0.0
+v2,Hercules Furens,Punishment,supplicium,2,0.3978516013526954
+v2,Hercules Furens,Punishment,ultio,0,0.0
+v2,Hercules Furens,Punishment,ignis,8,1.5914064054107817
+v2,Hercules Furens,Fate,sors,4,0.7957032027053909
+v2,Hercules Furens,Fate,sidus,5,0.9946290033817387
+v2,Hercules Furens,Fate,fatum,8,1.5914064054107817
+v2,Medea,Invasion,hostis,5,1.3919821826280623
+v2,Medea,Invasion,urbs,5,1.3919821826280623
+v2,Medea,Invasion,occupo,1,0.27839643652561247
+v2,Medea,Invasion,inuado,1,0.27839643652561247
+v2,Medea,Deceit,falsus,2,0.5567928730512249
+v2,Medea,Deceit,dolus,3,0.8351893095768375
+v2,Medea,Deceit,fraus,8,2.2271714922048997
+v2,Medea,Punishment,supplicium,4,1.1135857461024499
+v2,Medea,Punishment,ultio,2,0.5567928730512249
+v2,Medea,Punishment,ignis,12,3.34075723830735
+v2,Medea,Fate,sors,1,0.27839643652561247
+v2,Medea,Fate,sidus,2,0.5567928730512249
+v2,Medea,Fate,fatum,4,1.1135857461024499
+v2,Octavia,Invasion,hostis,12,3.527336860670194
+v2,Octavia,Invasion,urbs,8,2.3515579071134627
+v2,Octavia,Invasion,occupo,1,0.29394473838918284
+v2,Octavia,Invasion,inuado,0,0.0
+v2,Octavia,Deceit,falsus,0,0.0
+v2,Octavia,Deceit,dolus,4,1.1757789535567313
+v2,Octavia,Deceit,fraus,1,0.29394473838918284
+v2,Octavia,Punishment,supplicium,0,0.0
+v2,Octavia,Punishment,ultio,0,0.0
+v2,Octavia,Punishment,ignis,6,1.763668430335097
+v2,Octavia,Fate,sors,3,0.8818342151675485
+v2,Octavia,Fate,sidus,6,1.763668430335097
+v2,Octavia,Fate,fatum,16,4.703115814226925
+v2,Oedipus,Invasion,hostis,0,0.0
+v2,Oedipus,Invasion,urbs,5,1.2406947890818858
+v2,Oedipus,Invasion,occupo,1,0.24813895781637718
+v2,Oedipus,Invasion,inuado,1,0.24813895781637718
+v2,Oedipus,Deceit,falsus,2,0.49627791563275436
+v2,Oedipus,Deceit,dolus,3,0.7444168734491315
+v2,Oedipus,Deceit,fraus,1,0.24813895781637718
+v2,Oedipus,Punishment,supplicium,1,0.24813895781637718
+v2,Oedipus,Punishment,ultio,0,0.0
+v2,Oedipus,Punishment,ignis,14,3.4739454094292803
+v2,Oedipus,Fate,sors,4,0.9925558312655087
+v2,Oedipus,Fate,sidus,5,1.2406947890818858
+v2,Oedipus,Fate,fatum,27,6.699751861042183
+v2,Thyestes,Invasion,hostis,4,1.010611419909045
+v2,Thyestes,Invasion,urbs,4,1.010611419909045
+v2,Thyestes,Invasion,occupo,4,1.010611419909045
+v2,Thyestes,Invasion,inuado,0,0.0
+v2,Thyestes,Deceit,falsus,3,0.7579585649317837
+v2,Thyestes,Deceit,dolus,4,1.010611419909045
+v2,Thyestes,Deceit,fraus,5,1.263264274886306
+v2,Thyestes,Punishment,supplicium,2,0.5053057099545225
+v2,Thyestes,Punishment,ultio,0,0.0
+v2,Thyestes,Punishment,ignis,15,3.7897928246589188
+v2,Thyestes,Fate,sors,2,0.5053057099545225
+v2,Thyestes,Fate,sidus,5,1.263264274886306
+v2,Thyestes,Fate,fatum,6,1.5159171298635674
+v2,Hercules Oetaeus,Invasion,hostis,7,1.0365763364430622
+v2,Hercules Oetaeus,Invasion,urbs,12,1.7769880053309641
+v2,Hercules Oetaeus,Invasion,occupo,10,1.4808233377758033
+v2,Hercules Oetaeus,Invasion,inuado,7,1.0365763364430622
+v2,Hercules Oetaeus,Deceit,falsus,4,0.5923293351103214
+v2,Hercules Oetaeus,Deceit,dolus,8,1.1846586702206428
+v2,Hercules Oetaeus,Deceit,fraus,6,0.8884940026654821
+v2,Hercules Oetaeus,Punishment,supplicium,3,0.44424700133274103
+v2,Hercules Oetaeus,Punishment,ultio,0,0.0
+v2,Hercules Oetaeus,Punishment,ignis,21,3.109729009329187
+v2,Hercules Oetaeus,Fate,sors,4,0.5923293351103214
+v2,Hercules Oetaeus,Fate,sidus,11,1.6289056715533836
+v2,Hercules Oetaeus,Fate,fatum,42,6.219458018658374
+v2,Ecerinis,Invasion,hostis,6,2.72975432211101
+v2,Ecerinis,Invasion,urbs,7,3.1847133757961785
+v2,Ecerinis,Invasion,occupo,5,2.2747952684258417
+v2,Ecerinis,Invasion,inuado,3,1.364877161055505
+v2,Ecerinis,Deceit,falsus,5,2.2747952684258417
+v2,Ecerinis,Deceit,dolus,4,1.8198362147406733
+v2,Ecerinis,Deceit,fraus,3,1.364877161055505
+v2,Ecerinis,Punishment,supplicium,2,0.9099181073703366
+v2,Ecerinis,Punishment,ultio,2,0.9099181073703366
+v2,Ecerinis,Punishment,ignis,8,3.6396724294813465
+v2,Ecerinis,Fate,sors,3,1.364877161055505
+v2,Ecerinis,Fate,sidus,3,1.364877161055505
+v2,Ecerinis,Fate,fatum,2,0.9099181073703366
+original,Phoenissae,Invasion,hostis,4,1.5698587127158556
+original,Phoenissae,Invasion,urbs,3,1.1773940345368916
+original,Phoenissae,Invasion,occupo,3,1.1773940345368916
+original,Phoenissae,Invasion,inuado,0,0.0
+original,Phoenissae,Deceit,falsus,0,0.0
+original,Phoenissae,Deceit,dolus,3,1.1773940345368916
+original,Phoenissae,Deceit,fraus,2,0.7849293563579278
+original,Phoenissae,Punishment,supplicium,3,1.1773940345368916
+original,Phoenissae,Punishment,ultio,0,0.0
+original,Phoenissae,Punishment,ignis,6,2.3547880690737832
+original,Phoenissae,Fate,sors,2,0.7849293563579278
+original,Phoenissae,Fate,sidus,0,0.0
+original,Phoenissae,Fate,fatum,7,2.7472527472527473
+original,Troades,Invasion,hostis,11,2.4433585073300756
+original,Troades,Invasion,urbs,5,1.1106175033318526
+original,Troades,Invasion,occupo,3,0.6663705019991115
+original,Troades,Invasion,inuado,0,0.0
+original,Troades,Deceit,falsus,1,0.22212350066637052
+original,Troades,Deceit,dolus,6,1.332741003998223
+original,Troades,Deceit,fraus,4,0.8884940026654821
+original,Troades,Punishment,supplicium,0,0.0
+original,Troades,Punishment,ultio,0,0.0
+original,Troades,Punishment,ignis,9,1.9991115059973346
+original,Troades,Fate,sors,9,1.9991115059973346
+original,Troades,Fate,sidus,1,0.22212350066637052
+original,Troades,Fate,fatum,23,5.108840515326522
+original,Phaedra,Invasion,hostis,2,0.39486673247778875
+original,Phaedra,Invasion,urbs,7,1.3820335636722607
+original,Phaedra,Invasion,occupo,0,0.0
+original,Phaedra,Invasion,inuado,1,0.19743336623889438
+original,Phaedra,Deceit,falsus,2,0.39486673247778875
+original,Phaedra,Deceit,dolus,4,0.7897334649555775
+original,Phaedra,Deceit,fraus,2,0.39486673247778875
+original,Phaedra,Punishment,supplicium,2,0.39486673247778875
+original,Phaedra,Punishment,ultio,0,0.0
+original,Phaedra,Punishment,ignis,18,3.5538005923000986
+original,Phaedra,Fate,sors,5,0.9871668311944719
+original,Phaedra,Fate,sidus,10,1.9743336623889438
+original,Phaedra,Fate,fatum,8,1.579466929911155
+original,Agamemnon,Invasion,hostis,6,1.5313935681470139
+original,Agamemnon,Invasion,urbs,2,0.5104645227156712
+original,Agamemnon,Invasion,occupo,4,1.0209290454313424
+original,Agamemnon,Invasion,inuado,0,0.0
+original,Agamemnon,Deceit,falsus,3,0.7656967840735069
+original,Agamemnon,Deceit,dolus,5,1.2761613067891782
+original,Agamemnon,Deceit,fraus,3,0.7656967840735069
+original,Agamemnon,Punishment,supplicium,1,0.2552322613578356
+original,Agamemnon,Punishment,ultio,0,0.0
+original,Agamemnon,Punishment,ignis,10,2.5523226135783563
+original,Agamemnon,Fate,sors,3,0.7656967840735069
+original,Agamemnon,Fate,sidus,1,0.2552322613578356
+original,Agamemnon,Fate,fatum,10,2.5523226135783563
+original,Hercules Furens,Invasion,hostis,4,0.7527286413248024
+original,Hercules Furens,Invasion,urbs,8,1.5054572826496049
+original,Hercules Furens,Invasion,occupo,2,0.3763643206624012
+original,Hercules Furens,Invasion,inuado,1,0.1881821603312006
+original,Hercules Furens,Deceit,falsus,1,0.1881821603312006
+original,Hercules Furens,Deceit,dolus,0,0.0
+original,Hercules Furens,Deceit,fraus,0,0.0
+original,Hercules Furens,Punishment,supplicium,2,0.3763643206624012
+original,Hercules Furens,Punishment,ultio,0,0.0
+original,Hercules Furens,Punishment,ignis,8,1.5054572826496049
+original,Hercules Furens,Fate,sors,4,0.7527286413248024
+original,Hercules Furens,Fate,sidus,5,0.940910801656003
+original,Hercules Furens,Fate,fatum,8,1.5054572826496049
+original,Medea,Invasion,hostis,5,1.3213530655391121
+original,Medea,Invasion,urbs,5,1.3213530655391121
+original,Medea,Invasion,occupo,1,0.2642706131078224
+original,Medea,Invasion,inuado,0,0.0
+original,Medea,Deceit,falsus,1,0.2642706131078224
+original,Medea,Deceit,dolus,3,0.7928118393234672
+original,Medea,Deceit,fraus,8,2.1141649048625792
+original,Medea,Punishment,supplicium,4,1.0570824524312896
+original,Medea,Punishment,ultio,2,0.5285412262156448
+original,Medea,Punishment,ignis,14,3.699788583509514
+original,Medea,Fate,sors,1,0.2642706131078224
+original,Medea,Fate,sidus,2,0.5285412262156448
+original,Medea,Fate,fatum,4,1.0570824524312896
+original,Octavia,Invasion,hostis,12,3.403289846851957
+original,Octavia,Invasion,urbs,8,2.2688598979013044
+original,Octavia,Invasion,occupo,1,0.28360748723766305
+original,Octavia,Invasion,inuado,0,0.0
+original,Octavia,Deceit,falsus,0,0.0
+original,Octavia,Deceit,dolus,4,1.1344299489506522
+original,Octavia,Deceit,fraus,1,0.28360748723766305
+original,Octavia,Punishment,supplicium,0,0.0
+original,Octavia,Punishment,ultio,0,0.0
+original,Octavia,Punishment,ignis,6,1.7016449234259785
+original,Octavia,Fate,sors,3,0.8508224617129893
+original,Octavia,Fate,sidus,5,1.4180374361883155
+original,Octavia,Fate,fatum,16,4.537719795802609
+original,Oedipus,Invasion,hostis,0,0.0
+original,Oedipus,Invasion,urbs,5,1.1913271384322135
+original,Oedipus,Invasion,occupo,1,0.2382654276864427
+original,Oedipus,Invasion,inuado,1,0.2382654276864427
+original,Oedipus,Deceit,falsus,3,0.7147962830593281
+original,Oedipus,Deceit,dolus,3,0.7147962830593281
+original,Oedipus,Deceit,fraus,1,0.2382654276864427
+original,Oedipus,Punishment,supplicium,1,0.2382654276864427
+original,Oedipus,Punishment,ultio,0,0.0
+original,Oedipus,Punishment,ignis,14,3.3357159876101976
+original,Oedipus,Fate,sors,4,0.9530617107457708
+original,Oedipus,Fate,sidus,5,1.1913271384322135
+original,Oedipus,Fate,fatum,23,5.480104836788182
+original,Thyestes,Invasion,hostis,4,0.9770395701025891
+original,Thyestes,Invasion,urbs,4,0.9770395701025891
+original,Thyestes,Invasion,occupo,4,0.9770395701025891
+original,Thyestes,Invasion,inuado,0,0.0
+original,Thyestes,Deceit,falsus,3,0.7327796775769418
+original,Thyestes,Deceit,dolus,4,0.9770395701025891
+original,Thyestes,Deceit,fraus,5,1.2212994626282365
+original,Thyestes,Punishment,supplicium,2,0.48851978505129456
+original,Thyestes,Punishment,ultio,0,0.0
+original,Thyestes,Punishment,ignis,15,3.6638983878847093
+original,Thyestes,Fate,sors,2,0.48851978505129456
+original,Thyestes,Fate,sidus,5,1.2212994626282365
+original,Thyestes,Fate,fatum,5,1.2212994626282365
+original,Hercules Oetaeus,Invasion,hostis,7,0.9615384615384616
+original,Hercules Oetaeus,Invasion,urbs,12,1.6483516483516483
+original,Hercules Oetaeus,Invasion,occupo,10,1.3736263736263736
+original,Hercules Oetaeus,Invasion,inuado,6,0.8241758241758241
+original,Hercules Oetaeus,Deceit,falsus,4,0.5494505494505495
+original,Hercules Oetaeus,Deceit,dolus,8,1.098901098901099
+original,Hercules Oetaeus,Deceit,fraus,4,0.5494505494505495
+original,Hercules Oetaeus,Punishment,supplicium,3,0.41208791208791207
+original,Hercules Oetaeus,Punishment,ultio,0,0.0
+original,Hercules Oetaeus,Punishment,ignis,21,2.8846153846153846
+original,Hercules Oetaeus,Fate,sors,4,0.5494505494505495
+original,Hercules Oetaeus,Fate,sidus,11,1.510989010989011
+original,Hercules Oetaeus,Fate,fatum,42,5.769230769230769
+original,Ecerinis,Invasion,hostis,6,2.575107296137339
+original,Ecerinis,Invasion,urbs,7,3.004291845493562
+original,Ecerinis,Invasion,occupo,4,1.7167381974248928
+original,Ecerinis,Invasion,inuado,3,1.2875536480686696
+original,Ecerinis,Deceit,falsus,4,1.7167381974248928
+original,Ecerinis,Deceit,dolus,4,1.7167381974248928
+original,Ecerinis,Deceit,fraus,2,0.8583690987124464
+original,Ecerinis,Punishment,supplicium,2,0.8583690987124464
+original,Ecerinis,Punishment,ultio,2,0.8583690987124464
+original,Ecerinis,Punishment,ignis,8,3.4334763948497855
+original,Ecerinis,Fate,sors,3,1.2875536480686696
+original,Ecerinis,Fate,sidus,3,1.2875536480686696
+original,Ecerinis,Fate,fatum,2,0.8583690987124464

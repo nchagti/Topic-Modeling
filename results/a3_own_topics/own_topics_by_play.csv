@@ -1,0 +1,34 @@
+﻿pipeline,k,play,share_alone,n_words_ge50,n_words_ge80,mean_jaccard_to_rep,sd_jaccard_to_rep,alone_in_rep_seed,words_ge50,words_ge80
+original,8,Ecerinis,0.32,7,2,0.35903586154739253,0.3260815248893213,True,lis 96%; actus 90%; forum 78%; rabies 62%; plebs 58%; triplex 54%; anxius 52%,lis 96%; actus 90%
+original,8,Agamemnon,0.2,5,1,0.13240504275424186,0.09602515023324629,False,classis 90%; comitor 64%; nata 62%; lacero 56%; laurus 52%,classis 90%
+original,8,Hercules Furens,0.28,6,0,0.10079388631862253,0.10127587602612162,False,aspectus 60%; ferax 60%; harundo 58%; mano 56%; occasus 56%; uolucer 56%,
+original,8,Hercules Oetaeus,0.42,14,9,0.4552569790561317,0.14619795480810313,True,axis 100%; colus 100%; uoltus 100%; uindico 96%; maereo 92%; uolucer 92%; triumphus 88%; deficio 86%; palla 86%; abrumpo 78%; inuado 64%; uirus 64%; intendo 58%; caelestis 54%,axis 100%; colus 100%; uoltus 100%; uindico 96%; maereo 92%; uolucer 92%; triumphus 88%; deficio 86%; palla 86%
+original,8,Medea,0.26,5,0,0.2700683411121559,0.3429488444154902,True,paeniteo 66%; peruro 66%; profugio 62%; carina 52%; nubo 50%,
+original,8,Octavia,0.38,12,3,0.5046848582245388,0.35934069854868866,True,princeps 100%; subicio 98%; constituo 86%; suboles 76%; lacero 74%; saevus 66%; uolucer 66%; incestus 64%; porto 62%; resoluo 60%; immitis 56%; extruo 52%,princeps 100%; subicio 98%; constituo 86%
+original,8,Oedipus,0.32,3,0,0.2696043341818834,0.27271275918278376,True,curuus 76%; cognatus 70%; laurus 58%,
+original,8,Phaedra,0.12,1,0,0.09558428296965805,0.12095883995724004,False,saltus 70%,
+original,8,Phoenissae,0.34,5,0,0.3304382972197466,0.38817493524715896,True,eruo 70%; abnuo 54%; affectus 52%; dirigo 52%; externus 50%,
+original,8,Thyestes,0.28,6,2,0.14733396125942608,0.10942811321764885,False,mensa 100%; cibus 86%; uinum 66%; obsto 60%; amputo 58%; uoluptas 50%,mensa 100%; cibus 86%
+original,8,Troades,0.16,6,2,0.13145376269131714,0.07740885658890355,False,bustum 94%; classis 94%; accido 74%; sumo 70%; cultus 54%; amoueo 50%,bustum 94%; classis 94%
+v2,8,Ecerinis,0.4,13,3,0.4210527561661195,0.31276121633930537,True,lis 92%; atrox 90%; actus 86%; rabies 70%; adulter 68%; forum 62%; plebs 60%; deuoueo 56%; desino 54%; anxius 52%; pons 52%; triplex 52%; supernus 50%,lis 92%; atrox 90%; actus 86%
+v2,8,Agamemnon,0.26,4,1,0.1623414545808256,0.13034883076228793,False,classis 92%; remeo 74%; danai 60%; laurus 58%,classis 92%
+v2,8,Hercules Furens,0.22,4,1,0.1751959940584609,0.1974961738192137,False,inferi 98%; aspectus 56%; occasus 52%; harundo 50%,inferi 98%
+v2,8,Hercules Oetaeus,0.24,10,6,0.3058320859535895,0.14234133309931246,False,axis 96%; foris 92%; irascor 92%; colus 90%; maereo 90%; serpens 88%; abrumpo 72%; paelex 70%; palla 66%; uirus 54%,axis 96%; foris 92%; irascor 92%; colus 90%; maereo 90%; serpens 88%
+v2,8,Medea,0.2,3,1,0.23135909079386643,0.29378338572640383,True,serpens 80%; colchus 62%; paeniteo 52%,serpens 80%
+v2,8,Octavia,0.46,15,3,0.5011552557676271,0.35089636287350484,True,princeps 100%; constituo 84%; lacero 82%; interimo 74%; polluo 72%; iussum 70%; immitis 66%; incestus 66%; porto 66%; claro 64%; consensus 62%; obsequor 56%; extruo 54%; resoluo 54%; nutus 50%,princeps 100%; constituo 84%; lacero 82%
+v2,8,Oedipus,0.3,6,1,0.060601805143541985,0.13302139268219368,False,uates 80%; curuus 76%; cognatus 72%; cauus 62%; bos 50%; morbus 50%,uates 80%
+v2,8,Phaedra,0.26,2,0,0.3200541483538893,0.3968329685125422,True,sanus 66%; saltus 62%,
+v2,8,Phoenissae,0.36,4,0,0.3737213037143536,0.40546393329493496,True,thebanus 72%; eruo 60%; affectus 56%; externus 52%,
+v2,8,Thyestes,0.26,5,1,0.31302861928049186,0.3149946025376606,True,mensa 94%; cibus 74%; uinum 64%; amputo 62%; uoluptas 56%,mensa 94%
+v2,8,Troades,0.28,10,4,0.23900113379086282,0.1068545213261419,False,captiuus 98%; danai 98%; classis 96%; bustum 94%; accido 78%; sumo 72%; hectoreus 66%; pelasgus 54%; eruo 50%; misereor 50%,captiuus 98%; danai 98%; classis 96%; bustum 94%
+v2,9,Ecerinis,0.44,12,3,0.4464673835962155,0.32249596321051693,True,lis 96%; atrox 94%; actus 82%; rabies 74%; forum 72%; adulter 66%; plebs 66%; supernus 58%; triplex 58%; desino 52%; pons 52%; deuoueo 50%,lis 96%; atrox 94%; actus 82%
+v2,9,Agamemnon,0.26,4,1,0.27996599755292695,0.2952437114133238,True,classis 92%; remeo 64%; laurus 58%; danai 56%,classis 92%
+v2,9,Hercules Furens,0.14,2,1,0.1314612408225897,0.17978310943848655,False,inferi 96%; aspectus 60%,inferi 96%
+v2,9,Hercules Oetaeus,0.22,9,6,0.3987710379189107,0.2720109623723966,True,axis 98%; foris 90%; irascor 90%; colus 88%; serpens 86%; maereo 84%; abrumpo 74%; paelex 68%; palla 66%,axis 98%; foris 90%; irascor 90%; colus 88%; serpens 86%; maereo 84%
+v2,9,Medea,0.28,5,1,0.317473907227126,0.34974717639899294,True,serpens 84%; colchus 74%; paeniteo 58%; peruro 58%; nubo 56%,serpens 84%
+v2,9,Octavia,0.46,15,3,0.4587783534825322,0.3277099755709494,True,princeps 100%; constituo 82%; lacero 82%; interimo 74%; iussum 72%; polluo 66%; immitis 64%; incestus 62%; porto 62%; uxor 58%; obsequor 54%; consensus 52%; nutus 52%; claro 50%; extruo 50%,princeps 100%; constituo 82%; lacero 82%
+v2,9,Oedipus,0.26,6,0,0.17950012255465836,0.1806322617122704,False,uates 74%; curuus 70%; cognatus 66%; cauus 52%; morbus 52%; purus 52%,
+v2,9,Phaedra,0.24,3,0,0.26123736065760417,0.3295173467909448,True,saltus 64%; sanus 64%; ambiguus 50%,
+v2,9,Phoenissae,0.34,2,0,0.31609805698541366,0.37395119028957907,True,thebanus 76%; eruo 56%,
+v2,9,Thyestes,0.4,9,1,0.17451254314907924,0.1425542211790843,False,mensa 100%; cibus 76%; uinum 74%; compono 70%; amputo 68%; obsto 64%; uoluptas 64%; incubo 54%; rictus 50%,mensa 100%
+v2,9,Troades,0.32,9,4,0.23535193407772148,0.12861482264846832,False,bustum 98%; captiuus 96%; danai 96%; classis 92%; accido 76%; sumo 72%; hectoreus 70%; pelasgus 58%; amoueo 50%,bustum 98%; captiuus 96%; danai 96%; classis 92%
