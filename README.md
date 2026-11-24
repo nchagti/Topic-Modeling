@@ -26,10 +26,11 @@ The original LatinCy build behind the conference lemmas can no longer be downloa
 
 | Folder | Contents |
 |---|---|
-| `notebooks/` | Conference notebooks. Top level: NER, POS, lemma notebooks. `play_lda/`: play-level LDA. `act_lda/`: act-level LDA. |
+| `notebooks/` | Conference notebooks. Top level: NER, POS, lemma notebooks. `play_lda/`: play-level LDA. `act_lda/`: act-level LDA. `test_topic_modeling.ipynb` is exploratory (early tests, not part of the conference pipeline). |
 | `Corpus/`, `Acts/` | Conference notebooks for cosine similarity and act extraction (`Acts/get_acts.py`), and the keyword CSVs (`Corpus/corpus_csv/`, `Acts/acts_csvs/`). |
 | `models/play/`, `models/act/` | The conference LDA pickles and dictionaries (formerly `gensimvenv/corpus_pkl/` and `gensimvenv/acts_pkl/`). |
-| `data/original/` | Conference inputs: the stopword lists, `unique_named_entities.pkl`, `entities_info.pkl`, `topic_data.json`. `corpus/` and `acts/` hold the source JSON, DocBins and processed pickles. |
+| `models/play/raw/` | The conference-era play-level model run that kept named entities (corpus, dictionary, LDA models and topics; formerly `gensimvenv/raw_corpus/`). |
+| `data/original/` | Conference inputs: the stopword lists, `unique_named_entities.pkl`, `entities_info.pkl`, `topic_data.json`. `corpus/` and `acts/` hold the source JSON, DocBins and processed pickles. `ner/` holds `ner_corpus.pkl` and `ner_dictionary.gensim` (formerly in `gensimvenv/`). |
 | `data/v2/`, `data/sources/`, `data/lexicon_cache/` | v2 pipeline inputs: corrected sources, approved decisions, cached lexicon responses. |
 | `data/theme_lexicon.json` | Theme lexicon v2: 17 author-chosen word families and the lexicon-only token rules (A5). The earlier four-family lexicon is `data/theme_lexicon_v1.json`. |
 | `data/lexicon_marks/` | The author's hand marks: *prodo* and *uendo* senses, and the classes of the collocation hits. |
@@ -37,7 +38,6 @@ The original LatinCy build behind the conference lemmas can no longer be downloa
 | `src/` | Robustness scripts (below). |
 | `results/` | Robustness outputs; `results/SUMMARY.md` gives the findings. |
 | `figures/` | Conference figures (unchanged). |
-| `gensimvenv/` | The old virtual environment, plus `raw_corpus/`, `ner_*.pkl` and `test_topic_modeling.ipynb` from early experiments (not moved). |
 
 The notebooks' file paths were rewritten for this layout by static analysis; none was re-executed. Several notebooks write pickles and figures, so running them overwrites the conference outputs.
 
